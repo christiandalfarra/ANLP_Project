@@ -1,0 +1,8 @@
+checkpoints/
+outputs/predictions/
+outputs/results/
+__pycache__/
+*.pyc
+*.pth
+*.bin
+.env
