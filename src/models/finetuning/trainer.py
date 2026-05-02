@@ -106,16 +106,21 @@ def train_model(
     data_collator = DataCollatorForSeq2Seq(tokenizer, model=model, padding=True)
     compute_metrics = compute_rouge_metrics(tokenizer)
 
-    trainer = Seq2SeqTrainer(
+    # transformers >=4.46 renamed `tokenizer=` to `processing_class=`. Try the
+    # new name first, fall back for older versions.
+    common_kwargs = dict(
         model=model,
         args=args,
         train_dataset=train_dataset,
         eval_dataset=val_dataset,
-        tokenizer=tokenizer,
         data_collator=data_collator,
         compute_metrics=compute_metrics,
         callbacks=[EarlyStoppingCallback(early_stopping_patience=early_stopping_patience)],
     )
+    try:
+        trainer = Seq2SeqTrainer(processing_class=tokenizer, **common_kwargs)
+    except TypeError:
+        trainer = Seq2SeqTrainer(tokenizer=tokenizer, **common_kwargs)
 
     trainer.train()
     trainer.save_model(output_dir)
