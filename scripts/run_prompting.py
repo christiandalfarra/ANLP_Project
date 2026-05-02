@@ -74,7 +74,7 @@ def get_merge_fn(prompter, prompt_type, few_shot_example=None):
     return fn
 
 
-def run_single_condition(model_name, strategy, prompt_type, checkpoint=None, splits=None):
+def run_single_condition(model_name, strategy, prompt_type, checkpoint=None, splits=None, limit=None):
     condition = f"{model_name}_{strategy}_{prompt_type}"
     out_path = os.path.join(PREDICTIONS_DIR, f"{condition}.json")
     if os.path.exists(out_path):
@@ -90,6 +90,9 @@ def run_single_condition(model_name, strategy, prompt_type, checkpoint=None, spl
     if splits is None:
         splits = load_splits()
     test_ids = splits["test"]
+    if limit is not None:
+        test_ids = test_ids[:limit]
+        print(f"[--limit {limit}] running on {len(test_ids)} match(es): {test_ids}")
 
     # Load model
     if checkpoint:
@@ -185,6 +188,8 @@ def main():
                         help="Path to fine-tuned checkpoint directory")
     parser.add_argument("--all", action="store_true",
                         help="Run all 6 standard prompting conditions")
+    parser.add_argument("--limit", type=int, default=None,
+                        help="Only process the first N test matches (smoke test)")
     args = parser.parse_args()
 
     splits = load_splits()
@@ -199,9 +204,9 @@ def main():
             ("led",  "long",  "cot"),
         ]
         for model, strategy, prompt in conditions:
-            run_single_condition(model, strategy, prompt, splits=splits)
+            run_single_condition(model, strategy, prompt, splits=splits, limit=args.limit)
     else:
-        run_single_condition(args.model, args.strategy, args.prompt, args.checkpoint, splits)
+        run_single_condition(args.model, args.strategy, args.prompt, args.checkpoint, splits, limit=args.limit)
 
 
 if __name__ == "__main__":

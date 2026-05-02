@@ -9,7 +9,22 @@ from dataclasses import dataclass, field
 from typing import List, Optional, Dict
 
 
-DATASET_DIR = os.path.join(os.path.dirname(__file__), "..", "..", "..", "football_commentary_dataset")
+def _resolve_dataset_dir() -> str:
+    # 1) explicit override
+    env = os.environ.get("FOOTBALL_DATASET_DIR")
+    if env and os.path.isdir(os.path.join(env, "data", "summaries")):
+        return env
+    here = os.path.dirname(__file__)
+    # 2) in-project copy: <repo>/football_commentary_dataset/
+    in_project = os.path.normpath(os.path.join(here, "..", "..", "football_commentary_dataset"))
+    if os.path.isdir(os.path.join(in_project, "data", "summaries")):
+        return in_project
+    # 3) sibling of repo: ../football_commentary_dataset/
+    sibling = os.path.normpath(os.path.join(here, "..", "..", "..", "football_commentary_dataset"))
+    return sibling
+
+
+DATASET_DIR = _resolve_dataset_dir()
 
 
 @dataclass
