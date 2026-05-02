@@ -1,13 +1,19 @@
 """
 LED-Base-16384 fine-tuning on football match summarization.
 
-Strategy: fine-tune on (full transcript capped at 8192 tokens, summary) pairs.
+Strategy: fine-tune on (random 8192-token window of transcript, full summary) pairs.
+LED can natively handle 16384 tokens but at that length the optimizer state
+plus gradients OOM on a single T4. We therefore train at 8192 with random-window
+sampling: each epoch the dataset re-samples a different 8k-token slice of every
+transcript so over training the model is exposed to roughly the full match.
+
 Key requirements:
   - global_attention_mask must be set for the BOS token
   - gradient_checkpointing=True is essential to fit on T4 (15GB VRAM)
   - fp16=True halves memory usage
 """
 
+import random
 from typing import List, Optional, Dict
 
 import torch
@@ -17,25 +23,38 @@ from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
 from src.models.finetuning.trainer import train_model
 
 MODEL_NAME = "allenai/led-base-16384"
-MAX_INPUT_TOKENS = 8192   # cap at 8192 for training speed/memory; model supports 16384
+MAX_INPUT_TOKENS = 8192   # window length the model sees per training step
 MAX_TARGET_TOKENS = 256
 
 
 class LEDDataset(Dataset):
-    def __init__(self, input_ids, attention_masks, global_attention_masks, label_ids):
-        self.input_ids = input_ids
-        self.attention_masks = attention_masks
-        self.global_attention_masks = global_attention_masks
+    """Pre-tokenises full transcripts; samples a random `window` of tokens at __getitem__."""
+    def __init__(self, full_input_ids: List[torch.Tensor], label_ids: torch.Tensor,
+                 window: int, pad_token_id: int):
+        self.full_input_ids = full_input_ids
         self.label_ids = label_ids
+        self.window = window
+        self.pad_token_id = pad_token_id
 
     def __len__(self):
-        return len(self.input_ids)
+        return len(self.full_input_ids)
 
     def __getitem__(self, idx):
+        ids = self.full_input_ids[idx]
+        n = ids.shape[0]
+        if n > self.window:
+            start = random.randint(0, n - self.window)
+            ids = ids[start:start + self.window]
+        elif n < self.window:
+            pad_len = self.window - n
+            ids = torch.cat([ids, torch.full((pad_len,), self.pad_token_id, dtype=ids.dtype)])
+        attn = (ids != self.pad_token_id).long()
+        global_attn = torch.zeros_like(ids)
+        global_attn[0] = 1
         return {
-            "input_ids": self.input_ids[idx],
-            "attention_mask": self.attention_masks[idx],
-            "global_attention_mask": self.global_attention_masks[idx],
+            "input_ids": ids,
+            "attention_mask": attn,
+            "global_attention_mask": global_attn,
             "labels": self.label_ids[idx],
         }
 
@@ -47,17 +66,11 @@ def prepare_led_dataset(
     max_input: int = MAX_INPUT_TOKENS,
     max_target: int = MAX_TARGET_TOKENS,
 ) -> LEDDataset:
-    encodings = tokenizer(
-        transcripts,
-        max_length=max_input,
-        truncation=True,
-        padding="max_length",
-        return_tensors="pt",
-    )
-
-    # Global attention on BOS (index 0) for every sample
-    global_attention_mask = torch.zeros_like(encodings["input_ids"])
-    global_attention_mask[:, 0] = 1
+    # Tokenise each transcript at its FULL length (no truncation here — sampler picks a window per epoch).
+    full_input_ids = [
+        tokenizer(t, return_tensors="pt", truncation=False)["input_ids"][0]
+        for t in transcripts
+    ]
 
     label_enc = tokenizer(
         text_target=summaries,
@@ -66,16 +79,10 @@ def prepare_led_dataset(
         padding="max_length",
         return_tensors="pt",
     )
-
     label_ids = label_enc["input_ids"]
     label_ids[label_ids == tokenizer.pad_token_id] = -100
 
-    return LEDDataset(
-        encodings["input_ids"],
-        encodings["attention_mask"],
-        global_attention_mask,
-        label_ids,
-    )
+    return LEDDataset(full_input_ids, label_ids, window=max_input, pad_token_id=tokenizer.pad_token_id)
 
 
 def finetune_led(

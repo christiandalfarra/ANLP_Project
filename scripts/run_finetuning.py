@@ -45,18 +45,19 @@ def main():
     os.makedirs(args.output_dir, exist_ok=True)
 
     if args.model == "bart":
-        from transformers import BartTokenizer
-        from src.models.finetuning.bart_finetuner import finetune_bart, MODEL_NAME, MAX_INPUT_TOKENS
+        from src.models.finetuning.bart_finetuner import finetune_bart
 
-        tokenizer = BartTokenizer.from_pretrained(MODEL_NAME)
-        print(f"Loading {len(train_ids)} train / {len(val_ids)} val matches...")
-        train_t, train_s = load_transcripts_and_summaries(
-            train_ids, truncate_tokens=MAX_INPUT_TOKENS, tokenizer=tokenizer
+        # New "merger" training: pass match IDs so the trainer can pre-generate
+        # per-chunk summaries from segments (not just truncated transcripts).
+        train_summaries = [load_match(mid).summary or "" for mid in train_ids]
+        val_summaries = [load_match(mid).summary or "" for mid in val_ids]
+        finetune_bart(
+            train_match_ids=train_ids,
+            train_summaries=train_summaries,
+            val_match_ids=val_ids,
+            val_summaries=val_summaries,
+            output_dir=args.output_dir,
         )
-        val_t, val_s = load_transcripts_and_summaries(
-            val_ids, truncate_tokens=MAX_INPUT_TOKENS, tokenizer=tokenizer
-        )
-        finetune_bart(train_t, train_s, val_t, val_s, output_dir=args.output_dir)
 
     elif args.model == "led":
         from transformers import AutoTokenizer
