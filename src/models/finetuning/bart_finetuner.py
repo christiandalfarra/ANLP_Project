@@ -52,14 +52,13 @@ def prepare_dataset(
         padding="max_length",
         return_tensors="pt",
     )
-    with tokenizer.as_target_tokenizer():
-        labels = tokenizer(
-            summaries,
-            max_length=max_target,
-            truncation=True,
-            padding="max_length",
-            return_tensors="pt",
-        )
+    labels = tokenizer(
+        text_target=summaries,
+        max_length=max_target,
+        truncation=True,
+        padding="max_length",
+        return_tensors="pt",
+    )
     # Replace padding token id in labels with -100 (ignored in loss)
     label_ids = labels["input_ids"]
     label_ids[label_ids == tokenizer.pad_token_id] = -100

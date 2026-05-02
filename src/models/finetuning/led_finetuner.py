@@ -59,14 +59,13 @@ def prepare_led_dataset(
     global_attention_mask = torch.zeros_like(encodings["input_ids"])
     global_attention_mask[:, 0] = 1
 
-    with tokenizer.as_target_tokenizer():
-        label_enc = tokenizer(
-            summaries,
-            max_length=max_target,
-            truncation=True,
-            padding="max_length",
-            return_tensors="pt",
-        )
+    label_enc = tokenizer(
+        text_target=summaries,
+        max_length=max_target,
+        truncation=True,
+        padding="max_length",
+        return_tensors="pt",
+    )
 
     label_ids = label_enc["input_ids"]
     label_ids[label_ids == tokenizer.pad_token_id] = -100
