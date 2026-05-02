@@ -111,6 +111,13 @@ def finetune_bart(
         early_stopping_patience=freeze_encoder_epochs + 1,  # no early stopping in phase 1
     )
 
+    # Phase 1 checkpoint is no longer needed — phase 2 continues from the
+    # in-memory model. Free the disk before phase 2 starts saving.
+    import shutil
+    if os.path.isdir(phase1_dir):
+        shutil.rmtree(phase1_dir, ignore_errors=True)
+        print(f"Removed {phase1_dir} to free disk for phase 2.")
+
     # --- Phase 2: Unfrozen encoder ---
     print(f"Phase 2: Training with unfrozen encoder for up to {total_epochs - freeze_encoder_epochs} more epochs...")
     for param in model.model.encoder.parameters():
