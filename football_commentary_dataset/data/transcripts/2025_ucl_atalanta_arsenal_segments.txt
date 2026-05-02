@@ -1,0 +1,1835 @@
+[0.00 - 2.68] P:1570.30 E:0.023546 |  The white flags are flying, they're jumping up and down.
+[2.68 - 5.88] P:1588.43 E:0.081415 |  They're quite lively, they've got to stay in this end of way towards our right.
+[5.88 - 10.16] P:1658.68 E:0.085474 |  It's a tight compact arena, but a really good atmosphere.
+[10.16 - 11.52] P:1551.73 E:0.090411 |  Yeah, brilliant atmosphere.
+[11.52 - 15.08] P:1701.45 E:0.094549 |  Short, once the game kicks off, we'll be able to hear the Arsenal fans.
+[15.08 - 17.92] P:1680.14 E:0.100206 |  But you're right, at the moment, it's all to Lantatour left,
+[17.92 - 23.24] P:1497.12 E:0.088448 |  they're jumping around, they're really swaying to and throw flags everywhere.
+[23.24 - 25.28] P:1517.53 E:0.111637 |  Really intense, really good atmosphere.
+[25.28 - 28.84] P:1510.23 E:0.091575 |  And Arsenal, the first job once this game kicks off is...
+[28.88 - 31.80] P:1460.89 E:0.100774 |  A few classes are trying quiet in this crowd now.
+[31.80 - 36.76] P:1449.95 E:0.094048 |  That mosaic, by the way, basically said, free to dream in that end
+[36.76 - 39.84] P:1472.57 E:0.102488 |  away towards our left-hand side as we are underway.
+[39.84 - 43.88] P:1429.47 E:0.086389 |  And we're actually level with the penalty area,
+[43.88 - 46.00] P:1618.89 E:0.105327 |  with a goal towards our right.
+[46.00 - 50.48] P:1580.69 E:0.099274 |  So we really are tucked away in the corner of this old main stand,
+[50.48 - 54.16] P:1554.78 E:0.097635 |  as Atalanta in their blue and black striped shirts
+[54.16 - 57.84] P:1410.70 E:0.099695 |  and black shorts are playing from left to right as we look.
+[57.88 - 61.28] P:1407.34 E:0.098800 |  Arsenal in the red and white tops and white shorts.
+[61.28 - 65.60] P:1392.47 E:0.101580 |  But that end to the left is a hive of activity.
+[65.60 - 69.00] P:1432.71 E:0.102852 |  They're bouncing up and down in unison as Arsenal are attacking.
+[69.00 - 73.68] P:1530.47 E:0.087108 |  They'll try and silence them as our French referee closes whistle.
+[73.68 - 76.40] P:1657.16 E:0.095607 |  Clément-Terpan, and that was an offside,
+[76.40 - 80.16] P:1548.72 E:0.092988 |  and it will be a free kick to Atalanta.
+[80.16 - 82.76] P:1599.17 E:0.094866 |  But for such a progressive club,
+[82.76 - 85.92] P:1641.83 E:0.104484 |  they're really looking forward to this Champions League campaign.
+[86.92 - 90.36] P:1460.96 E:0.093285 |  Only their fourth time in the Champions League proper,
+[90.36 - 94.48] P:1477.52 E:0.098844 |  all since 2019, as Saliba comes away with the ball,
+[94.48 - 98.00] P:1572.24 E:0.089366 |  finds Timber on this near side, Declan Rice,
+[98.00 - 100.48] P:1518.11 E:0.089329 |  back in the team after suspension,
+[100.48 - 102.92] P:1204.28 E:0.095201 |  plays it back to the Dutchman.
+[102.92 - 104.76] P:1659.78 E:0.090464 |  And now here is Gabrielle.
+[104.76 - 106.64] P:1593.89 E:0.100013 |  The Catalara goes towards him,
+[106.64 - 108.64] P:1584.15 E:0.105975 |  party makes himself available.
+[108.64 - 111.04] P:1542.00 E:0.097060 |  One of the first jobs they're going to have to do tonight
+[111.04 - 113.08] P:1532.64 E:0.088715 |  is to silence this Italian crowd.
+[113.80 - 115.52] P:1660.43 E:0.091773 |  Yeah, just mentioned that,
+[115.52 - 118.28] P:1539.90 E:0.101100 |  this crowd is lively, they're trying to get behind the team,
+[118.28 - 120.72] P:1557.37 E:0.108189 |  they're trying to inspire them, certainly to a quick start.
+[120.72 - 122.76] P:1460.71 E:0.086435 |  And Arsenal want to keep the ball,
+[122.76 - 126.08] P:1385.48 E:0.101883 |  and both teams have gone long two or three times early in this game.
+[126.08 - 129.64] P:1394.25 E:0.092613 |  There's been quite a bit of pressure applied from both teams.
+[129.64 - 133.92] P:1510.92 E:0.093534 |  At the top end of the pitch, not really wanting their opposites to settle.
+[133.92 - 137.60] P:1657.03 E:0.098933 |  And so far in this game, both teams have tried two or three long passes
+[137.60 - 139.44] P:1544.49 E:0.089078 |  and given the ball away.
+[139.44 - 142.52] P:1507.18 E:0.108288 |  Paul from Martenelli on the halfway line on this near side,
+[142.96 - 148.84] P:1398.40 E:0.100264 |  back to Gabrielle, David Ryan now all in yellow in this near side.
+[148.84 - 153.44] P:1489.00 E:0.090632 |  And he tries to switch play out to that far side the right,
+[153.44 - 156.88] P:1531.85 E:0.098042 |  kept in by just a little twist of the shoulder from Ben White.
+[156.88 - 158.68] P:1595.10 E:0.084115 |  But Arsenal are forced to go back.
+[158.68 - 161.92] P:1473.62 E:0.090896 |  Atalanta have got a really good work ethic.
+[161.92 - 165.88] P:1560.63 E:0.095399 |  Under their 66-year-old coach, Giampiero Gasperini,
+[165.88 - 170.40] P:1479.10 E:0.095242 |  they like to press high, they like to put pressure on the opposition.
+[170.44 - 174.92] P:1534.82 E:0.084464 |  Might well suit Arsenal because they are so attack-minded.
+[176.20 - 181.20] P:1472.51 E:0.104569 |  But also, if you speak to the scouts who know Atalanta very, very well,
+[181.20 - 186.80] P:1520.89 E:0.099694 |  look out or be alert to those subtle changes during the game from Gasperini,
+[186.80 - 190.64] P:1502.84 E:0.088216 |  who is the longest serving coach in Serie A.
+[190.64 - 191.88] P:1396.64 E:0.098575 |  Here is Timber.
+[191.88 - 193.92] P:1468.17 E:0.099590 |  Gabrielle is actually to the outside of him.
+[193.92 - 198.92] P:1498.56 E:0.098777 |  Almost as the left back as the two had just switched temporarily.
+[198.96 - 201.24] P:1526.17 E:0.093706 |  Now it's back with Raya once again.
+[201.24 - 206.76] P:1492.74 E:0.088943 |  And there we do have Atalanta looking to see if Arsenal can beat the press.
+[206.76 - 211.12] P:1538.50 E:0.098209 |  Lutmann was the player who was in the midfield as Arsenal lose it.
+[211.12 - 214.64] P:1529.80 E:0.093824 |  And it goes back to the Atalanta goalkeeper, Karnasekki,
+[214.64 - 217.56] P:1650.80 E:0.100781 |  all in green, floats it out towards the far side.
+[217.56 - 221.28] P:1709.06 E:0.095394 |  Sakur is there in field to Pate, forward ball to Jesus.
+[221.28 - 223.72] P:1770.83 E:0.087635 |  Nice little turn, edge of the area.
+[223.72 - 225.16] P:1778.50 E:0.102604 |  Pate then with a shot.
+[226.12 - 227.12] P:1954.49 E:0.097144 |  And...
+[228.60 - 232.88] P:1944.16 E:0.104236 |  Those wide referees actually said that that was going to be a corner kick
+[232.88 - 234.76] P:1682.94 E:0.091613 |  was to take the deflection its way through.
+[234.76 - 238.88] P:1638.53 E:0.101461 |  Yeah, he took it a bit convincing, to be honest, but that was good from Arsenal.
+[238.88 - 244.12] P:1785.88 E:0.096623 |  Decent press, winning the ball back high, forcing Atalanta to turn it over.
+[244.12 - 248.88] P:1958.33 E:0.094677 |  Jesus found a bit of space on the edge of the penalty area, tried to wriggle free.
+[248.88 - 251.16] P:2001.01 E:0.108463 |  Of course, Sakur ended up with that deflected shot,
+[251.16 - 256.00] P:2050.50 E:0.103880 |  but Atalanta are trying to go man-to-man with Arsenal when they get the ball.
+[256.00 - 259.44] P:2055.06 E:0.104624 |  In the early part of this game, you just see that situation.
+[259.44 - 261.76] P:1907.53 E:0.097855 |  You're picking it out, you are man-to-man,
+[261.76 - 264.32] P:1855.99 E:0.097121 |  there may be opportunities to get away from the markers.
+[265.80 - 268.56] P:1837.86 E:0.109099 |  Arsenal then have a corner kick near side the left.
+[269.56 - 272.60] P:1746.35 E:0.110332 |  Front to the end where there's a house in the Kermalord.
+[273.24 - 275.24] P:1828.85 E:0.107689 |  It's going to be Declan Rice to take it.
+[275.80 - 279.56] P:1793.05 E:0.093395 |  It's right-footed, it's an in-swinger, goalkeeper's flapped at that,
+[279.60 - 283.32] P:1675.37 E:0.102998 |  and eventually, Kat Vara is the one who clears it away.
+[284.20 - 286.48] P:1670.89 E:0.107155 |  I'm straining to see Rice take the corner kick,
+[286.48 - 292.44] P:1725.10 E:0.093887 |  because we're tucked away in this corner, and obscuring our view is a cameraman as well,
+[292.44 - 298.04] P:1792.02 E:0.108869 |  as Arsenal are attacking with every outfield player in the half away towards our left-hand side.
+[298.04 - 303.60] P:1611.31 E:0.099142 |  Martin Elling, long diagonal ball, and will drop all the way through into the penalty area.
+[303.60 - 305.24] P:1580.14 E:0.109355 |  And out of play, it goes for it.
+[305.24 - 309.08] P:1658.34 E:0.102425 |  A goal kick, so five minutes played on BBC Radio 5 Live.
+[309.12 - 311.32] P:1782.51 E:0.094802 |  We're also available on the BBC Sounds app.
+[311.32 - 314.00] P:1669.55 E:0.097098 |  Atalanta near Arsenal, Neil, what have you made at the start?
+[314.44 - 315.88] P:1666.27 E:0.101756 |  It's been ferocious.
+[315.88 - 319.52] P:1604.28 E:0.100468 |  I think both teams are still to really put their foot on the ball and settle down
+[319.52 - 324.20] P:1689.97 E:0.093498 |  and take control of the game. Both teams are trying to pressurise the opposition.
+[324.20 - 326.88] P:1619.46 E:0.090761 |  There's been quite a few turnovers, as I mentioned before,
+[326.88 - 332.32] P:1646.15 E:0.090476 |  Atalanta are pretty much man-to-man in trying to stop Arsenal playing out from the back,
+[332.32 - 336.36] P:1643.61 E:0.093188 |  and that's created some big spaces at the back for Atalanta and Jay Zucer,
+[336.36 - 338.12] P:1646.26 E:0.088926 |  they can just find those moments.
+[338.92 - 343.88] P:1622.19 E:0.097992 |  I think as well with Averett's play, and the occasion Arsenal were in the final third,
+[343.88 - 348.32] P:1441.81 E:0.099124 |  then they do have numbers suddenly inside the penalty area, if they do want to cross the ball.
+[349.04 - 354.36] P:1633.02 E:0.101006 |  Arsenal coming forward with Havertz making that run in towards the penalty area,
+[354.36 - 359.12] P:1618.75 E:0.098049 |  and it was a right-footed shot arriving from deep off-target.
+[359.12 - 363.52] P:1678.41 E:0.092852 |  We've had a couple of efforts now, both not troubling the goalkeeper, Karnasekki.
+[364.08 - 365.72] P:1647.24 E:0.105852 |  It's a game promising.
+[366.08 - 368.56] P:1504.56 E:0.100148 |  A tame shot, but good signs.
+[368.56 - 372.32] P:1391.23 E:0.105629 |  Honestly, mentioned before, Atalanta tried to squeeze in.
+[373.36 - 376.84] P:1603.88 E:0.108388 |  Kalasenek went all the way in with Bakaio Saka, and suddenly...
+[377.80 - 380.52] P:1616.94 E:0.102234 |  I have Averett had a brilliantly big space to run into,
+[380.52 - 384.68] P:1591.03 E:0.088277 |  he was just winning a second ball, and suddenly he was in at that back two
+[384.68 - 387.20] P:1544.52 E:0.080235 |  that were left over for Atalanta.
+[387.20 - 389.56] P:1263.24 E:0.094065 |  Really poor effort on Mr. Target, though.
+[390.04 - 391.88] P:1484.80 E:0.096102 |  He looks heavy, doesn't he, Kalasenek?
+[391.88 - 397.20] P:1487.89 E:0.098618 |  The former Arsenal player, 118 appearances and five goals in his five years
+[397.20 - 399.32] P:1441.48 E:0.076991 |  before he left Pomerasek.
+[399.32 - 401.40] P:1347.20 E:0.109879 |  The Bosnians now 31.
+[402.36 - 404.40] P:1634.62 E:0.096757 |  He was always stocking.
+[404.40 - 407.80] P:1506.22 E:0.096581 |  He just seems to be a little bit heavy, or is that a little harsh?
+[409.72 - 412.04] P:1567.89 E:0.103645 |  I always think it's a little bit harsh, but...
+[412.04 - 414.92] P:1546.52 E:0.103391 |  Yeah, I think that was always his profile at Arsenal.
+[414.92 - 419.52] P:1272.36 E:0.094295 |  I don't think he was a player that was as fluent, movement-wise,
+[419.56 - 423.68] P:1489.80 E:0.094241 |  but he was a player that was as good as he could turn sharpness over a couple of yards.
+[423.68 - 425.68] P:1205.61 E:0.090826 |  I think he can get up to good speeds.
+[425.68 - 429.52] P:1505.42 E:0.094648 |  I'm sure, as I say with that back three, with Martin Elliott and Saka
+[429.52 - 434.48] P:1717.25 E:0.098253 |  either side of J. Zucid, they can get into situations where you can get Saka
+[434.48 - 439.24] P:1470.91 E:0.090589 |  1v1 with Kalasenek, and when you can get, as we saw earlier,
+[439.24 - 443.60] P:1440.65 E:0.092096 |  Averett's getting forward and breaking into the spaces down his side of him.
+[443.60 - 445.60] P:1375.77 E:0.088499 |  And that is a big opportunity.
+[445.60 - 449.20] P:1494.15 E:0.098533 |  Constant noise inside the Stadio de Bergamo,
+[449.88 - 452.60] P:1573.72 E:0.097850 |  in the two early games in the Champions League,
+[452.60 - 454.60] P:1651.70 E:0.084421 |  this single-league phase, of course.
+[454.60 - 456.88] P:1544.94 E:0.092881 |  Red Star Belgrade 1, Benfica 2,
+[456.88 - 460.48] P:1622.90 E:0.099900 |  Feyenoord 0 by Leibicouzen 4, with the two results.
+[461.64 - 465.92] P:1486.60 E:0.101099 |  Atletico Madrid 0, Abilipzig 1 is a latest score.
+[468.04 - 470.72] P:1602.86 E:0.105428 |  In one of the three other games that are being played...
+[472.80 - 476.84] P:1547.82 E:0.097365 |  ..on this third successive night of matchday one,
+[476.84 - 480.36] P:1533.14 E:0.082247 |  for the revamped Champions League format.
+[480.36 - 485.40] P:1472.09 E:0.091856 |  A third successive day of live coverage inside the Stadio
+[485.40 - 488.64] P:1342.64 E:0.094325 |  on BBC Radio 5 Live and BBC Sounds.
+[489.64 - 491.80] P:1706.45 E:0.112858 |  Switzerland in Milan on Tuesday.
+[491.80 - 494.84] P:1678.50 E:0.094460 |  Manchester last night, and here we are in Bergamo,
+[494.84 - 498.36] P:1434.89 E:0.095550 |  with exclusive live radio commentary from Italy,
+[498.36 - 500.64] P:1555.14 E:0.095777 |  from 5 Live,
+[500.64 - 504.80] P:1649.30 E:0.098269 |  and so much live football to look forward to over the weekend,
+[504.80 - 507.52] P:1533.53 E:0.088481 |  including Manchester City Arsenal,
+[507.52 - 510.80] P:1442.71 E:0.098566 |  that will come live on Sunday from midday at the Etihad,
+[510.80 - 513.32] P:1231.97 E:0.086739 |  ahead of that 4.30 kick-off.
+[513.32 - 517.12] P:1456.76 E:0.091787 |  But the focus now for Arterto and Co is this Champions League.
+[517.12 - 520.24] P:1344.51 E:0.098856 |  We talked in the build-up with Marc about their indifferent away form
+[520.24 - 524.64] P:1471.29 E:0.091673 |  last season in this competition, only one win in five on their travels.
+[524.64 - 527.08] P:1420.62 E:0.100762 |  As Raya hits a long ball-down field,
+[527.08 - 529.00] P:1527.79 E:0.086647 |  J-Zoo's rises in the air,
+[529.00 - 533.36] P:1449.44 E:0.081727 |  and that will be cleared on the volley by Isaac Hain,
+[533.48 - 538.28] P:1433.96 E:0.098340 |  who's a very impressive Swedish international defender
+[538.28 - 542.08] P:1469.67 E:0.083766 |  who arrived from Verona last January.
+[542.08 - 547.08] P:1665.93 E:0.099004 |  I think it's only a matter of time before he maybe moves on as well.
+[547.08 - 549.60] P:1543.95 E:0.091336 |  He signed the deal until 2028,
+[549.60 - 552.88] P:1480.70 E:0.101890 |  but he's very, very good in the air, is Isaac Hain.
+[553.88 - 557.28] P:1523.50 E:0.106523 |  As Miquel Artecitek said, vantage in the break in play.
+[557.28 - 559.64] P:1352.19 E:0.098951 |  Arsenal have a throw on the halfway line,
+[559.64 - 562.48] P:1413.18 E:0.105045 |  and the Arsenal manager just leans and has a word
+[562.60 - 566.68] P:1445.39 E:0.085150 |  with Urien Timber, his left back, who waits to take the throw.
+[566.68 - 569.40] P:1386.29 E:0.101608 |  He looks to Martin Ely, hooks it into the path of J-Zoo,
+[569.40 - 571.56] P:1556.91 E:0.099099 |  with his back to goal, loses the ball.
+[571.56 - 575.72] P:1684.68 E:0.096279 |  His first start for Arsenal this season after two substitute appearances.
+[575.72 - 578.64] P:1595.20 E:0.099103 |  Edison then gave it away to Pater, he couldn't hold onto it,
+[578.64 - 580.84] P:1390.34 E:0.090201 |  and now Lukman on that far side,
+[580.84 - 583.76] P:1452.08 E:0.096059 |  who scored that hat-trick when they beat Bayer-Leberkusen
+[583.76 - 586.84] P:1396.79 E:0.098063 |  in the Europa League final last season.
+[586.84 - 590.72] P:1555.56 E:0.095272 |  And really has done well in the Nigerian international for Atalanta.
+[590.80 - 593.88] P:1263.32 E:0.100683 |  He has, he's had a pretty good career.
+[593.88 - 596.68] P:1509.29 E:0.096180 |  I mean, I remember it coming to Everton,
+[596.68 - 598.28] P:1721.37 E:0.100964 |  he showed flashes of brilliance,
+[598.28 - 601.84] P:1423.25 E:0.083631 |  and I'm sure you probably have thought around him,
+[601.84 - 603.72] P:1625.26 E:0.086381 |  he may have done better in his time.
+[603.72 - 606.36] P:1540.97 E:0.097228 |  He was only young, he was learning his trade,
+[606.36 - 609.28] P:1420.73 E:0.077516 |  and at the moment he's found the perfect place to play football.
+[609.28 - 612.04] P:1475.05 E:0.083896 |  For him, they get the bets out of him, only,
+[612.04 - 615.08] P:1566.96 E:0.099312 |  is it nine minutes on the clock, I think he's touched it four or five times,
+[615.08 - 617.96] P:1392.33 E:0.092419 |  but this crowd get excited when the ball's near him,
+[617.96 - 620.00] P:1534.21 E:0.093387 |  they suddenly, it's an inter-gabrette,
+[620.00 - 622.44] P:1489.75 E:0.096274 |  they're all expected into a lot of the doors,
+[622.44 - 626.08] P:1744.92 E:0.090730 |  so Ben White will have to be really close, really touch tight,
+[626.08 - 628.92] P:1541.85 E:0.086972 |  make sure he's on top of his game this evening.
+[628.92 - 632.20] P:1567.27 E:0.095746 |  Zaffer Koster is just starting to wander forward,
+[632.20 - 635.12] P:1415.85 E:0.096340 |  and because of the presence of De Katlara,
+[635.12 - 637.48] P:1704.76 E:0.103138 |  Urien Timber at the moment has just got two players
+[637.48 - 639.60] P:1417.79 E:0.103356 |  to keep an eye on as the Arsenal left back.
+[639.60 - 644.60] P:1653.73 E:0.091728 |  Meanwhile, ball is played up to Matthew Retagy,
+[644.60 - 646.72] P:1631.07 E:0.100663 |  passes it back to Lukman, now comes in field,
+[646.72 - 649.44] P:1611.45 E:0.098247 |  and this is where they've got the overload on this near side, the right,
+[649.44 - 651.68] P:1581.21 E:0.097362 |  and Zaffer Koster level with the penalty area,
+[651.68 - 654.80] P:1444.36 E:0.094371 |  Timber though stays with him, passes the ball back,
+[654.80 - 657.40] P:1521.29 E:0.102084 |  now all of a sudden there's a chance to put the ball into the box,
+[657.40 - 661.52] P:1661.58 E:0.099501 |  Lukman is there, and then that cross that came in from Jim City
+[661.52 - 664.64] P:1455.75 E:0.097163 |  was just over the head of Adamola Lukman,
+[664.64 - 669.72] P:1602.18 E:0.093463 |  who has never scored in four previous games against Arsenal,
+[669.72 - 671.08] P:1585.06 E:0.117009 |  Arsenal though can bring it away,
+[671.08 - 673.36] P:1423.88 E:0.081721 |  and they're red and white tops, playing from right to left,
+[673.36 - 675.24] P:1605.75 E:0.104493 |  on BBC Radio 5 Live.
+[675.24 - 677.92] P:1636.17 E:0.096882 |  Jesus, out to Havertz, far side the right,
+[677.92 - 683.36] P:1458.05 E:0.083900 |  midway through the Atalanta half, back then to Jesus, he goes square,
+[683.36 - 685.68] P:1493.82 E:0.099291 |  Pate forward of the centre circle,
+[685.68 - 688.40] P:1504.17 E:0.106237 |  Jesus with a step over, runs through to white,
+[688.40 - 691.96] P:1609.84 E:0.094499 |  midway through the Atalanta half on that right-hand side,
+[691.96 - 695.72] P:1632.42 E:0.089252 |  Arsenal now have a chance to keep the ball in field to Saka,
+[695.72 - 698.92] P:1700.08 E:0.104229 |  Rice with a return to Saka, he was tripped,
+[698.92 - 701.72] P:1801.09 E:0.100558 |  referee's going to take action here as well,
+[701.72 - 704.84] P:1801.13 E:0.100835 |  and a yellow card is going to be shown,
+[704.92 - 710.20] P:1774.24 E:0.093095 |  and that is to Edison, who has been shown the yellow
+[710.20 - 715.12] P:1683.55 E:0.080853 |  by the French referee, he just, he tripped him and he pulled him back,
+[715.12 - 716.84] P:1641.72 E:0.061054 |  blatant.
+[716.84 - 719.80] P:1846.74 E:0.107484 |  Important as well, I think, because that was a really good bit of play
+[719.80 - 722.08] P:1861.28 E:0.090184 |  from Arsenal, back to front, really fluid,
+[722.08 - 724.52] P:1900.02 E:0.092195 |  could have come for the kill earlier,
+[724.52 - 727.04] P:1890.95 E:0.092515 |  decided it wasn't quite the perfect move,
+[727.04 - 730.56] P:1975.97 E:0.097287 |  kept the ball, moved it from side over to the far side,
+[730.56 - 733.08] P:1936.40 E:0.088814 |  and then just when the moment arrives,
+[733.12 - 736.04] P:2043.18 E:0.088063 |  they sped the play up quickly, lovely little turn,
+[736.04 - 739.28] P:2059.24 E:0.097407 |  Saka little on two, he was just stepping inside,
+[739.28 - 743.12] P:2064.10 E:0.096194 |  just about to step into the penalty area before the tug of the jersey,
+[743.12 - 746.92] P:2020.68 E:0.090153 |  and it's a free kick in a very, very dangerous position.
+[748.12 - 751.80] P:1921.18 E:0.100360 |  Gabriel's just been having a word with Saka,
+[751.80 - 758.40] P:1982.23 E:0.100354 |  it's right of centre, probably about 20 yards out from goal,
+[758.44 - 765.88] P:1925.70 E:0.101420 |  Saka now also has Martinelli saying something to him,
+[765.88 - 769.24] P:1926.12 E:0.099937 |  the Arsenal supporters away towards our right,
+[769.24 - 774.64] P:1875.07 E:0.101856 |  will be hoping that Saka can maybe test Karnasekhi here.
+[774.64 - 776.64] P:1888.55 E:0.115075 |  Atalanta have got everybody back,
+[776.64 - 780.76] P:1942.26 E:0.092944 |  the whistles from the home crowd here in Bergamo,
+[780.76 - 783.68] P:1932.08 E:0.109328 |  and in front of the Atalanta wall,
+[783.68 - 786.76] P:1918.43 E:0.107931 |  there are three Arsenal players as well,
+[786.76 - 790.68] P:1961.84 E:0.115806 |  just standing in front of it and slightly to the side.
+[790.68 - 794.00] P:1990.74 E:0.113359 |  So Karnasekhi's not going to get a good view of this,
+[794.00 - 796.92] P:2035.73 E:0.112050 |  Declan Rice is also now wandered over,
+[796.92 - 799.56] P:2008.20 E:0.111651 |  the whistles intensify here in Bergamo,
+[799.56 - 803.28] P:2023.38 E:0.109645 |  five live and BBC sounds, it's 0-0, 12 minutes play,
+[803.28 - 808.16] P:2048.96 E:0.107276 |  Saka's eyeing it up, stuttering run up, Saka now hits it low,
+[808.16 - 810.16] P:1669.29 E:0.107458 |  the goalkeeper's made an excellent save.
+[812.16 - 814.80] P:1668.63 E:0.118786 |  He wouldn't have seen that till very, very late,
+[814.84 - 818.68] P:1817.12 E:0.100199 |  and he was down oh so sharp to his right,
+[818.68 - 821.16] P:1836.33 E:0.106277 |  the Arsenal players broke on the end of the wall,
+[821.16 - 823.96] P:1741.31 E:0.090128 |  and Karnasekhi just got something onto it.
+[825.20 - 830.08] P:1799.30 E:0.107203 |  He saw it so late because of that three-man Arsenal wall,
+[830.08 - 832.88] P:1897.64 E:0.091528 |  just at the side of the Atalanta wall,
+[832.88 - 835.76] P:1869.44 E:0.099966 |  Makae Saka just went low, goalkeeper's side,
+[835.76 - 838.04] P:1841.69 E:0.084905 |  his teammates jumped out of the way of it,
+[838.04 - 839.32] P:1834.05 E:0.108649 |  haven't seen it so late,
+[839.32 - 841.48] P:1896.98 E:0.098978 |  even though it was goalkeeper's side in the position,
+[841.48 - 844.92] P:1969.86 E:0.085476 |  and he was in that space behind the Arsenal players,
+[844.92 - 848.08] P:1907.85 E:0.085953 |  he was still a full stretch, full to his right hand,
+[848.08 - 851.64] P:1773.71 E:0.082330 |  strong right hand to Kipura, and then to get up quickly to stop,
+[851.64 - 853.76] P:1744.06 E:0.102572 |  I think it was Thomas Pate coming in for the rebound,
+[853.76 - 855.44] P:1742.89 E:0.086226 |  should have been a corner for Arsenal,
+[855.44 - 858.64] P:1560.30 E:0.085801 |  the referee giving a goal kick, but brilliant save,
+[858.64 - 860.04] P:1562.95 E:0.094634 |  wonderful free kick as well.
+[861.04 - 863.24] P:1609.26 E:0.114943 |  He's a 24-year-old Italian goalkeeper,
+[863.24 - 865.40] P:1553.62 E:0.089327 |  he's come up through the club academy,
+[865.40 - 869.32] P:1388.92 E:0.106568 |  anybody who knows about Atalanta will tell you about their academy
+[869.32 - 873.04] P:1502.79 E:0.085938 |  that has been serving players for many a year,
+[873.04 - 874.72] P:1605.61 E:0.106850 |  32 games last season,
+[875.68 - 880.12] P:1444.72 E:0.114043 |  but he has conceded eight in his last three games in Serie A,
+[880.12 - 882.64] P:1392.57 E:0.106082 |  but that was an excellent bit of goalkeeping.
+[883.64 - 886.04] P:1330.56 E:0.101996 |  Well, Marco Karrasekhi,
+[886.04 - 889.36] P:1399.33 E:0.099152 |  incidentally they have the former walls goalkeeper,
+[889.36 - 893.44] P:1695.45 E:0.082328 |  Rui Patricio, on the bench to Atalanta,
+[893.44 - 897.08] P:1697.20 E:0.105872 |  as the ultras were the flag still flying behind the Italian goal,
+[897.08 - 899.08] P:1629.48 E:0.108438 |  away to our left, continue to make the noise,
+[899.08 - 901.08] P:1600.37 E:0.104922 |  and there's a beat of the drum from somewhere too.
+[902.08 - 903.80] P:1510.93 E:0.080379 |  Lovely atmosphere,
+[903.80 - 908.20] P:1661.01 E:0.106619 |  it's a nice relaxed feel on the way to the game here in Bergamo,
+[909.00 - 914.32] P:1673.18 E:0.098906 |  as the 1300 Arsenal supporters flying into Northern Italy,
+[914.32 - 916.88] P:1636.02 E:0.107481 |  Southern we saw in some sort of a fan zone,
+[917.68 - 923.72] P:1664.33 E:0.100728 |  in the lower town of Bergamo,
+[923.72 - 926.16] P:1317.37 E:0.093980 |  because they do have the old town,
+[926.24 - 929.08] P:1678.12 E:0.094798 |  Citta Alto with the expedition walls,
+[929.08 - 932.04] P:1705.08 E:0.089279 |  as Atalanta are attacking,
+[932.04 - 933.76] P:1785.48 E:0.125646 |  looking into the penalty area,
+[933.76 - 935.68] P:1793.51 E:0.101118 |  Jim City had made the run forward,
+[935.68 - 938.12] P:1756.93 E:0.098529 |  Rice had to go with the run of the central defender,
+[938.12 - 939.88] P:1921.80 E:0.098483 |  concedes the corner kick, 0-0.
+[939.88 - 943.32] P:1715.12 E:0.092573 |  Yeah, well done, Declan Rice, he saw that run coming from deep,
+[943.32 - 946.12] P:1744.66 E:0.105928 |  and Jim City all the way up from the back just continued his run,
+[946.12 - 949.08] P:1697.90 E:0.096241 |  ran into the space just ahead of Declan Rice,
+[949.08 - 951.48] P:1784.84 E:0.075820 |  he got the opportunity to see it coming,
+[951.48 - 953.64] P:1869.95 E:0.103733 |  and he did what you're supposed to do, he did his job,
+[953.64 - 956.72] P:1780.26 E:0.088962 |  he tracked him all the way in to that space between the centre half
+[956.72 - 959.44] P:1689.70 E:0.085608 |  and his left back, and made sure he defended it well.
+[960.44 - 963.68] P:1543.95 E:0.091886 |  Lookman with the corner kick, near side the right, it's an out swinger,
+[963.68 - 965.96] P:1584.83 E:0.102753 |  it's going to come out to Edison on the edge of the penalty area,
+[965.96 - 968.52] P:1530.48 E:0.087717 |  Arsenal had everybody back, still 0-0,
+[968.52 - 972.00] P:1578.94 E:0.099760 |  Cross works over from that far side, the left, and the header,
+[972.00 - 977.68] P:1684.17 E:0.086835 |  from Hame, is off target, couldn't get enough behind it,
+[977.68 - 981.12] P:1761.24 E:0.100318 |  and it will be a goal kick, so still goalless on five-live,
+[981.12 - 983.40] P:1633.67 E:0.102199 |  just over a quarter of an hour play.
+[983.44 - 986.80] P:1793.92 E:0.084721 |  Yeah, dangerous cross into that middle area,
+[986.80 - 990.88] P:1769.12 E:0.083152 |  as you said, Hame was the player who got above everybody,
+[990.88 - 993.84] P:1738.94 E:0.091166 |  took out the end of it, but he was under some severe pressure,
+[993.84 - 996.56] P:1523.43 E:0.082797 |  as you'd expect from those Arsenal defenders,
+[996.56 - 998.92] P:1856.55 E:0.093852 |  especially the two centre backs, any ball that comes in there,
+[998.92 - 1002.60] P:1658.67 E:0.082097 |  you expect them to compete for, make it difficult,
+[1002.60 - 1007.36] P:1515.73 E:0.095183 |  within their numbers, but it's good an attack that was for Atalanta,
+[1007.36 - 1011.80] P:1652.03 E:0.095370 |  they do push people forward, they do put people into aggressive attack
+[1011.80 - 1014.56] P:1615.25 E:0.093877 |  and positions, they aren't vulnerable on the counter,
+[1014.56 - 1016.64] P:1643.55 E:0.074995 |  attacking Arsenal could win the ball back.
+[1016.64 - 1018.64] P:1682.82 E:0.100401 |  Not that you'd know it inside the stadium,
+[1018.64 - 1020.80] P:1611.98 E:0.096408 |  but there was clearly a VAR check going on there,
+[1020.80 - 1025.40] P:1704.94 E:0.077044 |  because Raya was told to wait by Clemente-Pant,
+[1025.40 - 1029.00] P:1639.70 E:0.096517 |  before getting the game restarted, he had his hand to his ear,
+[1029.00 - 1031.52] P:1509.26 E:0.095270 |  so I'm not too sure what they were looking at,
+[1033.44 - 1035.80] P:1597.20 E:0.090323 |  but play is back underway now,
+[1035.80 - 1040.32] P:1738.23 E:0.089784 |  once again VAR doing nothing for the playing spectator inside the stadium.
+[1040.32 - 1043.84] P:1449.24 E:0.097327 |  Ball hit long by Raya, Rice is forward, gets his head onto it,
+[1043.84 - 1047.28] P:1427.85 E:0.095377 |  two, Havertz trying to pick up the pieces on the edge of the area,
+[1047.28 - 1049.56] P:1421.32 E:0.095210 |  back then to Timber who joins the attack,
+[1049.56 - 1052.24] P:1534.09 E:0.083693 |  Timber on this near side of the leg, Havertz,
+[1052.24 - 1054.88] P:1474.39 E:0.090227 |  a few yards in from the left touch line,
+[1054.88 - 1057.48] P:1694.39 E:0.095989 |  and then a loose side of the ball because of the cameraman,
+[1057.48 - 1062.08] P:1791.15 E:0.085855 |  who's wrapped up form, he's got a big, thick coat on and a woolly hat.
+[1062.08 - 1066.12] P:1618.54 E:0.089835 |  Here I am in my T-shirt, it's a mild night.
+[1066.12 - 1068.36] P:1424.31 E:0.057105 |  It's not that mild.
+[1068.48 - 1070.48] P:1653.51 E:0.110366 |  I wouldn't be able to move in the winter, I'm sure,
+[1070.48 - 1072.48] P:1587.93 E:0.085009 |  if that's what he wears when it's mild.
+[1075.36 - 1077.36] P:1794.86 E:0.113728 |  There's been a goal elsewhere in the Champions League,
+[1077.36 - 1080.48] P:1809.30 E:0.097361 |  Monaco are leading Barcelona by a goal to nil,
+[1080.48 - 1082.84] P:1916.70 E:0.087167 |  Timber waits to take the throw.
+[1082.84 - 1085.24] P:1629.12 E:0.105175 |  Rice, inside the penalty area, prods it back,
+[1085.24 - 1087.92] P:1799.01 E:0.088899 |  Martin, Ellie with a shot right footed,
+[1087.92 - 1091.44] P:1797.50 E:0.098792 |  a little bit off balance, he actually took a tumble once he got the shot away,
+[1091.44 - 1095.36] P:1587.82 E:0.086794 |  and it was over the crossbar, but Arsenal are creating the chances.
+[1095.36 - 1097.12] P:1514.48 E:0.085971 |  Yeah, it was a good chance that one.
+[1097.12 - 1102.24] P:1639.10 E:0.096291 |  I know it was a snapshot because he sort of stumbled into his first touch
+[1102.24 - 1104.56] P:1565.22 E:0.088936 |  because of the way it was put into his path,
+[1104.56 - 1106.72] P:1740.23 E:0.081555 |  he did well to sort of take it with him.
+[1106.72 - 1109.08] P:1685.82 E:0.076226 |  He just couldn't quite sort his feet out,
+[1109.08 - 1115.48] P:1585.41 E:0.081541 |  probably about 12 or 14 yards out on the angle to find the target.
+[1115.48 - 1118.80] P:1620.88 E:0.100938 |  Well, that's a couple of occasions, a big long ball up from the goalkeeper
+[1118.80 - 1120.52] P:1601.75 E:0.083830 |  and a flick on for Becklin-Rice,
+[1120.52 - 1122.60] P:1629.90 E:0.087070 |  and Havertz nearly got in behind.
+[1122.60 - 1126.04] P:1573.26 E:0.094382 |  Long throw there from Arsenal into the penalty area,
+[1126.08 - 1128.12] P:1546.19 E:0.075758 |  and suddenly the cause of problems.
+[1128.12 - 1131.48] P:1467.68 E:0.086171 |  As long as it passes, Atalanta have struggled to deal with.
+[1131.48 - 1136.16] P:1598.04 E:0.098512 |  It might not be so mild when Celtic come here on matchday three
+[1136.16 - 1142.16] P:1650.52 E:0.090477 |  after that excellent victory against Slovan Bratislava last night at Celtic Park.
+[1142.16 - 1147.04] P:1617.39 E:0.095738 |  Atalanta will be away to Shakta, and then they entertain Celtic
+[1147.04 - 1153.16] P:1868.66 E:0.106253 |  in their next home game in this new league phase of the Champions League.
+[1154.16 - 1156.92] P:1944.98 E:0.096648 |  As there has been a stoppage in play,
+[1156.92 - 1162.16] P:1759.18 E:0.089580 |  Kolasinak has got a blow to the head by a flailing arm from Havertz.
+[1162.16 - 1164.32] P:1638.47 E:0.075122 |  He's on his feet, he's OK to continue,
+[1164.32 - 1167.32] P:1492.98 E:0.083266 |  and it's still 0-0 on BBC Radio 5 Live.
+[1167.32 - 1172.16] P:1576.71 E:0.084772 |  Zappacosta with his balding head and the beard telling the international
+[1172.16 - 1177.16] P:1474.43 E:0.085035 |  back it goes to Payne, and then Edison back to his goalkeeper
+[1177.16 - 1181.16] P:1582.61 E:0.113233 |  who puts his foot through that, and it was a hurried clearance.
+[1182.16 - 1187.16] P:1543.95 E:0.085052 |  Havertz was closing him down, and he's hooked it out of play for a throw.
+[1187.16 - 1190.16] P:1613.06 E:0.100390 |  Havertz's position has been really interesting so far this evening,
+[1190.16 - 1193.16] P:1758.57 E:0.088132 |  and he's certainly not part of a midfield three.
+[1193.16 - 1196.16] P:1664.73 E:0.089145 |  He's more often than not part of a front two.
+[1196.16 - 1201.16] P:1786.80 E:0.093668 |  He's dropping into spaces at times, sometimes he's beyond J-Zoos right at the top.
+[1201.16 - 1204.16] P:1862.79 E:0.088171 |  When they defend, they're pretty much a boxed.
+[1204.16 - 1208.16] P:1832.13 E:0.100531 |  Declan Rice and Partier together, then J-Zoos and Havertz are coming back
+[1208.16 - 1212.16] P:1849.40 E:0.090351 |  and making that four-person box in front of them with Martin Elliott.
+[1212.16 - 1216.16] P:1755.08 E:0.091961 |  Saka just remained a little bit higher and a little bit wider.
+[1216.16 - 1220.16] P:1304.76 E:0.088927 |  He's been a threat so far, I have it.
+[1222.16 - 1225.16] P:1533.28 E:0.109006 |  Ball goes back to the goalkeeper, Kanaseki,
+[1225.16 - 1231.16] P:1451.90 E:0.100268 |  and then he hits it into the air, out towards the Catlara on this near side.
+[1231.16 - 1234.16] P:1554.93 E:0.077938 |  Gabrielle put him off, and he leaps.
+[1235.16 - 1237.16] P:1393.51 E:0.123299 |  Goal!
+[1237.16 - 1240.16] P:1493.66 E:0.104664 |  Goes out of play for a throw. Timber to take it again.
+[1240.16 - 1242.16] P:1677.18 E:0.095015 |  Havertz just says, slow it down.
+[1242.16 - 1245.16] P:1687.06 E:0.089896 |  A draw would be an excellent result for Arsenal here, wouldn't it?
+[1245.16 - 1247.16] P:1597.48 E:0.093274 |  Given Atalanta's form.
+[1247.16 - 1250.16] P:1574.59 E:0.113613 |  Yeah, I mean, I think a draw would be a good result.
+[1250.16 - 1253.16] P:1479.91 E:0.085596 |  I think Havertz and Arsenal will be happy to come away from here,
+[1253.16 - 1256.16] P:1578.02 E:0.084294 |  but I think a win would be a statement.
+[1256.16 - 1260.16] P:1422.03 E:0.100852 |  I think a win would say, as I want to see from Arsenal,
+[1260.16 - 1262.16] P:1401.16 E:0.095505 |  I want to see them make a statement.
+[1262.16 - 1265.16] P:1489.09 E:0.087799 |  But absolutely, I don't think a draw would be a bad result.
+[1265.16 - 1270.16] P:1654.19 E:0.096464 |  That's the voice of Leon Osment, who knows Mikhail Artecha so well.
+[1270.16 - 1274.16] P:1687.76 E:0.103374 |  Eight seasons, wasn't it, that you played together at Everton?
+[1275.16 - 1279.16] P:1586.54 E:0.098763 |  I don't know how long it was. Only one of our hairlines changed.
+[1281.16 - 1285.16] P:1629.72 E:0.107059 |  Well, the jet-black hair of Mikhail Artecha, matching the jumper.
+[1286.16 - 1289.16] P:1462.65 E:0.107795 |  He certainly would agree that it's a mild night,
+[1289.16 - 1296.16] P:1501.01 E:0.091242 |  given his attire down in front of us, Jesus, on this near side, the left.
+[1296.16 - 1299.16] P:1434.17 E:0.106170 |  Rolls it in field, Partey plays it back, Gabrielle.
+[1299.16 - 1302.16] P:1405.29 E:0.094151 |  Every outfield player once again in the Atalanta half.
+[1302.16 - 1305.16] P:1442.93 E:0.106584 |  Now here is Saliba in the centre-circle on the halfway line,
+[1305.16 - 1307.16] P:1504.62 E:0.096235 |  out to his right, too wide.
+[1307.16 - 1312.16] P:1488.18 E:0.092080 |  Bobbley ball forward, Havertz then goes short and square,
+[1312.16 - 1315.16] P:1559.95 E:0.103954 |  and Partey, looking to timber, runs through to Jesus,
+[1315.16 - 1318.16] P:1627.77 E:0.102307 |  who stayed out wide on the left-hand side,
+[1318.16 - 1322.16] P:1672.16 E:0.104590 |  and in first time comes back to Jesus, runs in field, loses the ball.
+[1322.16 - 1328.16] P:1645.52 E:0.092093 |  Now Edison, can he break for Atalanta, finds Lukman, drifting into a central area,
+[1328.16 - 1333.16] P:1569.31 E:0.092208 |  and from the centre-circle to Katlara, now to Martyn Durau,
+[1333.16 - 1338.16] P:1451.21 E:0.097905 |  former Middlesbrough midfielder, just had the one season at the Riverside, the Dutchman,
+[1338.16 - 1343.16] P:1546.00 E:0.100709 |  and all of a sudden it's Atalanta's turn to come forward, an Arsenal retreat.
+[1344.16 - 1348.16] P:1482.13 E:0.097598 |  And here is Edison, breaking through from midfield,
+[1348.16 - 1354.16] P:1744.23 E:0.112185 |  Havertz going with him, and Edison adjudged through foul Havertz,
+[1354.16 - 1357.16] P:1861.67 E:0.100570 |  got to be careful bearing in mind these books,
+[1357.16 - 1361.16] P:1811.82 E:0.102885 |  the sign of descent here could land him in bobbler with Clemente-Pan.
+[1361.16 - 1364.16] P:1727.60 E:0.101373 |  Yeah, Havertz won the foul more than anything else,
+[1364.16 - 1366.16] P:1774.60 E:0.104592 |  but that was really good from Arsenal.
+[1366.16 - 1369.16] P:1728.08 E:0.098168 |  There was a moment, he said, Jesus lost the ball in the middle of the pitch,
+[1369.16 - 1371.16] P:1490.67 E:0.085777 |  they were in advanced positions,
+[1371.16 - 1377.16] P:1555.40 E:0.094934 |  the speed at which they recovered, they got behind the ball as a 10, then an 11,
+[1377.16 - 1380.16] P:1589.11 E:0.095364 |  but they weren't concerned about being in the perfect positions at first,
+[1380.16 - 1383.16] P:1489.25 E:0.095496 |  they knew the positions that somebody had to take up,
+[1383.16 - 1386.16] P:1530.93 E:0.094028 |  Declan Rice was left back, Timber was centre-half,
+[1386.16 - 1388.16] P:1626.02 E:0.095006 |  Gabriella was centre-midfield for a few moments,
+[1388.16 - 1391.16] P:1680.61 E:0.094382 |  just to get behind the ball, slow the opposition down,
+[1391.16 - 1395.16] P:1520.22 E:0.086864 |  then as they earn the time to get back into positions,
+[1395.16 - 1397.16] P:1665.11 E:0.117089 |  they find themselves very well organised,
+[1397.16 - 1399.16] P:1865.89 E:0.101080 |  they recognise that Atlanta slow down,
+[1399.16 - 1401.16] P:1887.32 E:0.101205 |  suddenly they can then go and win the ball back,
+[1401.16 - 1404.16] P:1935.42 E:0.082160 |  what Kei Havertz did, really good defensive shape.
+[1404.16 - 1409.16] P:1478.09 E:0.093521 |  Well, Raya hit the ball long, and it was headed away by Isaac Hain,
+[1409.16 - 1411.16] P:1460.33 E:0.095349 |  who is so dominant in the air,
+[1411.16 - 1415.16] P:1615.47 E:0.096337 |  he struggled to see him lose an aerial challenge,
+[1415.16 - 1418.16] P:1505.15 E:0.100907 |  really is an impressive 25-year-old,
+[1418.16 - 1421.16] P:1401.86 E:0.095184 |  whenever I've seen him play as Hain,
+[1421.16 - 1425.16] P:1449.44 E:0.088136 |  now to Jim City, the Albanian international,
+[1425.16 - 1430.16] P:1543.23 E:0.088105 |  and Brest are leading Sturm Graz by a goal to nil,
+[1430.16 - 1433.16] P:1386.45 E:0.098125 |  they've never qualified for Europe before,
+[1433.16 - 1436.16] P:1547.50 E:0.086715 |  when they finished third in Liga in last season,
+[1436.16 - 1439.16] P:1481.10 E:0.095681 |  they're unable to actually play their home games,
+[1439.16 - 1442.16] P:1544.36 E:0.086990 |  because their stadium doesn't meet the criteria,
+[1442.16 - 1444.16] P:1442.07 E:0.093590 |  so they're actually playing in King Camp,
+[1444.16 - 1447.16] P:1544.28 E:0.097122 |  and they are leading Sturm Graz by a goal to nil,
+[1447.16 - 1450.16] P:1659.09 E:0.079460 |  Sturm Graz, who are back in the Champions League
+[1450.16 - 1453.16] P:1614.53 E:0.085290 |  after an absence of 23 years,
+[1453.16 - 1457.16] P:1527.97 E:0.101946 |  so 1-0 in France, Monaco also lead Barcelona by a goal to nil,
+[1457.16 - 1460.16] P:1430.70 E:0.092409 |  Atletico Madrid nil, RB Leipzig won,
+[1460.16 - 1463.16] P:1404.37 E:0.091234 |  and so therefore the games that are being played,
+[1463.16 - 1466.16] P:1404.20 E:0.106236 |  at the moment this is the only goalers game so far,
+[1466.16 - 1468.16] P:1544.03 E:0.106076 |  Arsenal with Martenelli, he's overrun that,
+[1468.16 - 1470.16] P:1672.39 E:0.102336 |  Hain steps out, it depends to get there first,
+[1470.16 - 1472.16] P:1673.12 E:0.096642 |  but he prods it straight to Gabrielle,
+[1472.16 - 1474.16] P:1621.71 E:0.074768 |  and Arsenal with a turnover, get it back,
+[1474.16 - 1477.16] P:1511.43 E:0.095526 |  Thomas Pate, midway through the Atalanta half,
+[1477.16 - 1481.16] P:1441.15 E:0.088223 |  just in from the left touch line as Gasparini,
+[1481.16 - 1483.16] P:1408.21 E:0.108328 |  silver-head coach of Atalanta,
+[1483.16 - 1486.16] P:1571.56 E:0.093281 |  that was a poor ball by Thomas Pate,
+[1486.16 - 1488.16] P:1767.04 E:0.099588 |  very, very loose, sloppy,
+[1488.16 - 1491.16] P:1627.96 E:0.092680 |  and Atalanta have it, and back to the keeper they go.
+[1491.16 - 1493.16] P:1578.33 E:0.108786 |  They just went and bought for a moment,
+[1493.16 - 1496.16] P:1657.39 E:0.088196 |  Arsenal were just about to take control of possession,
+[1496.16 - 1498.16] P:1703.78 E:0.091068 |  have their first real sustained spell,
+[1498.16 - 1500.16] P:1554.51 E:0.076372 |  yeah, it was a sloppy pass,
+[1500.16 - 1502.16] P:1479.57 E:0.103536 |  he was just trying to flick it into an area,
+[1502.16 - 1505.16] P:1468.04 E:0.090834 |  and hope that his teammate was going to take control of it,
+[1505.16 - 1508.16] P:1749.63 E:0.110178 |  gave the ball back, so unnecessarily,
+[1509.16 - 1511.16] P:1773.79 E:0.114030 |  but still as of this stage,
+[1511.16 - 1514.16] P:1811.62 E:0.101017 |  no-one's really took control of sustained possession in the game,
+[1514.16 - 1517.16] P:1893.30 E:0.094941 |  it's still, we attack, you attack.
+[1518.16 - 1520.16] P:1632.11 E:0.107601 |  Atalanta have been awarded a free kick,
+[1520.16 - 1524.16] P:1602.14 E:0.086301 |  but the French referee wants it taking from the exact position,
+[1524.16 - 1527.16] P:1620.99 E:0.089535 |  Atalanta wanted to take it just a little bit to the right
+[1527.16 - 1532.16] P:1426.44 E:0.082118 |  and take it quickly, but Clemence-Pain said no,
+[1532.16 - 1537.16] P:1613.52 E:0.084349 |  as Zappa Costa, back to Jim City,
+[1537.16 - 1540.16] P:1654.69 E:0.097246 |  and Gabriel J. Zouz closes him down from the throw.
+[1540.16 - 1543.16] P:1500.25 E:0.102771 |  But bearing in mind we've been playing for 25 minutes,
+[1543.16 - 1546.16] P:1531.90 E:0.086800 |  Arsenal have defended well,
+[1546.16 - 1550.16] P:1678.95 E:0.090634 |  they've restricted Atalanta to hardly any opportunities,
+[1550.16 - 1552.16] P:1501.02 E:0.088126 |  as Edison finds Lukman,
+[1552.16 - 1555.16] P:1631.88 E:0.095760 |  man over on that far side, the left is Ruggieri,
+[1555.16 - 1559.16] P:1612.60 E:0.093662 |  here he is now, Matteo Ruggieri,
+[1559.16 - 1562.16] P:1494.91 E:0.083168 |  the Italian defender, Kolasinac,
+[1562.16 - 1565.16] P:1531.10 E:0.089741 |  short diagonal ball, gets it back from Lukman,
+[1565.16 - 1569.16] P:1587.57 E:0.091454 |  able to turn, Edison's central position midway through the Arsenal half,
+[1569.16 - 1572.16] P:1600.28 E:0.094722 |  Retigy holds it up, ball played out by Edison,
+[1572.16 - 1575.16] P:1554.74 E:0.099778 |  Ruggieri on that far side doesn't deliver the cross,
+[1575.16 - 1578.16] P:1580.59 E:0.091753 |  Edison now will play it in, but it was an in-swinging cross
+[1578.16 - 1582.16] P:1655.07 E:0.099186 |  off his right foot, and that allowed Arsenal's defence to head it away,
+[1582.16 - 1586.16] P:1791.32 E:0.101902 |  and then they push out, but looking solid, looking organised,
+[1586.16 - 1590.16] P:1838.75 E:0.092612 |  as the round, out to Zappa Costa,
+[1590.16 - 1594.16] P:1730.80 E:0.102483 |  Zappa Costa steadies himself, and the cross is very, very deep,
+[1594.16 - 1597.16] P:1587.61 E:0.105116 |  Ruggieri will try and keep in that curling ball and succeeds,
+[1597.16 - 1601.16] P:1373.20 E:0.089098 |  far side to left, Lukman, left corner of the area,
+[1601.16 - 1604.16] P:1320.05 E:0.100769 |  White stands in front of him, Lukman plays a low ball in,
+[1604.16 - 1607.16] P:1587.18 E:0.098120 |  Decatlara was pushing Gabrielle to the floor,
+[1607.16 - 1610.16] P:1558.16 E:0.096071 |  cleared by Martinelli, and at the minute,
+[1610.16 - 1616.16] P:1687.31 E:0.100431 |  Atalanta just can't seem to test David Ryer in the Arsenal goal,
+[1616.16 - 1620.16] P:1677.00 E:0.092635 |  amongst the backdrop of this incessant noise
+[1620.16 - 1623.16] P:1443.15 E:0.114620 |  in Bergamo on BBC Radio 5 Live.
+[1623.16 - 1627.16] P:1560.04 E:0.101923 |  But bearing in mind that they've scored at least two goals
+[1627.16 - 1630.16] P:1667.26 E:0.095235 |  in each of their seven games at home,
+[1630.16 - 1633.16] P:1634.84 E:0.093062 |  they are a free-scoring side here in this stadium,
+[1633.16 - 1636.16] P:1470.30 E:0.098980 |  they haven't really been able to cause too many problems
+[1636.16 - 1639.16] P:1637.94 E:0.094850 |  for this Arsenal side so far in this first half.
+[1639.16 - 1642.16] P:1577.82 E:0.090143 |  Rice to Havertz, turns inside the centre-circle,
+[1642.16 - 1645.16] P:1474.60 E:0.089788 |  Rice wants the ball back and is unmarked in the centre-circle,
+[1645.16 - 1648.16] P:1528.31 E:0.078921 |  and he gets it England international.
+[1648.16 - 1651.16] P:1545.63 E:0.099687 |  J-Zooze drops deep, lays it out towards White,
+[1651.16 - 1654.16] P:1696.12 E:0.094296 |  and it goes to Rice once more, running forward now with the ball,
+[1654.16 - 1657.16] P:1611.56 E:0.089881 |  leaves it for Pate to come on to, back towards Rice,
+[1657.16 - 1660.16] P:1553.85 E:0.101716 |  and now White, level with the penalty area on the right,
+[1660.16 - 1663.16] P:1534.98 E:0.085770 |  White with a cross, headed out by Kolasinac,
+[1663.16 - 1666.16] P:1605.08 E:0.093621 |  it'll just run back towards Declan Rice,
+[1666.16 - 1670.16] P:1692.62 E:0.093896 |  no real pressure on Declan Rice at this stage,
+[1670.16 - 1675.16] P:1674.67 E:0.104844 |  as Saliba, forward to Rice, seeing a lot of the ball, isn't it Declan Rice?
+[1675.16 - 1677.16] P:1634.25 E:0.094975 |  Yeah, this is what Arsenal need now,
+[1677.16 - 1680.16] P:1600.06 E:0.088193 |  say that just as they give the ball away.
+[1680.16 - 1683.16] P:1564.63 E:0.082680 |  They need to sustain attacks,
+[1683.16 - 1685.16] P:1679.58 E:0.102734 |  they need to keep possession of the ball,
+[1685.16 - 1687.16] P:1576.23 E:0.095644 |  they need to try something, if it doesn't come off,
+[1687.16 - 1689.16] P:1619.82 E:0.085317 |  they win it back very quickly,
+[1689.16 - 1692.16] P:1383.58 E:0.082560 |  and they keep Atalanta in their own half.
+[1692.16 - 1695.16] P:1457.66 E:0.096445 |  As I said, up to this stage, it's been very much,
+[1695.16 - 1698.16] P:1659.03 E:0.102628 |  we attack, you attack, and you're right, they've defended really well,
+[1698.16 - 1702.16] P:1741.06 E:0.087907 |  they've not allowed Atalanta many, if any, chances,
+[1702.16 - 1705.16] P:1567.37 E:0.099806 |  they've had a couple of crosses where maybe
+[1705.16 - 1707.16] P:1560.87 E:0.094781 |  they were hoping to get on the end of it,
+[1707.16 - 1709.16] P:1507.59 E:0.102710 |  or Arsenal have defended it well.
+[1709.16 - 1712.16] P:1535.61 E:0.092952 |  What Arsenal do though, is they drop everybody back,
+[1712.16 - 1714.16] P:1577.07 E:0.107114 |  they make sure you've got to go through all eleven players,
+[1714.16 - 1716.16] P:1596.70 E:0.080960 |  which makes it difficult for Atalanta,
+[1716.16 - 1718.16] P:1635.90 E:0.101729 |  and it makes them look very solid,
+[1718.16 - 1720.16] P:1565.94 E:0.076248 |  but they have to get out as a team,
+[1720.16 - 1723.16] P:1595.99 E:0.090669 |  they end up defending for three or four minutes,
+[1723.16 - 1725.16] P:1650.82 E:0.091685 |  rather than maybe having somebody a little bit advanced
+[1725.16 - 1729.16] P:1659.36 E:0.093400 |  to start a counter-attack, or hold the ball up if it came out.
+[1729.16 - 1731.16] P:1711.40 E:0.099929 |  The voice of the full England international,
+[1731.16 - 1734.16] P:1568.57 E:0.110715 |  Leon Osmond with us here on BBC Radio 5 Live in Bergamo,
+[1734.16 - 1736.16] P:1701.51 E:0.096865 |  is the fair-head to Catlara,
+[1736.16 - 1739.16] P:1639.26 E:0.101874 |  comes forward on this near side, the right, plays it back,
+[1739.16 - 1741.16] P:1391.65 E:0.094437 |  the round right corner of the area,
+[1741.16 - 1744.16] P:1441.32 E:0.088619 |  back now, edge of the centre-circle,
+[1744.16 - 1747.16] P:1627.36 E:0.100986 |  and Hayne, now to Jim City,
+[1747.16 - 1750.16] P:1514.23 E:0.097386 |  who plays on the right of that back three,
+[1750.16 - 1753.16] P:1525.57 E:0.090161 |  Zappacosta, the Catlara, and Jim City,
+[1753.16 - 1757.16] P:1614.87 E:0.098434 |  all on this near side, the right, Zappacosta has stayed high,
+[1757.16 - 1759.16] P:1440.11 E:0.094867 |  level the area, then they go back to Catlara,
+[1759.16 - 1763.16] P:1502.72 E:0.092694 |  but Arsenal keep their shape, and force Atalanta back.
+[1763.16 - 1765.16] P:1361.79 E:0.103785 |  Hayne now, they'll work it across the back,
+[1765.16 - 1767.16] P:1450.21 E:0.068422 |  will be at the Italian side,
+[1767.16 - 1769.16] P:1570.38 E:0.096006 |  Ruggieri in field to Lukman,
+[1769.16 - 1771.16] P:1598.95 E:0.091743 |  Lukman coming from deep,
+[1771.16 - 1774.16] P:1655.61 E:0.094555 |  accelerates, runs into a central area,
+[1774.16 - 1776.16] P:1431.16 E:0.093311 |  and faces Pate in front of him,
+[1776.16 - 1779.16] P:1563.36 E:0.099722 |  so has to release the ball to the Catlara.
+[1779.16 - 1781.16] P:1647.40 E:0.080840 |  Jim City helps it on its way,
+[1781.16 - 1783.16] P:1627.80 E:0.083949 |  down onto this near-touch line,
+[1783.16 - 1785.16] P:1541.80 E:0.093594 |  for Zappacosta level, the penalty area.
+[1785.16 - 1787.16] P:1646.57 E:0.090897 |  Timber couldn't get a foot into the challenge.
+[1787.16 - 1790.16] P:1706.00 E:0.103134 |  Retagy pulls it back to Catlara!
+[1790.16 - 1792.16] P:1679.26 E:0.097258 |  First time ever, left-footed on the right,
+[1792.16 - 1795.16] P:1769.94 E:0.093638 |  off-target goal kick, 0-0, 5-line.
+[1795.16 - 1797.16] P:1741.17 E:0.111621 |  That was good play.
+[1797.16 - 1799.16] P:1850.34 E:0.092669 |  First time we've really seen Atalanta
+[1799.16 - 1802.16] P:1765.43 E:0.101816 |  move the Arsenal players around to where they want to be,
+[1802.16 - 1806.16] P:1739.35 E:0.074626 |  find space, get in behind players.
+[1806.16 - 1808.16] P:1668.79 E:0.102581 |  To Catlara with the final effort,
+[1808.16 - 1812.16] P:1651.63 E:0.075937 |  it was a great ball into Atigy,
+[1812.16 - 1815.16] P:1751.03 E:0.102693 |  held it up, little back-pass, little back-heel in behind,
+[1815.16 - 1818.16] P:1748.78 E:0.092490 |  which was what confused Gabrielle, couldn't stay with it,
+[1818.16 - 1820.16] P:1759.68 E:0.072485 |  and actually from the position he was,
+[1820.16 - 1822.16] P:1641.17 E:0.090479 |  he should have hit the target at the very least.
+[1822.16 - 1824.16] P:1495.05 E:0.061396 |  Scared for Arsenal.
+[1824.16 - 1826.16] P:1650.09 E:0.090441 |  Belgian international, who really has found
+[1826.16 - 1829.16] P:1567.06 E:0.088109 |  his best form here in Bergamo,
+[1829.16 - 1831.16] P:1619.65 E:0.092073 |  they signed him actually from Milan
+[1831.16 - 1833.16] P:1583.10 E:0.098978 |  after a very successful loan,
+[1833.16 - 1837.16] P:1655.61 E:0.089743 |  so they paid 22 million euros for him.
+[1837.16 - 1839.16] P:1735.20 E:0.100146 |  Didn't actually score in 40 appearances
+[1839.16 - 1841.16] P:1736.73 E:0.096639 |  during his time at Stadio San Siro,
+[1841.16 - 1844.16] P:1778.04 E:0.088726 |  but last season, 14 goals in 50 games,
+[1844.16 - 1846.16] P:1729.85 E:0.089629 |  12 assists as well,
+[1846.16 - 1850.16] P:1620.91 E:0.076779 |  so he really was back to his very best
+[1850.16 - 1854.16] P:1730.78 E:0.084044 |  and already has scored one goal this season,
+[1854.16 - 1856.16] P:1627.98 E:0.092206 |  and he went close there,
+[1856.16 - 1860.16] P:1594.94 E:0.089427 |  as Atletica Madrid have equalised through Antoine Griezmann,
+[1860.16 - 1864.16] P:1590.11 E:0.081829 |  so 1-1 in Spain,
+[1864.16 - 1868.16] P:1717.30 E:0.094414 |  and Barcelona have equalised as well in the Champions League.
+[1868.16 - 1870.16] P:1698.38 E:0.101075 |  Monaco won, Barcelona won,
+[1870.16 - 1874.16] P:1436.49 E:0.090190 |  LaMine Yamal with that goal just before the half-hour.
+[1874.16 - 1877.16] P:1716.09 E:0.102080 |  Champions League final score is actually available tonight
+[1877.16 - 1879.16] P:1581.77 E:0.090889 |  on the BBC iPlayer and the red button.
+[1879.16 - 1882.16] P:1771.22 E:0.093507 |  If you wish to see those handful of scores
+[1882.16 - 1884.16] P:1775.74 E:0.074513 |  and also listen to the commentary,
+[1884.16 - 1887.16] P:1666.83 E:0.087724 |  as with 14 minutes to go to half-time,
+[1887.16 - 1891.16] P:1622.88 E:0.078555 |  it is still goal-less here in Italy.
+[1891.16 - 1894.16] P:1726.79 E:0.104898 |  Hey, out of the rudery on that far side.
+[1894.16 - 1896.16] P:1668.07 E:0.086824 |  The Catlara now makes the run out towards the left,
+[1896.16 - 1899.16] P:1591.88 E:0.087907 |  tries to back-heel the ball to the left wing back,
+[1899.16 - 1901.16] P:1669.56 E:0.091024 |  but there was Saliba to stop it,
+[1901.16 - 1903.16] P:1691.13 E:0.092629 |  plays it short forward,
+[1903.16 - 1906.16] P:1681.56 E:0.090423 |  runs away from its intended target, Saka.
+[1906.16 - 1908.16] P:1661.65 E:0.105598 |  The Catlara out to rudery,
+[1908.16 - 1910.16] P:1624.43 E:0.101925 |  Lukman now takes over level with the penalty area.
+[1910.16 - 1912.16] P:1649.14 E:0.092588 |  The Catlara joins the attack,
+[1912.16 - 1914.16] P:1759.35 E:0.098801 |  Rudry has stayed forward,
+[1914.16 - 1918.16] P:1550.90 E:0.094875 |  his cross cleared on the volley by Saliba inside the penalty area.
+[1918.16 - 1921.16] P:1541.07 E:0.089136 |  Kalasenak at a walking pace,
+[1921.16 - 1923.16] P:1657.61 E:0.085675 |  in field to Edison,
+[1923.16 - 1925.16] P:1745.32 E:0.095115 |  midway through the Arsenal half,
+[1925.16 - 1927.16] P:1527.73 E:0.091477 |  now with Buron,
+[1927.16 - 1929.16] P:1772.26 E:0.102799 |  Jim City on this near side,
+[1929.16 - 1933.16] P:1599.75 E:0.090074 |  so they're using the width on both flanks here at the moment,
+[1933.16 - 1938.16] P:1632.77 E:0.086823 |  Atalanta, who finished fourth in Serie A last season,
+[1938.16 - 1941.16] P:1653.59 E:0.101955 |  but now they've given the ball away and Havertz up towards Jesus.
+[1941.16 - 1944.16] P:1733.42 E:0.095891 |  Jesus wasn't expecting it to be played behind him.
+[1944.16 - 1946.16] P:1664.83 E:0.103664 |  I think he wanted it in front of him,
+[1946.16 - 1948.16] P:1571.13 E:0.084517 |  and as a result,
+[1948.16 - 1951.16] P:1679.31 E:0.082858 |  Arsenal never were able to seize momentum from that break.
+[1951.16 - 1954.16] P:1713.30 E:0.094689 |  They just lacked the pace there to really skirt,
+[1954.16 - 1957.16] P:1742.14 E:0.096031 |  paying to really break away from the right one.
+[1957.16 - 1959.16] P:1468.92 E:0.095101 |  That pass came from Kaia Havertz,
+[1959.16 - 1961.16] P:1690.29 E:0.105444 |  they were 2v1, he could have kept the ball,
+[1961.16 - 1963.16] P:1754.72 E:0.071502 |  he could have run a bit further,
+[1963.16 - 1965.16] P:1715.46 E:0.075033 |  he played the pass down there,
+[1965.16 - 1967.16] P:1780.05 E:0.095417 |  the side that Jesus wasn't looking.
+[1967.16 - 1969.16] P:1670.10 E:0.077216 |  It's an opportunity there for Arsenal.
+[1969.16 - 1972.16] P:1778.84 E:0.082427 |  Zappacosta's first-time cross strikes the legs of Timber,
+[1972.16 - 1974.16] P:1579.05 E:0.070891 |  doesn't go out of play,
+[1974.16 - 1977.16] P:1726.69 E:0.082445 |  Jim City will hold off Martin Ely,
+[1977.16 - 1980.16] P:1763.10 E:0.094818 |  Michela Artheta patrolling that technical area,
+[1980.16 - 1985.16] P:1715.52 E:0.081140 |  in front of this quaint main stand here in Bergamo.
+[1986.16 - 1989.16] P:1713.69 E:0.079208 |  Eventually, I think the plan is to
+[1989.16 - 1991.16] P:1738.55 E:0.088200 |  get four modern stands.
+[1991.16 - 1994.16] P:1780.96 E:0.089948 |  We've got the two modern ones that have been built in recent years,
+[1994.16 - 1997.16] P:1727.61 E:0.082584 |  with the renovations that have taken place.
+[1997.16 - 1999.16] P:1572.36 E:0.106048 |  Zappacosta on this near side,
+[1999.16 - 2001.16] P:1679.81 E:0.081142 |  wraps it into the feet of Decat Lara,
+[2001.16 - 2003.16] P:1569.57 E:0.113932 |  right corner of the area, the return ball,
+[2003.16 - 2005.16] P:1766.81 E:0.096692 |  Zappacosta couldn't take it with him,
+[2005.16 - 2007.16] P:1774.46 E:0.085909 |  couldn't keep the ball in play,
+[2007.16 - 2009.16] P:1679.29 E:0.088576 |  and it will be an Arsenal throw
+[2009.16 - 2011.16] P:1801.31 E:0.094071 |  as 12 minutes to go to halftime.
+[2011.16 - 2013.16] P:1542.17 E:0.088641 |  Nil Nil.
+[2013.16 - 2016.16] P:1697.65 E:0.080513 |  In the end, the ball is back to the right,
+[2016.16 - 2019.16] P:1712.66 E:0.087092 |  it's just been looking around, trying to ask some questions
+[2019.16 - 2021.16] P:1755.89 E:0.103916 |  and find some answers, because 25-minute Arsenal
+[2021.16 - 2023.16] P:1798.61 E:0.074208 |  felt like they were in control of this game,
+[2023.16 - 2025.16] P:1664.80 E:0.088346 |  both ends of the pitch.
+[2025.16 - 2027.16] P:1651.80 E:0.079067 |  The best team in the final third,
+[2027.16 - 2029.16] P:1680.16 E:0.104427 |  they were defensively solid,
+[2029.16 - 2031.16] P:1843.86 E:0.082408 |  but the last five or ten minutes or so,
+[2031.16 - 2033.16] P:1724.52 E:0.080263 |  Atalanta have certainly stepped up the game,
+[2033.16 - 2036.16] P:1858.36 E:0.099767 |  they've started to play the majority of it
+[2036.16 - 2038.16] P:1930.26 E:0.096355 |  in the Arsenal half, win the ball back quickly,
+[2038.16 - 2041.16] P:1856.44 E:0.105180 |  Arsenal's answer is to just get deeper and deeper,
+[2041.16 - 2043.16] P:1707.89 E:0.108434 |  and then the counter-attack or hold the ball up
+[2043.16 - 2045.16] P:1725.15 E:0.086020 |  and it come out.
+[2045.16 - 2049.16] P:1682.53 E:0.099915 |  At times they're all 25 yards and deeper from their own goal line,
+[2049.16 - 2053.16] P:1715.12 E:0.106553 |  and it's just allowing Atalanta to build more and more momentum.
+[2054.16 - 2056.16] P:1599.52 E:0.115232 |  Such enthusiastic support,
+[2056.16 - 2059.16] P:1492.75 E:0.097053 |  I do hope it's coming through up the effects, Mike,
+[2059.16 - 2061.16] P:1519.22 E:0.103205 |  that we have here in Italy,
+[2061.16 - 2063.16] P:1531.96 E:0.091557 |  they've not stopped singing throughout,
+[2063.16 - 2066.16] P:1489.48 E:0.104977 |  creating a wonderful atmosphere as it's still Nil Nil,
+[2066.16 - 2068.16] P:1365.18 E:0.080684 |  ball towards Lutmann,
+[2068.16 - 2070.16] P:1611.68 E:0.104618 |  and it's stopped by Pate,
+[2070.16 - 2072.16] P:1623.78 E:0.088835 |  closed down by Rettigy.
+[2072.16 - 2074.16] P:1547.33 E:0.098346 |  He's been an excellent form,
+[2074.16 - 2076.16] P:1444.71 E:0.087930 |  the Italian forward.
+[2076.16 - 2080.16] P:1595.35 E:0.085490 |  Four goals, he scored in his five appearances,
+[2080.16 - 2083.16] P:1632.78 E:0.105066 |  speaking to an Italian journalist last night
+[2083.16 - 2085.16] P:1382.51 E:0.099095 |  in the press conference, he was saying
+[2085.16 - 2087.16] P:1515.19 E:0.100906 |  that he wouldn't have been too surprised
+[2087.16 - 2090.16] P:1534.27 E:0.090848 |  if either one of the Catlaro, Rettigy or Lutmann,
+[2090.16 - 2093.16] P:1591.17 E:0.079724 |  was dropped for Pashalic to go into the midfield,
+[2093.16 - 2096.16] P:1342.32 E:0.095243 |  but only made the one change, did Gasparini,
+[2096.16 - 2099.16] P:1477.98 E:0.084468 |  a very eventful game at the weekend where
+[2100.16 - 2103.16] P:1550.72 E:0.083528 |  they beat Fiorentina by
+[2103.16 - 2105.16] P:1668.64 E:0.090322 |  three goals to two.
+[2106.16 - 2109.16] P:1702.38 E:0.108246 |  All five goals scored in a frantic first half,
+[2109.16 - 2111.16] P:1719.78 E:0.088567 |  as twice they came from behind,
+[2111.16 - 2114.16] P:1645.98 E:0.085004 |  for what actually was their first home game of the season.
+[2114.16 - 2117.16] P:1538.29 E:0.099548 |  They played their first three away league games on their travels
+[2117.16 - 2120.16] P:1460.41 E:0.093138 |  due to the renovation work that we've been talking about.
+[2120.16 - 2123.16] P:1635.47 E:0.093976 |  Ten minutes to go to half time on five live,
+[2123.16 - 2126.16] P:1727.71 E:0.097509 |  and it's still 0-0, Artezza
+[2127.16 - 2129.16] P:1651.87 E:0.092470 |  would be content.
+[2129.16 - 2132.16] P:1590.62 E:0.107964 |  I think if you come away from home and you get to half time,
+[2132.16 - 2135.16] P:1715.27 E:0.100816 |  0-0 and you feel like you've controlled the majority of the first half,
+[2135.16 - 2137.16] P:1510.91 E:0.097062 |  they think, yeah, you're obviously content,
+[2137.16 - 2140.16] P:1530.00 E:0.091100 |  but I just think they've just allowed,
+[2140.16 - 2143.16] P:1367.21 E:0.085809 |  rather than an Atalanta step in their own game,
+[2143.16 - 2145.16] P:1628.47 E:0.079131 |  I think Arsenal have just felt comfortable
+[2145.16 - 2147.16] P:1646.33 E:0.087713 |  and just come off it a yard.
+[2147.16 - 2150.16] P:1486.75 E:0.093684 |  If you do that at this level, the opposition will take that momentum.
+[2150.16 - 2153.16] P:1612.67 E:0.093054 |  Here is White, plays the ball back.
+[2154.16 - 2158.16] P:1684.17 E:0.103062 |  Saliba will actually stop it going back all the way to David Ryan.
+[2159.16 - 2161.16] P:1386.27 E:0.107147 |  And now he will run forward.
+[2161.16 - 2164.16] P:1497.89 E:0.103875 |  Retiky will go towards him, but Saliba accelerates
+[2164.16 - 2166.16] P:1363.76 E:0.103614 |  onto the halfway line,
+[2166.16 - 2168.16] P:1348.76 E:0.094238 |  and then Arsenal play it back to Pate,
+[2168.16 - 2170.16] P:1306.95 E:0.104481 |  who was filling in behind the central defender.
+[2170.16 - 2172.16] P:1386.63 E:0.099933 |  He now runs forward into the Atalanta half,
+[2172.16 - 2175.16] P:1475.24 E:0.092855 |  right at the centre circle, finds Saka on that far side.
+[2175.16 - 2177.16] P:1669.71 E:0.100606 |  White now is pushed up.
+[2177.16 - 2180.16] P:1736.22 E:0.104413 |  Gabriel Jézus has come very, very deep.
+[2180.16 - 2185.16] P:1595.81 E:0.098694 |  Here is Pate, and again, it was played behind Gabriel Jézus,
+[2185.16 - 2190.16] P:1564.72 E:0.094389 |  and maybe he's not content there, as he just rubs his chin
+[2190.16 - 2192.16] P:1438.27 E:0.091192 |  and just starting to...
+[2192.16 - 2195.16] P:1484.41 E:0.097171 |  a little frustrated, I think, with the way that that ball...
+[2196.16 - 2198.16] P:1628.37 E:0.101764 |  saw Arsenal's attack break down.
+[2198.16 - 2201.16] P:1484.66 E:0.102911 |  Yeah, because again, I mean, that's a third or fourth time.
+[2201.16 - 2204.16] P:1486.67 E:0.099692 |  Now, just when you think they've forced themselves into Atalanta's heart,
+[2204.16 - 2208.16] P:1352.86 E:0.099804 |  it's a moment of sustained pressure where they can keep the ball.
+[2208.16 - 2211.16] P:1469.87 E:0.096610 |  Do what Atalanta have done for the last five or 10 minutes.
+[2211.16 - 2213.16] P:1431.45 E:0.091189 |  Keep them on the back, push forward.
+[2213.16 - 2216.16] P:1470.71 E:0.092410 |  It's an unnecessarily sloppy pass, and you're in good positions.
+[2217.16 - 2221.16] P:1527.74 E:0.092087 |  Jézus off the chest, lays it off towards Rice.
+[2222.16 - 2226.16] P:1419.61 E:0.106667 |  Crowd it out, loses the ball by the combination of the Catlara and the Rown.
+[2227.16 - 2229.16] P:1240.61 E:0.104585 |  Arteza wants everybody back in those red-white shirts,
+[2229.16 - 2233.16] P:1520.83 E:0.100707 |  and the ball from Martin de Rown was too far ahead of Zappa Costa.
+[2233.16 - 2236.16] P:1571.05 E:0.099138 |  And he knew it as soon as he played it down the right flank.
+[2236.16 - 2239.16] P:1335.83 E:0.082382 |  It was over here, and it goes out of play for a goal kick.
+[2239.16 - 2242.16] P:1440.81 E:0.090044 |  So the Euroleagues will be following five-life sport
+[2242.16 - 2246.16] P:1487.39 E:0.095852 |  this third successive night of Live Champions League action.
+[2246.16 - 2249.16] P:1449.69 E:0.100883 |  That's at 10 o'clock with John Bennett.
+[2252.16 - 2254.16] P:1453.54 E:0.114441 |  Any reaction that we get tonight,
+[2254.16 - 2257.16] P:1406.38 E:0.097999 |  you'll be able to hear it in the Five Live Football Daily podcast.
+[2258.16 - 2259.16] P:1497.83 E:0.093713 |  As...
+[2259.16 - 2263.16] P:1393.25 E:0.100724 |  ...Uri and Timber comes to a standstill in the central area,
+[2263.16 - 2265.16] P:1292.49 E:0.096312 |  midway through his own half.
+[2265.16 - 2270.16] P:1319.97 E:0.098842 |  Gabrielle, and because of that three-pronged press
+[2270.16 - 2273.16] P:1390.06 E:0.093116 |  of the Catlara, de Rown and Retagy,
+[2273.16 - 2275.16] P:1511.25 E:0.102261 |  Arsenal go back to David Ryan.
+[2275.16 - 2279.16] P:1473.20 E:0.085355 |  Lutman then will try and close down white on that far side,
+[2279.16 - 2284.16] P:1463.07 E:0.090026 |  and Arsenal again, safety first, back with David Ryan.
+[2284.16 - 2288.16] P:1447.51 E:0.094686 |  Martinelli comes in off the left touch line, the ball is hit by Ryan.
+[2289.16 - 2292.16] P:1433.43 E:0.106766 |  But over his head, over the head of Zappa Costa,
+[2292.16 - 2295.16] P:1337.51 E:0.097106 |  and all the way through to Karnasekhi.
+[2296.16 - 2298.16] P:1188.44 E:0.100457 |  It's tight.
+[2298.16 - 2302.16] P:1385.27 E:0.084210 |  The nearest that we've had to a goal was that free kick from Saka
+[2302.16 - 2305.16] P:1528.50 E:0.090459 |  that produced an excellent save from Karnasekhi.
+[2305.16 - 2310.16] P:1661.35 E:0.094993 |  The Catlara, Zappa Costa, makes a strong run in off the right touch line.
+[2310.16 - 2312.16] P:1594.61 E:0.088609 |  Retagy wanted the ball played forward.
+[2312.16 - 2316.16] P:1554.59 E:0.090366 |  Instead they go out wide to Catlara, Gabrielle back pedals.
+[2316.16 - 2320.16] P:1297.48 E:0.086521 |  The Belgian enters the penalty area, plays it back now to the captain,
+[2320.16 - 2322.16] P:1276.77 E:0.081866 |  Martin Duran.
+[2322.16 - 2326.16] P:1307.26 E:0.081114 |  Now it's with Hain, Edison, Brazilian, defensive midfielder,
+[2326.16 - 2328.16] P:1568.60 E:0.082040 |  out towards Lutman,
+[2328.16 - 2330.16] P:1423.10 E:0.100497 |  rudery required on the overlap,
+[2330.16 - 2333.16] P:1429.17 E:0.085990 |  but in fact passes the ball back to Edison,
+[2333.16 - 2339.16] P:1481.91 E:0.091237 |  and Arsenal again have got six red and white shirts behind the ball at the moment,
+[2339.16 - 2342.16] P:1421.15 E:0.094201 |  but Lutman now tries to get round the back on that far side of the left,
+[2342.16 - 2344.16] P:1384.43 E:0.093875 |  down towards the corner flag he goes.
+[2344.16 - 2347.16] P:1148.39 E:0.090044 |  Lutman waits, Saka back on defensive duties,
+[2347.16 - 2350.16] P:1673.33 E:0.111146 |  threads it to rudery and then Ruder is over-hitted.
+[2350.16 - 2352.16] P:1735.14 E:0.084283 |  Just tried to push it past Pate,
+[2352.16 - 2355.16] P:1574.92 E:0.085524 |  and it went away from him, goal kick Neil Mill.
+[2355.16 - 2359.16] P:1674.69 E:0.096500 |  He just tried to sell Thomas Pate a little shimmy of his body
+[2359.16 - 2362.16] P:1560.92 E:0.084014 |  and maybe confused the Arsenal midfielder and not get past him,
+[2362.16 - 2366.16] P:1521.84 E:0.093200 |  but he wasn't having it, looked into the eyes, knew where,
+[2366.16 - 2369.16] P:1804.40 E:0.090406 |  he was going to try and play the ball and just matched him,
+[2369.16 - 2373.16] P:1990.86 E:0.094879 |  stood as grounded and allowed him to run into himself
+[2373.16 - 2375.16] P:1971.66 E:0.101950 |  and allowed the ball to go up and a goal kick.
+[2375.16 - 2378.16] P:1890.65 E:0.087039 |  Again, Arsenal, when they do drop back to the edge of the penalty area
+[2378.16 - 2380.16] P:1618.97 E:0.095612 |  and they get everybody behind the ball,
+[2380.16 - 2382.16] P:1474.34 E:0.086333 |  they're a very difficult team to break down.
+[2382.16 - 2386.16] P:1408.13 E:0.082805 |  Ava Dreyas not, had to make a save of no, they've had one effort,
+[2386.16 - 2389.16] P:1542.20 E:0.085419 |  that's a lanter that went over the top of the bar.
+[2389.16 - 2392.16] P:1529.95 E:0.091218 |  The issue is they've not probably created as much as you'd expect,
+[2392.16 - 2395.16] P:1424.28 E:0.089604 |  going the other way, a couple of sloppy passes,
+[2395.16 - 2397.16] P:1118.99 E:0.094762 |  and they're in the final third,
+[2397.16 - 2400.16] P:1328.52 E:0.091379 |  stopped any type of momentum they may get.
+[2400.16 - 2403.16] P:1545.57 E:0.094188 |  They've got to be braver with these passes as well.
+[2403.16 - 2407.16] P:1678.28 E:0.092279 |  Atalanta are squeezing so tight to try and stop Arsenal playing out.
+[2407.16 - 2409.16] P:1574.86 E:0.091614 |  Sometimes 1v1 on the top end of the pitch,
+[2409.16 - 2413.16] P:1670.74 E:0.084211 |  sometimes spaces to run into if you can just get a bit of eye contact,
+[2413.16 - 2416.16] P:1419.12 E:0.082141 |  just spot the right pass at the right moment.
+[2416.16 - 2420.16] P:1316.27 E:0.098704 |  In the curvenour at the end of way towards our left,
+[2420.16 - 2422.16] P:1455.40 E:0.090796 |  the scarves have been swung around their heads,
+[2422.16 - 2424.16] P:1439.42 E:0.085210 |  the flags are still flying.
+[2425.16 - 2430.16] P:1522.83 E:0.092510 |  Really healthy atmosphere, a vibrant atmosphere here in Bergamo.
+[2430.16 - 2432.16] P:1588.44 E:0.089792 |  Five minutes to go to the break.
+[2434.16 - 2438.16] P:1640.65 E:0.104141 |  The Arsenal supporters just took to where the corners are on right-hand side,
+[2438.16 - 2441.16] P:1458.90 E:0.098658 |  as the ball headed down by Havertz,
+[2441.16 - 2447.16] P:1393.74 E:0.097585 |  White's unable to keep the ball in play as he ran forward with real vigor,
+[2447.16 - 2451.16] P:1478.97 E:0.089041 |  and it will be a throw to Atalanta.
+[2452.16 - 2456.16] P:1649.05 E:0.107471 |  They just ran offside the Ben White, but it was the right idea.
+[2456.16 - 2459.16] P:1632.75 E:0.089136 |  Atalanta are so content with squeezing up Mamby Man,
+[2459.16 - 2463.16] P:1561.91 E:0.095247 |  even a player running to close the goalkeeper down, David Ryan.
+[2463.16 - 2466.16] P:1584.94 E:0.096912 |  That means they're vulnerable elsewhere, they're playing 1v1,
+[2466.16 - 2468.16] P:1370.45 E:0.071064 |  certainly at the back end.
+[2468.16 - 2470.16] P:1388.12 E:0.107384 |  They're not tracking Ben White's run at all.
+[2470.16 - 2473.16] P:1312.31 E:0.089010 |  That's something they also could try and take advantage of.
+[2473.16 - 2476.16] P:1420.55 E:0.089022 |  They just run people away, allowing the space to run into.
+[2476.16 - 2478.16] P:1635.55 E:0.079378 |  It will take a quality pass for Atalanta,
+[2478.16 - 2481.16] P:1548.28 E:0.105135 |  leaving themselves slightly vulnerable for those long passes.
+[2484.16 - 2486.16] P:1613.21 E:0.105972 |  Ball goes long by Carlos Serki,
+[2486.16 - 2493.16] P:1545.09 E:0.096056 |  held up and lifted out to this near side by Retigy to Zappacosta.
+[2493.16 - 2499.16] P:1311.88 E:0.095436 |  Right-wing back will pass the ball into Jim City, central defender.
+[2499.16 - 2503.16] P:1430.39 E:0.098369 |  One of the central midfielders now is DeRoun, his other one is Edison.
+[2503.16 - 2505.16] P:1538.79 E:0.095114 |  Out it goes to Colassenac.
+[2505.16 - 2510.16] P:1538.29 E:0.095464 |  Every outfield player of Atalanta is in the Arsenal half on this right-hand side.
+[2510.16 - 2513.16] P:1579.16 E:0.087817 |  Edison now swings it into the air.
+[2513.16 - 2516.16] P:1622.09 E:0.105687 |  Timberdough climbs too early, comes off the top of his head
+[2516.16 - 2519.16] P:1648.29 E:0.102717 |  and will go out for an Atalanta throw on this near side.
+[2519.16 - 2523.16] P:1582.77 E:0.101663 |  Three and a half minutes to go and a half time on BBC Radio 5 Live.
+[2524.16 - 2527.16] P:1464.81 E:0.092463 |  Jim City, J-Zoos in front of it.
+[2527.16 - 2531.16] P:1631.91 E:0.095707 |  Arsenal have everybody back behind the ball in their red and white shirts.
+[2531.16 - 2534.16] P:1587.81 E:0.089763 |  Edison along the ground, out towards Rujiri.
+[2534.16 - 2539.16] P:1698.05 E:0.097863 |  Rujiri with the cross, bouncing ball, rises up the chest of De Katlara.
+[2539.16 - 2545.16] P:1371.95 E:0.094878 |  And it's cleared on the volley by Thomas Pate before it can fall to the feet of Adamola Lukman.
+[2545.16 - 2548.16] P:1500.82 E:0.100460 |  Sackenau on that right-hand side looks to release J-Zoos.
+[2548.16 - 2554.16] P:1784.06 E:0.101196 |  J-Zoos was a heavy touch
+[2554.16 - 2560.16] P:1612.74 E:0.093433 |  and then has actually caught Colassenac in his attempt to get the ball off that second touch.
+[2560.16 - 2564.16] P:1609.89 E:0.095947 |  He fouls the former Arsenal player. It'll be a free kick to Atalanta.
+[2564.16 - 2570.16] P:1368.49 E:0.098575 |  So whilst there is a stoppage in play, a reminder of our next live football on BBC Radio 5 Live.
+[2570.16 - 2572.16] P:1552.02 E:0.100228 |  Mark Chapman as always.
+[2572.16 - 2577.16] P:1579.52 E:0.086540 |  From midday on Saturday, the usual goal service as we're at Anfield once again.
+[2577.16 - 2582.16] P:1651.58 E:0.092311 |  Liverpool against Bournemouth to be followed by Crystal Palace, Manchester United at 5.30.
+[2582.16 - 2589.16] P:1638.29 E:0.092580 |  And on Sunday Brighton, Nottingham Forest at 2 before Manchester City Arsenal at 4.30.
+[2589.16 - 2593.16] P:1409.17 E:0.091622 |  Well, you will once again be on commentary duty.
+[2593.16 - 2596.16] P:1235.46 E:0.091143 |  I will.
+[2596.16 - 2600.16] P:1606.03 E:0.082592 |  Another big game to look forward to.
+[2600.16 - 2607.16] P:1629.60 E:0.089415 |  Arsenal will probably be thinking about that at the moment with this game still to play for.
+[2607.16 - 2615.16] P:1545.60 E:0.095931 |  And beaten against Manchester City last season in the two games that incidentally came on the back of European matches.
+[2615.16 - 2619.16] P:1444.74 E:0.103346 |  As the Catlara overruns it out of play, goes for a throw.
+[2619.16 - 2625.16] P:1463.56 E:0.081374 |  Miquel Arterto not happy with Thomas Partey snapping his hands quickly.
+[2625.16 - 2629.16] P:1616.89 E:0.090985 |  I think he wants Thomas Partey to be a little bit sharper there in the midfield.
+[2629.16 - 2634.16] P:1671.78 E:0.091917 |  Yeah, he's one of the people that have been called brits of giving the ball away a little bit cheaply.
+[2634.16 - 2639.16] P:1490.73 E:0.088641 |  He's also just lost two or three, maybe one battles.
+[2639.16 - 2644.16] P:1319.28 E:0.097232 |  He came out on the important one inside his own penalty area, of course four or five minutes ago.
+[2644.16 - 2650.16] P:1478.39 E:0.086318 |  But centre of the pitch, he's just been a bit slow to react and his manager just giving him a heads up.
+[2650.16 - 2652.16] P:1544.55 E:0.078324 |  He's not been wide pass again.
+[2652.16 - 2658.16] P:1537.63 E:0.095983 |  David Ryder looks towards wide, that moves set red very, very well by Matteo Ruggieri.
+[2658.16 - 2662.16] P:1418.33 E:0.102780 |  The left wing back, saw it, dealt with it with a head out of play.
+[2662.16 - 2664.16] P:1210.73 E:0.091167 |  It goes for a throw.
+[2664.16 - 2669.16] P:1390.65 E:0.100712 |  About 60 seconds away from seeing how much added on time there will be here in Bergamo.
+[2669.16 - 2672.16] P:1474.05 E:0.102904 |  Still 0-0 from the throw, a little chest off.
+[2672.16 - 2675.16] P:1613.69 E:0.090730 |  He's got a little bit of a chance for these backs to go all the edge of the penalty area.
+[2675.16 - 2677.16] P:1823.81 E:0.103383 |  Plays the ball back, Thomas Partey now to Gabrielle.
+[2677.16 - 2680.16] P:1809.31 E:0.096965 |  Gabrielle joins the attack out towards Martinelli.
+[2680.16 - 2683.16] P:1781.58 E:0.092883 |  Martinelli looks to go on the outside of Zappa Costa.
+[2683.16 - 2686.16] P:1840.19 E:0.100948 |  Let's the ball settle, bobble the fraction for him.
+[2686.16 - 2695.16] P:1712.91 E:0.100719 |  Back to Gabrielle in field, Thomas Partey out towards Gabrielle and in between Gabrielle and Martinelli.
+[2695.16 - 2703.16] P:1612.60 E:0.087290 |  Again, Artezza tries to raise his players because just another simple ball went astray.
+[2703.16 - 2707.16] P:1541.33 E:0.093234 |  What could have been a promising position, nothing materialised from it?
+[2707.16 - 2708.16] P:1716.03 E:0.099391 |  Yeah, it's been the story of the half.
+[2708.16 - 2710.16] P:1434.74 E:0.090237 |  Thomas Partey again there on that occasion.
+[2710.16 - 2713.16] P:1523.85 E:0.091192 |  Just went off for a seam, like they're in control.
+[2713.16 - 2715.16] P:1643.80 E:0.105922 |  Asking questions, just giving the ball away.
+[2715.16 - 2722.16] P:1522.93 E:0.094141 |  So unnecessarily, when it went in between two players, slowly agonisingly rolled out out of play.
+[2722.16 - 2726.16] P:1522.67 E:0.092070 |  And suddenly they've lost momentum now they're having to chase the ball again.
+[2726.16 - 2733.16] P:1506.71 E:0.095227 |  Giorginho did the pre-match press conference yesterday.
+[2733.16 - 2738.16] P:1640.02 E:0.083503 |  Also spoke here at the stadium as well to some of the TV stations.
+[2738.16 - 2744.16] P:1470.90 E:0.099491 |  Giorginho, one of the couple of changes that Michele Artezza made from the side that went away
+[2744.16 - 2746.16] P:1293.54 E:0.095078 |  and taught them at the weekend.
+[2746.16 - 2751.16] P:1458.34 E:0.089388 |  They're the one minute of added on time here in this first half that remains
+[2751.16 - 2758.16] P:1478.09 E:0.083144 |  Atalanta-nil, Arsenal-nil for their first ever meeting in any competition.
+[2758.16 - 2762.16] P:1421.30 E:0.093169 |  The round from the back, Jim City gives it away.
+[2762.16 - 2770.16] P:1427.58 E:0.087919 |  Both sides now guilty of a little bit of tardiness as Timber waits for the throw.
+[2770.16 - 2776.16] P:1466.29 E:0.098245 |  I think very, very soon Clement Erplan is going to blow his half-time whistle.
+[2776.16 - 2783.16] P:1490.47 E:0.093774 |  Maybe during the 15 minutes of break the Atalanta supporters might rest their voices.
+[2783.16 - 2786.16] P:1477.29 E:0.110893 |  There's going to be some hoarse voices tomorrow.
+[2786.16 - 2789.16] P:1628.82 E:0.089276 |  They've never stopped singing throughout this first half.
+[2789.16 - 2794.16] P:1714.93 E:0.097363 |  It's a saliva. There is the half-time whistle.
+[2794.16 - 2796.16] P:1779.47 E:0.112290 |  So Arsenal have defended well.
+[2796.16 - 2799.16] P:1681.26 E:0.101054 |  Stricted Atalanta to limited opportunities.
+[2799.16 - 2803.16] P:1508.69 E:0.088362 |  The Catalaners' first time left for the shot over the top.
+[2803.16 - 2807.16] P:1598.37 E:0.087350 |  Three efforts off-target for Arsenal.
+[2807.16 - 2812.16] P:1563.43 E:0.094195 |  But the best opportunity by far was a sack of free kick after 13 minutes.
+[2812.16 - 2813.16] P:1254.33 E:0.120132 |  It was low.
+[2813.16 - 2816.16] P:1580.17 E:0.083147 |  Canna Secchi made an excellent save to his right.
+[2816.16 - 2821.16] P:1631.44 E:0.086111 |  Yeah, I think the story of the half is two teams that are trying to push forward,
+[2821.16 - 2823.16] P:1687.72 E:0.094291 |  trying to make something happen,
+[2823.16 - 2826.16] P:1542.91 E:0.095206 |  but they're very wary of being caught out and exposed at the other end.
+[2826.16 - 2828.16] P:1507.03 E:0.086693 |  They're not exposing themselves in any way.
+[2828.16 - 2831.16] P:1504.21 E:0.083610 |  Both teams have had half opportunities.
+[2831.16 - 2836.16] P:1441.23 E:0.084388 |  As I say, Arsenal took a brilliant save to keep out that Pekaya sack of free kick.
+[2836.16 - 2839.16] P:1383.32 E:0.087710 |  That's pretty much the limit of what they've had.
+[2839.16 - 2843.16] P:1423.20 E:0.090188 |  I think both managers will be asking for that little bit more in the second half,
+[2843.16 - 2847.16] P:1438.81 E:0.080622 |  a little bit more end product, a little bit more to trouble goalkeepers
+[2847.16 - 2849.16] P:1576.66 E:0.066851 |  and score the opening goal.
+[2849.16 - 2855.16] P:1536.21 E:0.081183 |  Both teams are slightly sloppy, if I'm being honest, when it's come to the final pass.
+[2855.16 - 2859.16] P:1668.97 E:0.095462 |  And Sturmgratz have just equalised in France, so Bress won Sturmgratz won,
+[2859.16 - 2865.16] P:1521.07 E:0.087238 |  which means that all the games being played tonight at 8 o'clock are level going in at half-time,
+[2865.16 - 2868.16] P:1487.11 E:0.081210 |  including this one, Atalanta 0, Arsenal 0.
+[2868.16 - 2873.16] P:1512.00 E:0.094773 |  They are, yeah, that's the only goal, so on all the other three are level at one all.
+[2873.16 - 2878.16] P:1450.74 E:0.081938 |  It's sort of half being cautious and half being sloppy, isn't it, Leon?
+[2878.16 - 2883.16] P:1578.67 E:0.088611 |  Yeah, definitely. You know, every time Arsenal do seem like they're getting a bit of momentum
+[2883.16 - 2886.16] P:1586.07 E:0.099425 |  and getting into that final third and just starting to allow,
+[2886.16 - 2892.16] P:1481.81 E:0.089752 |  feeling confident enough to allow their full backs to push on and make runs.
+[2892.16 - 2896.16] P:1543.91 E:0.089946 |  They start giving the ball away and suddenly, if that becomes repetitive,
+[2896.16 - 2899.16] P:1556.27 E:0.093114 |  suddenly you're hesitant to make them runs in case you give the ball away,
+[2899.16 - 2902.16] P:1424.09 E:0.096898 |  in case you have to make that 60-yard run back.
+[2902.16 - 2906.16] P:1492.64 E:0.086504 |  So as the halves progress, they've started to not make the runs,
+[2906.16 - 2910.16] P:1487.79 E:0.094770 |  which obviously is a knock-on effect so you don't really expose the opposition.
+[2910.16 - 2913.16] P:1392.12 E:0.094239 |  So yeah, I think it all falls down to sloppiness
+[2913.16 - 2916.16] P:1429.12 E:0.095063 |  and you can see Miquel Arteta on the touchline there,
+[2916.16 - 2919.16] P:1388.21 E:0.093256 |  trying to ask for more from his players in possession of the ball,
+[2919.16 - 2921.16] P:1433.43 E:0.089557 |  and I'm sure that'll be the message he's given them half-time.
+[2921.16 - 2924.16] P:1161.22 E:0.096502 |  And Nadir Manuah, who's alongside me in the match of the day Champions League,
+[2924.16 - 2927.16] P:1333.28 E:0.095958 |  that's been exactly the discussion in here, hasn't it,
+[2927.16 - 2931.16] P:1305.45 E:0.093870 |  ahead of the highlights show tonight, on the full backs being caught.
+[2931.16 - 2934.16] P:1448.62 E:0.082105 |  Yeah, absolutely. And it's not just the full backs in some ways
+[2934.16 - 2936.16] P:1357.82 E:0.096312 |  because I think as you look at the Atalanta side,
+[2936.16 - 2939.16] P:1343.57 E:0.090601 |  there are times when they go sort of player-to-player, man-to-man.
+[2939.16 - 2942.16] P:1572.41 E:0.079853 |  And Arsenal are really finding a way to exploit that in a minute
+[2942.16 - 2945.16] P:1339.53 E:0.087960 |  and at times they're taking the safer decision to just roll their round over back
+[2945.16 - 2947.16] P:1598.36 E:0.083170 |  to just drop off retreat into your position.
+[2947.16 - 2951.16] P:1506.67 E:0.091654 |  And I think this is a game where Arsenal should, in my opinion, have more possession.
+[2951.16 - 2954.16] P:1333.84 E:0.093603 |  They should be able to potentially create some rotations
+[2954.16 - 2956.16] P:1665.19 E:0.082406 |  and some link-ups which give them better opportunities.
+[2956.16 - 2960.16] P:1540.50 E:0.077085 |  But instead it feels like a very safe performance from Arsenal at this moment in time,
+[2960.16 - 2962.16] P:1291.81 E:0.074419 |  but if you're going to be successful in Europe,
+[2962.16 - 2964.16] P:1299.16 E:0.083310 |  you've got to be able to be on the front foot as well.
+[2964.16 - 2967.16] P:1621.94 E:0.091352 |  And actually, watching all, thank you to Leon and thank you to Ian,
+[2967.16 - 2969.16] P:1360.91 E:0.078581 |  back with them for the second half.
+[2969.16 - 2972.16] P:1763.32 E:0.082968 |  Actually, with all the four games on the monitors that we're watching,
+[2972.16 - 2974.16] P:1748.58 E:0.082849 |  that's the most cautious of the four, actually, isn't it?
+[2974.16 - 2977.16] P:1380.57 E:0.076739 |  It is. It is an even, I think from an Atalanta standpoint,
+[2977.16 - 2980.16] P:1394.67 E:0.079886 |  there's talk about Ritegi and the goals that he scored with his head.
+[2980.16 - 2983.16] P:1755.37 E:0.081202 |  So as I'm watching the game there, I'm seeing Gabriel Ciliber on Pate
+[2983.16 - 2987.16] P:1879.36 E:0.086764 |  doing a 3v1 marking job on him, but surely it doesn't need three.
+[2987.16 - 2990.16] P:1610.10 E:0.056779 |  You know, it definitely needs one, but three feels like a lot.
+[2990.16 - 2994.16] P:1842.65 E:0.055548 |  Unfortunately, as I say, it's not been great,
+[2994.16 - 2998.16] P:1706.91 E:0.061008 |  but I'd imagine Arteza is going to sort of sit his players down
+[2998.16 - 3000.16] P:1417.65 E:0.080364 |  and try and find something more positive in there,
+[3000.16 - 3002.16] P:1588.41 E:0.081233 |  because he knows they can play better than that.
+[3002.16 - 3006.16] P:1634.82 E:0.084176 |  Let's bring the details of the other three eight o'clock games that are going on at the moment.
+[3006.16 - 3010.16] P:1817.42 E:0.078492 |  John Bennett is with us, and Barcelona had an awful start,
+[3010.16 - 3012.16] P:1737.03 E:0.074951 |  but they managed to get themselves back into it.
+[3012.16 - 3014.16] P:1612.24 E:0.067798 |  Monaco will start with that.
+[3014.16 - 3016.16] P:1770.52 E:0.085730 |  Absolutely. Nightmare start, yeah, you're right.
+[3016.16 - 3018.16] P:1466.09 E:0.107081 |  Monaco won Barcelona wards.
+[3018.16 - 3022.16] P:1740.46 E:0.083717 |  Eric Garcia sent off the Barcelona defender professional foul,
+[3022.16 - 3024.16] P:1618.38 E:0.091418 |  and that was after just 10 minutes,
+[3024.16 - 3029.16] P:1884.05 E:0.090358 |  seven minutes later a young French rising star Magnus Agliou scored
+[3029.16 - 3033.16] P:1866.93 E:0.082390 |  with a low shot for Monaco, but then the equaliser for Barcelona.
+[3033.16 - 3035.16] P:1556.29 E:0.111557 |  And this was an amazing moment.
+[3035.16 - 3038.16] P:1409.04 E:0.103221 |  La Ménia Mál at 17, we all know about him after the Euros,
+[3038.16 - 3042.16] P:1949.54 E:0.086578 |  but this was his first ever Champions League goal, brilliant goal,
+[3042.16 - 3046.16] P:1597.96 E:0.082495 |  ran at a defender, cut in on his left foot, low finish just outside the box.
+[3046.16 - 3050.16] P:1882.98 E:0.085346 |  Michael Jordan watching in the crowd, it's genius watching genius, I think.
+[3050.16 - 3053.16] P:1799.71 E:0.090394 |  Elsewhere, Atletico Madrid won, Arby Leipzig won,
+[3053.16 - 3055.16] P:1724.41 E:0.092549 |  so Leipzig scored very early through.
+[3055.16 - 3058.16] P:1921.08 E:0.080377 |  Benjamin Cesko after a good counter-attack,
+[3058.16 - 3060.16] P:1448.26 E:0.100368 |  Antoine Griezmann equalised with a volley,
+[3060.16 - 3064.16] P:1909.27 E:0.080976 |  and it's Brest won, Sturmgratz won, Sturmgratz equalising just before half-time,
+[3064.16 - 3066.16] P:1885.95 E:0.085154 |  as Ian Dennis was saying,
+[3066.16 - 3071.16] P:1696.65 E:0.096425 |  but the Brest goal was scored by Hugo Magnetti, a volley that's their first ever goal in European football,
+[3071.16 - 3074.16] P:1682.92 E:0.083699 |  and it's a great story because he's been at the club a long time,
+[3074.16 - 3076.16] P:1742.76 E:0.048709 |  played for them in the second tier.
+[3076.16 - 3081.16] P:1469.29 E:0.083138 |  It's not a valid game of football anymore unless you have some American sporting legend sitting there.
+[3081.16 - 3084.16] P:1250.81 E:0.095602 |  Tom Brady one day, Michael Jordan another day.
+[3084.16 - 3087.16] P:1699.07 E:0.080393 |  Has Jordan got Gary Neville next to him?
+[3087.16 - 3089.16] P:1735.46 E:0.073314 |  He's not this time, no.
+[3089.16 - 3090.16] P:1640.49 E:0.100542 |  Thank you very much, John.
+[3090.16 - 3092.16] P:1940.86 E:0.092784 |  Two early games in the Champions League,
+[3092.16 - 3095.16] P:1549.77 E:0.083215 |  and Red Star 1, Benfica 2 was how it finished,
+[3095.16 - 3099.16] P:1764.68 E:0.073345 |  and Feyenoord 0 by a Lavercouzen 4.
+[3099.16 - 3104.16] P:1635.74 E:0.084954 |  So the second half of Atalanta-Arcel on the way here on Five Live Goal is at the break.
+[3104.16 - 3106.16] P:2028.00 E:0.051683 |  Let's just get the latest news from Alison Hughes.
+[3106.16 - 3108.16] P:1711.44 E:0.099811 |  The voice of the UK.
+[3108.16 - 3110.16] P:1186.41 E:0.132590 |  And the home of the Premier League.
+[3110.16 - 3113.16] P:1489.92 E:0.120219 |  This is BBC Radio Five Live.
+[3115.16 - 3122.16] P:1639.74 E:0.087482 |  Israel's army says its hit around 30 Hezbollah rocket launches in airstrikes carried out in Lebanon.
+[3122.16 - 3128.16] P:1589.60 E:0.092136 |  In a statement, the Israeli Defence Forces said they also struck a weapons storage facility in the south.
+[3128.16 - 3133.16] P:1594.74 E:0.083922 |  Earlier, the leader of Hezbollah said the Lebanese militant group would fight on,
+[3133.16 - 3136.16] P:1740.06 E:0.074727 |  despite attacks on its communication systems.
+[3136.16 - 3140.16] P:1378.15 E:0.089536 |  At least 37 people died and thousands were injured across Lebanon
+[3140.16 - 3144.16] P:1470.16 E:0.089211 |  when pagers and walkie-talkies used by the group exploded.
+[3144.16 - 3149.16] P:1611.77 E:0.078559 |  Hassan Nasrallah had blamed Israel and said it could be seen as a declaration of war.
+[3149.16 - 3152.16] P:1458.57 E:0.067557 |  Here's our security correspondent, Frank Gardner.
+[3152.16 - 3154.16] P:1220.33 E:0.097624 |  Hezbollah is in disarray. They are hurting.
+[3154.16 - 3156.16] P:1558.92 E:0.080112 |  They've been humiliated by this.
+[3156.16 - 3159.16] P:1738.22 E:0.061888 |  It's a massive blow to them tactically.
+[3159.16 - 3163.16] P:1841.97 E:0.084623 |  It doesn't necessarily change the strategic situation on the northern border.
+[3163.16 - 3169.16] P:1463.81 E:0.075180 |  Hezbollah still got their arsenal of 150,000 rockets and missiles that can threaten Israel.
+[3169.16 - 3173.16] P:1362.53 E:0.074050 |  The residents on both sides of that border are still kept apart from their homes.
+[3173.16 - 3179.16] P:1613.93 E:0.048513 |  So what matters now is how are they going to retaliate and when.
+[3179.16 - 3183.16] P:1464.30 E:0.082650 |  The Metropolitan Police says it's aware of various allegations
+[3183.16 - 3186.16] P:1503.43 E:0.081720 |  against the late owner of Harrod's, Mohamed Al-Fayed.
+[3186.16 - 3189.16] P:1571.00 E:0.078891 |  Five women have told the BBC they were raped by him
+[3189.16 - 3195.16] P:1409.26 E:0.091055 |  and more women came forward today to say they'd been sexually assaulted by the billionaire who died last year.
+[3195.16 - 3199.16] P:1831.29 E:0.073968 |  The Bank of England's left interest rates unchanged at 5%,
+[3199.16 - 3203.16] P:1676.83 E:0.085317 |  with inflation remaining at 2.2% last month.
+[3203.16 - 3207.16] P:1716.61 E:0.063666 |  The Governor says interest rates are on the path downwards.
+[3207.16 - 3213.16] P:1645.53 E:0.084468 |  Sakea Stalmer has defended accepting free corporate tickets to see Arsenal at the Emirates Stadium.
+[3213.16 - 3217.16] P:1475.38 E:0.083106 |  The Prime Minister told the BBC it was a common-sense security decision.
+[3217.16 - 3223.16] P:1721.48 E:0.072890 |  I've been going for year after year to the same seats in the stands with my son and with our friends.
+[3223.16 - 3228.16] P:1759.80 E:0.078721 |  Since I've been Prime Minister, the security advice is don't go in the stands,
+[3228.16 - 3234.16] P:1860.70 E:0.073511 |  not least because it will cost a fortune to the taxpayer in security police officers if you choose to go in the stands.
+[3234.16 - 3237.16] P:1729.12 E:0.084140 |  I've taken that advice, I've been offered a ticket somewhere else.
+[3237.16 - 3243.16] P:1792.43 E:0.081089 |  Frankly, I'd rather be in the stands, but I'm not going to ask the taxpayer to indulge me to be in the stands.
+[3243.16 - 3248.16] P:1676.78 E:0.079097 |  And the writer and broadcaster Tony Soper has died at the age of 95.
+[3248.16 - 3255.16] P:1636.59 E:0.080673 |  He was a pioneer of wildlife programs and co-founded the BBC's Natural History Unit in the 1950s.
+[3264.16 - 3268.16] P:1784.22 E:0.130059 |  The National League of Nations has confirmed the signing of Declan Rice.
+[3268.16 - 3272.16] P:2000.15 E:0.137870 |  Manchester City have agreed a deal to sign Erling Harland.
+[3272.16 - 3274.16] P:1850.27 E:0.144138 |  Sakea Stalmer!
+[3274.16 - 3279.16] P:1432.14 E:0.137211 |  They are champions again, they've won it four years running.
+[3279.16 - 3282.16] P:1757.12 E:0.111305 |  The level is higher and higher.
+[3282.16 - 3285.16] P:1816.75 E:0.136494 |  Five Live Premier League Sunday.
+[3285.16 - 3288.16] P:1711.74 E:0.131707 |  Welcome to you Manchester City against Arsenal.
+[3288.16 - 3290.16] P:1145.52 E:0.134446 |  Listen Sunday from 12.
+[3290.16 - 3292.16] P:1699.21 E:0.092571 |  BBC Sounds.
+[3292.16 - 3294.16] P:1015.02 E:0.162949 |  This is Five Live Sports.
+[3294.16 - 3297.16] P:1360.07 E:0.132889 |  The Champions League with Mark Chapman.
+[3297.16 - 3300.16] P:1265.27 E:0.133829 |  Listen on BBC Sounds.
+[3300.16 - 3306.16] P:1652.43 E:0.086962 |  And Arsenal in action this evening and their goal is to wait for Atalanta in the Champions League, second half.
+[3306.16 - 3314.16] P:1762.14 E:0.086615 |  On the way, we're just a few days away from Joshua Dubois for the IBF World Heavyweight title at Wembley.
+[3314.16 - 3316.16] P:1688.58 E:0.086498 |  So that's on Saturday night.
+[3316.16 - 3318.16] P:1680.79 E:0.097210 |  Steve Bunce is with us.
+[3318.16 - 3323.16] P:1759.01 E:0.062996 |  He's the biggest ever to be Britain's biggest ever boxing crowd, isn't it?
+[3323.16 - 3327.16] P:1973.26 E:0.088676 |  Officially, Chapman's 96,000 paid, that's the biggest ever crowd.
+[3327.16 - 3338.16] P:1967.36 E:0.085730 |  And what's not been mentioned, and I'll mention it now, is that unofficially they will be receiving more than any two boxes I've ever received for sharing a ring in Britain.
+[3338.16 - 3339.16] P:2016.43 E:0.076224 |  So it's a bit of history.
+[3339.16 - 3342.16] P:2069.71 E:0.092018 |  Ka-ching, ka-ching, as they say in the trade.
+[3342.16 - 3344.16] P:1886.04 E:0.083872 |  Not in Steve Bunce's pocket, you understand.
+[3344.16 - 3346.16] P:1777.10 E:0.080621 |  There's no ka-ching anywhere in my pocket, Chapman's.
+[3346.16 - 3352.16] P:1779.77 E:0.086410 |  They get the same for covering a fight at your call with 800 people in the crowd, as you well know.
+[3352.16 - 3360.16] P:1818.68 E:0.077693 |  When you say the amount that they're both getting, do you mean that based on the receipts, just on the gate receipts, or just the whole purse?
+[3360.16 - 3362.16] P:2117.99 E:0.097472 |  No, just on what we're hearing there being paid.
+[3362.16 - 3367.16] P:1872.45 E:0.097844 |  They'll be on guarantees and then they'll be on what we call in boxing, euphemistically, the upside of the pay-per-view.
+[3367.16 - 3370.16] P:1824.70 E:0.092677 |  And bear in mind, Chapman, something unique has happened in boxing.
+[3370.16 - 3372.16] P:2211.26 E:0.089905 |  Sky are working with TNT.
+[3372.16 - 3376.16] P:1970.17 E:0.101665 |  TNT are working with Sky and the Zone are working with all three of them.
+[3376.16 - 3378.16] P:1676.49 E:0.094795 |  It wouldn't happen anywhere else.
+[3378.16 - 3381.16] P:1845.42 E:0.083994 |  And the proceeds, they're all doing a pay-per-view, all at the same price.
+[3381.16 - 3391.16] P:1895.94 E:0.084260 |  They're going to a big hat and somewhere on Monday morning, someone will go into that big hat and carve it up and work out who's owed what and who gets this and who gets that.
+[3391.16 - 3396.16] P:1834.87 E:0.082802 |  By the end of the day, Daniel Dubois and Anthony Joshua walk away with a tiny fortune.
+[3396.16 - 3398.16] P:1769.42 E:0.068867 |  I mean, this crowd will be immense.
+[3398.16 - 3400.16] P:1696.16 E:0.086971 |  So you're talking 96,000.
+[3400.16 - 3407.16] P:1742.31 E:0.076778 |  The fact that Joshua has fought in front of 90,000 before at Wembley, which was what?
+[3407.16 - 3409.16] P:1969.53 E:0.065555 |  Clitch Go in 2017.
+[3409.16 - 3410.16] P:1734.69 E:0.053610 |  And it was overwhelming.
+[3410.16 - 3412.16] P:1790.15 E:0.078874 |  So does that give him an advantage?
+[3412.16 - 3414.16] P:1810.95 E:0.081181 |  Not just that fight.
+[3414.16 - 3418.16] P:1912.98 E:0.084432 |  He's had another fight at Tottenham Stadium in front of about 60,000.
+[3418.16 - 3423.16] P:1956.93 E:0.090615 |  He fought twice down at the Millennium Stadium in Cardiff in front of 60,000 and 70,000.
+[3423.16 - 3426.16] P:1859.13 E:0.089194 |  Plus he had another 80,000 at Wembley.
+[3426.16 - 3429.16] P:1675.29 E:0.098576 |  No one's ever done what he's done, not just in Britain.
+[3429.16 - 3435.16] P:1923.72 E:0.079267 |  No one's ever done what he's done worldwide, had that many 65,000 plus gates under his belt.
+[3435.16 - 3438.16] P:1863.64 E:0.092157 |  And that gives him a massive advantage, Chappers.
+[3438.16 - 3445.16] P:1847.81 E:0.089504 |  Daniel Dubois, he's walked out in front of 50,000 people once in Poland, but hey ho, that's not 96,000 at Wembley.
+[3445.16 - 3449.16] P:1861.32 E:0.092425 |  And I've got to tell you, it seems like 95,000 of them are going to be cheering on AJ.
+[3449.16 - 3450.16] P:1720.88 E:0.084745 |  They love him.
+[3450.16 - 3454.16] P:1609.95 E:0.078684 |  They've both been speaking at the press conference earlier, let's hear from them.
+[3454.16 - 3457.16] P:1381.47 E:0.079723 |  The world title, I need to retain it and then hold on to it.
+[3457.16 - 3463.16] P:1342.23 E:0.080189 |  So yes, it's a great thing to have, but I need to legitimise myself by winning this fight.
+[3463.16 - 3466.16] P:1234.69 E:0.086099 |  So I'm ready to go to war, I'm ready for a fight.
+[3466.16 - 3469.16] P:1425.03 E:0.079756 |  Do you expect to knock out Anthony Joshua?
+[3469.16 - 3471.16] P:1193.05 E:0.074372 |  My name is necessary.
+[3471.16 - 3473.16] P:1206.32 E:0.078072 |  Knock out wherever way it comes.
+[3473.16 - 3477.16] P:1506.11 E:0.077307 |  I showed Daniel and his whole team the respect they deserved during training camp.
+[3477.16 - 3481.16] P:1376.04 E:0.075260 |  And that's going to put me in good stead on Saturday.
+[3481.16 - 3483.16] P:1307.77 E:0.056002 |  So yeah, I'm tough.
+[3483.16 - 3485.16] P:1405.29 E:0.055993 |  So is he.
+[3485.16 - 3489.16] P:1304.59 E:0.078951 |  We've got all similarities, so made the best man win really.
+[3489.16 - 3492.16] P:1325.69 E:0.070115 |  And good luck to him, good luck to his team.
+[3492.16 - 3495.16] P:1231.72 E:0.070279 |  Thank you to my team for their efforts as well.
+[3495.16 - 3496.16] P:1356.22 E:0.071190 |  Yeah, British boxing.
+[3496.16 - 3501.16] P:1220.08 E:0.091774 |  One thing when I first started boxing, I said I want to bring the headweight division back alive in the UK and I think we've done that.
+[3501.16 - 3504.16] P:1615.77 E:0.057321 |  So well done to everyone here as well.
+[3504.16 - 3516.16] P:1828.75 E:0.060833 |  Without Steve sort of being disrespectful to Dubois, does the sport need Joshua to win to keep the momentum of the big fights coming?
+[3516.16 - 3517.16] P:2068.96 E:0.069541 |  Absolutely it does, Chappers.
+[3517.16 - 3519.16] P:1879.04 E:0.084697 |  And as you say, it's not being disrespectful.
+[3519.16 - 3520.16] P:1984.25 E:0.059519 |  That's just a fact.
+[3520.16 - 3530.16] P:1830.84 E:0.080882 |  Daniel Dubois is talking about how he has to win this fight, even though he's the champion, not to defend his title, but to take the title away from the king.
+[3530.16 - 3536.16] P:1849.50 E:0.080340 |  So what Joshua's done, we'll look back in five years and it's just he had 12 consecutive world title fights at one point.
+[3536.16 - 3537.16] P:1854.58 E:0.086985 |  He's loved and adored.
+[3537.16 - 3538.16] P:1401.89 E:0.097480 |  You've got to be around him, Chappers.
+[3538.16 - 3544.16] P:1795.97 E:0.083350 |  One day, take a day off from your football caper, come with me to an Anthony Joshua walkabout and you'll see some love and adoration.
+[3544.16 - 3546.16] P:1849.85 E:0.082909 |  And I think it might even shock you.
+[3546.16 - 3551.16] P:1765.36 E:0.077002 |  No, I'm aware that he is likes.
+[3551.16 - 3554.16] P:1983.78 E:0.094086 |  Yeah, no, I think it semi runs a bit deeper than that.
+[3554.16 - 3559.16] P:1922.86 E:0.090027 |  I have that expression, you know, you'll kiss a baby, you're kissing babies' heads all the time.
+[3559.16 - 3562.16] P:1723.95 E:0.081383 |  You know, people do talk about him in supermarkets.
+[3562.16 - 3563.16] P:1880.31 E:0.068427 |  He's been through an awful lot.
+[3563.16 - 3570.16] P:1770.03 E:0.083728 |  I've never known any boxer beyond that a pressure he's been under since he turned professional in 2013.
+[3570.16 - 3573.16] P:1772.52 E:0.096691 |  And he's under immense pressure on Saturday.
+[3573.16 - 3574.16] P:1511.99 E:0.064419 |  Why is that?
+[3574.16 - 3582.16] P:1953.28 E:0.088711 |  Because I think he was, you know, he was a British super heavyweight Olympic gold medalist and people warmed to the story.
+[3582.16 - 3588.16] P:1812.44 E:0.090008 |  They warmed to the fact that four and a half years earlier, he was on tag and he could barely get in and back from the gym in time.
+[3588.16 - 3590.16] P:1932.18 E:0.094269 |  He'd had his trials and tribulations.
+[3590.16 - 3591.16] P:2041.57 E:0.078051 |  He'd come through them.
+[3591.16 - 3595.16] P:1893.76 E:0.098675 |  He defied the odds at the Olympics when he shouldn't have really been anywhere near a medal.
+[3595.16 - 3597.16] P:1909.06 E:0.091246 |  He'd won that glorious gold.
+[3597.16 - 3599.16] P:1921.03 E:0.090562 |  He had brilliant sound bites.
+[3599.16 - 3602.16] P:1961.16 E:0.080618 |  He turned professional and he did what you're meant to do as a heavyweight.
+[3602.16 - 3603.16] P:1814.20 E:0.071962 |  He was a bit stiff.
+[3603.16 - 3609.16] P:1784.19 E:0.088676 |  He was a bit raw, but he hit people on the chin and they went down like a sniper had taken their feet from under them.
+[3609.16 - 3613.16] P:1687.05 E:0.093982 |  And people warmed to him and the crowds just grew and grew and grew and grew.
+[3613.16 - 3620.16] P:1843.38 E:0.083258 |  As I say, 70,000, 70,000, 70,000, 60,000, 90,000 and now 96,000.
+[3620.16 - 3623.16] P:1798.75 E:0.067729 |  That's more, that's like a revolution, Chappers, isn't it?
+[3623.16 - 3624.16] P:1754.72 E:0.089632 |  Steve, thank you.
+[3624.16 - 3626.16] P:1405.54 E:0.098454 |  Steve Bunts with us.
+[3626.16 - 3632.16] P:1721.85 E:0.080741 |  Remarkable performance at Trent Bridge tonight in the first one day international from Australia,
+[3632.16 - 3637.16] P:1795.77 E:0.084220 |  who raced to a seven wicket win with six overs to spare.
+[3637.16 - 3641.16] P:1808.88 E:0.069615 |  They chased down English 300 and 15 all out.
+[3641.16 - 3649.16] P:1732.78 E:0.073081 |  And the star performance came from Travis Hedy, who had an unbeaten 154 of 129 balls.
+[3649.16 - 3653.16] P:1650.76 E:0.072920 |  England were captained tonight for the first time by Harry Brook.
+[3653.16 - 3657.16] P:1523.51 E:0.090826 |  Probably went wrong at the toss where I chose to bat first and ended up being a belter at the end there.
+[3657.16 - 3660.16] P:1270.77 E:0.078201 |  But no, yeah, tough night, but we moved forward.
+[3660.16 - 3663.16] P:1410.75 E:0.078632 |  It's a five game series, so four more games to go.
+[3663.16 - 3666.16] P:1402.37 E:0.059898 |  Was there any uncertainty when you looked at that pitch?
+[3666.16 - 3675.16] P:1384.49 E:0.088409 |  Yeah, last night I was thinking about bowling first and then changed my mind about 20 minutes before the game started, before the toss.
+[3675.16 - 3678.16] P:1199.08 E:0.072468 |  A little bit, but hindsight is a beautiful thing, isn't it?
+[3678.16 - 3681.16] P:1101.81 E:0.061775 |  So, yeah, can't think too much into it.
+[3681.16 - 3684.16] P:1351.44 E:0.086736 |  The team were in a fine position, but then those wickets started falling.
+[3684.16 - 3685.16] P:880.03 E:0.079060 |  What went wrong?
+[3685.16 - 3691.16] P:1231.66 E:0.084310 |  Yeah, probably, me included, we probably didn't rotate spin well enough through that middle period.
+[3692.16 - 3697.16] P:1358.97 E:0.083672 |  It's something I've been working on personally as well, so I'm a little bit frustrated with that.
+[3697.16 - 3708.16] P:1188.72 E:0.080978 |  A few too many dot balls in that middle period, but I felt like halfway time we were probably, we were in a good position with nearly 320 on the board.
+[3708.16 - 3716.16] P:1224.77 E:0.079409 |  Playing how the pitch played in the first half, obviously, under the lights there at the end we saw it got a lot better and they could hit through the ball a lot easier.
+[3716.16 - 3723.16] P:1814.43 E:0.087404 |  That's Harry Brook after England lost the first one day at Trent Bridge to Australia Super League on Sports Extra at the moment.
+[3723.16 - 3729.16] P:1688.34 E:0.081781 |  If we can win tonight, then they'll get the league leaders shield and they are on course to win.
+[3729.16 - 3732.16] P:1639.10 E:0.078775 |  They lead to solve for 28 points to nil at half time.
+[3732.16 - 3735.16] P:1605.31 E:0.094823 |  They're back out in Italy and ready to go.
+[3735.16 - 3739.16] P:1391.08 E:0.079823 |  Goal is between Atalanta and Arsenal here at Lyon.
+[3739.16 - 3748.16] P:1467.92 E:0.104435 |  Thank you Mark, who will now prepare himself for the Champions League highlights on BBC Two at 5 past 11 tonight.
+[3748.16 - 3757.16] P:1465.56 E:0.091452 |  Will we see a goal from this game as the second half is underway live on 5 live and also available on the BBC Sounds app.
+[3757.16 - 3759.16] P:1633.21 E:0.090147 |  Neither side has made a change.
+[3759.16 - 3762.16] P:1603.60 E:0.098681 |  Arsenal in their red and white shirts and white shorts.
+[3762.16 - 3766.16] P:1612.87 E:0.089284 |  In the second half are playing from left to right as we look.
+[3766.16 - 3770.16] P:1441.87 E:0.092252 |  They have Ryre in goal, a back four of white, Gabrielle Saliba and Timber.
+[3770.16 - 3774.16] P:1657.28 E:0.088841 |  Havertz, Partian Rice, Martin Ely, Jézus and Saka.
+[3774.16 - 3779.16] P:1644.77 E:0.082559 |  Atalanta in their blue and black striped shirts and black shorts.
+[3779.16 - 3785.16] P:1614.62 E:0.096154 |  Seckies in goal, a back three of Jim City, Hain and Colassenac, Zappa Costa and Ruggieri.
+[3785.16 - 3793.16] P:1631.60 E:0.090675 |  The wing backs right and left respectively, the round and Edison in the midfield, the Katlada, Retagy and Lutman.
+[3794.16 - 3806.16] P:1560.87 E:0.088104 |  Colassenac thought about passing the ball back, realised Havertz was there to cut off that avenue and by the time he turned the cumbersome defender,
+[3806.16 - 3810.16] P:1520.82 E:0.088223 |  he'd turned so slowly and got out of play for a throw.
+[3810.16 - 3814.16] P:1560.87 E:0.093230 |  Yes, it was good play from Arsenal actually to get him behind.
+[3814.16 - 3821.16] P:1470.22 E:0.091417 |  We talked about playing the forward run, the fact that Atalanta are playing very much man to man on those Arsenal players
+[3821.16 - 3826.16] P:1563.35 E:0.098315 |  and a little bit of teamwork, a little bit of eye contact and suddenly you can create spaces for yourselves.
+[3826.16 - 3831.16] P:1501.79 E:0.090868 |  Well, Havertz ran deep, Jézus ran in behind, they tried to bend the ball into him
+[3831.16 - 3834.16] P:1446.79 E:0.080223 |  and got early signs for the second half for Arsenal.
+[3834.16 - 3842.16] P:1391.32 E:0.095170 |  This is Timber, waits to pass the ball forward and then has a change of heart
+[3842.16 - 3845.16] P:1279.42 E:0.099694 |  and actually goes behind him to find Gabrielle.
+[3845.16 - 3850.16] P:1521.45 E:0.104823 |  Declan Rice coming forward, Arsenal supporters who are tucked away in the corner to our right hand side.
+[3851.16 - 3858.16] P:1550.34 E:0.101302 |  The allocation was 1,304, find their voices, they see Havertz win the ball back
+[3858.16 - 3864.16] P:1761.23 E:0.103623 |  and then actually penalised by Clemente-Turpa and it will be a free kick inside the centre circle
+[3864.16 - 3869.16] P:1687.97 E:0.084967 |  for a foul on Edison and a free kick to Atalanta. Typical, isn't it?
+[3869.16 - 3876.16] P:1587.35 E:0.088793 |  Atalanta 23 games in the Champions League have seen 3.6 goals per game on average
+[3876.16 - 3880.16] P:1538.06 E:0.096479 |  and for what we thought might have been a bit of a spectacle between these two,
+[3880.16 - 3883.16] P:1373.14 E:0.087809 |  so far a bit of a stalemate.
+[3883.16 - 3889.16] P:1664.71 E:0.111781 |  Ball forward to Edison, left side of the penalty area, pushes the ball into the penalty area, goes down.
+[3895.16 - 3900.16] P:1752.09 E:0.082906 |  And the referee has given a penalty.
+[3900.16 - 3908.16] P:1649.90 E:0.084300 |  Edison against Thomas Pate, Pate holding his arm and Edison going to ground.
+[3908.16 - 3916.16] P:1534.45 E:0.088766 |  And Clemente-Turpa has given Atalanta a penalty in the opening three minutes of the second half.
+[3916.16 - 3922.16] P:1610.87 E:0.097520 |  Yeah, I think Thomas Pate has just continued the second half as he finished the first half.
+[3922.16 - 3925.16] P:1693.74 E:0.096668 |  He's just found himself in a poor situation.
+[3925.16 - 3929.16] P:1574.04 E:0.091890 |  It comes from Arsenal again, having good possession of the ball in Atalanta's heart.
+[3929.16 - 3932.16] P:1711.82 E:0.094644 |  Kai Havers gives a sloppy one away, gives a free kick away.
+[3932.16 - 3935.16] P:1792.21 E:0.090211 |  Suddenly you've caught yourselves out, you're defending your own half.
+[3935.16 - 3942.16] P:1636.43 E:0.076933 |  The next thing Edison gets into the inside, Ben Whiten and Saliba.
+[3942.16 - 3945.16] P:1649.30 E:0.083457 |  Thomas Pate goes all the way and he snots it between his legs.
+[3945.16 - 3948.16] P:1828.55 E:0.092483 |  Pate sticks his arm out to try and stop it.
+[3948.16 - 3951.16] P:1798.30 E:0.086830 |  The contact from that alone would not be a penalty kick.
+[3951.16 - 3956.16] P:1873.76 E:0.095208 |  But two strides later, Thomas Pate's left ankle makes contact with Edison inside the penalty area,
+[3956.16 - 3959.16] P:1725.66 E:0.090784 |  brings it down, there's a penalty check over it.
+[3959.16 - 3962.16] P:1722.86 E:0.096974 |  That's a matter of course, the VAR would check the penalty.
+[3962.16 - 3965.16] P:1553.95 E:0.095594 |  There was certainly a wag of the finger from Michel Arteta saying not.
+[3965.16 - 3971.16] P:1487.32 E:0.091895 |  So the Jérôme Brissard is the VAR official who'll be having a look at it.
+[3971.16 - 3976.16] P:1529.60 E:0.092843 |  But by and large, you tend to go with the referee's call, wouldn't you?
+[3976.16 - 3978.16] P:1662.08 E:0.101145 |  Yeah, I'd be surprised if this is overturned.
+[3978.16 - 3982.16] P:1640.16 E:0.092266 |  If it was just on the contact from the arm and the hand of Thomas Pate,
+[3982.16 - 3986.16] P:1799.17 E:0.097564 |  I'd say surely, first of all, the contact was outside the penalty area initially.
+[3986.16 - 3991.16] P:1658.13 E:0.092187 |  But then he lets go in time, but there's a coming together, there's a tangle of legs.
+[3991.16 - 3996.16] P:1811.76 E:0.094432 |  Whether that started just outside the penalty area,
+[3996.16 - 3998.16] P:1874.41 E:0.091505 |  I think that's probably what they're looking at.
+[3998.16 - 4001.16] P:1734.29 E:0.097136 |  I think there's no question that the referee's given a foul.
+[4001.16 - 4003.16] P:1866.54 E:0.084384 |  It's just where the foul took place.
+[4003.16 - 4008.16] P:1669.25 E:0.096682 |  Well, given that there is a delay, there must be a degree of doubt
+[4008.16 - 4011.16] P:1764.84 E:0.098637 |  as to whether this will actually be awarded.
+[4011.16 - 4014.16] P:1849.40 E:0.106202 |  Because this is a lengthy delay now,
+[4014.16 - 4020.16] P:1944.98 E:0.093179 |  but Jérôme Brissard will be looking at where that contact was initiated.
+[4020.16 - 4026.16] P:1834.87 E:0.088564 |  Certainly, Clemente-Pan is holding his earpiece in his left ear,
+[4026.16 - 4032.16] P:1700.84 E:0.097547 |  he's walking away from the players, but the penalty stands.
+[4032.16 - 4038.16] P:1679.60 E:0.091489 |  So Atalanta, after a lengthy delay, have been awarded a penalty here
+[4039.16 - 4041.16] P:1515.73 E:0.090353 |  to see if they can take the lead.
+[4045.16 - 4050.16] P:1606.41 E:0.088478 |  And it is going to be Matteo Rettighi who is going to take it.
+[4050.16 - 4053.16] P:1513.00 E:0.096542 |  He's been in excellent form so far this season.
+[4056.16 - 4061.16] P:1568.54 E:0.093303 |  The Italian international with four goals from five up against David Ryan.
+[4064.16 - 4066.16] P:1565.10 E:0.099312 |  It's at the far end of the ground.
+[4067.16 - 4071.16] P:1631.17 E:0.099294 |  Rettighi still stands immediately behind the ball.
+[4071.16 - 4074.16] P:1710.26 E:0.093716 |  David Ryan is off his goal line at the moment.
+[4074.16 - 4076.16] P:1751.89 E:0.091611 |  He's adjusting his gloves.
+[4076.16 - 4080.16] P:1583.86 E:0.074241 |  It's a straight run-up from Rettighi.
+[4080.16 - 4082.16] P:1462.08 E:0.096026 |  We wait on the referee's whistle.
+[4084.16 - 4087.16] P:1448.36 E:0.090976 |  Rettighi with a straight run-up, waits,
+[4087.16 - 4090.16] P:1448.84 E:0.087133 |  composes himself, bides his time.
+[4090.16 - 4095.16] P:1525.58 E:0.090906 |  It's a stuttering run-up from Rettighi, who right footed.
+[4095.16 - 4099.16] P:1663.58 E:0.108448 |  Rettighi saved by Ryan, a fantastic double save.
+[4099.16 - 4103.16] P:1579.25 E:0.113696 |  He dived away to his right, popped it up, Rettighi with a header,
+[4103.16 - 4108.16] P:1619.43 E:0.104760 |  and Ryan then threw himself to the left to turn it away.
+[4108.16 - 4112.16] P:1607.53 E:0.111202 |  What a double save by David Ryan, and it remains 0-0.
+[4113.16 - 4114.16] P:1462.76 E:0.097193 |  Wow.
+[4114.16 - 4118.16] P:1499.12 E:0.093685 |  I mean, the first save is outstanding.
+[4118.16 - 4121.16] P:1551.28 E:0.101502 |  Low to his right, penalty kick, double-handed save,
+[4121.16 - 4126.16] P:1587.81 E:0.095146 |  but the ball, once it's been saved, bounces all the way across to his left.
+[4126.16 - 4130.16] P:1597.07 E:0.096787 |  He has to get up off the floor and scramble back over.
+[4130.16 - 4132.16] P:1564.74 E:0.086981 |  The ball loops into the air.
+[4132.16 - 4137.16] P:1656.36 E:0.090783 |  Rettighi thinks he's scored. He just thinks he's got a tap in.
+[4137.16 - 4141.16] P:1664.18 E:0.088035 |  In comes the corner, and it's a shot then from Edison that is blocked.
+[4141.16 - 4147.16] P:1524.69 E:0.098233 |  Well, he's made some terrific saves already in his early stages of the Premier League campaign.
+[4147.16 - 4152.16] P:1570.68 E:0.093571 |  But that was outstanding goalkeeping of the highest order.
+[4152.16 - 4155.16] P:1457.74 E:0.094836 |  There's no other way of describing it, to jump back off the floor.
+[4155.16 - 4159.16] P:1632.30 E:0.100408 |  I watched the striker's reaction when he missed the penalty kick.
+[4159.16 - 4162.16] P:1568.35 E:0.101924 |  It bounced back into his path. The keeper was on the floor.
+[4162.16 - 4165.16] P:1600.35 E:0.101915 |  He was probably too relaxed when you look back at it now,
+[4165.16 - 4167.16] P:1680.30 E:0.103783 |  but he was that relaxed. It just seemed a certain goal.
+[4167.16 - 4170.16] P:1676.86 E:0.101335 |  It's come back to the striker. He's just about to head in,
+[4170.16 - 4172.16] P:1699.01 E:0.087947 |  and he was so relaxed in his demeanour.
+[4172.16 - 4175.16] P:1740.26 E:0.102575 |  You thought there's no way David Ryan can get there,
+[4175.16 - 4179.16] P:1686.47 E:0.084939 |  but he got up off the floor so quickly, scrambled to his left,
+[4179.16 - 4182.16] P:1546.44 E:0.087439 |  and not only got his hand on it to stop it going in,
+[4182.16 - 4186.16] P:1633.19 E:0.096676 |  he scooped it away so that he couldn't then tap it in again.
+[4186.16 - 4189.16] P:1498.33 E:0.100036 |  It was an outstanding piece of goalkeeper,
+[4189.16 - 4192.16] P:1507.80 E:0.101528 |  and he's let Arsenal get away with one there,
+[4192.16 - 4194.16] P:1721.03 E:0.091816 |  because that was such a sloppy start,
+[4194.16 - 4198.16] P:1502.68 E:0.090808 |  giving three kicks away, continuing what you've done in the first half.
+[4198.16 - 4202.16] P:1499.00 E:0.089242 |  Hopefully that will be an awakening for this Arsenal team.
+[4202.16 - 4205.16] P:1521.86 E:0.095903 |  It was against Arsenal. Well, I think it made a very important save
+[4205.16 - 4207.16] P:1559.01 E:0.098726 |  against Wolves on the opening day, I recall,
+[4207.16 - 4212.16] P:1506.44 E:0.089562 |  but there was one at Aston Villa, where he made a terrific reflex save.
+[4212.16 - 4216.16] P:1464.37 E:0.087459 |  But bearing in mind, he's dived full stretch to his right,
+[4216.16 - 4220.16] P:1584.04 E:0.099511 |  springs back to his feet, and claws it away on the goal line.
+[4220.16 - 4222.16] P:1431.39 E:0.091760 |  Eight minutes into the second half.
+[4222.16 - 4225.16] P:1464.79 E:0.098484 |  Atalanta nil, Arsenal nil.
+[4225.16 - 4230.16] P:1596.20 E:0.097635 |  And Atalanta, who have only won in their last 24 home games,
+[4230.16 - 4233.16] P:1446.27 E:0.093795 |  have failed to score. That was against Liverpool,
+[4233.16 - 4237.16] P:1634.51 E:0.100633 |  in a run that extends all the way back to the start of last October,
+[4237.16 - 4240.16] P:1582.65 E:0.095333 |  missing that opportunity to take the lead here
+[4240.16 - 4243.16] P:1545.28 E:0.091870 |  in this Champions League game, live on five-line.
+[4243.16 - 4246.16] P:1508.49 E:0.086919 |  Also available on BBC Sounds.
+[4246.16 - 4249.16] P:1470.85 E:0.089467 |  Kolasinak.
+[4249.16 - 4253.16] P:1524.56 E:0.090112 |  That will have Mikhail Arteza perring post-match.
+[4253.16 - 4257.16] P:1395.59 E:0.088410 |  Yeah, in some ways, but he'll be disappointed with how they conceded it.
+[4257.16 - 4259.16] P:1503.02 E:0.106072 |  He's had the message at half-time.
+[4259.16 - 4261.16] P:1475.95 E:0.103491 |  He wants his team to come and start from second half,
+[4261.16 - 4263.16] P:1543.41 E:0.082227 |  and they gifted all the momentum here,
+[4263.16 - 4266.16] P:1589.47 E:0.096689 |  and they're going to have to get through this next five minutes
+[4266.16 - 4268.16] P:1525.80 E:0.097205 |  before they'll be able to play their way up the pitch.
+[4268.16 - 4271.16] P:1586.80 E:0.079119 |  De Katlaro, far side to right, right corner of the area,
+[4271.16 - 4275.16] P:1628.45 E:0.098571 |  cuts back, sends over the cross, missed by Gabrielle,
+[4275.16 - 4278.16] P:1498.75 E:0.101765 |  cleared by Saliba behind, hooked away by Saka.
+[4278.16 - 4282.16] P:1560.59 E:0.097812 |  It's a high ball that Gabrielle Jézus will bounce off, hey.
+[4282.16 - 4286.16] P:1591.16 E:0.091568 |  He's such a strong and effective defender, Isaac Heyne.
+[4286.16 - 4290.16] P:1475.24 E:0.093120 |  And now here is Martin D'Around, passes the ball forward, Jim City,
+[4290.16 - 4292.16] P:1489.73 E:0.098634 |  back towards the other Dutchman.
+[4292.16 - 4299.16] P:1477.53 E:0.095493 |  Nine minutes into the second half, here is Edison, forward to Lukman.
+[4299.16 - 4302.16] P:1417.26 E:0.103666 |  Lukman, and he's used to get away from Parse,
+[4302.16 - 4305.16] P:1552.26 E:0.099019 |  but running to trouble as Saka was helping him out.
+[4305.16 - 4311.16] P:1428.30 E:0.091328 |  Back it goes to David Ryer, Ryer clears, downfield, ball,
+[4311.16 - 4315.16] P:1658.86 E:0.096449 |  Havertz tries to get there, Jézus goes in for a 50-50 with D'Around,
+[4315.16 - 4318.16] P:1603.38 E:0.092457 |  and it goes all the way back to Marco Canasec,
+[4318.16 - 4321.16] P:1631.67 E:0.100789 |  the goalkeeper strikes it away, downfield.
+[4321.16 - 4325.16] P:1371.06 E:0.100078 |  A lively atmosphere here in Bergamo on BBC Radio 5 Live, Saliba,
+[4325.16 - 4327.16] P:1484.64 E:0.089092 |  running away from Retagy.
+[4327.16 - 4331.16] P:1597.34 E:0.096680 |  Down towards the corner flag on that far side, passes the ball to Ryer,
+[4331.16 - 4334.16] P:1653.63 E:0.090931 |  controls it well, first time with his right foot.
+[4334.16 - 4340.16] P:1593.84 E:0.088028 |  As the noise increases and the decibel levels rise,
+[4340.16 - 4346.16] P:1580.47 E:0.091407 |  and Thomas Parse, who was certainly...
+[4346.16 - 4350.16] P:1587.26 E:0.087905 |  Michel Arteta looked a frustrated figure with him at the end of the first half,
+[4350.16 - 4354.16] P:1598.65 E:0.114890 |  will be a rather relieved man, after he was the guilty passing.
+[4354.16 - 4358.16] P:1577.84 E:0.085229 |  As the ball goes down the line to Saka on this near side of the right.
+[4358.16 - 4363.16] P:1627.73 E:0.084762 |  Saka, wriggles away, helps out by White, White cuts the ball back,
+[4363.16 - 4367.16] P:1775.63 E:0.092185 |  and there was Jim City, just a step forward to clear the ball inside the penalty area.
+[4367.16 - 4372.16] P:1627.06 E:0.093387 |  Retagy rolls away from Saliba over the halfway line, Saliba though is back,
+[4372.16 - 4376.16] P:1674.49 E:0.098137 |  goal side, Lukman joins the attack near this side.
+[4376.16 - 4381.16] P:1545.58 E:0.082153 |  At the minute, you've got either end of the stadium chanting to each other.
+[4381.16 - 4386.16] P:1571.56 E:0.091454 |  So the Ultras and the Kerber Nour, and then in the Kerber Sood.
+[4386.16 - 4395.16] P:1414.82 E:0.101427 |  And in between, the Arsenal fans are also trying to make their presence felt.
+[4395.16 - 4402.16] P:1506.75 E:0.109467 |  As the whole stadium behind the goal, they're jumping up and down in unison.
+[4402.16 - 4410.16] P:1444.41 E:0.106990 |  Loving the atmosphere. Atalanta with Routery, Lukman darts into the penalty area.
+[4410.16 - 4415.16] P:1351.21 E:0.091704 |  White does well to get something in it, and Rice can bring the ball clear.
+[4415.16 - 4419.16] P:1440.65 E:0.098053 |  Rice, held up then by Martin de Rune, Saka wants it over the top,
+[4419.16 - 4422.16] P:1508.96 E:0.090820 |  but because the presence of the Atalanta captain and Lukman,
+[4422.16 - 4425.16] P:1530.43 E:0.092773 |  Rice has to go back towards Davin Ryer.
+[4425.16 - 4429.16] P:1656.11 E:0.101450 |  Thought he'd just shown a little bit too much towards Retagy, but he got it away.
+[4429.16 - 4433.16] P:1553.44 E:0.096869 |  He wasn't as panicky as maybe others were.
+[4433.16 - 4437.16] P:1543.97 E:0.085356 |  Certainly not as panicky as you were in that situation.
+[4437.16 - 4440.16] P:1467.56 E:0.100020 |  I think that's panicky. Wait till they start letting off the firecrackers.
+[4440.16 - 4442.16] P:1323.96 E:0.091593 |  They left, don't you see that?
+[4442.16 - 4446.16] P:1485.39 E:0.086066 |  No, I did the other night in San Siro, and the firecracker went off.
+[4446.16 - 4450.16] P:1504.79 E:0.094891 |  And then I heard last night with Connie McLaughlin that the pigeon had pooped on her head,
+[4450.16 - 4453.16] P:1358.53 E:0.093684 |  and I'm thinking these things come in threes.
+[4453.16 - 4458.16] P:1460.65 E:0.091928 |  What awaits the five-live team on their travels in Europe tonight?
+[4458.16 - 4464.16] P:1570.56 E:0.103561 |  There is a gentleman on the platform with a megaphone in the goal away towards our right,
+[4464.16 - 4469.16] P:1902.37 E:0.096743 |  whipping up the crowd, as Arsenal are going to be making a double change.
+[4469.16 - 4474.16] P:1838.13 E:0.085246 |  Giorginho and Trossar to come on, and no surprise to see Pate coming off.
+[4474.16 - 4477.16] P:1815.58 E:0.097662 |  Well, Jézus, to be honest, he's put himself about.
+[4477.16 - 4482.16] P:1679.83 E:0.089942 |  Jézus, he really has, but he's not had much change out of Hain at the top of the field.
+[4482.16 - 4487.16] P:1689.41 E:0.079435 |  I think, as you say, Thomas Pate has not had the best of evenings,
+[4487.16 - 4491.16] P:1638.14 E:0.096695 |  but sloppy in possession, can't quite beat up to it out of possession.
+[4491.16 - 4495.16] P:1654.90 E:0.084147 |  Just as we see that double save from the penalty kick again,
+[4495.16 - 4500.16] P:1485.32 E:0.086360 |  the header, the follow-up rebound is on the line,
+[4500.16 - 4503.16] P:1757.40 E:0.097816 |  as David Reyes stretches to it to keep it out.
+[4503.16 - 4508.16] P:1749.23 E:0.085282 |  On the line, full stretch for the second part of that double save, as we speak.
+[4508.16 - 4514.16] P:1401.41 E:0.104368 |  Asparini with his hands on his head, not quite understanding how that one has put his team one little ahead.
+[4514.16 - 4517.16] P:1532.37 E:0.093930 |  But it's given Michal Arterto the opportunity to make changes,
+[4517.16 - 4522.16] P:1406.78 E:0.095504 |  and I think he's had to react to how his team have started in this second half.
+[4524.16 - 4529.16] P:1580.99 E:0.098178 |  Giorginho, a Champions League winner, of course, with Chelsea, three years ago.
+[4529.16 - 4533.16] P:1646.79 E:0.102982 |  He was actually played here against the Dutch in a Nations League game four years ago
+[4533.16 - 4539.16] P:1539.48 E:0.086671 |  for his country, Italy, so he'll be well aware of the tight and compact surroundings.
+[4539.16 - 4548.16] P:1480.96 E:0.083842 |  It was the last of the six internationals that have hosted Italy at that level here in Bergamo.
+[4548.16 - 4553.16] P:1590.16 E:0.094236 |  And Leandro Trossard coming on for Jézus, who's been his first start of the season,
+[4553.16 - 4557.16] P:1597.86 E:0.084010 |  but Trossard did well in that role against Tottenham at the weekend.
+[4557.16 - 4559.16] P:1445.06 E:0.098566 |  He'll play a little bit differently.
+[4559.16 - 4564.16] P:1439.77 E:0.085071 |  I have heard he's gone right up top, Trossard's gone into that midfield position,
+[4564.16 - 4570.16] P:1707.90 E:0.088992 |  but I think what was key started right at the top end of the field, so he's just dropped in.
+[4570.16 - 4574.16] P:1649.76 E:0.091927 |  First of all, Klasenac went in, then Heijn swapped over and he went in.
+[4574.16 - 4579.16] P:1757.61 E:0.088590 |  He just creates spaces elsewhere on the field, and he nearly got in with a one-two.
+[4579.16 - 4581.16] P:1788.45 E:0.077696 |  One-two's kill, man-to-man marking.
+[4581.16 - 4585.16] P:1724.85 E:0.097880 |  You get the ball, you spin it around the corner, you go with the return, it's unplayable.
+[4585.16 - 4587.16] P:1669.31 E:0.077271 |  I haven't seen enough of them from Arsenal.
+[4587.16 - 4591.16] P:1686.42 E:0.087182 |  Trossard did one as soon as he came on the pitch, and quite a little reward for it.
+[4591.16 - 4595.16] P:1607.92 E:0.096360 |  Here is Georginho, just in the Arsenal half.
+[4595.16 - 4601.16] P:1590.64 E:0.089919 |  Passes the ball back to David Reijer, who's out of his penalty area away towards our left-hand side.
+[4601.16 - 4604.16] P:1726.63 E:0.095627 |  That excellent double save, meaning that it's still goal-less.
+[4604.16 - 4609.16] P:1642.70 E:0.097799 |  Elsewhere in the Champions League, Atletico Madrid won, RB Leipzig won, Bress won,
+[4609.16 - 4613.16] P:1733.16 E:0.088101 |  Sturm Graz won, Monaco won, Barcelona won.
+[4613.16 - 4620.16] P:1731.35 E:0.090021 |  Champions League final score is available on the BBC iPlayer, as well as the red foot, as Mikal Ateta.
+[4621.16 - 4631.16] P:1603.04 E:0.091167 |  Sees white with a quick throw, but too quick, and not from the exact place that the French referee wanted to take.
+[4631.16 - 4636.16] P:1664.17 E:0.094345 |  As we're going to see a change here for Gasparini and Atalanta,
+[4636.16 - 4641.16] P:1819.39 E:0.087964 |  and de Katlara is the player who's coming off.
+[4641.16 - 4653.16] P:1555.09 E:0.079519 |  And Juan Cuadrado, who they signed from Inter in the summer on a free for his Atalanta debut.
+[4653.16 - 4663.16] P:1710.47 E:0.073914 |  The former Chelsea and Juventus player, 36 years of age, vastly experienced, 116 caps.
+[4663.16 - 4668.16] P:1554.90 E:0.087426 |  So, Juan Cuadrado coming on for Katlara.
+[4669.16 - 4675.16] P:1566.16 E:0.099510 |  So, Gasparini making a change as well, for Atalanta in their blue and black striped shirts,
+[4675.16 - 4677.16] P:1430.94 E:0.084142 |  as they defend, playing from right to left.
+[4677.16 - 4684.16] P:1659.30 E:0.095106 |  From the throw, Hane comes across, prevents it reaching Saka, and it will be a corner kick to Arsenal.
+[4684.16 - 4687.16] P:1616.73 E:0.103819 |  We've been playing for an hour here on BBC Radio 5 Live.
+[4688.16 - 4692.16] P:1435.84 E:0.100646 |  Haven't had too much of an opportunity with the set pieces.
+[4692.16 - 4698.16] P:1616.88 E:0.098627 |  We know that's Arsenal's strength and potential weakness for Atalanta as well.
+[4698.16 - 4703.16] P:1870.17 E:0.108997 |  So, Sakal Wanderover right in front of the Arsenal supporters,
+[4703.16 - 4708.16] P:1950.97 E:0.106058 |  right where we're situated in our commentary position here inside the stadium.
+[4708.16 - 4712.16] P:1889.90 E:0.093097 |  For Exclusive Live Radio commentary from Italy.
+[4713.16 - 4720.16] P:1753.56 E:0.092075 |  And as the Arsenal substitutes warm up in front of us, you've got Habert and Timber,
+[4720.16 - 4725.16] P:1825.10 E:0.095550 |  who loiter at the far side of the penalty area.
+[4725.16 - 4729.16] P:1940.81 E:0.104017 |  White is also at the far post. Saliba is right by the goalkeeper.
+[4729.16 - 4731.16] P:1963.09 E:0.103417 |  Trossard is in there as well.
+[4731.16 - 4733.16] P:1938.28 E:0.095736 |  Zonal marking from Atalanta.
+[4733.16 - 4737.16] P:1802.53 E:0.094615 |  Saka goes deep. Habert's with a downward header, back into the six yard area,
+[4737.16 - 4740.16] P:1538.73 E:0.089188 |  where the referee is spotted in infringement.
+[4740.16 - 4742.16] P:1619.57 E:0.107206 |  And that will be a free kick to Atalanta.
+[4742.16 - 4745.16] P:1696.37 E:0.090215 |  And 62 minutes played, still 0-0.
+[4745.16 - 4748.16] P:1608.16 E:0.099864 |  I think it was a generous free kick from the referee.
+[4748.16 - 4751.16] P:1700.70 E:0.075932 |  It was really good play from Arsenal.
+[4751.16 - 4756.16] P:1631.95 E:0.093636 |  I think they looked like Saliba was going to manmark the goalkeeper
+[4756.16 - 4757.16] P:1848.69 E:0.098513 |  just at the last moment.
+[4757.16 - 4760.16] P:1733.19 E:0.097707 |  Eastbound round the back, Ben White came in and did his usual job.
+[4760.16 - 4765.16] P:1697.50 E:0.083301 |  They just stood in the way and Ganeski just went to ground so easily.
+[4765.16 - 4767.16] P:1585.96 E:0.075916 |  There was basically no contact,
+[4767.16 - 4770.16] P:1576.93 E:0.086274 |  but as soon as there was the tiniest bit through himself on the floor,
+[4770.16 - 4773.16] P:1644.93 E:0.090344 |  the referee gave the free kick.
+[4773.16 - 4775.16] P:1510.32 E:0.068717 |  It was dangerous that the Arsenal...
+[4775.16 - 4780.16] P:1476.35 E:0.074835 |  Timber hits forward ball, straight to Paine,
+[4780.16 - 4785.16] P:1508.37 E:0.075995 |  the round, out there to Jim City.
+[4785.16 - 4788.16] P:1607.61 E:0.098742 |  Zappacosta on that far side will pass the ball back.
+[4788.16 - 4790.16] P:1586.98 E:0.088574 |  Quite a high line from Arsenal.
+[4790.16 - 4795.16] P:1613.46 E:0.093020 |  Just squeezing Atalanta in that central third of the playing area
+[4795.16 - 4797.16] P:1714.90 E:0.098893 |  as Gasparini with his silver hair watches on.
+[4797.16 - 4801.16] P:1700.73 E:0.094249 |  Arsenal now get the ball. Habert's to Trossard, challenged by Kalasenak.
+[4801.16 - 4804.16] P:1713.36 E:0.097873 |  Kalasenak stumbles, tries to keep it alive,
+[4804.16 - 4809.16] P:1624.55 E:0.094710 |  and the referee has given a free kick in favour of the former Arsenal man.
+[4809.16 - 4813.16] P:1653.06 E:0.090479 |  Atalanta get that decision just on the edge of the centre circle,
+[4813.16 - 4817.16] P:1693.48 E:0.084602 |  inside their own half with 63 minutes played, 0-0.
+[4817.16 - 4823.16] P:1627.15 E:0.077005 |  The round, out towards Zappacosta, Jim City,
+[4823.16 - 4825.16] P:1589.73 E:0.104298 |  into the centre circle is Hayne.
+[4825.16 - 4830.16] P:1568.60 E:0.084745 |  He goes square, Edison drops in between Isaac Hayne
+[4830.16 - 4834.16] P:1647.12 E:0.101518 |  as well as Kalasenak, allows Routery to go forward.
+[4834.16 - 4836.16] P:1613.72 E:0.092598 |  Here is Saka in field to Habert's.
+[4836.16 - 4839.16] P:1676.68 E:0.096071 |  Habert's now running, Trossard is square to him,
+[4839.16 - 4842.16] P:1649.22 E:0.095960 |  forward of the centre circle, back to Giorginho.
+[4842.16 - 4845.16] P:1602.71 E:0.093802 |  Timber joins the attack from left back.
+[4845.16 - 4850.16] P:1547.24 E:0.097377 |  Still the noise is extremely loud inside the Stadio de Bergamo.
+[4850.16 - 4854.16] P:1612.91 E:0.093608 |  This is Martin Ely. Giorginho, forward ball, over hit,
+[4854.16 - 4857.16] P:1744.22 E:0.084531 |  and it goes for a goal kick, 0-0.
+[4857.16 - 4860.16] P:1677.58 E:0.101120 |  That was a little bit better from Arsenal,
+[4860.16 - 4863.16] P:1639.02 E:0.099554 |  the speed at which they moved up the pitch as a unit,
+[4863.16 - 4865.16] P:1578.44 E:0.104494 |  not just 1s and 2s.
+[4865.16 - 4871.16] P:1636.95 E:0.084562 |  They need to take advantage of the moment somebody wins their 1v1 duel.
+[4871.16 - 4874.16] P:1688.97 E:0.096134 |  Kaya Saka came up, popped it off, spun in behind,
+[4874.16 - 4878.16] P:1524.11 E:0.092984 |  was way behind his full back, Adamola Lutman was trying to cover for him,
+[4878.16 - 4880.16] P:1557.41 E:0.076879 |  but he was five yards behind.
+[4880.16 - 4884.16] P:1553.46 E:0.088667 |  If Habert could have just realised that Saka would beat his opponent,
+[4884.16 - 4886.16] P:1666.56 E:0.083566 |  nobody else is going to be able to get close.
+[4886.16 - 4889.16] P:1557.94 E:0.081156 |  Just play him back, play him in. There will be opportunities there.
+[4892.16 - 4897.16] P:1509.21 E:0.101882 |  That's Leon Osmond, who was played in the Everton side
+[4897.16 - 4903.16] P:1476.75 E:0.096798 |  when Miquel Artheta made his first start for Everton at FA Cup tie
+[4903.16 - 4907.16] P:1622.93 E:0.098732 |  at Goodison where he was beaten 2-0 by Manchester United
+[4907.16 - 4910.16] P:1640.80 E:0.094734 |  after a couple of substitute appearances
+[4910.16 - 4913.16] P:1552.27 E:0.078796 |  when Artheta first arrived with you at Merseyside.
+[4913.16 - 4915.16] P:1346.66 E:0.092095 |  It's really nice of you to bring that up.
+[4917.16 - 4919.16] P:1618.86 E:0.099786 |  You had fond memories of the next game, though, didn't you?
+[4919.16 - 4920.16] P:1677.92 E:0.113811 |  I did, yeah.
+[4920.16 - 4922.16] P:1764.50 E:0.089419 |  It's full Premier League debut.
+[4922.16 - 4924.16] P:1617.42 E:0.080983 |  It was a good convince and went over to Aston Villa,
+[4924.16 - 4927.16] P:1763.79 E:0.093902 |  managed to get on the score sheet a couple of times.
+[4927.16 - 4930.16] P:1738.90 E:0.097411 |  You couldn't wait to tell me that earlier.
+[4930.16 - 4933.16] P:1681.59 E:0.086391 |  I'm surprised you were a little reticent just then.
+[4933.16 - 4935.16] P:1517.22 E:0.087630 |  I'm surprised you brought the whole thing up,
+[4935.16 - 4937.16] P:1642.06 E:0.070511 |  knowing the end of the story.
+[4937.16 - 4941.16] P:1526.94 E:0.076222 |  There's going to be a double change in the offing
+[4941.16 - 4945.16] P:1539.54 E:0.090424 |  as Quadro Agro has just wincing a little bit there
+[4945.16 - 4947.16] P:1524.72 E:0.098152 |  from a little bit of a knock.
+[4947.16 - 4951.16] P:1506.46 E:0.092951 |  We're going to see Raul Bellanova coming on for one of the changes.
+[4951.16 - 4953.16] P:1454.17 E:0.083886 |  I would think that would be for Zappa Costa.
+[4953.16 - 4957.16] P:1580.43 E:0.091952 |  I'm just trying to see who the other player would be.
+[4957.16 - 4962.16] P:1504.16 E:0.087113 |  Potentially, could be Zaniollo,
+[4962.16 - 4965.16] P:1571.49 E:0.102929 |  who is on loan from Galatasaray.
+[4965.16 - 4970.16] P:1507.03 E:0.085665 |  Of course, the ex-Roma man was at Aston Villa last year on loan,
+[4970.16 - 4976.16] P:1310.73 E:0.088858 |  where he made 39 appearances and scored three goals.
+[4976.16 - 4979.16] P:1606.73 E:0.098300 |  He's only made one appearance so far for Atalanta.
+[4979.16 - 4983.16] P:1606.89 E:0.093637 |  He's had a thigh injury, which has restricted him early on this season.
+[4983.16 - 4986.16] P:1498.61 E:0.091640 |  66 minutes play.
+[4986.16 - 4990.16] P:1578.09 E:0.094312 |  Still, we have all the atmosphere, but we haven't had any goals as yet.
+[4990.16 - 4994.16] P:1550.87 E:0.092243 |  For what has been a good week so far for the British clubs in the Champions League,
+[4994.16 - 5001.16] P:1550.53 E:0.094379 |  spread over three days for Match Day One in this revamped format.
+[5001.16 - 5004.16] P:1606.54 E:0.089980 |  Here is Luckman, edge of the area, out towards Zappa Costa.
+[5004.16 - 5006.16] P:1724.20 E:0.097625 |  Sends over a first-time cross.
+[5006.16 - 5011.16] P:1541.94 E:0.085566 |  Quadrado was there, didn't really get anything on it with his head.
+[5011.16 - 5014.16] P:1759.73 E:0.106175 |  Runs through towards Hayne, edge of the centre-circle.
+[5014.16 - 5017.16] P:1645.29 E:0.090596 |  Arsenal have everybody back.
+[5017.16 - 5021.16] P:1504.88 E:0.094016 |  Atalanta just starting to build up a little bit of steam here.
+[5021.16 - 5026.16] P:1579.21 E:0.095804 |  Crowd are sensing that as well as they clap in unison behind that goal.
+[5026.16 - 5029.16] P:1677.73 E:0.084380 |  Atalanta though, being patient.
+[5029.16 - 5032.16] P:1489.12 E:0.097412 |  Out towards Quadrado.
+[5032.16 - 5034.16] P:1612.98 E:0.092615 |  But Galatasaray on the inside.
+[5034.16 - 5038.16] P:1637.69 E:0.108347 |  Quadrado cuts inside and shoots just over the top of the crossbar.
+[5038.16 - 5040.16] P:1588.67 E:0.092862 |  Right footed, bit of curl on that as well.
+[5040.16 - 5043.16] P:1782.81 E:0.089370 |  David Ryder dived away towards his left.
+[5043.16 - 5045.16] P:1746.24 E:0.101042 |  Centimeters over the crossbar.
+[5045.16 - 5047.16] P:1846.32 E:0.099121 |  Goal kick midway through the second half, 0-0.
+[5047.16 - 5049.16] P:1615.99 E:0.085942 |  It wasn't far away.
+[5049.16 - 5051.16] P:1680.57 E:0.079760 |  Really good play from Atalanta.
+[5051.16 - 5056.16] P:1642.46 E:0.094413 |  They stretched down the right-hand side, they worked it all the way back to the left-hand side
+[5056.16 - 5058.16] P:1657.31 E:0.095417 |  to get Quadrado 1-1 with Vacaia Saka.
+[5058.16 - 5060.16] P:1776.20 E:0.091909 |  He just skipped inside of him.
+[5060.16 - 5062.16] P:1685.88 E:0.078770 |  He took the shot from a distance and the form.
+[5062.16 - 5064.16] P:1523.10 E:0.082965 |  David Ryder's in.
+[5064.16 - 5067.16] P:1560.57 E:0.102923 |  He hoped he might be able to get close to it, but it wasn't too far away.
+[5067.16 - 5071.16] P:1690.66 E:0.086908 |  That change of Quadrado has just moved at the Mola, Luckman over.
+[5071.16 - 5074.16] P:1578.73 E:0.078790 |  It's added to the far side of the pitch, or more up front.
+[5074.16 - 5076.16] P:1713.35 E:0.083427 |  He's had a big influence since...
+[5076.16 - 5078.16] P:1744.69 E:0.106691 |  Luckman takes it high on the chest, central area.
+[5078.16 - 5082.16] P:1760.99 E:0.096926 |  Plays the ball out towards Apacosta, scampering forward on the right-hand side.
+[5082.16 - 5084.16] P:1692.59 E:0.056189 |  Effort, though, blocked.
+[5084.16 - 5086.16] P:1789.27 E:0.082917 |  What a Arsenal.
+[5086.16 - 5088.16] P:1458.43 E:0.091564 |  Derone's kept the ball in playover on that far right-hand side.
+[5088.16 - 5091.16] P:1709.99 E:0.098900 |  I was going to ask you a question there, as the ball is played to Jim City.
+[5091.16 - 5095.16] P:1660.44 E:0.083805 |  Hits it in first time, blocked by Gabrielle in his mid-drip.
+[5095.16 - 5098.16] P:1685.66 E:0.086414 |  Arsenal, timber standing firm.
+[5098.16 - 5100.16] P:1798.82 E:0.096330 |  Atalanta on top.
+[5101.16 - 5104.16] P:1804.86 E:0.094473 |  As Brest have got a second goal.
+[5104.16 - 5108.16] P:1750.00 E:0.090981 |  They lead Sturmgraz by two goals to one elsewhere in the Champions League.
+[5108.16 - 5112.16] P:1599.33 E:0.098716 |  And all of a sudden, Arsenal are going to have to dig in.
+[5112.16 - 5115.16] P:1817.54 E:0.073029 |  Crowd ramping up the noise.
+[5115.16 - 5118.16] P:1846.37 E:0.083425 |  Atalanta seeing a lot of the ball.
+[5118.16 - 5120.16] P:1696.11 E:0.104480 |  Arsenal having to try and contain.
+[5120.16 - 5122.16] P:1562.68 E:0.091997 |  Ball over the top.
+[5122.16 - 5124.16] P:1830.52 E:0.095236 |  When you consider the early stages of the first half,
+[5124.16 - 5126.16] P:1770.46 E:0.096999 |  Arsenal had about three shots off target.
+[5126.16 - 5129.16] P:1732.57 E:0.082047 |  They had the sack of free kick that produced a good save.
+[5129.16 - 5132.16] P:1701.65 E:0.084374 |  It's been a long time since we've seen...
+[5132.16 - 5135.16] P:1692.72 E:0.087153 |  Arsenal have a worthwhile opportunity.
+[5135.16 - 5140.16] P:1886.46 E:0.083114 |  Why can't Arsenal start to trouble Atalanta?
+[5140.16 - 5143.16] P:1743.07 E:0.099772 |  I think because Atalanta are always on the front.
+[5143.16 - 5147.16] P:1704.21 E:0.088222 |  Every time Arsenal are coming, every time Atalanta have an attack,
+[5147.16 - 5149.16] P:1613.03 E:0.097256 |  they leave a player up.
+[5149.16 - 5151.16] P:1704.37 E:0.087127 |  If the ball comes out, someone's picking it up starting the attack.
+[5151.16 - 5154.16] P:1685.46 E:0.089442 |  Every time Arsenal have a defend, everybody's coming back.
+[5154.16 - 5156.16] P:1782.04 E:0.086961 |  They leave a nobody for an outpass.
+[5156.16 - 5159.16] P:1824.69 E:0.075430 |  So when they win the ball back, they've got no options.
+[5159.16 - 5162.16] P:1832.16 E:0.089810 |  And every time Arsenal start getting momentum,
+[5162.16 - 5165.16] P:1592.66 E:0.091476 |  there's not enough runs in behind for the man to man marking, creating space.
+[5165.16 - 5167.16] P:1690.16 E:0.088487 |  Everybody's coming short, which then means
+[5167.16 - 5170.16] P:1732.15 E:0.089929 |  the Atalanta players as a unit can just condense the pitch
+[5170.16 - 5173.16] P:1767.05 E:0.084412 |  as much as possible, making it even smaller
+[5173.16 - 5175.16] P:1708.60 E:0.088941 |  and more difficult for Arsenal to play out.
+[5175.16 - 5177.16] P:1817.12 E:0.093785 |  They need to stretch the game.
+[5177.16 - 5180.16] P:1861.95 E:0.090929 |  This is a concern for Arsenal
+[5180.16 - 5186.16] P:1792.97 E:0.093223 |  because Saliba came running across to deal with a run of retigy.
+[5186.16 - 5190.16] P:1691.81 E:0.095013 |  And he's gone down and I'm not too sure if he's just either been caught
+[5190.16 - 5193.16] P:1685.73 E:0.079400 |  or whether he jarred his leg as he fell,
+[5193.16 - 5198.16] P:1573.73 E:0.087009 |  or he was just caught on the achilles of his left leg.
+[5198.16 - 5201.16] P:1264.78 E:0.110047 |  Yeah, that's what it was as he headed the ball,
+[5201.16 - 5203.16] P:1262.76 E:0.100263 |  playing a plant of that left foot.
+[5203.16 - 5207.16] P:1762.68 E:0.083538 |  And a techie just landed on it with all of his weight.
+[5207.16 - 5209.16] P:1640.07 E:0.078755 |  Would have been a painful one.
+[5209.16 - 5213.16] P:1756.80 E:0.096120 |  And the retigy now will come off the Italian forward
+[5213.16 - 5216.16] P:1541.51 E:0.079755 |  and be replaced by Zanniolo.
+[5216.16 - 5222.16] P:1724.71 E:0.092618 |  I wonder if now Gasperini will change from that 343 to a 3412
+[5222.16 - 5232.16] P:1641.18 E:0.071039 |  as the dark-haired figure of Belanova is going to be coming on.
+[5232.16 - 5235.16] P:1514.70 E:0.100426 |  Just hesitant there because Quadrado was running off.
+[5235.16 - 5237.16] P:1774.71 E:0.086822 |  I thought the substitute surely can't be substituted
+[5237.16 - 5241.16] P:1595.42 E:0.085138 |  and it will be Zappacosta who goes off as expected
+[5241.16 - 5243.16] P:1640.15 E:0.083782 |  because that was the only change that they made
+[5243.16 - 5246.16] P:1548.35 E:0.085737 |  from the Fiorentina victory at the weekend.
+[5246.16 - 5250.16] P:1613.09 E:0.073915 |  So Raoul Belanova, three caps for Italy,
+[5250.16 - 5253.16] P:1588.60 E:0.093971 |  made his third cap recently against Israel,
+[5253.16 - 5258.16] P:1546.66 E:0.088349 |  comes on the sign for £20 million in the summer from Torino.
+[5258.16 - 5261.16] P:1594.04 E:0.099319 |  19 minutes remaining then on BBC Radio 5 Live
+[5261.16 - 5264.16] P:1486.87 E:0.081484 |  and the BBC sounds out, it is still 0-0.
+[5264.16 - 5266.16] P:1599.90 E:0.103665 |  As Trossard on this near side, the right,
+[5266.16 - 5270.16] P:1605.29 E:0.095947 |  passes the ball back to Saliba showing no ill effects of that.
+[5270.16 - 5275.16] P:1574.49 E:0.082487 |  That little clip by Retigy.
+[5275.16 - 5278.16] P:1631.25 E:0.107752 |  Calafiore is going to be coming on for Arsenal very soon.
+[5278.16 - 5282.16] P:1543.07 E:0.085910 |  Missed the game against Tottenham at the weekend with a calf injury.
+[5282.16 - 5290.16] P:1675.24 E:0.091639 |  But trained fine yesterday before the players arrived at 5.6 in northern Italy as Arsenal.
+[5290.16 - 5292.16] P:1740.30 E:0.112807 |  Now seeing a little bit more of the ball,
+[5292.16 - 5296.16] P:1689.15 E:0.097459 |  Martinelli goes down, no foul from Belanova.
+[5296.16 - 5300.16] P:1486.27 E:0.082568 |  Lukman on the halfway line plays it back.
+[5300.16 - 5304.16] P:1452.87 E:0.086235 |  The round now towards Colassenac.
+[5304.16 - 5308.16] P:1548.79 E:0.105079 |  Nicola Teta as Quadrado.
+[5308.16 - 5310.16] P:1727.69 E:0.096522 |  Was he fouled by Saka?
+[5310.16 - 5312.16] P:1584.06 E:0.102720 |  Referee will give the free kick.
+[5312.16 - 5315.16] P:1645.55 E:0.093950 |  Saka tells Quadrado to get to his feet.
+[5315.16 - 5318.16] P:1626.83 E:0.095975 |  It seemed to be too much in that.
+[5318.16 - 5321.16] P:1606.03 E:0.089819 |  Maybe just a little...
+[5321.16 - 5324.16] P:1643.59 E:0.087683 |  Little clip.
+[5324.16 - 5326.16] P:1575.45 E:0.097177 |  Raheem Sterling coming on as well.
+[5326.16 - 5327.16] P:1586.85 E:0.095676 |  Looks like...
+[5327.16 - 5329.16] P:1704.15 E:0.082995 |  Yeah, double change.
+[5329.16 - 5335.16] P:1574.98 E:0.086673 |  Raheem Sterling coming on as well as Calafiore.
+[5335.16 - 5339.16] P:1546.70 E:0.091324 |  Nicola Teta just giving his final instructions to Raheem.
+[5339.16 - 5343.16] P:1515.89 E:0.089025 |  Then he rubs the back of his head as he adjusts his socks.
+[5343.16 - 5347.16] P:1516.64 E:0.096437 |  But it's with Edison for Atalanta.
+[5347.16 - 5351.16] P:1475.78 E:0.092986 |  18 minutes remaining here in the Champions League in Bergamo.
+[5351.16 - 5356.16] P:1552.23 E:0.099078 |  Quadrado spreads play too deep over the head of Belanova.
+[5356.16 - 5364.16] P:1622.57 E:0.086461 |  And it will be an Arsenal throwing on the left-hand side.
+[5364.16 - 5368.16] P:1508.90 E:0.112960 |  The Euroleads with John Bennett coming up at 10 o'clock on five-live.
+[5368.16 - 5370.16] P:1600.39 E:0.092123 |  And as the double change for Arsenal is being made,
+[5370.16 - 5373.16] P:1635.12 E:0.100387 |  a reminder, four live games over the weekend.
+[5373.16 - 5375.16] P:1232.36 E:0.104064 |  Liverpool, Bournemouth from three.
+[5375.16 - 5377.16] P:1754.26 E:0.097511 |  Crystal Palace, Manchester United at half-five.
+[5377.16 - 5380.16] P:1613.99 E:0.077326 |  And Sunday Brighton, Dunningham Forest at two
+[5380.16 - 5384.16] P:1590.17 E:0.099512 |  to be followed by Manchester City Arsenal at half-pass four.
+[5384.16 - 5387.16] P:1578.81 E:0.087772 |  Calafiore and Sterling are coming on.
+[5387.16 - 5392.16] P:1657.13 E:0.091199 |  And it is Saka, who is one of the players who's going off.
+[5392.16 - 5396.16] P:1688.34 E:0.085227 |  And Timber has actually gone off on that far side.
+[5396.16 - 5401.16] P:1540.04 E:0.096395 |  So he's now going to walk in front of that curva-nuit on that left-hand side.
+[5401.16 - 5404.16] P:1513.20 E:0.096811 |  So Calafiore will go in at left-back.
+[5404.16 - 5407.16] P:1660.15 E:0.093696 |  Raheem Sterling for Bacchio Saka,
+[5407.16 - 5410.16] P:1714.36 E:0.090258 |  who is creating a bit of history tonight.
+[5410.16 - 5416.16] P:1581.96 E:0.086151 |  Raheem Sterling, the first player to play for four English clubs
+[5416.16 - 5420.16] P:1554.98 E:0.090744 |  in the history of the European Cup or the Champions League.
+[5420.16 - 5425.16] P:1353.54 E:0.088263 |  David Batty, Josie Benayoun, William Gallas and Colo Torres
+[5425.16 - 5430.16] P:1699.05 E:0.086444 |  have all played for three sides in Europe's elite competition.
+[5430.16 - 5435.16] P:1570.50 E:0.087193 |  But Raheem Sterling, the first to play for four Champions League runner-up,
+[5435.16 - 5441.16] P:1385.04 E:0.088532 |  of course, with his time at Manchester City.
+[5441.16 - 5449.16] P:1411.69 E:0.095674 |  Calafiore is on, as the ball is easily headed away in front of Sterling,
+[5449.16 - 5453.16] P:1599.66 E:0.103596 |  because a long way to look up towards the battles for the ball.
+[5453.16 - 5454.16] P:1660.72 E:0.100736 |  Quadradro takes it over.
+[5454.16 - 5457.16] P:1648.54 E:0.106799 |  It's a killing effort as well, right footed.
+[5457.16 - 5460.16] P:1606.75 E:0.096899 |  And that was coming in all the time.
+[5460.16 - 5462.16] P:1666.56 E:0.089234 |  David Ryder had to dive to his left,
+[5462.16 - 5467.16] P:1525.96 E:0.092904 |  and in the end it was probably about a foot wide of that right-hand post.
+[5467.16 - 5471.16] P:1548.59 E:0.085109 |  He's not shy about taking an epitome from distance.
+[5471.16 - 5474.16] P:1702.56 E:0.099067 |  Quadradro, and again he catches it really cleanly.
+[5474.16 - 5479.16] P:1638.44 E:0.095817 |  I don't think it was ever coming round enough to really trouble David Ryder,
+[5479.16 - 5482.16] P:1562.02 E:0.089844 |  despite his full-length save and dive.
+[5482.16 - 5485.16] P:1418.88 E:0.104097 |  But it's had him all the luck, that's causing all the problems.
+[5485.16 - 5488.16] P:1199.16 E:0.099809 |  Every time a ball goes forward, he's not far away from it,
+[5488.16 - 5491.16] P:1311.69 E:0.094549 |  or he's bringing it down, he's trying to run at the Arsenal defenders.
+[5491.16 - 5493.16] P:1405.80 E:0.089506 |  He's been a real handful for them to compete with.
+[5493.16 - 5497.16] P:1731.58 E:0.108638 |  Here is Sterling, picks the ball up, and it goes to Martinelli,
+[5497.16 - 5499.16] P:1751.80 E:0.082200 |  and Martinelli shoots right footed.
+[5499.16 - 5502.16] P:1781.27 E:0.102287 |  Their only chance for the second half so far,
+[5502.16 - 5505.16] P:1731.27 E:0.098370 |  and it was making a diagonal run into the inside right,
+[5505.16 - 5507.16] P:1768.60 E:0.098312 |  channel the penalty area, eight yards out,
+[5507.16 - 5510.16] P:1485.49 E:0.082041 |  running at pace, couldn't keep it down, goal kick, 0-0.
+[5510.16 - 5513.16] P:1367.37 E:0.080981 |  From open play, I think that's the biggest chance in the game.
+[5513.16 - 5517.16] P:1667.20 E:0.090012 |  Raheem Sterling, just getting involved, there was a bit of panic,
+[5517.16 - 5520.16] P:1657.97 E:0.085375 |  especially from Kalazanec, when Raheem Sterling got the ball,
+[5520.16 - 5523.16] P:1498.72 E:0.088530 |  he wasn't sure it was to be tight, didn't want to drop away,
+[5523.16 - 5527.16] P:1491.12 E:0.097091 |  sort of bundled into him, and the ball propelled into the path of Martinelli,
+[5527.16 - 5530.16] P:1581.15 E:0.082479 |  good first touch and a dreadful, dreadful effort.
+[5530.16 - 5533.16] P:1645.78 E:0.087403 |  Never really wrapped his butt around, it sort of chopped down on it,
+[5533.16 - 5537.16] P:1388.54 E:0.088411 |  only ever getting it going high over the bar, and that is a big chance.
+[5537.16 - 5542.16] P:1642.06 E:0.091411 |  Arsenal have failed to score just twice in their last 15 games,
+[5542.16 - 5548.16] P:1568.71 E:0.080241 |  that was those back-to-back defeats against Aston Diller and Bayern back in April,
+[5548.16 - 5552.16] P:1527.83 E:0.092391 |  as Monaco are leading Barcelona by two goals to one,
+[5552.16 - 5556.16] P:1472.05 E:0.087988 |  back in the Champions League after a six-year absence,
+[5556.16 - 5560.16] P:1630.37 E:0.103829 |  leading the five-times winners in the Principality.
+[5560.16 - 5564.16] P:1698.38 E:0.087449 |  Monaco two Barcelona one, Brest two, Sturm Graz one,
+[5564.16 - 5569.16] P:1662.98 E:0.102066 |  Atletico Madrid one, RB Leipzig one, are the other latest scores,
+[5569.16 - 5573.16] P:1763.32 E:0.085070 |  they've got a goal of us here, with 14 minutes remaining,
+[5573.16 - 5576.16] P:1736.03 E:0.100428 |  Ben White has been summoned across by Miquel Arteza,
+[5576.16 - 5580.16] P:1813.36 E:0.096057 |  they've been awarded a free kick on that far side of the left,
+[5580.16 - 5585.16] P:1899.42 E:0.100047 |  Ben White turns, still the instructions as he makes his way back to the penalty area,
+[5585.16 - 5590.16] P:1915.50 E:0.101299 |  so another set piece maybe for Arsenal to try and trouble Atalanta,
+[5590.16 - 5596.16] P:1813.71 E:0.105936 |  in a second half where David Reier with a wonderful double save earlier,
+[5596.16 - 5601.16] P:1896.76 E:0.095652 |  a penalty from Retagy to mean that Arsenal are still on level terms,
+[5601.16 - 5606.16] P:1941.45 E:0.102856 |  the Arsenal support are hopeful,
+[5606.16 - 5610.16] P:1984.62 E:0.107600 |  Cala Fiori and Havertz are currently in offside positions,
+[5610.16 - 5614.16] P:1965.37 E:0.109768 |  it's going to be a free kick, Declan Rice to take it,
+[5614.16 - 5620.16] P:1860.54 E:0.113899 |  swings it over and swings it over way too far,
+[5620.16 - 5624.16] P:1848.92 E:0.096478 |  too much height, too much curl, straight out of play for a goal kick.
+[5624.16 - 5628.16] P:1645.03 E:0.096175 |  I think that sums Arsenal up as an attacking team in this game,
+[5628.16 - 5632.16] P:1712.92 E:0.091326 |  just the second half, they've got themselves into good positions,
+[5632.16 - 5637.16] P:1637.45 E:0.086867 |  got themselves into good moments and just lacked quality with that final moment,
+[5637.16 - 5643.16] P:1629.03 E:0.097136 |  the crucial moment, the moment where you either create something or finish an opportunity,
+[5643.16 - 5646.16] P:1605.35 E:0.082161 |  and then a kill, he's healed tonight.
+[5646.16 - 5650.16] P:1463.09 E:0.103911 |  Goalkeeper, second for Atalanta, clears downfield,
+[5650.16 - 5654.16] P:1485.70 E:0.093594 |  Quadrado coming in off the left touch line, couldn't get there,
+[5654.16 - 5658.16] P:1542.00 E:0.101089 |  Giorginho then gives the ball away and all of a sudden this is Zaniollo,
+[5658.16 - 5661.16] P:1529.26 E:0.085682 |  now leaves it for Quadrado, the round,
+[5661.16 - 5667.16] P:1654.98 E:0.092523 |  Valenova is available on that far side of the right, back it goes to Martin D'Arao,
+[5667.16 - 5672.16] P:1569.55 E:0.103176 |  his forward ball cut out by Giorginho, and Arsenal now have it with Trossard,
+[5672.16 - 5676.16] P:1699.42 E:0.090930 |  who turns, finds Sterling, quickly closed down, releases the ball to Trossard,
+[5676.16 - 5680.16] P:1651.85 E:0.092851 |  just outside the centre circle, and his ball was a poor one.
+[5680.16 - 5686.16] P:1858.88 E:0.094596 |  Have been times where they have been sloppy and a lot of errant balls from Arsenal
+[5686.16 - 5688.16] P:1903.46 E:0.080035 |  at times this evening.
+[5688.16 - 5693.16] P:1721.42 E:0.095910 |  The thing is, they're not always when they're under pressure, just like that,
+[5693.16 - 5698.16] P:1581.77 E:0.095437 |  Trossard takes a pass, plays a 1-2, it runs, Sterling gets time on the ball,
+[5698.16 - 5702.16] P:1648.80 E:0.087899 |  and then just plays a sloppy one, but it was such an easy pass,
+[5702.16 - 5705.16] P:1717.64 E:0.105622 |  that's been the surprising thing about Arsenal, they've given the ball away
+[5705.16 - 5710.16] P:1903.07 E:0.098521 |  under no pressure at all, quite often yes, you're in the stadium like this,
+[5710.16 - 5713.16] P:1672.14 E:0.105290 |  you're getting put under real pressure in tough areas of the pitch,
+[5713.16 - 5717.16] P:1591.71 E:0.089650 |  that's not when they've given the ball away tonight, it's been under no pressure,
+[5717.16 - 5720.16] P:1514.05 E:0.102288 |  probably near the half-way line inside, they just put them on the back foot,
+[5720.16 - 5723.16] P:1547.24 E:0.095976 |  or stopped any kind of forward move that they might have.
+[5723.16 - 5728.16] P:1720.66 E:0.091653 |  Giorginho not happy with Raheem Sterling, he was quite stationary
+[5728.16 - 5732.16] P:1750.68 E:0.093237 |  and didn't make the run away from Kolasinak, that Giorginho was looking to try
+[5732.16 - 5736.16] P:1600.91 E:0.093738 |  and dig that ball over the top, as White goes back to Rice,
+[5736.16 - 5741.16] P:1714.37 E:0.101191 |  drops inside his own penalty area, there is the pressing once more from Atalanta,
+[5741.16 - 5746.16] P:1757.94 E:0.090507 |  and as a result of that, Arsenal are forced to concede a throw,
+[5746.16 - 5751.16] P:1759.80 E:0.089319 |  couldn't beat the press, took all day long about Atalanta's high work ethic,
+[5751.16 - 5757.16] P:1569.12 E:0.078179 |  and as a result it was that unforced error, with 11 minutes remaining,
+[5758.16 - 5765.16] P:1483.78 E:0.077473 |  as Quadrado passes the ball now to Zaniollo, Zaniollo now waits, doesn't deliver the cross,
+[5765.16 - 5770.16] P:1622.93 E:0.094743 |  it's a low ball, David Ryer dives on that unchallenged inside the penalty area,
+[5770.16 - 5773.16] P:1557.84 E:0.078186 |  11 minutes to go to halftime,
+[5773.16 - 5776.16] P:1622.29 E:0.099450 |  there's no doubt who's going to be the star of the show for Arsenal,
+[5776.16 - 5779.16] P:1449.62 E:0.089778 |  David Ryer if it does stay like this.
+[5779.16 - 5782.16] P:1540.35 E:0.089218 |  Yeah, I mean that's the good thing we're talking about, as you said,
+[5782.16 - 5788.16] P:1750.31 E:0.098335 |  10-11 minutes to go to full time, they're still 0-0, they're still at the moment,
+[5788.16 - 5793.16] P:1669.72 E:0.089478 |  coming away from this with a point, despite them being way off it as an attacking outfit,
+[5793.16 - 5798.16] P:1580.40 E:0.092918 |  being way off what we're used to seeing their performances like in the Premier League,
+[5798.16 - 5801.16] P:1547.89 E:0.091404 |  and that's testament to how they defend as a team,
+[5801.16 - 5805.16] P:1611.48 E:0.095305 |  it's testament to players in big moments standing up and defending well.
+[5805.16 - 5811.16] P:1636.10 E:0.091802 |  This is Saliva, Calafiore, continues to come forward,
+[5811.16 - 5816.16] P:1841.68 E:0.093533 |  passes the ball to Trossard, Trossard chips it into Haberts who gives chase,
+[5816.16 - 5822.16] P:1843.27 E:0.095880 |  and Bellanova sees it safely out, marshals the ball behind for a goal kick.
+[5822.16 - 5827.16] P:1728.44 E:0.086678 |  Some of the Arsenal supporters may well have travelled on the Bergamo funicular,
+[5827.16 - 5833.16] P:1697.30 E:0.092753 |  which passes through those Venetian walls from the lower town to the Città Alta,
+[5833.16 - 5836.16] P:1694.50 E:0.090439 |  but tonight hasn't really been much fun for them.
+[5836.16 - 5843.16] P:1595.75 E:0.100922 |  No, it certainly hasn't, the game has not gone the way they expected to with open attack and football,
+[5843.16 - 5849.16] P:1609.99 E:0.091233 |  I mean, yes, you know you're in for a difficult even, but you're probably expecting to see your team create opportunities,
+[5849.16 - 5852.16] P:1578.03 E:0.084401 |  and certainly pass the ball, far better than they have done.
+[5852.16 - 5856.16] P:1537.54 E:0.088052 |  The game is still there, it could still be a positive result,
+[5856.16 - 5859.16] P:1292.16 E:0.088952 |  they could still come away from here with a minimum one point,
+[5859.16 - 5865.16] P:1481.61 E:0.089032 |  but they have had a moment that Martinelli Chance could have made that travelling support away from us,
+[5865.16 - 5872.16] P:1531.13 E:0.089984 |  I feel like it's been a completely different evening, so there's still time for them to just get one opportunity and take it.
+[5872.16 - 5883.16] P:1618.58 E:0.095714 |  When Atalanto are last in the Champions League in the 21-22 campaign, their last four games saw them score and concede at least two goals,
+[5883.16 - 5891.16] P:1633.03 E:0.090810 |  they drew two, they lost two, never in the history of the Europe's elite competition has it happened in five consecutive games,
+[5891.16 - 5900.16] P:1450.70 E:0.100065 |  so after a total of 20 goals were scored in those four fixtures, 0-0, as that end towards our left is just bouncing.
+[5903.16 - 5914.16] P:1531.85 E:0.081976 |  Some sight, Rice on the halfway line, nine minutes to go of the 90, here in Bergamo in northern Italy.
+[5915.16 - 5922.16] P:1462.27 E:0.103665 |  Miss Gabrielle, to Giorgio Ginho, drops in between the two central defenders,
+[5922.16 - 5930.16] P:1424.01 E:0.097895 |  Calafiore has got into an inverted roll the left back, Sterling finds Calafiore, lays it off, Calafiore on the ball now,
+[5930.16 - 5935.16] P:1436.99 E:0.096835 |  Italian international, long hair for the Alice band, back then to Rice,
+[5935.16 - 5938.16] P:1332.44 E:0.096642 |  Arsenal started to get on the ball a little bit more now.
+[5938.16 - 5948.16] P:1211.05 E:0.094239 |  Yeah, it took about 81-82 minutes for the little bit of a passing move inside Saviato-Atalanto.
+[5948.16 - 5953.16] P:1658.09 E:0.086033 |  Still not looking like the creates, and they're still all coming towards the ball, still nobody,
+[5953.16 - 5957.16] P:1628.51 E:0.089002 |  there we go, nearly making a run in behind us, it's not been that kind of evening,
+[5957.16 - 5963.16] P:1683.32 E:0.087833 |  it's not been in rough times where somebody makes eye contact and says, here spin it in here,
+[5963.16 - 5967.16] P:1420.20 E:0.088543 |  it's a type of evening, a player like Jamie Vardy would have had a field day,
+[5967.16 - 5971.16] P:1742.21 E:0.089818 |  somebody that just says put this ball in behind, I want to run in behind it,
+[5971.16 - 5976.16] P:1643.00 E:0.092255 |  because it's not a type of defensive structure, you come up against a lot in the Premier League
+[5976.16 - 5980.16] P:1333.36 E:0.097013 |  where the opposition basically go man to man all over the field,
+[5980.16 - 5986.16] P:1341.87 E:0.087120 |  and Arsenal are so used to coming into spaces and somebody rolling round and someone making a run
+[5986.16 - 5991.16] P:1600.03 E:0.087312 |  to create space for someone to come short, that hasn't happened this evening, when they have come short,
+[5991.16 - 5996.16] P:1697.21 E:0.087641 |  somebody's gone with them, somebody's been tight all of the way, it's been a different look
+[5996.16 - 6000.16] P:1464.28 E:0.072227 |  at how to defend Arsenal have come up against today.
+[6000.16 - 6007.16] P:1611.52 E:0.101520 |  That's the voice of Leon Osman with us here on BBC Radio 5 Live in Bergamo, still 0-0,
+[6007.16 - 6015.16] P:1630.08 E:0.090540 |  7 minutes of normal time remaining, Gabrielle forward ball, Trossard runs into space to get there,
+[6015.16 - 6021.16] P:1358.19 E:0.097742 |  left of the centre circle, Raheem Sterling has stayed out wide on this near side the right,
+[6021.16 - 6028.16] P:1420.79 E:0.094021 |  Saliba will play a short forward ball but he comes under pressure straight away by Ruggieri,
+[6028.16 - 6035.16] P:1503.48 E:0.100759 |  Arsenal will keep the ball back towards Rice, Rice outside the centre circle,
+[6035.16 - 6042.16] P:1537.14 E:0.101394 |  again Atalanta looking to squeeze and prevent any forward balls being played through the middle,
+[6042.16 - 6048.16] P:1442.44 E:0.083165 |  so Arsenal have got to retreat and go back and it's hit downfield by Gabrielle,
+[6048.16 - 6053.16] P:1670.12 E:0.092920 |  chested off by Havertz to Trossard, they lose it though in the centre circle,
+[6053.16 - 6059.16] P:1563.29 E:0.094477 |  ball played forward by Jim City, and then it was Edison lays it back,
+[6059.16 - 6068.16] P:1449.03 E:0.080708 |  Bellanova Atalanta are back in control, is there to be a late goal here in Bergamo,
+[6069.16 - 6075.16] P:1515.34 E:0.095567 |  is there often a quote attributed to Giampiero Gasperini,
+[6075.16 - 6082.16] P:1490.59 E:0.086671 |  defending makes you invincible but if you want to win you must attack,
+[6082.16 - 6088.16] P:1577.36 E:0.098106 |  highlights his brand of football taken from the art of war and they are attacking
+[6088.16 - 6094.16] P:1572.57 E:0.090015 |  and they have a throw on the right hand side with just under six minutes remaining.
+[6098.16 - 6106.16] P:1515.33 E:0.104126 |  The supporters singing to their hearts content, Niel Niel in the Champions League,
+[6106.16 - 6114.16] P:1451.61 E:0.097067 |  rounding off three successive days of Champions League coverage on BBC Radio 5 Live,
+[6114.16 - 6118.16] P:1452.06 E:0.102314 |  Bellanova right hand side, midway through the Arsenal half,
+[6118.16 - 6124.16] P:1420.34 E:0.094811 |  Arsenal have everybody back behind the ball, two more changes are in the offing from Atalanta,
+[6124.16 - 6132.16] P:1461.96 E:0.089492 |  to Gasperini, he's going to twist yet again, as he looks to try and get off to a winning start,
+[6135.16 - 6140.16] P:1537.74 E:0.105919 |  before they will travel to face Shakhtar away, Celtic at home and then Stuttgart away
+[6140.16 - 6146.16] P:1364.69 E:0.099096 |  are their forthcoming games in this rebranded Champions League format,
+[6146.16 - 6150.16] P:1300.32 E:0.093814 |  Quadrado with the pressure from Sterling back towards Kalasenak,
+[6150.16 - 6159.16] P:1393.58 E:0.094632 |  gets it back then from Quadrado, still watching on is Gasperini, Edison, Kalasenak,
+[6159.16 - 6165.16] P:1377.88 E:0.094489 |  forward on the ground, Quadrado spins, Ben White's gone with him,
+[6165.16 - 6169.16] P:1485.22 E:0.103341 |  Arsenal at the minute and that was a sloppy ball by Edison, goes straight towards White,
+[6169.16 - 6172.16] P:1579.45 E:0.101853 |  White picks out Georginio, early ball from Georginio,
+[6172.16 - 6175.16] P:1584.72 E:0.093573 |  Sterling couldn't bring it under control around Lehigh.
+[6176.16 - 6181.16] P:1561.44 E:0.101062 |  Yeah, I mean, there's not to say before that they need to keep the concentration levels high now,
+[6181.16 - 6188.16] P:1581.58 E:0.099482 |  Arsenal, Atalanta keeping the ball, Atalanta trying to just find that one big chance
+[6188.16 - 6195.16] P:1422.67 E:0.091988 |  towards the end of the game and that moment came where Georginio would be disappointed
+[6195.16 - 6200.16] P:1511.76 E:0.098784 |  every single time he doesn't make that pass to Raheem Sterling to get a chance on goal there.
+[6200.16 - 6208.16] P:1604.09 E:0.097554 |  Quadrado, feeds it in towards Zaniola, central area Zaniola, just saw two red and white shirts closing down,
+[6208.16 - 6212.16] P:1593.65 E:0.106915 |  Edison joins the attack, dreds it through, Luckman, Luckman in towards the penalty area,
+[6212.16 - 6216.16] P:1660.15 E:0.101642 |  terrific defending from Saliba, just when Luckman looked like he got away,
+[6216.16 - 6221.16] P:1665.05 E:0.093298 |  Saliba came back from the right-hand side, sliding challenge concedes the corner.
+[6221.16 - 6224.16] P:1574.97 E:0.101578 |  Yeah, you're right, it did look like Luckman had just snuck away from him, brilliant play,
+[6224.16 - 6228.16] P:1730.84 E:0.096389 |  brilliant skill, the way he can manipulate the ball like that, Saliba's strength,
+[6228.16 - 6234.16] P:1497.91 E:0.101010 |  and the fact he's got those really long legs is what rescued that situation, brilliant tackle.
+[6234.16 - 6239.16] P:1507.89 E:0.097528 |  Corner kick on this near side, the left, Atalanta pressing in it comes,
+[6239.16 - 6244.16] P:1512.28 E:0.100510 |  partially headed away and then cleared by Trossard, but there's nobody in red and white to give chase,
+[6244.16 - 6248.16] P:1530.86 E:0.100164 |  as Belanova with his dark hair will run back on that far side.
+[6248.16 - 6257.16] P:1500.97 E:0.097391 |  Pashalic and Samaritc wait to come on for Atalanta, two newfielders ready to come on for the final,
+[6257.16 - 6263.16] P:1541.47 E:0.099028 |  three minutes of normal time, and then I think we're looking at at least three or four minutes about it on time,
+[6263.16 - 6272.16] P:1515.88 E:0.094113 |  here on Five Live and BBC Sounds. In a week, where Aston Villa, Liverpool and Celtic have all won,
+[6272.16 - 6280.16] P:1605.06 E:0.096773 |  Manchester City drew last night, Arsenal drawing here this evening, ahead of their meeting at the Aetihad.
+[6280.16 - 6288.16] P:1486.64 E:0.094709 |  On Sunday, you'll hear live on BBC Radio 5 Live from 4.30.
+[6288.16 - 6299.16] P:1516.83 E:0.101811 |  Arsenal's record, incidentally, on the back of European games, has drastically improved in the last two seasons.
+[6299.16 - 6305.16] P:1409.83 E:0.103701 |  They'll go into that game with their excellent away form in the Premier League, with a lot of confidence in that respect.
+[6305.16 - 6311.16] P:1561.07 E:0.094286 |  As Sterling was caught late, he goes down, free kick to Arsenal, which white has taken too quickly,
+[6311.16 - 6319.16] P:1478.34 E:0.093732 |  and there's got to be a stoppage because now is the opportunity that Atalanta will make a couple of changes.
+[6319.16 - 6326.16] P:1685.23 E:0.089011 |  I think Kalasenaki is one of the players who's going to be coming off, indeed he is, the former Arsenal.
+[6327.16 - 6335.16] P:1765.76 E:0.086430 |  No, it did say 23 on the electronic board, Stephanie Frappart is the fourth official, and the wrong digit was entered.
+[6335.16 - 6346.16] P:1540.95 E:0.091202 |  So Kalasenaki did say what meet, and instead it will be Rudjery to come off, to Mario Pasulic, former Celtic man,
+[6346.16 - 6354.16] P:1819.19 E:0.088409 |  Croatian international, but five loans away from Stamford Bridge, never actually played for the club,
+[6354.16 - 6360.16] P:1589.88 E:0.092597 |  and Lukman also comes off, so Ademola Lukman still hasn't scored against Arsenal now in five appearances,
+[6360.16 - 6371.16] P:1511.03 E:0.089964 |  as Samaric replaces him, serving international and Pasulic, the Croatian comes on as well for Atalanta in these closing stages here in Bergamo,
+[6371.16 - 6372.16] P:1319.23 E:0.086190 |  and it remains 0-0.
+[6372.16 - 6381.16] P:1542.14 E:0.094933 |  Last roll of the dice, for Aspirini there, surprise he took Ademola Lukman off, he's had a really dangerous evening,
+[6381.16 - 6385.16] P:1603.58 E:0.089874 |  and he's looked the one most likely for both teams to unlock the door.
+[6385.16 - 6392.16] P:1597.36 E:0.098067 |  From Arsenal now it's keeping those concentration levels high, reasonable performance away to Porto,
+[6392.16 - 6399.16] P:1711.73 E:0.094197 |  I see it's a draw and 0-0, and then just lost concentration in added time, just as it got to the end.
+[6400.16 - 6409.16] P:1627.54 E:0.096925 |  Sterling wrestling with a ball, against three Atalanta players, and a free kick for just catching Edison,
+[6409.16 - 6416.16] P:1425.78 E:0.098472 |  will mean that Atalanta, to the left of their own penalty area, in the last 30 seconds,
+[6416.16 - 6423.16] P:1431.81 E:0.097105 |  have a free kick that they're going to go long, you'd imagine, will find out how much will have on for added time,
+[6423.16 - 6430.16] P:1509.36 E:0.091676 |  as Mikhail Atetari is venturing out of his technical area, so Stephanie Krapa is just saying,
+[6430.16 - 6441.16] P:1442.77 E:0.097396 |  just come back a bit, go to this main stand, as Marco Karnasekki, the Atalanta goalkeeper,
+[6441.16 - 6446.16] P:1414.28 E:0.100634 |  Arsenal have pushed up quite high, that back line is within 10 yards of the halfway line,
+[6446.16 - 6452.16] P:1387.98 E:0.089610 |  Karnasekki hits it downfield, Declan Rice drops back, Zanyola was there,
+[6452.16 - 6457.16] P:1456.54 E:0.097170 |  with four minutes of added on time, which we're now into here on BBC Radio 5 Live,
+[6457.16 - 6464.16] P:1554.13 E:0.097205 |  ball headed on by Pashalic, tied it up by Gabrielle, David Ryer sits it first time, slices it,
+[6464.16 - 6469.16] P:1567.33 E:0.103415 |  and it curls away from Raheem Sterling, and it will go out of play for a throw.
+[6472.16 - 6478.16] P:1801.54 E:0.103451 |  Sterling didn't take too kindly to be trying to be helped back to his feet by Kalasinak,
+[6478.16 - 6485.16] P:1531.03 E:0.096114 |  and that's why you have the whistles directed at the England International from the Atalanta supporters.
+[6488.16 - 6496.16] P:1461.48 E:0.107488 |  Kalasinak waits to take the throw. What do you think the overriding feeling will be from your former teammate?
+[6496.16 - 6502.16] P:1613.94 E:0.095843 |  I think before the game, I think you'd want to come here and take all three points,
+[6502.16 - 6510.16] P:1699.96 E:0.104329 |  sometimes you go away and you feel unlucky to get a point, I think this will be a really good point if they could come away with it.
+[6510.16 - 6516.16] P:1704.62 E:0.110481 |  Atalanta though are still probing, and for their efforts on the left hand side, for Zanyola they've got a corner kick,
+[6516.16 - 6522.16] P:1688.60 E:0.099919 |  on this near side the left, we're into at it on time on BBC Radio 5 Live, it's still 0-0.
+[6522.16 - 6528.16] P:1605.29 E:0.096091 |  And minimum of four to be played, we're in the second minute of those four.
+[6528.16 - 6533.16] P:1566.71 E:0.093064 |  As Clémenter Pan has spotted something in that penalty area, we're at the other end of the ground,
+[6533.16 - 6539.16] P:1516.12 E:0.097388 |  we're level with the penalty area to the right, and we're looking away towards our left hand side,
+[6539.16 - 6547.16] P:1584.59 E:0.092856 |  and he's having a word, I think, with Zanyola and Declan Rice, is the French referee.
+[6547.16 - 6554.16] P:1570.33 E:0.098955 |  Arsenal have got everybody back, Lyon talks about how they were mugged in Porto late on last season in the Champions League.
+[6554.16 - 6559.16] P:1550.12 E:0.096034 |  In comes the corner kick, good strong header out by Gabrielle, headed back by Edison,
+[6559.16 - 6564.16] P:1358.06 E:0.099789 |  again Gabrielle climbs just inside the penalty area, firm header away,
+[6564.16 - 6570.16] P:1503.29 E:0.095913 |  picks up over on that far side, an opportunity maybe to deliver the cross.
+[6570.16 - 6576.16] P:1589.71 E:0.110159 |  As the ball is played into the penalty area, White is tucked in, comes out loose, ball threaded forward,
+[6576.16 - 6584.16] P:1610.85 E:0.098790 |  Ryat picks it up after some promising work by Samarzic on the right hand side,
+[6584.16 - 6591.16] P:1456.20 E:0.100200 |  and that passes off without any real incident, and by my watch we have 90 seconds remaining,
+[6591.16 - 6598.16] P:1585.73 E:0.097129 |  and still the Atalanta supporters continue to sing.
+[6598.16 - 6603.16] P:1542.85 E:0.106497 |  I think you can see Miquel Artertas' thoughts to the way the game has gone there,
+[6603.16 - 6608.16] P:1530.76 E:0.098917 |  trying to play a long pass, trying to start a counter attack for Arsenal.
+[6608.16 - 6612.16] P:1676.65 E:0.103883 |  Miquel Artertas, two hands in the air, just trying to tell him to calm down,
+[6612.16 - 6618.16] P:1483.62 E:0.098561 |  just let's just see this game out, let's make a couple of passes, let's make sure we keep the ball to the end of the game,
+[6618.16 - 6622.16] P:1411.14 E:0.103569 |  because as I said there are sometimes where you feel pleased to get a point,
+[6622.16 - 6627.16] P:1509.59 E:0.098950 |  and lucky to get a point, the performance that Arsenal have been able to show today,
+[6627.16 - 6630.16] P:1475.31 E:0.093153 |  this would be a good point they've been in an attacking sense,
+[6630.16 - 6634.16] P:1438.14 E:0.093159 |  a long way off what we know they're capable of, not too sloppy at times,
+[6634.16 - 6641.16] P:1473.48 E:0.102476 |  and yet they've been given a penalty kick away, they can come away from here with a clean sheet and a draw,
+[6641.16 - 6644.16] P:1592.23 E:0.096716 |  I think there'll be Miquel a look back on this, they'll be quite pleased.
+[6644.16 - 6651.16] P:1456.52 E:0.107913 |  Sturm Graz incidently down to 10 men as they trail 2-1 away, at Brest in the Champions League,
+[6651.16 - 6659.16] P:1402.55 E:0.107689 |  Atlético Madrid have got a late goal, they've come from behind, and they are now leading Arby Leipzig by 2 goals to 1.
+[6659.16 - 6664.16] P:1436.92 E:0.101219 |  So 2-1 is the scoreline in favour of all the home sides and the 8 o'clock kick-offs,
+[6664.16 - 6670.16] P:1307.69 E:0.103463 |  Atlético Madrid against Leipzig, Brest against Sturm Graz and Monaco with that scoreline against Barcelona,
+[6670.16 - 6677.16] P:1331.13 E:0.093181 |  with the exception of this one, that is still 0-0, and we're almost out of time.
+[6677.16 - 6686.16] P:1570.21 E:0.091136 |  Saliba, Cala Fiori, forward ball to Havertz, Havertz back, Saliba out towards Martinelli,
+[6686.16 - 6692.16] P:1762.92 E:0.101078 |  far side the left, Martinelli swings over the cross and the goalkeeper, Karnasek, he catches the ball,
+[6692.16 - 6699.16] P:1732.05 E:0.106465 |  and the referee sounds the full-time whistle, and it is finished, Atalanta 0, Arsenal 0,
+[6699.16 - 6709.16] P:1676.54 E:0.094082 |  and David Ryan, undoubtedly Arsenal's hero, saving the penalty, but what was part of a terrific double save
+[6709.16 - 6716.16] P:1631.66 E:0.093053 |  to keep out Retagy, and in the end I think Arsenal will look back and say, what an excellent point on their travels.
+[6716.16 - 6722.16] P:1553.46 E:0.093989 |  Yeah, I mean, that moment will be the one that this game is remembered for, that double save,
+[6722.16 - 6727.16] P:1545.92 E:0.099057 |  I don't think you'll see many better in the game as what we witnessed this evening,
+[6727.16 - 6735.16] P:1592.34 E:0.092246 |  and it was important to keep Arsenal level at 0-0, because they've been way below the standards, as I said, we expect.
+[6735.16 - 6740.16] P:1570.57 E:0.099422 |  Sometimes we looked at this on paper and thought it could go either way, we could expect loads of goals,
+[6740.16 - 6745.16] P:1593.47 E:0.092586 |  who will come out on top, are we going to see this performance, are we going to see the teams going at each other,
+[6745.16 - 6750.16] P:1628.06 E:0.096502 |  or we didn't see it, we saw two teams a little bit nervous to open up, to leave themselves exposed,
+[6750.16 - 6756.16] P:1596.24 E:0.095971 |  two teams that were a bit sloppy because of it, and I think we'll see two teams and two managers that probably go well
+[6756.16 - 6758.16] P:1491.67 E:0.073873 |  in the end, a fair result.
+[6758.16 - 6764.16] P:1552.37 E:0.104843 |  Nice little exchange of words and a little embrace between Miquel Arteta and Saeed Kalasinak,
+[6764.16 - 6770.16] P:1492.77 E:0.099173 |  the former Arsenal player, as the Arsenal players of today wonder across right in front of us
+[6770.16 - 6777.16] P:1597.95 E:0.096885 |  to acknowledge the law support from those that have travelled out to northern Italy for this goal of straw,
+[6777.16 - 6781.16] P:1706.45 E:0.097323 |  and now they'll turn their attentions to Manchester City on Sunday.
+[6781.16 - 6787.16] P:1707.84 E:0.098365 |  But here in the Stadio de Bergamo, it's finished at Alantanil, Arsenal 0, John Bennett.
+[6787.16 - 6793.16] P:1526.94 E:0.102351 |  Yes, hello from me, John Bennett on 5-life sport, ahead of a mini Euroleague, coming up after 10,
+[6793.16 - 6800.16] P:1438.47 E:0.096066 |  a lot to discuss tonight, but before that let's reflect a little bit more on that draw for Arsenal.
+[6800.16 - 6806.16] P:1485.39 E:0.098155 |  Leon Miquel Arteta's got a smile on his face, I can see the TV pictures here, you were mentioning he'll be happy with this point.
+[6806.16 - 6810.16] P:1346.07 E:0.092418 |  What do you think was missing though from the Arsenal performance tonight?
+[6810.16 - 6815.16] P:1636.71 E:0.103263 |  Quality, to be honest, which is not something I thought I'd be saying come the end of this game.
+[6815.16 - 6822.16] P:1572.25 E:0.098490 |  They were sloppy when they got into the opposition half, too many times people giving easy passes away,
+[6822.16 - 6828.16] P:1641.00 E:0.095485 |  unexpectedly Miquel Arteta tried to react, he tried to make substitutions, brought Georgini on,
+[6828.16 - 6833.16] P:1499.90 E:0.087828 |  brought Trossard on to try and make sure they brought a better quality to the middle,
+[6833.16 - 6837.16] P:1412.61 E:0.098547 |  and it went the other way, they got sucked into giving passes away as well,
+[6837.16 - 6843.16] P:1365.66 E:0.087128 |  you could say you put it down to the approach of Atalanta, that they went man to man,
+[6843.16 - 6848.16] P:1586.01 E:0.087683 |  they showed Arsenal something different, but I still expected Arsenal to find an answer with the quality
+[6848.16 - 6853.16] P:1450.45 E:0.089849 |  and the pace they've got in the wide areas, Martin Ellie, Saka Stirling when he came on,
+[6853.16 - 6858.16] P:1516.86 E:0.089158 |  to be able to figure out about time in the run, getting away from your man running into the channels,
+[6858.16 - 6863.16] P:1527.35 E:0.085495 |  but it wasn't to be, it was a night that they'll easily forget and an attacking sense,
+[6863.16 - 6868.16] P:1386.75 E:0.093850 |  but they certainly won't for keeping that defending record going, keeping that solidity going,
+[6868.16 - 6872.16] P:1393.80 E:0.093500 |  and even when they were breached that mistake from Thomas Partey giving the penalty away,
+[6872.16 - 6874.16] P:1321.70 E:0.098280 |  their goalkeeper made a wundersave.
+[6874.16 - 6880.16] P:1439.40 E:0.100785 |  Looking at social media, lots of people mentioning Martin Odegaard's name, they didn't miss him at the weekend,
+[6880.16 - 6886.16] P:1462.61 E:0.089484 |  but many people are saying they missed him tonight, the short fuse on X says sadly,
+[6886.16 - 6892.16] P:1377.02 E:0.096572 |  I think this is a taste of what Arsenal are going to be before Martin Odegaard returns,
+[6892.16 - 6899.16] P:1335.81 E:0.093211 |  would you agree with that Leon, is this a night when we've seen what him not being in the team will bring over the next few weeks?
+[6899.16 - 6906.16] P:1516.35 E:0.087834 |  Yeah, but that always depends on who you're coming up against, he wasn't missed at the weekend because of the type of game it was
+[6906.16 - 6912.16] P:1617.43 E:0.083078 |  and what the opposition offered, I do think he was missed this evening and I think for those runs that were being made,
+[6912.16 - 6916.16] P:1743.97 E:0.086749 |  someone just to get away from the marker, someone to see a pass that someone else doesn't see,
+[6916.16 - 6924.16] P:1653.63 E:0.091827 |  to lift themselves above all of the panic and all of the mayhem and just be able to see a calm picture,
+[6924.16 - 6929.16] P:1708.80 E:0.080809 |  I think yes they did miss that this evening and they will miss him for other games,
+[6929.16 - 6936.16] P:1553.30 E:0.085548 |  but this squad is still strong, this squad still has a number of quality players that over the majority of games
+[6936.16 - 6938.16] P:1473.98 E:0.079719 |  they'll be fine and they'll be able to find the answers for.
+[6938.16 - 6943.16] P:1429.47 E:0.108017 |  Mina Ruzuki has joined us as well, joining us a little bit early ahead of Euroleagues,
+[6943.16 - 6947.16] P:1362.74 E:0.104804 |  Mina will that to land to see that as a missed opportunity, they played really well there?
+[6947.16 - 6953.16] P:1363.31 E:0.087999 |  They did play really well, it depends on the one hand you're thinking about, this is awesome,
+[6953.16 - 6959.16] P:1233.44 E:0.100773 |  this is the team that we assume could have a really good chance of winning the lead title this season, one of the strongest
+[6959.16 - 6964.16] P:1368.23 E:0.093887 |  and actually Gasperini was really nervous coming into this game because of the defensive frailties that they do have
+[6964.16 - 6969.16] P:1682.22 E:0.092076 |  and they have shown in Serie A this season, especially from set pieces against one of the best teams in the world
+[6969.16 - 6971.16] P:1657.69 E:0.093279 |  when it comes to set pieces, an Arsenal.
+[6971.16 - 6976.16] P:1483.61 E:0.090026 |  So you can have a look at that, they did have that penalty, it was an outstanding double save,
+[6976.16 - 6981.16] P:1455.42 E:0.083116 |  the second one even better from David Ryer, so yes I think they created more chances,
+[6981.16 - 6988.16] P:1495.58 E:0.079487 |  they looked to be on the front foot the whole time, but it is Arsenal and you sort of expect these types of matches,
+[6988.16 - 6990.16] P:1430.87 E:0.085167 |  so I think at least a point gained.
+[6990.16 - 6994.16] P:1551.41 E:0.106973 |  Mina stay there back for Euroleagues in just a moment, Ian Dennis final one to you,
+[6994.16 - 7000.16] P:1464.96 E:0.092399 |  what impact do you think tonight will have on Sunday, the big game for Arsenal against Manchester City?
+[7000.16 - 7007.16] P:1418.70 E:0.096821 |  It was gruelling tonight, 24 hours more Manchester City have had to prepare, do you think it's going to have much impact?
+[7007.16 - 7013.16] P:1725.09 E:0.092329 |  Well George Unio was asked about that last night and he said it's going to be difficult but it is what it is,
+[7013.16 - 7022.16] P:1644.19 E:0.082488 |  but actually if you look at Arsenal's form in the Premier League on the back of European games there's been a drastic improvement.
+[7022.16 - 7028.16] P:1640.00 E:0.098434 |  There's often a talk about when they used to play in the Europa League how their form would suffer on a Sunday from playing on a Thursday.
+[7028.16 - 7037.16] P:1720.41 E:0.081145 |  So in 1920 and 2021 they won 50% of their 22 games on the back of Europa League fixtures,
+[7037.16 - 7045.16] P:1698.41 E:0.092221 |  they lost 8, they only won 11 of the 22, however there has been a newfound resilience by Arsenal in the last two seasons of European competition
+[7045.16 - 7051.16] P:1669.89 E:0.090218 |  where they've lost just one of 18 games, they didn't lose at all on the back of the Europa League in 22-23
+[7051.16 - 7057.16] P:1651.80 E:0.090351 |  and even last season on the back of the Champions League games where incidentally they beat Manchester City and drew the other,
+[7057.16 - 7068.16] P:1659.84 E:0.082770 |  they've only lost one of those 10 other games in the Champions League and bearing in mind that Arsenal's away form in the calendar year of 2024 on the road is exceptional.
+[7068.16 - 7078.16] P:1634.55 E:0.081112 |  They yet to actually fall behind, they've won 10 of their 11 games in an unbeaten run, so in that respect I think they go into that game against Manchester City with confidence.
+[7078.16 - 7085.16] P:1489.83 E:0.098671 |  Thank you very much Ian, Ian Dennis and Leon Osmond, our commentary team in Bergamo, Atalanta Nile, Arsenal Nile,
+[7085.16 - 7089.16] P:1741.63 E:0.046528 |  the other scores from the 8 o'clock kickoffs in the Champions League, Athletic Go Madrid 2.

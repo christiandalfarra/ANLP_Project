@@ -1,0 +1,2103 @@
+[0.00 - 10.00] P:1920.27 E:0.302193 |  Thank you Mark, we're looking down on the pitch from up on high at the front of the second tier of this stadium in Samara.
+[12.00 - 16.00] P:1836.35 E:0.301389 |  The flags on the pitch have been raised up by the children holding them.
+[17.00 - 21.00] P:1761.59 E:0.280566 |  The flags are now being let out from the tunnel as well for the anthems.
+[21.00 - 31.00] P:1825.72 E:0.263721 |  And now the teams emerge. It says on my ticket that this is officially match number 60 out of 64 and England are still in it.
+[32.00 - 41.00] P:1959.62 E:0.300537 |  And this will be the first time that the World Cup semi-finals will not feature at least one of Brazil, Argentina or Germany.
+[42.00 - 53.00] P:1829.47 E:0.287536 |  And we have Sweden and England now lining up either side of the halfway line to hear the anthems to contest a place in the last four of this World Cup.
+[54.00 - 62.00] P:1836.88 E:0.300398 |  Sweden in the bright yellow tracksuit tops with spearage in blue written across the back.
+[63.00 - 66.00] P:1812.04 E:0.401911 |  And the England players applaud.
+[68.00 - 79.00] P:1707.95 E:0.347630 |  And Harry Kane just waits for the signal. Referee Bjorn Kruijtbos is just having a little word with the mascot and then Harry Kane sets off along the line shaking hands with the Dutch officials and then the Swedish players.
+[80.00 - 83.00] P:1771.49 E:0.338358 |  One of those anthems we've just heard for the last time at this World Cup.
+[84.00 - 91.00] P:1739.06 E:0.354091 |  The weather winds will go all the way through to the last weekend of this tournament, either the final or the third fourth place player.
+[92.00 - 101.00] P:1711.08 E:0.326075 |  Here's the Pan Ambrose, Janne Anderson and Gareth Southgate have just exchanged an embrace down there between the two technical areas.
+[102.00 - 108.00] P:1758.28 E:0.326372 |  And so here we are, 500 miles or so out to the east of Moscow in this pretty city on the Volga River.
+[109.00 - 112.00] P:1720.06 E:0.321962 |  It's a summer Saturday afternoon in Samara.
+[114.00 - 121.00] P:1735.59 E:0.323591 |  And by the time we're done today, either it will be a first World Cup semi-final for England since 1990.
+[122.00 - 126.28] P:1824.60 E:0.294970 |  or a first for Sweden since USA in 94.
+[126.28 - 128.80] P:1797.58 E:0.315292 |  So we do have two football nations
+[128.80 - 131.64] P:1720.50 E:0.314692 |  who are overdue a world cup like this.
+[131.64 - 133.88] P:1642.07 E:0.335716 |  And it is a day when it really is a case
+[133.88 - 135.24] P:1611.03 E:0.304854 |  of the winner takes it all.
+[135.24 - 137.24] P:1621.19 E:0.334456 |  We'll see how it unfolds over the course
+[137.24 - 139.76] P:1683.46 E:0.296482 |  of the next 90 minutes as the players just gather
+[139.76 - 142.68] P:1630.14 E:0.310406 |  behind the banner, the living football,
+[142.68 - 147.44] P:1724.17 E:0.305136 |  say no to racism, hoarding that they are FIFA,
+[147.44 - 150.80] P:1729.63 E:0.319534 |  presenting for all of these matches in the quarterfinals.
+[150.80 - 154.48] P:1619.34 E:0.320141 |  So the players mingle together and then they will break away
+[154.48 - 156.48] P:1717.65 E:0.303049 |  and prepare for the match.
+[156.48 - 160.28] P:1788.61 E:0.317151 |  So, Chris, how are you expecting it to unfold in front of us today?
+[160.28 - 162.12] P:1671.89 E:0.322367 |  Well, I think England will have a lot of ball early on.
+[162.12 - 165.56] P:1882.42 E:0.284233 |  I think Sweden will be all about shape.
+[165.56 - 167.88] P:1856.30 E:0.313049 |  And I think as the game goes on, obviously,
+[167.88 - 169.88] P:1756.94 E:0.295661 |  if England score first, Sweden will have to come out
+[169.88 - 170.88] P:1564.79 E:0.292471 |  and shoot England.
+[170.88 - 173.68] P:1810.83 E:0.282377 |  But I think Sweden will be quite happy to take this game
+[173.68 - 176.08] P:1830.63 E:0.286009 |  as long as it has to go to get a result.
+[176.08 - 178.08] P:1736.27 E:0.286378 |  And it's up to England now, I think, to break them down.
+[178.08 - 180.76] P:1884.05 E:0.283435 |  But you can't overcommit because these are very dangerous
+[180.76 - 184.56] P:1942.88 E:0.254861 |  on the countertop Saturday afternoon.
+[184.56 - 187.16] P:1894.10 E:0.338925 |  It'd be very interesting to know where people are watching
+[187.16 - 188.16] P:1908.33 E:0.309031 |  and listening to us.
+[188.16 - 189.64] P:1713.53 E:0.311130 |  It is on the red button, by the way.
+[189.64 - 191.84] P:1783.68 E:0.279300 |  You can watch the match on BBC One.
+[191.84 - 195.08] P:1698.32 E:0.280329 |  Martin Keown and Jermaine Genus and Guy Mawbray
+[195.08 - 196.64] P:1822.84 E:0.306506 |  are just up to our left.
+[196.64 - 198.28] P:1655.71 E:0.300635 |  You can watch the match on BBC One.
+[198.28 - 201.60] P:1814.16 E:0.277882 |  They're expecting a massive audience, something around 30 million.
+[201.60 - 204.04] P:1763.79 E:0.308302 |  If you press the red button, you can listen to our commentary,
+[204.04 - 207.08] P:1776.82 E:0.265135 |  the five live commentary matched up with all of the pictures.
+[207.08 - 210.08] P:1646.84 E:0.283731 |  But I've heard stories about people delaying their weddings
+[210.08 - 211.60] P:1704.58 E:0.268913 |  back home this afternoon.
+[211.60 - 213.60] P:1722.00 E:0.307899 |  All sorts of people will be playing sport.
+[213.60 - 216.40] P:1826.25 E:0.290243 |  There'll be cricket matches going on all around the country.
+[216.40 - 218.80] P:1812.31 E:0.289874 |  And I guess people will be listening to us as well
+[218.80 - 221.16] P:1802.42 E:0.274172 |  while they're watching their teams play.
+[221.16 - 224.76] P:1855.72 E:0.288399 |  And it is just a huge sporting afternoon.
+[224.76 - 227.72] P:1771.15 E:0.293006 |  What with Wimbledon, of course, Kyle Edmund playing later.
+[227.72 - 229.08] P:1754.40 E:0.330260 |  British Grand Prix tomorrow.
+[229.08 - 231.08] P:1919.23 E:0.274207 |  The Tour de France starts today.
+[231.08 - 234.60] P:1911.20 E:0.285444 |  And here in far away Samara,
+[234.60 - 237.72] P:1693.77 E:0.274337 |  we are preparing for kick-off in the World Cup quarter-final.
+[237.72 - 239.84] P:1822.44 E:0.291078 |  Sweden, two changes to their team.
+[239.84 - 243.28] P:1598.03 E:0.288449 |  Larsson, Seb Larsson, who we know so well in England, back in midfield.
+[243.28 - 247.28] P:1668.97 E:0.279387 |  And Emile Kraft right back in for the suspended Mikael Lustig.
+[247.28 - 251.12] P:1770.61 E:0.289143 |  So the Swedish side, Robin Olsen in goal, back four of Emile Kraft,
+[251.12 - 255.16] P:1697.04 E:0.270161 |  Vicka Lindelof of Manchester United, Andreas Gramquist, the captain,
+[255.16 - 258.12] P:1662.05 E:0.301732 |  who became a father again this week, the former Wigan man,
+[258.12 - 260.84] P:1739.29 E:0.262059 |  Ludwig Augustinsson at left back.
+[260.84 - 264.28] P:1767.82 E:0.290666 |  And then in midfield, Victor Klosson, Seb Larsson, Albin Ekdal,
+[264.28 - 268.56] P:1690.16 E:0.253631 |  and Emile Forsberg with Marcus Berg and Ola Toivonen up front.
+[268.64 - 270.64] P:1902.35 E:0.272432 |  And England, unchanged.
+[270.64 - 274.12] P:1816.34 E:0.306552 |  Jordan Pickfitting goal, Kyle Walker, John Stones and Harry Maguire,
+[274.12 - 275.60] P:1871.15 E:0.268474 |  the three central defenders.
+[275.60 - 278.16] P:1858.55 E:0.286142 |  Kieran Trippier and Ashley Young are the wing backs.
+[278.16 - 281.84] P:1723.72 E:0.307485 |  Jordan Henderson with Jesse Lingard and Deli Alli either side.
+[281.84 - 283.52] P:1783.62 E:0.289522 |  And then Raheem Sterling.
+[283.52 - 287.00] P:1808.27 E:0.306448 |  And the World Cups leading score at the England captain.
+[287.00 - 289.40] P:1847.52 E:0.280025 |  Six goals here at the tournament.
+[289.40 - 291.40] P:1863.46 E:0.281192 |  Harry Kane up front.
+[292.80 - 295.00] P:1944.04 E:0.294422 |  We're almost ready for kick-off.
+[295.00 - 299.52] P:1899.65 E:0.285813 |  The camera on its ropes is hovering around
+[299.52 - 302.36] P:1862.33 E:0.275254 |  and swinging around above the centre-circle.
+[302.36 - 305.28] P:1732.22 E:0.310147 |  Sweden are going to get the match underway from where we're looking here.
+[305.28 - 307.52] P:1891.91 E:0.236078 |  High up behind the dugouts.
+[307.52 - 310.52] P:1681.58 E:0.309190 |  Sweden are going to be playing from left to right.
+[310.52 - 313.12] P:1760.12 E:0.334437 |  Victor Klosson is waiting to kick off.
+[313.12 - 317.12] P:1765.36 E:0.313986 |  He looks a little nervous, I must say, the Swedish number 17.
+[317.12 - 322.04] P:1718.66 E:0.326042 |  And here is the countdown to kick off in the World Cup quarter-final
+[322.08 - 324.24] P:1953.89 E:0.333493 |  between Sweden and England.
+[324.24 - 326.56] P:1896.40 E:0.320384 |  And off we go here in Samara.
+[326.56 - 329.60] P:1879.78 E:0.280313 |  Sweden, the yellow shirts, blue shorts and yellow socks
+[329.60 - 332.44] P:1735.83 E:0.253699 |  against the all-red of England again.
+[332.44 - 334.44] P:1679.12 E:0.244460 |  And the ball is deflected out of play.
+[334.44 - 335.96] P:1644.22 E:0.239033 |  Grangfist got his head to it.
+[335.96 - 339.28] P:1653.45 E:0.261024 |  And England get their first touch with a throw-in over on the far side,
+[339.28 - 341.76] P:1569.34 E:0.254761 |  which is taken back to Kyle Walker.
+[341.76 - 345.96] P:1714.57 E:0.264764 |  Kyle Walker is a yellow card away,
+[345.96 - 347.96] P:1561.31 E:0.292020 |  potentially from missing the semi-final.
+[347.96 - 349.68] P:1684.06 E:0.284373 |  So is Jesse Lingard.
+[349.68 - 353.44] P:1564.62 E:0.280090 |  But the yellow cards will be wiped after the quarter-final stage, remember.
+[353.44 - 356.40] P:1582.80 E:0.285231 |  Harry Kane drops deep. We saw an awful lot of that in the Columbia game.
+[356.40 - 359.80] P:1592.31 E:0.293567 |  Now Walker plays it up towards the edge of the Swedish penalty area,
+[359.80 - 363.32] P:1570.98 E:0.268259 |  where Andreas Grangkrist just leans forward, heads it down,
+[363.32 - 365.92] P:1522.50 E:0.269509 |  and it's out of play for an England throw on the right.
+[365.92 - 369.24] P:1698.12 E:0.281488 |  Chris Waddle watching, whether it's Chris played in World Cup quarter-finals
+[369.24 - 371.12] P:1667.74 E:0.272762 |  in Mexico and in Italy.
+[371.12 - 372.80] P:1694.96 E:0.236614 |  One-one, lost one.
+[372.80 - 375.36] P:1656.09 E:0.216628 |  They were both eventual.
+[375.36 - 377.48] P:1538.21 E:0.276706 |  England with a throw on the right-hand side.
+[377.52 - 382.96] P:1572.77 E:0.270184 |  And here they go all the way back towards the tall, imposing figure,
+[382.96 - 389.40] P:1623.25 E:0.254633 |  one of England's two ever-presents in this World Cup campaign here, John Stones.
+[389.40 - 391.36] P:1657.27 E:0.308240 |  Stones plays it out towards the left-hand side,
+[391.36 - 392.56] P:1670.51 E:0.293391 |  where Deli Alli is challenged.
+[392.56 - 395.40] P:1649.30 E:0.253131 |  The ball deflects out of play for a throw-in to Sweden.
+[395.40 - 398.04] P:1649.82 E:0.277724 |  And then it's headed forward by John Stones.
+[398.04 - 401.48] P:1603.27 E:0.270332 |  Deli Alli plays a little ball up, but didn't get the contact he wanted on that,
+[401.48 - 406.44] P:1541.10 E:0.283881 |  and it was easily headed away and down to comparative safety for Sweden,
+[406.48 - 408.88] P:1587.39 E:0.270768 |  who clear it down deep into the England half.
+[408.88 - 409.88] P:1725.12 E:0.337705 |  Chris Waddle.
+[409.88 - 413.36] P:1692.63 E:0.277470 |  Well, you can see already 4-4-2, Sweden, well-marshalled there,
+[413.36 - 415.40] P:1744.72 E:0.297616 |  the back-four there, really close together.
+[415.40 - 416.72] P:1701.99 E:0.259022 |  There's an old-fashioned four.
+[416.72 - 419.96] P:1684.81 E:0.293333 |  You know, it's a system everybody used years ago, and we did a lot.
+[419.96 - 421.92] P:1613.82 E:0.298116 |  They just dropped off in the same England look.
+[421.92 - 423.72] P:1631.92 E:0.295426 |  You can have the ball, but it'll give you no space
+[423.72 - 425.40] P:1593.95 E:0.269510 |  when you get that last 30-40 yards.
+[425.40 - 429.28] P:1626.30 E:0.269511 |  Less than two minutes played, and the pattern has already very much emerged.
+[429.28 - 432.12] P:1560.48 E:0.304667 |  Going to be lots of England possession, but that doesn't bother Sweden.
+[432.12 - 435.24] P:1724.56 E:0.276883 |  You'll know that if you've been watching any of their games at this tournament.
+[435.24 - 437.32] P:1623.50 E:0.278804 |  Jordan Pickford chips the ball out to the left-hand side.
+[437.32 - 440.28] P:1690.96 E:0.257159 |  Ashley Young leaps up high, unchallenged to head it infield.
+[440.28 - 442.12] P:1577.16 E:0.257719 |  And now here is Victor Klosson.
+[442.12 - 444.52] P:1671.03 E:0.292187 |  Klosson, little ball infield, it's played through by Bergus,
+[444.52 - 445.88] P:1818.69 E:0.306361 |  but far too much on that.
+[445.88 - 449.08] P:1778.14 E:0.291975 |  That was a very heavy contact, straight away through for a goal kick to England.
+[449.08 - 452.12] P:1610.34 E:0.297985 |  Well, there's a threat for you, they've picked the ball up on that off-rally,
+[452.12 - 457.04] P:1575.49 E:0.302379 |  one pass and say yes, he's over, hit the pass, but England committed a lot of bodies forward.
+[457.04 - 460.40] P:1734.07 E:0.301592 |  The stage I'm looking at England is two up front, Kane and Sterling,
+[460.40 - 464.64] P:1669.11 E:0.301586 |  but Deli Alli basically, and then got a plate up front with him.
+[464.68 - 466.80] P:1610.49 E:0.307962 |  There's a line of four against their four.
+[467.92 - 469.76] P:1622.46 E:0.290378 |  So Jordan Pickford has a goal kick.
+[471.16 - 475.92] P:1621.56 E:0.282566 |  We've got four England players stationed around the penalty area and three Swedes.
+[476.60 - 479.00] P:1463.03 E:0.278238 |  And Sweden are saying to England, come on then,
+[479.00 - 480.56] P:1543.48 E:0.272601 |  you're going to pass the ball out from the back,
+[480.56 - 483.52] P:1680.26 E:0.266151 |  which Jordan Pickford does to Kyle Walker in the full-back position,
+[483.52 - 484.84] P:1619.04 E:0.263516 |  who then hits it long.
+[484.84 - 488.12] P:1671.68 E:0.260425 |  Here's Jordan Henderson in center field, sends a pinging pass,
+[488.12 - 492.68] P:1706.54 E:0.259133 |  diagonally for Raheem Sterling, but that's knotted back by right-back Kraft
+[492.68 - 496.84] P:1560.93 E:0.261575 |  to goalkeeper Olsen, who's able to underarm it out to Kraft,
+[496.84 - 500.68] P:1578.31 E:0.250852 |  who's starting a match at this World Cup for the first time, Emel Kraft.
+[501.40 - 504.60] P:1454.33 E:0.274373 |  Long and forward and Trippier is able to see it to McGuire,
+[504.60 - 507.00] P:1632.22 E:0.292352 |  who knotted back to Jordan Pickford.
+[507.00 - 509.60] P:1590.64 E:0.291684 |  Quickly underarms it out to Jordan Henderson.
+[509.60 - 512.80] P:1405.92 E:0.279188 |  Henderson now, Deli at Jesse Lindgard,
+[512.80 - 516.04] P:1474.00 E:0.292778 |  10 yards inside his own half, back towards Kyle Walker.
+[516.04 - 518.72] P:1633.98 E:0.329307 |  Still one of two people taking their seats around the stadium,
+[518.72 - 522.64] P:1589.40 E:0.309683 |  it is quite difficult to get to this one more space-age stadium
+[522.64 - 526.32] P:1652.55 E:0.293930 |  with the huge dormed roof, which, when you see it for the first time,
+[526.32 - 530.52] P:1603.50 E:0.293024 |  looks like a spacecraft that's just landed in amongst the trees of Samara.
+[531.52 - 534.44] P:1518.18 E:0.291376 |  Here's McGuire on the halfway line, puts his foot on the ball.
+[534.44 - 539.64] P:1561.14 E:0.274797 |  McGuire towards Raheem Sterling, extremely cagey start to this game.
+[539.64 - 542.20] P:1476.62 E:0.260365 |  Nill Nill in the very early stages.
+[542.20 - 545.44] P:1517.43 E:0.276635 |  Stones now works a ball to Walker on the right,
+[545.48 - 549.20] P:1504.68 E:0.265205 |  Walker to Trippier, who's been one of England's men of this World Cup.
+[549.20 - 551.84] P:1516.21 E:0.278163 |  Jesse Lindgard knew he was in an offside position,
+[551.84 - 554.80] P:1455.03 E:0.273648 |  so allowed the ball to run back into the left back area,
+[554.80 - 557.92] P:1367.90 E:0.287953 |  where Augustinsson clears it towards the halfway line.
+[557.92 - 560.60] P:1568.80 E:0.269752 |  Berg couldn't get a touch, so England are back in possession.
+[560.60 - 563.72] P:1676.12 E:0.283396 |  It's strange out today, John, you did say it looks like a spaceship,
+[563.72 - 566.32] P:1386.28 E:0.253464 |  and we might actually see ET today.
+[566.32 - 568.12] P:1530.37 E:0.302153 |  Extra time.
+[568.12 - 570.12] P:1540.64 E:0.270490 |  At this rate, we would do.
+[570.12 - 572.16] P:1432.68 E:0.278315 |  Here's McGuire, young.
+[572.16 - 574.60] P:1542.95 E:0.294377 |  Quite pleased with yourself, right?
+[574.80 - 578.04] P:1468.35 E:0.269337 |  I can tell. I can feel you giggling to yourself.
+[578.04 - 579.96] P:1489.83 E:0.287034 |  McGuire, now the young.
+[579.96 - 582.76] P:1581.45 E:0.288383 |  Young with the outside of his boot, but that's too much on that,
+[582.76 - 584.48] P:1545.54 E:0.280109 |  and it's straight out of play.
+[584.48 - 590.16] P:1486.15 E:0.281160 |  And yeah, this is not the... It's not Brazil-Belgium, is it?
+[590.16 - 592.92] P:1553.75 E:0.273854 |  No, definitely not. We've sorted that out already.
+[592.92 - 597.16] P:1743.69 E:0.276225 |  And very tactical, very cagey, very nervous.
+[597.16 - 600.48] P:1603.62 E:0.275118 |  England are a little bit on the front foot, you could say,
+[600.48 - 604.16] P:1587.42 E:0.247104 |  but this is ideal for Sweden, I think, at the minute.
+[604.72 - 607.60] P:1528.79 E:0.275804 |  And Gareth Southgate, absolutely right last night, saying,
+[607.60 - 610.52] P:1538.04 E:0.262704 |  it's going to be up to us to break them down
+[610.52 - 614.32] P:1670.91 E:0.241110 |  and use what craft England have.
+[614.32 - 620.80] P:1501.50 E:0.256341 |  And Raheem Sterling, big day for him, I feel, near the centre circle.
+[620.80 - 622.76] P:1439.53 E:0.309230 |  Henderson with the ball inside his own half.
+[622.76 - 625.20] P:1599.49 E:0.304828 |  John Stones goes to the right-hand side to Kyle Walker.
+[625.20 - 626.88] P:1591.04 E:0.294943 |  Here is Sterling now, Sterling.
+[626.88 - 628.32] P:1614.88 E:0.314224 |  It's challenged by Seb Larsen.
+[628.32 - 630.84] P:1547.61 E:0.295749 |  Sterling trying to get around him, might have been held,
+[630.84 - 633.36] P:1596.95 E:0.283877 |  and referee Kuipers has brought it back for a free kick
+[633.56 - 635.08] P:1673.76 E:0.268342 |  when England might have been away there.
+[635.08 - 637.12] P:1687.53 E:0.227021 |  Henderson then takes the free kick,
+[637.12 - 638.96] P:1775.82 E:0.278444 |  which hits one of the Swedish players,
+[638.96 - 640.48] P:1607.51 E:0.296631 |  and referee Kuipers says, carry on.
+[640.48 - 644.04] P:1754.16 E:0.278156 |  And then, misplace pass by, Walker behind Young,
+[644.04 - 646.72] P:1680.60 E:0.276176 |  and that underlines the scrappy start to the game.
+[646.72 - 649.36] P:1586.65 E:0.280993 |  It's been a terrible start to the match, you know what I'm saying?
+[649.36 - 651.32] P:1576.06 E:0.280623 |  England, it's just been a bad start.
+[651.32 - 653.64] P:1550.39 E:0.270414 |  Sweden set up well-disciplined court,
+[653.64 - 658.28] P:1618.92 E:0.272792 |  Mofseil once already, not really going forward.
+[658.28 - 660.92] P:1626.19 E:0.305729 |  They've played three long balls so far, but England haven't settled.
+[660.92 - 662.96] P:1448.27 E:0.255191 |  They can't get a rhythm going.
+[662.96 - 664.76] P:1481.91 E:0.322650 |  Sweden are saying to England,
+[664.76 - 667.24] P:1567.20 E:0.273963 |  come on then, take the initiative against us.
+[667.24 - 670.72] P:1432.46 E:0.273438 |  And at this stage of a World Cup quarter-final,
+[670.72 - 673.12] P:1488.11 E:0.249947 |  England aren't over-committing themselves.
+[673.12 - 675.80] P:1402.22 E:0.308714 |  Harry McQuire heads the ball forward over the halfway line,
+[675.80 - 678.28] P:1569.42 E:0.262822 |  and then Klosson back to Kraft,
+[678.28 - 680.96] P:1721.96 E:0.316665 |  who thought about going back to his goalkeeper,
+[680.96 - 683.20] P:1710.21 E:0.325724 |  and he delayed, and Dali Alley was in,
+[683.20 - 685.72] P:1774.11 E:0.299996 |  and Alley slipped the ball through, but over-hitted,
+[685.72 - 687.64] P:1767.81 E:0.275163 |  looking for the run of Harry Kane,
+[687.64 - 690.04] P:1574.57 E:0.270735 |  but goalkeeper Olsen was out very quickly to gather.
+[690.04 - 692.20] P:1660.28 E:0.312321 |  Right ball, right decision, just over-hits it.
+[692.20 - 694.20] P:1597.88 E:0.298433 |  That's what we'd taught about in general play.
+[694.20 - 697.40] P:1697.22 E:0.275630 |  We need Dali Alley and Lingard to stop relaxing on the ball,
+[697.40 - 700.20] P:1761.12 E:0.257388 |  and given service to Kane, at the minute,
+[700.20 - 702.20] P:1644.24 E:0.264269 |  he's not getting a lot in this tournament.
+[702.20 - 703.80] P:1693.25 E:0.282580 |  Free kick for Foul on Toiven,
+[703.80 - 706.20] P:1566.82 E:0.276919 |  and free kick to Sweden, 10 yards inside the England half.
+[706.20 - 709.20] P:1609.28 E:0.267280 |  A little bit of nerve there from Emile Kraft, the right back,
+[709.20 - 712.20] P:1595.99 E:0.253101 |  who, as I say, is starting at the tournament for the first time
+[712.20 - 714.20] P:1569.87 E:0.260517 |  with Lustig suspended.
+[714.20 - 718.20] P:1542.57 E:0.258363 |  Kraft, the Bologna, right back.
+[718.20 - 721.20] P:1511.30 E:0.276175 |  He's played very little football really this season.
+[721.20 - 724.20] P:1501.03 E:0.302407 |  Could be an area for England to try and capitalise on,
+[724.20 - 727.20] P:1652.86 E:0.321747 |  the Swedish right back area, but a free kick here for Larsen.
+[727.20 - 730.20] P:1686.55 E:0.265050 |  Larsen, we're now very good delivery, good right foot.
+[730.20 - 733.20] P:1694.78 E:0.292569 |  Seb Larsen, who's going to be going back to Sweden next season.
+[733.20 - 736.20] P:1764.23 E:0.260132 |  He's never actually played in the Swedish league.
+[736.20 - 739.20] P:1644.94 E:0.283501 |  Here is Larsen, who hits a high, booming free kick
+[739.20 - 741.20] P:1694.64 E:0.315647 |  towards Toiven and on the back post,
+[741.20 - 743.20] P:1570.80 E:0.247430 |  but he doesn't get any contact on it,
+[743.20 - 746.20] P:1566.34 E:0.286605 |  and it bounces away through the full-back position for a throw in.
+[746.20 - 748.20] P:1591.99 E:0.287377 |  I think Kehlewater just did enough to put Toiven in upwards.
+[748.20 - 749.20] P:1598.14 E:0.301266 |  It was a good delivery.
+[749.20 - 752.20] P:1518.18 E:0.218203 |  He's done a lot of good work on now, Toiven and Spindler on the back.
+[752.20 - 755.20] P:1585.57 E:0.309704 |  Sweden nil, England nil, BBC Radio 5 Live.
+[755.20 - 758.20] P:1525.05 E:0.247114 |  Actually, referee Coppers is saying that
+[758.20 - 761.20] P:1718.04 E:0.278460 |  that did take a touch off Kehlewater, so it's a throw in to Sweden.
+[761.20 - 765.20] P:1565.43 E:0.248867 |  And Victor Klossen has gone all the way over there to take this,
+[765.20 - 769.20] P:1554.43 E:0.248348 |  the long-throw man, so this danger for England,
+[769.20 - 772.20] P:1624.72 E:0.273643 |  yet to keep a clean sheet at this World Cup.
+[772.20 - 773.20] P:1786.43 E:0.277399 |  Here's the throw from Klossen.
+[773.20 - 775.20] P:1754.86 E:0.289281 |  Grant Christ tries to head it on.
+[775.20 - 777.20] P:1660.28 E:0.273753 |  There are one or two shots for Han Ball,
+[777.20 - 779.20] P:1589.92 E:0.275368 |  and it is given against Grant Christ,
+[779.20 - 781.20] P:1509.23 E:0.301532 |  and it's a free kick to England in their own pantheaere.
+[781.20 - 784.20] P:1379.78 E:0.294734 |  That's a danger. You don't want to get many of them today, do you?
+[784.20 - 787.20] P:1478.92 E:0.270012 |  He nearly got his head on it there, didn't he, Grant Christ?
+[787.20 - 790.20] P:1650.33 E:0.270296 |  And that was a great throw, a little pace on it as well.
+[790.20 - 792.20] P:1462.97 E:0.249985 |  Difficult to deal with.
+[792.20 - 793.20] P:1661.96 E:0.297051 |  Grant Christ is scratching for it.
+[793.20 - 797.20] P:1479.03 E:0.265822 |  It hit Walker and then rebounded onto the arm of the Swedish captain.
+[797.20 - 801.20] P:1562.65 E:0.285712 |  BBC Radio 5 Live with England at the World Cup in Samara.
+[801.20 - 803.20] P:1604.55 E:0.294616 |  You can listen via the BBC Sport app.
+[803.20 - 805.20] P:1549.01 E:0.251353 |  Get in touch at 5 Live Sport.
+[805.20 - 807.20] P:1629.67 E:0.276502 |  Tell us where you're listening to us this afternoon,
+[807.20 - 809.20] P:1563.40 E:0.289531 |  if it's unusual or exotic.
+[809.20 - 813.20] P:1472.50 E:0.289969 |  Also, BBC World Service across Africa are with us as well,
+[813.20 - 817.20] P:1470.62 E:0.265869 |  so great to have you and also TSN in Canada.
+[817.20 - 819.20] P:1181.42 E:0.305749 |  And as I say, the red button on the television
+[819.20 - 821.20] P:1366.85 E:0.267848 |  to listen to us and watch the pictures.
+[821.20 - 826.20] P:1506.44 E:0.297241 |  Not much to wax lyrical about so far in this game.
+[826.20 - 827.20] P:1649.31 E:0.292679 |  Here's Walker.
+[827.20 - 829.20] P:1399.68 E:0.245727 |  Walker on the halfway line, chips it in field,
+[829.20 - 833.20] P:1473.94 E:0.288694 |  Stirling, but loses out in the challenge with Ekdal,
+[833.20 - 836.20] P:1439.91 E:0.300989 |  and then it bounces out of play for a throw on the first half.
+[836.20 - 837.20] P:1537.71 E:0.331689 |  This is a classic game, you know,
+[837.20 - 839.20] P:1565.86 E:0.283798 |  we were talking before the game about the position
+[839.20 - 841.20] P:1689.33 E:0.264115 |  of the sense of Stirling.
+[841.20 - 842.20] P:1621.80 E:0.305497 |  He's got to go and play Wade.
+[842.20 - 844.20] P:1679.88 E:0.270839 |  Come on, stand out on this left wing.
+[844.20 - 847.20] P:1411.69 E:0.289568 |  Just stand, really Wade, and see what they do, Sweden.
+[847.20 - 850.20] P:1546.16 E:0.323250 |  Because at the minute, there's too many redshirts, too high,
+[850.20 - 852.20] P:1589.05 E:0.288159 |  there's no space for any of them to get aboard.
+[852.20 - 854.20] P:1436.26 E:0.244441 |  It's the plane that the Swedens had.
+[854.20 - 856.20] P:1560.95 E:0.307347 |  Sweden are playing a very narrow backfog,
+[856.20 - 860.20] P:1369.40 E:0.267907 |  which is helping, England's helping them actually by playing so narrow.
+[860.20 - 862.20] P:1577.75 E:0.289346 |  Of course, it is a warm afternoon here as well.
+[862.20 - 866.20] P:1654.99 E:0.304870 |  In the mid-20s, I would say, so the players possibly conscious of that as well
+[866.20 - 868.20] P:1575.25 E:0.275557 |  in terms of the way that the game's begun.
+[868.20 - 870.20] P:1547.74 E:0.299274 |  Henderson got up there and passed the ball crossfield,
+[870.20 - 873.20] P:1480.81 E:0.286102 |  that's another era straight out of play for a throw in to Sweden.
+[873.20 - 877.20] P:1471.47 E:0.218084 |  Nil-nil, Sweden nil, England nil.
+[877.20 - 880.20] P:1526.90 E:0.296976 |  For many, many years, Sweden had a great record against England.
+[880.20 - 885.20] P:1533.32 E:0.254903 |  From 1968 onwards, all the way up to 2011,
+[885.20 - 887.20] P:1575.39 E:0.257290 |  Sweden went unbeaten against England.
+[887.20 - 889.20] P:1635.95 E:0.281400 |  But England have won two of the last three,
+[889.20 - 893.20] P:1672.35 E:0.260657 |  including a meeting at Euro 2012 in the group stage.
+[893.20 - 896.20] P:1520.66 E:0.287505 |  When you might remember, Danny Welbeck, who's on the bench today,
+[896.20 - 898.20] P:1606.58 E:0.273157 |  scored a superb backheel flick goal.
+[898.20 - 901.20] P:1586.60 E:0.285014 |  Harry Kane now, playing the ball over the top for Stirling to chase,
+[901.20 - 904.20] P:1741.19 E:0.291931 |  and Gran-Kris comes across, slides in front of Stirling
+[904.20 - 908.20] P:1758.68 E:0.293060 |  and hooks the ball out with his right foot for a throw in to England down the left.
+[908.20 - 911.20] P:1618.83 E:0.292604 |  But Ashley Young trots forward to take.
+[911.20 - 912.20] P:1528.45 E:0.275275 |  It was a bit of a doubt.
+[912.20 - 915.20] P:1626.64 E:0.286994 |  Ashley Young was on with the ice pack on his ankle
+[915.20 - 917.20] P:1585.36 E:0.298763 |  when he was substituted against Columbia.
+[917.20 - 922.20] P:1532.34 E:0.272864 |  He might have been taken a penalty otherwise, but has recovered okay.
+[922.20 - 925.20] P:1511.16 E:0.295022 |  Danny Rose on the bench, Ashley Young starting again.
+[925.20 - 927.20] P:1554.71 E:0.288310 |  Unchanging England team, if you haven't heard.
+[927.20 - 929.20] P:1581.68 E:0.307519 |  Young takes the throw in towards Stirling in the box.
+[929.20 - 933.20] P:1410.83 E:0.268966 |  Now it's back to Lindgard, Sweden with everyone behind the ball.
+[933.20 - 936.20] P:1557.23 E:0.278443 |  Walker now, centrally, out to Trippier on the right-hand side.
+[936.20 - 939.20] P:1461.18 E:0.259656 |  Trippier is up against Augustinson, plays it back to Walker.
+[939.20 - 942.20] P:1504.95 E:0.264219 |  Walker puts his foot on the ball, gives it back to Trippier on the right.
+[942.20 - 944.20] P:1485.40 E:0.271504 |  He also takes a second touch back to Walker.
+[944.20 - 948.20] P:1675.57 E:0.295283 |  Walker's ball into the six yard box is right down the throat of Robin Olsen
+[948.20 - 949.20] P:1675.03 E:0.295487 |  who makes a comfortable catch.
+[949.20 - 951.20] P:1591.90 E:0.306369 |  Well he's not highly about the cross coming in too easily,
+[951.20 - 954.20] P:1554.83 E:0.313780 |  but Coward could have put it in the first time he rolled the back strip.
+[954.20 - 956.20] P:1610.22 E:0.276430 |  He could have put it in then.
+[956.20 - 960.20] P:1643.69 E:0.283088 |  They've had an extra pass which it helps Sweden again to get tighter to them.
+[960.20 - 966.20] P:1492.56 E:0.279146 |  Ten minutes played, it's been nerdy, it's been stodgy, not a lot of quality
+[966.20 - 969.20] P:1474.14 E:0.268244 |  and it's Sweden nil, England nil.
+[969.20 - 974.20] P:1497.02 E:0.295466 |  You might have been following the Grand Prix qualifying at Silverstone.
+[974.20 - 979.20] P:1635.04 E:0.297404 |  If not, I can tell you that Lewis Hamilton is on pole for the British Grand Prix tomorrow.
+[979.20 - 983.20] P:1633.10 E:0.284649 |  We'll have full commentary here on Five Live on the British Grand Prix
+[983.20 - 985.20] P:1669.88 E:0.311976 |  with Lewis Hamilton on pole position.
+[985.20 - 987.20] P:1778.95 E:0.341568 |  That's one of the many attractions this weekend.
+[987.20 - 990.20] P:1824.70 E:0.342799 |  But Sweden have won a free kick
+[990.20 - 994.20] P:1835.81 E:0.334714 |  and we're just being reminded by all of the locals here in Samara
+[994.20 - 997.20] P:1773.40 E:0.296815 |  not to forget that Russia are playing later
+[997.20 - 1000.20] P:1724.99 E:0.303011 |  in the World Cup quarterfinal against Croatia.
+[1000.20 - 1002.20] P:1790.51 E:0.282344 |  Sweden with a free kick in centrefield,
+[1002.20 - 1004.20] P:1591.31 E:0.294539 |  it's played out to the right hand side,
+[1004.20 - 1008.20] P:1644.60 E:0.286642 |  crafts cross, takes a flick off the head of Berg out of play for a throwing.
+[1008.20 - 1010.20] P:1537.06 E:0.304472 |  No, the Lionsman give it either way.
+[1010.20 - 1012.20] P:1651.00 E:0.290692 |  No, the referee's got it right, well done.
+[1012.20 - 1013.20] P:1645.66 E:0.247818 |  He's overruled him.
+[1013.20 - 1016.20] P:1635.52 E:0.278577 |  And it's throwing to England over on the far side of the field.
+[1016.20 - 1019.20] P:1697.34 E:0.273273 |  Yeah, Russia against Croatia tonight,
+[1019.20 - 1024.20] P:1549.54 E:0.234721 |  live from Sochi with Konomak Nomara and Dion Dublin.
+[1024.20 - 1027.20] P:1546.42 E:0.254250 |  Will Russia win through to the semifinals?
+[1027.20 - 1029.20] P:1566.95 E:0.248784 |  Surely not.
+[1029.20 - 1031.20] P:1603.85 E:0.265327 |  Throwing up the right for England.
+[1031.20 - 1033.20] P:1450.14 E:0.251421 |  It's over the top of Kane, Grandcrest,
+[1033.20 - 1035.20] P:1642.33 E:0.279148 |  thumps it forward, left-footed,
+[1035.20 - 1038.20] P:1557.13 E:0.284267 |  and then Delhi Ali threw himself at the ball.
+[1038.20 - 1041.20] P:1743.83 E:0.327190 |  The referee's played an advantage and here's a shot from Klassen,
+[1041.20 - 1044.20] P:1671.33 E:0.328510 |  which flies away over the angle of Poston Bar.
+[1044.20 - 1047.20] P:1826.00 E:0.286465 |  Pickford actually dived for it quite spectacularly to his right,
+[1047.20 - 1049.20] P:1604.88 E:0.317988 |  but it was always heading over.
+[1049.20 - 1052.20] P:1699.95 E:0.281792 |  It took 12 minutes for you to get a little bit excited.
+[1052.20 - 1054.20] P:1631.02 E:0.303089 |  I mean, poor start, hasn't it?
+[1054.20 - 1057.20] P:1667.27 E:0.262068 |  Let's be honest from both teams, Sweden will be the happier,
+[1057.20 - 1059.20] P:1625.82 E:0.288677 |  because they've stopped England from moving the ball.
+[1059.20 - 1062.20] P:1726.53 E:0.262243 |  They said they're going to move it quick and move it, switch the play.
+[1062.20 - 1064.20] P:1526.09 E:0.259195 |  They haven't done any of that.
+[1064.20 - 1066.20] P:1634.13 E:0.194173 |  Sweden will be the happier at the minute.
+[1066.20 - 1068.20] P:1552.18 E:0.172701 |  Sweden nil, England nil.
+[1068.20 - 1072.20] P:1654.76 E:0.270250 |  The tennis Wimbledon continues on Five Live Sports Extra,
+[1072.20 - 1075.20] P:1592.55 E:0.248678 |  BBC Television, BBC Sport website and app.
+[1075.20 - 1077.20] P:1593.32 E:0.271760 |  Kyle Edmund against Norback Djokovic later.
+[1077.20 - 1079.20] P:1588.26 E:0.248499 |  We'll have that for you on Five Live.
+[1079.20 - 1083.20] P:1606.70 E:0.240601 |  And England pressing Sweden, who've got the ball in the right back area.
+[1083.20 - 1086.20] P:1592.20 E:0.244874 |  Craft volleys it over the halfway line.
+[1086.20 - 1090.20] P:1486.55 E:0.288017 |  Harry Maguire heads it back and then Jesse Lingard
+[1090.20 - 1095.20] P:1451.68 E:0.288298 |  wins the head up in centrefield against his opposing number seven, Seb Larsen.
+[1095.20 - 1099.20] P:1594.16 E:0.280888 |  This might provide something for England on the right hand side.
+[1099.20 - 1102.20] P:1541.29 E:0.242722 |  Trippier and Walker again involved.
+[1102.20 - 1104.20] P:1600.06 E:0.276691 |  Lingard receives it from Trippier.
+[1104.20 - 1107.20] P:1595.01 E:0.269453 |  Lingard goes infield towards Raheem Sterling,
+[1107.20 - 1109.20] P:1392.40 E:0.307929 |  who's very closely watched in that central area.
+[1109.20 - 1113.20] P:1508.40 E:0.282390 |  Then Stolz, sweeps a pass, right footed out towards the left hand side to Ashley Young.
+[1113.20 - 1117.20] P:1536.99 E:0.293777 |  Now Raheem Sterling again, deep lying position, 30 yards from the Swedish goal.
+[1117.20 - 1120.20] P:1513.15 E:0.288570 |  Maguire with a pass to Young on the left hand side, on his right foot.
+[1120.20 - 1123.20] P:1426.84 E:0.284144 |  Ashley Young's ball in, comfortably headed down and away,
+[1123.20 - 1127.20] P:1599.63 E:0.295880 |  and then Berg just bundled over by Maguire outside the box and it's a Swedish free kick.
+[1127.20 - 1130.20] P:1540.11 E:0.317988 |  Well he played for it, how did Maguire let him down, did he?
+[1130.20 - 1132.20] P:1450.13 E:0.308606 |  He went too tight, he didn't need to.
+[1132.20 - 1135.20] P:1628.71 E:0.292933 |  Got a little bit of pressure there, asked Young didn't get the cross in what he wanted.
+[1135.20 - 1139.20] P:1583.98 E:0.259685 |  Maguire far to take, can't win it, gives Sweden a breather.
+[1139.20 - 1144.20] P:1537.63 E:0.253531 |  And exactly what you were saying, Chris, when Jermaine Genus with us before the match,
+[1144.20 - 1146.20] P:1681.50 E:0.279209 |  so congested central area.
+[1146.20 - 1150.20] P:1633.42 E:0.286136 |  I don't know why Gareth Lem don't just say Sterling for 10 minutes, can't play left wing.
+[1150.20 - 1153.20] P:1528.14 E:0.274612 |  I mean really as a winger, God start out wide.
+[1153.20 - 1155.20] P:1604.73 E:0.284191 |  Because Sterling's getting no joy in there as well.
+[1155.20 - 1157.20] P:1572.38 E:0.301285 |  No, I don't, but nobody is.
+[1157.20 - 1159.20] P:1580.34 E:0.169213 |  No, quite.
+[1159.20 - 1162.20] P:1479.40 E:0.284433 |  Not seeing much of Deli Alley so far in the game.
+[1162.20 - 1167.20] P:1465.76 E:0.280523 |  Here he is now just heading the ball away downfield for Sterling to chase and it will bounce out of play.
+[1167.20 - 1173.20] P:1510.49 E:0.266137 |  Kraft allows it to run into one of the little officials dugouts down there.
+[1173.20 - 1177.20] P:1470.55 E:0.279863 |  And Kraft will take this throw halfway inside his own half.
+[1177.20 - 1180.20] P:1407.14 E:0.281974 |  Sweden nil, England nil.
+[1180.20 - 1185.20] P:1630.50 E:0.261085 |  For the record, the world rankings, England are 12th, Sweden down in 24th.
+[1185.20 - 1191.20] P:1504.66 E:0.272180 |  This is Sweden's first World Cup quarter-finals since 1994 when they made it to the semi-finals famously.
+[1192.20 - 1196.20] P:1546.89 E:0.283106 |  Certainly famous in Sweden as we were discussing with one of our Swedish colleagues,
+[1196.20 - 1200.20] P:1605.29 E:0.295960 |  he asked a bit who said you might be talking about footballs coming home in England.
+[1200.20 - 1206.20] P:1562.83 E:0.264907 |  He said but in Sweden, we're all talking about our memories of USA 94.
+[1206.20 - 1210.20] P:1605.98 E:0.266087 |  And he says just like 94, it's a lovely summer back in Sweden.
+[1210.20 - 1216.20] P:1514.05 E:0.266298 |  Everyone's drawing parallels and feeling that this Swedish team that has knocked out and played a part in knocking out
+[1216.20 - 1220.20] P:1489.50 E:0.274681 |  of so many of the big sides can claim another former World Cup winner.
+[1220.20 - 1225.20] P:1722.97 E:0.304778 |  Here's Klasson just outside the area, Tricer played through, it hit McGuire as he was on the half turn.
+[1225.20 - 1228.20] P:1640.26 E:0.273779 |  Could have gone anywhere. There were possibilities there for Sweden,
+[1228.20 - 1232.20] P:1513.78 E:0.256590 |  but McGuire was very fortunate and relieved to turn and find the ball next to him
+[1232.20 - 1235.20] P:1534.20 E:0.276824 |  and England were able to play it away. Back to Pickford.
+[1235.20 - 1241.20] P:1642.60 E:0.245042 |  Pickford to Harry Kane, who is challenged very close, tight by Victor Lindelof.
+[1241.20 - 1247.20] P:1661.30 E:0.264000 |  Manchester United against Tottenham and Kraft had a one powerfully and dominantly by Stones,
+[1247.20 - 1250.20] P:1603.01 E:0.295890 |  who will just run away through for throwing to Sweden half inside.
+[1250.20 - 1254.20] P:1559.32 E:0.263412 |  I was talking about Forsberg on the left wing, who could be dangerous today,
+[1254.20 - 1259.20] P:1722.96 E:0.278433 |  but he's getting frustrated already. He's come right in basically as a number 10 at times.
+[1259.20 - 1262.20] P:1550.06 E:0.292505 |  He doesn't want to hang out wide, he's not getting any service.
+[1262.20 - 1267.20] P:1612.19 E:0.243691 |  I don't think I've said his name yet. I'm not sure he's had too much of a touch.
+[1267.20 - 1269.20] P:1589.80 E:0.282527 |  He did when he read the team's order at the beginning.
+[1269.20 - 1272.20] P:1586.98 E:0.215632 |  At good point since the start of the game.
+[1272.20 - 1276.20] P:1624.70 E:0.252822 |  Daniel Forsberg of Red Bull Leipzig.
+[1276.20 - 1280.20] P:1640.91 E:0.290257 |  Actually, he's another one who's had a disappointing season this season with Red Bull Leipzig
+[1280.20 - 1285.20] P:1670.64 E:0.241686 |  after a very good season last season. He has classen.
+[1285.20 - 1290.20] P:1687.20 E:0.272221 |  Back now to Kraft, who looked and found Harry Kane in front of him.
+[1290.20 - 1293.20] P:1702.09 E:0.263036 |  He says that took a touch. The assistant has given it...
+[1293.20 - 1296.20] P:1691.19 E:0.281398 |  The assistant immediately gave it to Sweden's way.
+[1296.20 - 1299.20] P:1641.00 E:0.245853 |  I think the referee gave it to England, so it's a throw in.
+[1299.20 - 1302.20] P:1608.29 E:0.262199 |  I'm not sure that did actually touch Harry Kane, honestly.
+[1302.20 - 1305.20] P:1659.67 E:0.279663 |  We've got a good view of it. Brilliant position again with it.
+[1305.20 - 1309.20] P:1712.97 E:0.260390 |  Commentary position, which were right down at the front of the top tier,
+[1309.20 - 1311.20] P:1538.43 E:0.269804 |  just slightly to the right of the halfway line,
+[1311.20 - 1314.20] P:1637.13 E:0.263641 |  watching this throw towards Berg, who glanced it on.
+[1314.20 - 1317.20] P:1551.95 E:0.267038 |  Harry Maguire sends it back for Deli Alley.
+[1317.20 - 1320.20] P:1578.45 E:0.288612 |  Then Henderson wins the header in centrefield.
+[1320.20 - 1324.20] P:1639.55 E:0.280535 |  Deli Alley now with a touch, but Sweden pick up possession again.
+[1324.20 - 1327.20] P:1727.03 E:0.246833 |  Here he is now, Emil Forsberg out to the left-hand side.
+[1327.20 - 1330.20] P:1710.11 E:0.276672 |  A Japanese flag being waved on the far side.
+[1330.20 - 1334.20] P:1661.36 E:0.246484 |  Sweden in possession with Södelhassen in this deep-lying position,
+[1334.20 - 1338.20] P:1522.07 E:0.267222 |  just playing it back behind him to Andreas Granquist,
+[1338.20 - 1341.20] P:1633.16 E:0.265004 |  who has played his football in Russia, Granquist,
+[1341.20 - 1344.20] P:1708.29 E:0.246748 |  for the last five years for Krasnodar,
+[1344.20 - 1347.20] P:1618.12 E:0.272102 |  where Sweden are actually based for this World Cup.
+[1347.20 - 1349.20] P:1687.23 E:0.271368 |  Long pass down the right by Kraft.
+[1349.20 - 1352.20] P:1741.13 E:0.295877 |  This is for Toiven into chase, but John Stones is going to see it.
+[1352.20 - 1355.20] P:1658.28 E:0.304045 |  He comes to leave behind, shielding the ball for a goal kick to England,
+[1355.20 - 1357.20] P:1549.56 E:0.324973 |  and it's still Niel Niel on five lines.
+[1357.20 - 1360.20] P:1675.13 E:0.307631 |  Sweden trying to put a few passes together and getting Berg in,
+[1360.20 - 1363.20] P:1649.14 E:0.300369 |  trying to be in behind, but they're not blessed with pace.
+[1363.20 - 1365.20] P:1585.62 E:0.285190 |  Big old-time players to play against.
+[1365.20 - 1370.20] P:1652.62 E:0.293086 |  I think Maguire, Stones and Wauke have definitely got their legs on them.
+[1370.20 - 1372.20] P:1714.02 E:0.245371 |  Sweden Niel, England Niel.
+[1372.20 - 1374.20] P:1586.34 E:0.301268 |  But again here, England with a goal kick,
+[1374.20 - 1377.20] P:1625.06 E:0.265801 |  they are being pressed and pressed by Sweden,
+[1377.20 - 1380.20] P:1349.74 E:0.257713 |  but they have passed it out, but Wauke has long balled downfield.
+[1380.20 - 1382.20] P:1577.62 E:0.251038 |  It's way beyond Stirling and Kane.
+[1382.20 - 1385.20] P:1604.89 E:0.273198 |  He can't coach that. They obviously want to play,
+[1385.20 - 1387.20] P:1604.62 E:0.236640 |  but Garis Southgate-Lews said,
+[1387.20 - 1391.20] P:1683.04 E:0.267888 |  why don't you just get it going, try and hit Harry Kane from the game.
+[1391.20 - 1394.20] P:1676.79 E:0.246905 |  Sometimes it's the decisions you've got to make at the back.
+[1394.20 - 1397.20] P:1581.79 E:0.220070 |  Forsberg, Forsweden, ball on the left-hand side.
+[1397.20 - 1400.20] P:1533.04 E:0.299051 |  August Inson continues his run down the left.
+[1400.20 - 1402.20] P:1690.35 E:0.309042 |  Here is August Inson, who's still going.
+[1402.20 - 1405.20] P:1770.36 E:0.231911 |  It looks to cross left-footed, but Kieran Trippier
+[1405.20 - 1407.20] P:1624.37 E:0.310571 |  stuck out a leg and it's out of play for a throw in.
+[1407.20 - 1410.20] P:1607.10 E:0.279392 |  Two-Sween, level with the edge of the England penalty area.
+[1410.20 - 1412.20] P:1509.60 E:0.260605 |  Best part of 20 minutes played.
+[1412.20 - 1415.20] P:1552.45 E:0.210686 |  Sweden Niel, England Niel.
+[1415.20 - 1419.20] P:1561.20 E:0.246574 |  And this throw on the far side,
+[1419.20 - 1422.20] P:1600.41 E:0.260224 |  rather than go for the long throw option this time,
+[1422.20 - 1424.20] P:1641.19 E:0.255678 |  it's been taken short by August Inson.
+[1424.20 - 1426.20] P:1631.93 E:0.321519 |  And now he has the cross from the left looking for Berg,
+[1426.20 - 1428.20] P:1640.84 E:0.258774 |  but he's beaten in the air by John Stones.
+[1428.20 - 1431.20] P:1549.34 E:0.285161 |  How it comes to Larsson, who under pressure from two England men,
+[1431.20 - 1433.20] P:1635.07 E:0.264328 |  can only spoon it forward.
+[1433.20 - 1436.20] P:1647.49 E:0.309050 |  And now England back in possession and he has a ball for Stirling
+[1436.20 - 1438.20] P:1801.07 E:0.301927 |  to take nicely in his stride on the half-way line.
+[1438.20 - 1440.20] P:1726.48 E:0.328002 |  Stirling now advancing on the Swedish penalty area.
+[1440.20 - 1442.20] P:1826.20 E:0.307625 |  Stirling moves inside. It's left to Kane.
+[1442.20 - 1445.20] P:1855.90 E:0.346896 |  Kane shoots just wide from the edge of the D.
+[1445.20 - 1447.20] P:1713.49 E:0.307906 |  Oh, you fancy Harry Kane, wouldn't you?
+[1447.20 - 1450.20] P:1755.07 E:0.316729 |  Confidence he's got with him in the first seven-sourced stilling.
+[1450.20 - 1452.20] P:1860.26 E:0.251488 |  Hit of pace.
+[1452.20 - 1455.20] P:1755.29 E:0.303149 |  And Kane comes on just outside the D.
+[1455.20 - 1457.20] P:1670.79 E:0.340905 |  Middle of the goal, really. Oh, you're really fancy.
+[1457.20 - 1459.20] P:1765.50 E:0.265971 |  Hit of target, at least.
+[1459.20 - 1463.20] P:1688.95 E:0.291900 |  We've seen Harry Kane in that position so many times
+[1463.20 - 1466.20] P:1728.17 E:0.255725 |  for Tottenham and increasingly so for England.
+[1466.20 - 1469.20] P:1684.43 E:0.262981 |  But just, as I said, it's a sweeping shot, isn't it?
+[1469.20 - 1474.20] P:1664.10 E:0.249075 |  He was a foot wide at the base of the post.
+[1474.20 - 1476.20] P:1694.99 E:0.295116 |  And that's really come through Sweden,
+[1476.20 - 1478.20] P:1670.28 E:0.267340 |  committing four or five players forward,
+[1478.20 - 1480.20] P:1657.36 E:0.299068 |  and that's what England's got to do.
+[1480.20 - 1482.20] P:1677.11 E:0.237279 |  When they do get it off Sweden, when Sweden come up out of it,
+[1482.20 - 1484.20] P:1704.25 E:0.265414 |  break quickly, move the ball as quick as possible.
+[1484.20 - 1489.20] P:1561.40 E:0.224716 |  And for once there, because of that, Stirling had some space.
+[1489.20 - 1492.20] P:1398.97 E:0.262395 |  He just had one man to beat there and Stirling beat him well
+[1492.20 - 1494.20] P:1472.35 E:0.225134 |  when set up Harry Kane.
+[1494.20 - 1499.20] P:1600.87 E:0.243182 |  But this time, Kane, who remember, has scored with every shot
+[1499.20 - 1501.20] P:1504.17 E:0.262962 |  he's had on target at this World Cup.
+[1501.20 - 1504.20] P:1651.81 E:0.230496 |  Six on target, six goals, was off target.
+[1504.20 - 1506.20] P:1639.66 E:0.260018 |  Lindgard into the centre-circle.
+[1506.20 - 1507.20] P:1656.27 E:0.285216 |  More space here for England.
+[1507.20 - 1509.20] P:1780.33 E:0.287500 |  Stones to Jung on the left-hand side.
+[1509.20 - 1510.20] P:1596.38 E:0.294425 |  Jung's up against Kraft.
+[1510.20 - 1512.20] P:1709.37 E:0.281835 |  Jung now taking him on on the outside.
+[1512.20 - 1515.20] P:1699.05 E:0.275110 |  Then there's the cross towards the edge of the penalty area.
+[1515.20 - 1518.20] P:1699.74 E:0.245635 |  Grankvist heads it on the edge of the six-yard box.
+[1518.20 - 1519.20] P:1643.90 E:0.313537 |  Unchallenged, got it away.
+[1519.20 - 1521.20] P:1628.26 E:0.275170 |  Now Toiven on the left-hand side,
+[1521.20 - 1523.20] P:1786.62 E:0.259374 |  just beginning to warm up the match.
+[1523.20 - 1525.20] P:1766.92 E:0.273791 |  Well, England, yes, last couple of minutes, Harry Kane shot.
+[1525.20 - 1528.20] P:1792.74 E:0.281951 |  And the first time really, I saw actually Jung on the in-is-tour,
+[1528.20 - 1530.20] P:1552.48 E:0.298832 |  and it really goes side to full back
+[1530.20 - 1532.20] P:1700.73 E:0.209684 |  and put across him with his left foot.
+[1532.20 - 1534.20] P:1609.70 E:0.230291 |  Sweden nail, England nail.
+[1534.20 - 1536.20] P:1495.94 E:0.228211 |  Right from Samara.
+[1536.20 - 1540.20] P:1640.66 E:0.260487 |  There's a huge circular hole in the middle of the roof
+[1540.20 - 1543.20] P:1579.52 E:0.276390 |  above our heads, and the sun's shining in on the far side.
+[1543.20 - 1547.20] P:1467.79 E:0.269379 |  Warm afternoon, blue skies, a couple of Simpsons clouds
+[1547.20 - 1552.20] P:1431.76 E:0.290146 |  up to the air as Sweden take the throw on the half-way line
+[1552.20 - 1555.20] P:1423.16 E:0.265256 |  and we'll go all the way back to goalkeeper Alson.
+[1555.20 - 1557.20] P:1469.95 E:0.288079 |  Sweden nail, England nail.
+[1557.20 - 1559.20] P:1638.52 E:0.307260 |  What were them clouds? Simpsons.
+[1559.20 - 1562.20] P:1408.70 E:0.292048 |  As in the Simpsons.
+[1562.20 - 1567.20] P:1532.12 E:0.296252 |  Now Lindelof carrying the ball out from the back.
+[1567.20 - 1568.20] P:1640.79 E:0.210536 |  Kraft on the right.
+[1568.20 - 1570.20] P:1623.56 E:0.280522 |  Kraft's ball in, took a deflection off deli alley.
+[1570.20 - 1572.20] P:1538.37 E:0.289381 |  That took the pace off it, and now the ball has fallen
+[1572.20 - 1575.20] P:1496.24 E:0.292981 |  to Jordan Henderson to take it towards the half-way line for England.
+[1575.20 - 1577.20] P:1476.82 E:0.242790 |  Henderson to Lindegard.
+[1577.20 - 1579.20] P:1331.24 E:0.289839 |  Henderson points to Lindegard and says,
+[1579.20 - 1582.20] P:1417.01 E:0.280908 |  move it on to Trippier on the right, which Lindegard eventually does.
+[1582.20 - 1587.20] P:1586.68 E:0.280874 |  Trippier took it on, but suddenly he found three yellow Swedish shirts in front of him.
+[1587.20 - 1591.20] P:1346.27 E:0.260427 |  Lindegard left footed, switches the play back to the left-hand side.
+[1591.20 - 1595.20] P:1429.75 E:0.269766 |  Ashley Young now up against Klossom, square to Lindegard.
+[1595.20 - 1597.20] P:1478.45 E:0.274273 |  Now Stirling first touches a little heavy,
+[1597.20 - 1601.20] P:1393.88 E:0.291990 |  but he was able to get it under control and play it towards McGuire.
+[1601.20 - 1603.20] P:1522.05 E:0.254491 |  Lindegard, Stirling, 30 yards from goal.
+[1603.20 - 1607.20] P:1545.64 E:0.283408 |  Stirling clips a pass, took a deflection, but still runs to Trippier.
+[1607.20 - 1612.20] P:1475.71 E:0.281094 |  Sweden are very well-drilled here, back in the positions that they've been coached to be in.
+[1612.20 - 1617.20] P:1551.05 E:0.270478 |  Walker back to Trippier again, but this England move is almost stationary.
+[1617.20 - 1619.20] P:1361.76 E:0.285408 |  In fact, the ball is now stationary,
+[1619.20 - 1624.20] P:1470.27 E:0.273318 |  and so Henderson rolls it back into his own half to John Zoll.
+[1624.20 - 1627.20] P:1609.31 E:0.310455 |  I like the patience, don't force it, I'm a great believer in that,
+[1627.20 - 1631.20] P:1406.51 E:0.273132 |  but I think in areas, certain areas, there's a good angle to get across it.
+[1631.20 - 1633.20] P:1603.94 E:0.292860 |  And Kyle Walker twice, and he didn't.
+[1633.20 - 1636.20] P:1488.73 E:0.268043 |  I think sometimes you've got to put it in when you're getting them areas.
+[1636.20 - 1640.20] P:1539.08 E:0.254963 |  Young, young now, having received it from Pickford, gives it to Kane.
+[1640.20 - 1646.20] P:1618.21 E:0.299381 |  Kane turns Lindegard and gets away as well from Eckdahl, plays it to the right-hand side to Trippier.
+[1646.20 - 1650.20] P:1686.07 E:0.298766 |  Stirling now takes it up near the corner of the penalty area, Dummies to Kross,
+[1650.20 - 1654.20] P:1710.54 E:0.273631 |  beats Forsberg twice, takes him on again, checks back once more,
+[1654.20 - 1657.20] P:1619.05 E:0.317029 |  crosses into the penalty area, hits Forsberg, bounces down,
+[1657.20 - 1661.20] P:1464.72 E:0.296225 |  and then will be cleared away by Augustinson, up towards the halfway line.
+[1661.20 - 1662.20] P:1503.63 E:0.276491 |  A little bit of joy.
+[1662.20 - 1665.20] P:1517.64 E:0.320697 |  Yeah, it'll do the player-tempo with same-sing and a point together, yes,
+[1665.20 - 1668.20] P:1603.19 E:0.314157 |  but I just think the team, I'm still in decision-making again.
+[1668.20 - 1671.20] P:1673.06 E:0.283730 |  You know, we could have put the cross in three or four teams, delayed it,
+[1671.20 - 1673.20] P:1608.50 E:0.336741 |  get a lot of yellow shirts thrown.
+[1673.20 - 1676.20] P:1594.77 E:0.293130 |  That's why I think people criticise him, John, I think it's decision-making.
+[1676.20 - 1679.20] P:1632.61 E:0.287586 |  It's not his energy and his work rate, it's the decisions he makes.
+[1679.20 - 1684.20] P:1570.70 E:0.278135 |  Yeah, England supporters, we think, round about 3,000 of them,
+[1684.20 - 1687.20] P:1501.03 E:0.273091 |  they're on their feet down in the end to our right.
+[1687.20 - 1691.20] P:1460.25 E:0.277664 |  Rachel Burdens down there as well, they're just right behind her,
+[1691.20 - 1695.20] P:1522.90 E:0.255369 |  as she's watching, and we're watching England attack from right to left,
+[1695.20 - 1699.20] P:1362.18 E:0.276886 |  and playing the ball in from Trippier, but headed away on the edge of the penalty area,
+[1699.20 - 1702.20] P:1624.85 E:0.285143 |  fortunate bounce though for Lingard, Lingard now has Trippier,
+[1702.20 - 1705.20] P:1699.03 E:0.306353 |  Trippier drives a low ball across, but straight into the mid-drift
+[1705.20 - 1710.20] P:1730.84 E:0.298960 |  of the falling Robin Olsen, who's able to gather the ball into his gloves.
+[1710.20 - 1713.20] P:1719.60 E:0.314550 |  Well, that promise and attack, but it just faded out.
+[1713.20 - 1716.20] P:1632.04 E:0.298729 |  The ball Lingard rolls, and it's just a little bit too tight of the offender,
+[1716.20 - 1718.20] P:1503.24 E:0.303132 |  and he can't really get the quality, it's a little safety flexion,
+[1718.20 - 1720.20] P:1721.12 E:0.257597 |  goes straight through the keeper.
+[1720.20 - 1727.20] P:1549.32 E:0.282319 |  So it is still Sweden nil, England nil, with 23, almost 24 minutes play.
+[1727.20 - 1732.20] P:1392.19 E:0.270754 |  Yes, you'll hear Rachel live from Samara at breakfast time tomorrow morning,
+[1732.20 - 1735.20] P:1593.98 E:0.289495 |  from 6 o'clock, Robbie Savages will cook breakfast,
+[1735.20 - 1738.20] P:1414.49 E:0.304625 |  is on from half-bast, Freddie Flintoff and David Seaman among the guests,
+[1738.20 - 1742.20] P:1346.35 E:0.268887 |  and we will know then whether England are World Cup semi-finalists,
+[1742.20 - 1746.20] P:1311.35 E:0.271298 |  or whether they'll be on the plane home tomorrow.
+[1747.20 - 1751.20] P:1404.03 E:0.300787 |  And it looks as though this could be quite a tight affair, although England
+[1751.20 - 1755.20] P:1500.27 E:0.263875 |  have shown signs over the course of the past seven or eight minutes,
+[1755.20 - 1757.20] P:1181.95 E:0.266056 |  with moving into the ascendancy.
+[1757.20 - 1764.20] P:1345.43 E:0.281565 |  But nil nil it is, and Sweden in possession with Seb Larsen,
+[1764.20 - 1767.20] P:1354.74 E:0.286697 |  who's gone back to Stockholm actually to play for AIK,
+[1767.20 - 1770.20] P:1382.49 E:0.299288 |  in the twilight of his career, Seb Larsen.
+[1770.20 - 1774.20] P:1512.06 E:0.312065 |  The ball bounces away, poor touch from Eckdal in his gold victory.
+[1774.20 - 1776.20] P:1512.21 E:0.313042 |  You can't get falls ball in the game, can they?
+[1776.20 - 1779.20] P:1497.10 E:0.305424 |  They get in the ball and Larsen's getting lower than the centre circle,
+[1779.20 - 1781.20] P:1490.99 E:0.280908 |  no pressure, but he's not looking forward at all.
+[1781.20 - 1783.20] P:1620.96 E:0.267440 |  They're just playing a patience game.
+[1783.20 - 1786.20] P:1500.04 E:0.315276 |  I think they're just thinking, you know what, if we get one chance to take it,
+[1786.20 - 1787.20] P:1475.21 E:0.239895 |  that may be enough.
+[1787.20 - 1793.20] P:1464.92 E:0.297467 |  So nil nil it is, England, who've been in eight previous World Cup quarter-finals,
+[1793.20 - 1796.20] P:1550.86 E:0.255331 |  have progressed from only two of them.
+[1796.20 - 1797.20] P:1583.27 E:0.297463 |  That's not a great rate.
+[1797.20 - 1801.20] P:1539.85 E:0.265617 |  Lingard now square towards Deli Alley,
+[1801.20 - 1803.20] P:1459.40 E:0.293529 |  with the yellow flashes on his boots, turns,
+[1803.20 - 1806.20] P:1311.69 E:0.283457 |  little ball towards Lingard, four to the centre circle, Lingard,
+[1806.20 - 1809.20] P:1349.93 E:0.263024 |  as he's closed down, gives it to Deli Alley,
+[1809.20 - 1812.20] P:1470.19 E:0.305584 |  and then back to Lingard again, and the two of them exchanging passes once more.
+[1812.20 - 1814.20] P:1559.26 E:0.301907 |  Deli Alley tried to pass towards Young, it broke down,
+[1814.20 - 1819.20] P:1698.64 E:0.261550 |  Klosen in field, but Sweden in danger of losing possession,
+[1819.20 - 1822.20] P:1598.06 E:0.292242 |  deep inside their own half, eventually Kraft forced to hit it long.
+[1822.20 - 1825.20] P:1736.96 E:0.316145 |  This is one for Berg to chase, and he is offside.
+[1825.20 - 1828.20] P:1815.83 E:0.342767 |  Running away from Maguire, he recovered very well actually,
+[1828.20 - 1830.20] P:1756.60 E:0.270892 |  but they're offside for like a thing.
+[1830.20 - 1832.20] P:1603.94 E:0.320827 |  You've just got to be aware of that, one ball,
+[1832.20 - 1834.20] P:1701.21 E:0.289778 |  they're not fighting the club, put a ball in behind Sweden,
+[1834.20 - 1837.20] P:1572.08 E:0.293674 |  now you know, full back here is in particular, that's where they get it,
+[1837.20 - 1839.20] P:1649.43 E:0.323195 |  they're not fighting to put it in behind, you've got to switch on,
+[1839.20 - 1841.20] P:1660.61 E:0.247738 |  can't switch off ball watching.
+[1841.20 - 1845.20] P:1596.12 E:0.262840 |  25 minutes played, still nil nil.
+[1845.20 - 1848.20] P:1547.98 E:0.294959 |  We've seen the Harry Kane shot from the edge of the penalty area,
+[1848.20 - 1851.20] P:1547.75 E:0.266284 |  which was narrowly wide of the foot of the post.
+[1851.20 - 1854.20] P:1729.85 E:0.223727 |  Klosen had the effort for Sweden,
+[1854.20 - 1858.20] P:1643.75 E:0.261519 |  as England lose possession inside Swedish territory.
+[1858.20 - 1862.20] P:1606.96 E:0.284553 |  Once again, Eckdal put under pressure by Raheem Sterling,
+[1862.20 - 1864.20] P:1677.24 E:0.280530 |  is forced to over hit the ball through,
+[1864.20 - 1866.20] P:1739.28 E:0.290934 |  and Pickford very quickly out of his penalty area,
+[1866.20 - 1870.20] P:1605.83 E:0.229341 |  shapes a pass with his left foot to Ashley Jung.
+[1870.20 - 1872.20] P:1353.57 E:0.290000 |  There's no great momentum in this England attack,
+[1872.20 - 1876.20] P:1565.81 E:0.284295 |  because once again the well-drilled Swedes are very quickly back into the positions.
+[1876.20 - 1880.20] P:1654.91 E:0.271019 |  Jordan Henderson might have been clipped there as he tried to play it forward,
+[1880.20 - 1883.20] P:1588.81 E:0.262469 |  Henderson nil back into the challenge again against Klosen,
+[1883.20 - 1886.20] P:1496.44 E:0.242369 |  who comes out with the ball, and it's back to Lindelöf,
+[1886.20 - 1888.20] P:1556.03 E:0.260953 |  who's got a very good partnership.
+[1888.20 - 1892.20] P:1698.11 E:0.271479 |  Grant Christ and Lindelöf, who Grant Christ put under pressure by Harry Kane,
+[1892.20 - 1895.20] P:1743.37 E:0.249095 |  and turned and rolled it back to goalkeeper Olsen,
+[1895.20 - 1898.20] P:1579.62 E:0.297346 |  who clears into the centre-circle to Berg,
+[1898.20 - 1900.20] P:1765.06 E:0.234406 |  chesting it off to Fors Berg,
+[1900.20 - 1903.20] P:1444.95 E:0.265155 |  and then Lindgård is muscled out of it by Eckdal in centre-field.
+[1903.20 - 1906.20] P:1558.19 E:0.301172 |  So Sweden back with the ball, Sweden nil, England nil.
+[1906.20 - 1910.20] P:1585.94 E:0.262438 |  Yeah, Victor Lindelöf, who obviously has not had the season
+[1910.20 - 1913.20] P:1626.61 E:0.301205 |  that he wanted at Manchester United in terms of the game time,
+[1913.20 - 1917.20] P:1633.07 E:0.263356 |  but a very important part of the success of this Swedish side,
+[1917.20 - 1920.20] P:1651.73 E:0.262669 |  his partnership with Grant Christ,
+[1920.20 - 1925.20] P:1706.04 E:0.236712 |  whose wife gave birth, Andreas Grant Christ, on Thursday night.
+[1925.20 - 1928.20] P:1672.75 E:0.267896 |  He told us yesterday that he didn't get much sleep,
+[1928.20 - 1932.20] P:1589.09 E:0.262665 |  but all was well with wife Sophie, a new baby Mia,
+[1932.20 - 1934.20] P:1676.29 E:0.288667 |  who he will see for the first time
+[1934.20 - 1937.20] P:1613.17 E:0.269994 |  when Sweden's World Cup adventure finishes.
+[1937.20 - 1940.20] P:1579.62 E:0.322054 |  And here he is, Grant Christ, now carrying the ball forward,
+[1940.20 - 1943.20] P:1647.75 E:0.274594 |  and then took a heavy touch under pressure,
+[1943.20 - 1946.20] P:1570.45 E:0.299464 |  and passed it straight out of play for England.
+[1946.20 - 1949.20] P:1573.63 E:0.306916 |  He should have played the level back a lot earlier,
+[1949.20 - 1952.20] P:1663.86 E:0.264920 |  he had the chance to, and then he couldn't say he had a bad touch,
+[1952.20 - 1955.20] P:1708.96 E:0.260570 |  and then he tried to reverse the pass, but by then it was finished.
+[1955.20 - 1958.20] P:1682.52 E:0.309802 |  But Sweden are often a little going forward, let's be honest,
+[1958.20 - 1961.20] P:1670.04 E:0.276439 |  they're just trying to slow the game down as much as possible,
+[1961.20 - 1964.20] P:1584.79 E:0.264644 |  and as I say, I think they're waiting for one chance,
+[1964.20 - 1966.20] P:1466.93 E:0.224012 |  at peace possibly.
+[1966.20 - 1969.20] P:1567.50 E:0.279922 |  It's nil nil, Sweden nil, England nil.
+[1969.20 - 1971.20] P:1609.70 E:0.330395 |  I was listening to Five Live Breakfast this morning,
+[1971.20 - 1974.20] P:1663.58 E:0.300310 |  and I heard Harry Maguire's old teacher talking about him,
+[1974.20 - 1978.20] P:1642.20 E:0.322347 |  and he came across as an absolutely lovely little lad
+[1978.20 - 1980.20] P:1618.28 E:0.311516 |  when he was at school.
+[1980.20 - 1984.20] P:1653.70 E:0.308918 |  Maguire plays it out to the right-hand side, to Walker.
+[1984.20 - 1987.20] P:1722.11 E:0.300886 |  Now Trippier on the right, Trippier, his ball in field,
+[1987.20 - 1990.20] P:1589.02 E:0.298357 |  touch from Kane, Henderson now, aerial ball towards the edge of the box,
+[1990.20 - 1993.20] P:1493.63 E:0.293348 |  looking for Dali Alley, but it was misplaced from Henderson,
+[1993.20 - 1996.20] P:1653.27 E:0.302992 |  didn't find the target, one back though by John Stones,
+[1996.20 - 1998.20] P:1670.98 E:0.261947 |  although he does actually lose out in the challenge with Classen.
+[1998.20 - 2000.20] P:1523.52 E:0.301237 |  Dali Alley though back in position,
+[2000.20 - 2002.20] P:1565.00 E:0.261911 |  fighting and winning the ball back for England.
+[2002.20 - 2005.20] P:1504.69 E:0.294073 |  He's done an awful lot of that during the course of this World Cup
+[2005.20 - 2007.20] P:1710.47 E:0.279916 |  in a deeper position, Dali Alley.
+[2007.20 - 2010.20] P:1638.10 E:0.313311 |  Yeah, he can't play to right because Stirling's ahead of him,
+[2010.20 - 2012.20] P:1734.65 E:0.292513 |  and that's where he normally plays,
+[2012.20 - 2015.20] P:1471.79 E:0.261082 |  so he's got to play a little bit more deep, part.
+[2015.20 - 2016.20] P:1536.46 E:0.309725 |  Yes, Ashley Young.
+[2016.20 - 2018.20] P:1651.81 E:0.308771 |  Now to Stirling, who turns and he's away from Classen.
+[2018.20 - 2021.20] P:1739.17 E:0.305716 |  Stirling to the edge of the penalty area, four Swedes around him,
+[2021.20 - 2023.20] P:1742.64 E:0.310468 |  gives it out to Ashley Young on the left.
+[2023.20 - 2025.20] P:1672.55 E:0.291501 |  Young's ball across, Grant List was there,
+[2025.20 - 2029.20] P:1707.91 E:0.299988 |  he adjusts his feet and swiped it back out for a throw down the left.
+[2029.20 - 2033.20] P:1647.38 E:0.284059 |  Better from England, throwing taken, Young to Lingard,
+[2033.20 - 2036.20] P:1628.93 E:0.291632 |  who had a look up, Lingard, swells it into the back post,
+[2036.20 - 2037.20] P:1634.98 E:0.315467 |  tripping and nods it back across.
+[2037.20 - 2040.20] P:1598.48 E:0.303904 |  Ektal with a header away, but not clearing the penalty area.
+[2040.20 - 2042.20] P:1588.10 E:0.274710 |  Stirling in with a challenge, it bounces down,
+[2042.20 - 2044.20] P:1425.15 E:0.270634 |  and is fully to the halfway line.
+[2044.20 - 2046.20] P:1524.47 E:0.291943 |  If England can keep their tempo up and move the ball quick,
+[2046.20 - 2048.20] P:1566.35 E:0.269325 |  I will get chances.
+[2048.20 - 2052.20] P:1712.22 E:0.271521 |  They are the better side, but the playing too slow.
+[2052.20 - 2054.20] P:1255.48 E:0.221536 |  Yeah, that's what they need to do.
+[2054.20 - 2057.20] P:1457.11 E:0.229900 |  But there are signs of promise.
+[2057.20 - 2059.20] P:1538.85 E:0.271321 |  It is very difficult against the Swedish side,
+[2059.20 - 2064.20] P:1591.46 E:0.267137 |  as France and the Netherlands discovered in the group against Sweden,
+[2064.20 - 2067.20] P:1485.40 E:0.280931 |  and Italy in the playoff, and Germany in the group.
+[2067.20 - 2069.20] P:1708.90 E:0.277678 |  Here's Deli Alli, who takes the ball down.
+[2069.20 - 2072.20] P:1645.87 E:0.300670 |  Deli Alli stabs it to the right-hand side, the rear space now, four trippie,
+[2072.20 - 2074.20] P:1747.74 E:0.299081 |  if he can find the deep cross to the back post.
+[2074.20 - 2079.20] P:1746.70 E:0.306139 |  But Kraft was there ahead of, came to head it behind for the first corner of the match, to England.
+[2079.20 - 2081.20] P:1782.63 E:0.300065 |  No, I'll say well they're a burden,
+[2081.20 - 2086.20] P:1794.29 E:0.313895 |  because Sweden's, I think, are probably well, well organised to deal with set pieces.
+[2086.20 - 2090.20] P:1701.76 E:0.298343 |  Have England worked on something different, to try and move bodies around in there,
+[2090.20 - 2092.20] P:1541.80 E:0.299836 |  because I think they'll be able to deal with McGuayan stones.
+[2092.20 - 2096.20] P:1597.08 E:0.270605 |  Well, Janna Andersson said yesterday that this is the first team that they've played,
+[2096.20 - 2100.20] P:1515.93 E:0.272272 |  who can match them on set pieces, England against Sweden.
+[2100.20 - 2104.20] P:1575.69 E:0.266628 |  Ashley Young plays in the ball very carefully in the quadrant.
+[2104.20 - 2107.20] P:1533.07 E:0.282924 |  Obviously, there is the issue here of wrestling and grappling,
+[2107.20 - 2110.20] P:1520.45 E:0.275004 |  and we're seeing this England conga style line-up.
+[2110.20 - 2116.20] P:1717.44 E:0.317234 |  The players now break away, here's the delivery, which is headed down and in by McGuayan.
+[2116.20 - 2123.20] P:1903.86 E:0.349554 |  And England are in front, Harry McGuayan has been such a presence for England from set pieces.
+[2123.20 - 2126.20] P:1843.03 E:0.344965 |  This time, he scored one himself.
+[2126.20 - 2132.20] P:1718.63 E:0.335862 |  Well, I've got to say, our oldest tournament, McGuayan stones have won nearly every header in both boxes.
+[2132.20 - 2136.20] P:1808.70 E:0.324485 |  And this time, McGuayan gets up nice in the early Sweden, they'll be thinking,
+[2136.20 - 2140.20] P:1737.86 E:0.329826 |  we've all got him, I'm trying to see on the replay, nobody goes with him.
+[2140.20 - 2143.20] P:1791.93 E:0.308194 |  He just spins round the back slightly, not a lot.
+[2143.20 - 2147.20] P:1766.37 E:0.319809 |  And they're all standing in zones, nobody attacks the ball, but apart from Harry McGuayan.
+[2147.20 - 2152.20] P:1786.43 E:0.306874 |  And it's a great error, power down into the ground, keep absolutely no chance.
+[2152.20 - 2156.20] P:1714.31 E:0.320098 |  What a time to score your first goal for England, Harry McGuayan.
+[2156.20 - 2158.20] P:1645.88 E:0.311892 |  What a time to be alive.
+[2158.20 - 2163.20] P:1647.49 E:0.317751 |  Sweden nil, England won in the World Cup quarter-final.
+[2163.20 - 2168.20] P:1748.55 E:0.297228 |  Well, I think McGuayan won a great head-up, and now, what does Sweden do?
+[2168.20 - 2172.20] P:1651.17 E:0.302129 |  They've got to come out with a level that's not in their middle, I think we'll just keep playing the same.
+[2172.20 - 2177.20] P:1791.17 E:0.293214 |  In England's show, when they move the ball quicker to win the corner, they'll get chances.
+[2179.20 - 2182.20] P:1764.36 E:0.307791 |  Advantage, England.
+[2189.20 - 2195.20] P:1782.03 E:0.332849 |  And they're dancing in the stands here in Samara, those England supporters.
+[2195.20 - 2199.20] P:1805.00 E:0.307814 |  It's coming home, it's the song.
+[2199.20 - 2205.20] P:1634.38 E:0.274443 |  Harry McGuayan playing for England for the tenth time, scores his first goal.
+[2205.20 - 2209.20] P:1588.84 E:0.307331 |  And what a dominant header it was to, from Ashley Young's corner.
+[2209.20 - 2213.20] P:1548.30 E:0.295727 |  What was he, Chris? 10 yards out, 12 yards out, something like that.
+[2213.20 - 2218.20] P:1662.69 E:0.292679 |  Very dead. He got a header, he was the only one who really focused on the ball and got his view ward.
+[2220.20 - 2224.20] P:1567.97 E:0.298821 |  And that has come at a very important time for England, half an hour played,
+[2224.20 - 2228.20] P:1603.00 E:0.279869 |  but England had moved into the ascendancy, this is what I mean.
+[2228.20 - 2235.20] P:1556.08 E:0.287704 |  There had been signs of promise, but if England had got to half time and it was still nil-nil,
+[2235.20 - 2240.20] P:1476.49 E:0.258123 |  but when they had moved into the ascendancy, they've now got a goal to go with it.
+[2240.20 - 2242.20] P:1540.57 E:0.255698 |  And so England are in front.
+[2244.20 - 2250.20] P:1538.37 E:0.289684 |  John Stones with the ball inside his own half, strikes one long, but Jesse Lengard won't reach that.
+[2250.20 - 2254.20] P:1493.93 E:0.300618 |  And it runs out of play for a throw-in to Sweden in the left-back position.
+[2254.20 - 2257.20] P:1601.37 E:0.338500 |  So there's a little bit of pressure on the Swedes now.
+[2257.20 - 2261.20] P:1671.87 E:0.307475 |  I don't know if they'll change, John, I think they're setting their ways and they keep thinking we'll get chances.
+[2261.20 - 2264.20] P:1691.89 E:0.301212 |  England will come off the pace, they always do, we know that.
+[2264.20 - 2271.20] P:1699.87 E:0.274536 |  And Sweden don't show it, they've got no ambition to go forward, so I can't see how they can change the game.
+[2272.20 - 2279.20] P:1596.80 E:0.293308 |  And now we can say that if England here in this stadium can keep their first clean sheet at this World Cup,
+[2279.20 - 2283.20] P:1560.98 E:0.292173 |  England will be World Cup semi-finals.
+[2283.20 - 2289.20] P:1521.20 E:0.294015 |  And they'll play in Moscow on Wednesday night against either Croatia or Russia.
+[2289.20 - 2298.20] P:1616.72 E:0.280435 |  But it's a fragile lead, one-nil, and Stones and Walker in possession inside their own half.
+[2298.20 - 2303.20] P:1579.87 E:0.284359 |  Stones going all the way back to Jordan Pickford, who almost there looks a bundle of energy again.
+[2303.20 - 2308.20] P:1606.33 E:0.302029 |  Pickford overhits the pass straight out of play, way over the head of Ashley Young.
+[2308.20 - 2316.20] P:1644.42 E:0.279442 |  And clearly, Anna made with Jordan Pickford there almost too energetic, you might say.
+[2316.20 - 2323.20] P:1606.59 E:0.304882 |  I don't think England have settled, which they can. They've got better in the last ten minutes, I can see we're creating a few chances.
+[2323.20 - 2328.20] P:1656.75 E:0.275235 |  But I think there's a lot more to come from, they've relaxed a little bit more, and I'm very disappointed in Sweden.
+[2328.20 - 2334.20] P:1567.75 E:0.275776 |  I knew they'd be defensive-main, but one-dimensional would be one phrase to sum them up.
+[2334.20 - 2339.20] P:1536.82 E:0.282409 |  Here's Walker with the ball in front of his one-panel, the area turns and gives it out to Trippier on the right-hand side.
+[2339.20 - 2344.20] P:1647.82 E:0.262965 |  Just joined us, England are winning one-nil, Harry Maguire has just scored, just a couple of minutes ago.
+[2344.20 - 2353.20] P:1693.70 E:0.284185 |  Long one forward for Granquist, who is stretching against Stirling, and Rella nervously stabbed it out for a throw in to England on the far side.
+[2353.20 - 2360.20] P:1535.75 E:0.277722 |  Whenever Stirling has managed to get himself up against Granquist, which hasn't been often, Granquist has not looked comfortable.
+[2360.20 - 2369.20] P:1517.84 E:0.276546 |  33 years old he is now, he's heading back to Sweden as well from Russia this summer to play for Helsingborg.
+[2369.20 - 2380.20] P:1494.81 E:0.284896 |  So he's also eventually going to become the director of sport, very impressive figure actually, from a Wigan man, I'm sure listeners, supporters of Wigan Athletic will remember him from the time that he spent at the club.
+[2380.20 - 2386.20] P:1590.36 E:0.286168 |  Pickford, long ball forward, deep into the Swedish half, right under the chest of Trippier, who takes it down.
+[2386.20 - 2392.20] P:1596.92 E:0.288470 |  Trippier's crossed now, Stirling on the stretch, but Granquist got up high, and then Augustinsson, not at it further away.
+[2392.20 - 2398.20] P:1572.87 E:0.299168 |  Trippier, trying to head out, back to Henderson, and Henderson goes for a faulty, that's punted high over the ball.
+[2398.20 - 2406.20] P:1569.84 E:0.301902 |  Look, he's not a dip in volley, hasn't he? The ball's sat up a little bit too high for him, but we're going to get to replay the corner here, the movement, very good by England.
+[2406.20 - 2414.20] P:1635.22 E:0.262786 |  McGuire just focuses on the ball, and ten yards out, heads it down, nobody on the post for Sweden, goes in the bottom corner.
+[2414.20 - 2424.20] P:1545.85 E:0.286986 |  So Sweden nail England one, and that's another England player who scored his first goal for England at this World Cup, two of the central defenders.
+[2424.20 - 2432.20] P:1517.15 E:0.268404 |  John Stone scored a couple, remember, in the game against Panama, now Harry McGuire's got his first, Sweden nail England one.
+[2432.20 - 2441.20] P:1485.98 E:0.277838 |  The other central defender, Kyle Walker, has never scored for England, incidentally, out of play for a throw that will be taken by Kyle Walker over on the far side.
+[2441.20 - 2445.20] P:1418.26 E:0.274146 |  The England supporter still dancing in the stands.
+[2445.20 - 2447.20] P:1518.74 E:0.285272 |  Imagine what it's like back home.
+[2447.20 - 2448.20] P:1677.89 E:0.221997 |  Imagine.
+[2448.20 - 2455.20] P:1556.60 E:0.293591 |  Yeah, get in touch out, five live sport, Mark Chapman, who's here with us in Samara, will read them out, I'm sure, at half time.
+[2455.20 - 2463.20] P:1489.16 E:0.286038 |  Throwing up towards Harry Kane, the referee says there was a shoot by Kane, it's a free kick to Sweden, six or seven yards inside the England half.
+[2463.20 - 2471.20] P:1427.86 E:0.292378 |  In the way that Sweden have played, you would say that they seem to be relying very heavily on situations like this.
+[2471.20 - 2479.20] P:1528.98 E:0.275037 |  This is it, they obviously thought if we go toe to toe, England have got probably too much energy, too much movement, they're trying to frustrate,
+[2479.20 - 2485.20] P:1502.11 E:0.295484 |  and this is the opportunity they've been waiting for, probably higher up the field, to be honest, this is what, just 10 yards over the half way lane.
+[2485.20 - 2493.20] P:1563.08 E:0.280683 |  And still, the highly rated, Amiel Forsberg left-hand side of midfield has simply not got into the game, and we've got less than 10 minutes to go to half time.
+[2493.20 - 2499.20] P:1647.52 E:0.284296 |  Here's the free kick for Sweden, deep one, McGuire, the goal scorer, heads it away on the edge of the box, and it will bounce out of play.
+[2499.20 - 2505.20] P:1505.56 E:0.288978 |  For a throw-in, runs actually into the England dugout, which is down below us, covered in blue, the cross of St George on the top of it,
+[2505.20 - 2511.20] P:1507.63 E:0.290336 |  as Larsson rescues the ball from it, throwing that Kraft will play.
+[2511.20 - 2519.20] P:1526.81 E:0.287919 |  Number of the England substitutes warming up down there, just catching my eye, Trent Alexander-Arnold and Phil Jones, Ruben Loftus-Chipe, Sweden,
+[2519.20 - 2527.20] P:1530.99 E:0.288315 |  with the ball near the centre-circle, here's Larsson, Larsson back to Kdal, and now Lindelöf to Kraft on the right.
+[2527.20 - 2535.20] P:1516.39 E:0.300140 |  Kraft turns and sends a ball forward, Pickford has come right out to the extreme corner of his penalty area, and then backs away and catches the bouncing ball.
+[2535.20 - 2545.20] P:1487.67 E:0.293832 |  Sweden-nil, England-1 on BBC Radio 5 Live. Listen as well via the red button if you're on your way home, and you want to continue listening to me and Chris Waddle.
+[2545.20 - 2553.20] P:1455.65 E:0.272521 |  With the pictures, you can do that. Alternatively, Guy Mowbray and Martin Keogh will provide the commentary on BBC One.
+[2554.20 - 2564.20] P:1517.31 E:0.267460 |  And later on 5 Live and BBC Television, Kyle Edmund against Norvak Djokovic. England-1-0 up, and Lindelöf carrying the ball out from the back into the centre-circle,
+[2564.20 - 2574.20] P:1698.93 E:0.263921 |  passes it forward to Klosson, Klosson now to Kraft on the right, Kraft cross, it's Orverberg who stretches forward, I think he got his head to it,
+[2574.20 - 2576.20] P:1492.66 E:0.275708 |  and it's out of play nevertheless for a throw-in to make it.
+[2576.20 - 2583.20] P:1574.18 E:0.298127 |  Oh, frustrated Sweden as well, and they worked the ball very well. There have been in areas a couple of times and the delivery's been very poor in the box.
+[2583.20 - 2594.20] P:1537.90 E:0.283646 |  Sweden-nil, England-1 here in trivia, waiting to take the throw. John Stones strides across, just a few yards away.
+[2594.20 - 2600.20] P:1492.57 E:0.261040 |  Referee Kuipers says get on with it, so they do. Henderson on the stretch, Eckdal takes possession.
+[2600.20 - 2607.20] P:1444.11 E:0.265485 |  Eckdal trying to go around the outside on the left, but Walker is able to come across, hit a right foot at Bulldownfield, Kane on the chase.
+[2607.20 - 2617.20] P:1362.59 E:0.279966 |  Graham Cris, the strong-looking figure of Graham Cris, passes it back, he's losing his hair, Graham Cris, finning on top, heavy of the shoulder.
+[2617.20 - 2625.20] P:1503.35 E:0.307624 |  It's that time of his career, but he's been an absolute titan for the Swedish side, and it's actually their leading scorer with the two penalties that he's scored so far here.
+[2625.20 - 2636.20] P:1423.54 E:0.272413 |  He said yesterday, just like Harry Kane, I'm 100% with my penalties. Throw in for Sweden, just over the half-way line.
+[2636.20 - 2647.20] P:1427.32 E:0.289490 |  Kraft, now back towards Klosson, who is being put under pressure by Deli Alli, and so plays it back to Lindelöf, he took a touch, and then left footed plays it back towards Olsen.
+[2647.20 - 2658.20] P:1385.14 E:0.277207 |  Passes it out to Grangfest, Stirling was quickly there, Grangfest pass in field towards Eckdal, who did well, but then overran it, and the ball spins as it bounces.
+[2658.20 - 2666.20] P:1520.60 E:0.262222 |  Henderson heads it to the right-hand side to Lingard, who's looking to pull it down, which he does, gives it to Trippia, and England go back into their own half.
+[2666.20 - 2678.20] P:1596.78 E:0.270616 |  To start again, Harry Maguire, now to Ashley Young, who's balled down into the full-back position, Deli Alli chases it, but it will run away for a goal kick to Sweden.
+[2678.20 - 2683.20] P:1571.41 E:0.288947 |  So we've got just over five minutes to go to halftime, Chris Waddle, Sweden nil, England won.
+[2683.20 - 2691.20] P:1576.69 E:0.279959 |  Yeah, I think England's been a better say. I've got to say, it's a disappointing first half. Not a lot of action as a counsellor, he chilled her out and set peace again, puts England ahead.
+[2691.20 - 2698.20] P:1561.37 E:0.269308 |  And we've got about that there, winning. I expect a little bit more on Sweden to make a game of this at the moment, but they haven't.
+[2698.20 - 2709.20] P:1579.45 E:0.272715 |  Yes, Trippia on the right-hand side, moves away from Forsberg, passes it, but towards Stirling, but Augustinsson got there first, and the ball runs out of play for another throw to England.
+[2709.20 - 2721.20] P:1554.27 E:0.311030 |  It's been scrappy, it's been disjointed. Lack of ambition from Sweden, who's simply not played very well, trying to frustrate England.
+[2721.20 - 2729.20] P:1508.90 E:0.270150 |  But crucially, England have scored from yet another set-piece. One nil, they are.
+[2729.20 - 2740.20] P:1602.64 E:0.290661 |  And Forsberg now almost took the ball in his stride, but Walker did very well there to come across, swept the ball away from him, and now England are passing it away from the back, from the left-back position.
+[2740.20 - 2748.20] P:1558.29 E:0.283507 |  Walker still there, and he strikes the ball up towards Kane, but it's over the top of Harry Kane. Henderson then knots it to Lingard. Little touch from Lingard, that was good.
+[2748.20 - 2759.20] P:1728.18 E:0.299517 |  Gaglialli's got some space now here, and he begins to glide forward with the ball. Stirling on the left wing here, Stirling into the penalty area, takes on Kraft, crosses, took an afflection, a little flick from Lingard.
+[2759.20 - 2768.20] P:1708.96 E:0.257070 |  A hitter defender, bounce down, and Sweden were able to bring it away. There you go, John. Stirling goes out the left wing, he's got the beat of the full-back straight away, you can see that.
+[2768.20 - 2771.20] P:1718.96 E:0.248503 |  Is he going to stay here though? No.
+[2771.20 - 2792.20] P:1557.89 E:0.283952 |  It's all to play for a throwing to Sweden. And there we see Janna Andersson, who has a little bit like Aracelka actually, taken on the mantle of a cult hero back in Sweden, this 55-year-old who took over from Erik Hamron after Euro 2016,
+[2792.20 - 2804.20] P:1396.80 E:0.283510 |  and he'd come up with something of a minor miracle by leading no shopping to the Swedish title, which was most unexpected. And here he is, leading Sweden to a World Cup quarter-final.
+[2805.20 - 2813.20] P:1706.73 E:0.263560 |  Granquist takes possession now. And if they put a touch, the ball runs out towards the left-hand side. Three and a half minutes to go to, to half-time.
+[2813.20 - 2828.20] P:1690.49 E:0.272883 |  England will very gladly take base, one-nil lead into the break. Larson to the left-hand side. Forsberg is after it. Forsberg with Al Christensen. Forsberg back onto his right foot, swirls the ball in, but it will bounce through to Jordan Pickford, who can take it easily.
+[2828.20 - 2837.20] P:1700.89 E:0.268000 |  That's a good ball in that. This is the first man in slow, somebody attacks it across Pickford, you've got to tap in. Nobody attack the ball, Pickford picks it up.
+[2837.20 - 2852.20] P:1602.83 E:0.287373 |  Jordan Pickford, and a Sunderland lad, two Sunderland lads in this England team, Jordan Henderson and Jordan Pickford, I was reminded earlier today, but it's actually one year ago since the sad tragic death of young Bradley Lowry.
+[2852.20 - 2861.20] P:1463.39 E:0.304195 |  And I'm sure that saying a couple of Sunderland boys in the England team will mean a great deal to his family. So we'll send our best regards to them.
+[2861.20 - 2875.20] P:1454.52 E:0.296104 |  Sweden nail England one. Kyle Walker just giving it to Kieran Trippier. Trippier now to John Stones. And Stones finds the pass towards Ashley Young on the left-hand side.
+[2875.20 - 2886.20] P:1575.41 E:0.301824 |  But this is all very one-paced, this from England. Just keeping possession, but with a one-nil lead, if they can keep the ball in these warm conditions here in Samara, this you would think would tie a Sweden.
+[2886.20 - 2894.20] P:1701.29 E:0.306303 |  Trippier hits a long one for Sterling. Sterling pulls it down in the box. Lindelöf did well to just take it away from him on the edge of the six-yard box.
+[2894.20 - 2901.20] P:1710.73 E:0.289985 |  Great ball, great run. First touch was excellent, he just couldn't get his head up, he couldn't get it out of his feet to get the shot off, but great ball by Trippier.
+[2901.20 - 2912.20] P:1610.20 E:0.274880 |  What again? Yet another great ball by Kieran Trippier, whose stock is rising on the world stage at this World Cup. McGuire finds a pass through the middle of the cane.
+[2912.20 - 2918.20] P:1893.20 E:0.351772 |  Now Lindelöf, through to Sterling. Sterling's onside. Sterling under the goalkeeper and it's cleared away.
+[2918.20 - 2922.20] P:1860.82 E:0.303964 |  By Kraft, but in any case, the flag eventually came.
+[2922.20 - 2930.20] P:1844.13 E:0.301443 |  Well, it's this way, you don't put the flag up in your way, which is ridiculous, just stick the flag up. He's well offside.
+[2930.20 - 2940.20] P:1815.66 E:0.266790 |  Where did these rules come from? Look, he yards off, just stick your flag up. Getting everybody excited.
+[2940.20 - 2944.20] P:1672.21 E:0.268689 |  That's actually comical that he didn't put his flag up there.
+[2944.20 - 2956.20] P:1681.78 E:0.258374 |  Sweden-Nil, England-1. Nevertheless, it would have been comforting for England supporters to have seen Raheem Sterling put that in the back of the net.
+[2956.20 - 2962.20] P:1633.58 E:0.260304 |  Although you could also argue, maybe keep them for when he is actually onside.
+[2962.20 - 2973.20] P:1629.30 E:0.233397 |  One-Nil, England leading through Harry McGuire's header. England scoring from yet another set piece at this World Cup.
+[2973.20 - 2979.20] P:1455.32 E:0.256933 |  That's seven of them now, isn't it? Seven set pieces that England have scored from.
+[2979.20 - 2988.20] P:1549.86 E:0.264875 |  Very simple, this one. Ashley Young with a corner, headed in by a towering Harry McGuire from an angle from 12 yards or so.
+[2988.20 - 2994.20] P:1756.83 E:0.345423 |  Henderson now, a ball over the top for Sterling, takes it down brilliantly, goes down to Golciba, who got a touch?
+[2994.20 - 3000.20] P:1872.19 E:0.325060 |  Sterling in the box, still with a chance for England. Sterling on his right foot, shoots deflected, wide.
+[3000.20 - 3006.20] P:1790.98 E:0.330270 |  I don't believe what Raheem Sterling goes through, he's headed Thames. I mean, his run is brilliant for Thames, and this time he got a right.
+[3006.20 - 3013.20] P:1816.52 E:0.296468 |  He just had a similar run, he's offside this time. Henderson plays it, he's onside, a good yard. First touch, brilliant.
+[3013.20 - 3023.20] P:1794.97 E:0.262580 |  Now, he never seemed to get control of all after that first touch. Then it's a decision, do you roll at Harry Kane? Yes, possibly.
+[3023.20 - 3033.20] P:1717.30 E:0.250854 |  Again, that's why people criticize Raheem Sterling, get some positions, good positions, but his final delivery, his final selection is not good enough for Thames.
+[3033.20 - 3041.20] P:1685.17 E:0.271926 |  First touch was magnificent. And I think the Golciba are getting a touch in there. He did well, Olsen.
+[3041.20 - 3050.20] P:1716.62 E:0.263149 |  Corner then, for England, they're lining up again, here's the delivery, and it's headed away. McGuire was the target once more, but he just couldn't get past the yellow shirts.
+[3050.20 - 3061.20] P:1690.59 E:0.259345 |  Back it comes to Jung and Junglifts, went into the penalty area for England, and it's not at a cross by John Stones, but straight onto the head of one of the Swedish defenders.
+[3061.20 - 3067.20] P:1727.12 E:0.284268 |  One minute of added time, here Sterling inside the box, pulls it back, takes a deflection behind another England corner.
+[3067.20 - 3079.20] P:1672.69 E:0.280465 |  Now Sterling's a problem to them with his pace of movement, but in a way, I think that's half time, is it? Out corner, but his decision-making, I keep saying it, but it just lets him down.
+[3079.20 - 3088.20] P:1710.18 E:0.269267 |  England could easily be a couple of goals up here, as it is just the one. Corner though, this will be the last action of the first half.
+[3088.20 - 3096.20] P:1672.45 E:0.265922 |  Again, the England players are lining up one in front of the other. Trippie at with the delivery towards the penalty spot, and McGuire stretching for it was beaten to it
+[3096.20 - 3104.20] P:1672.60 E:0.270265 |  by possibly two defenders, one either side of him. There's the half-time whistle, and England have a 1-0 lead in the quarter-final, here in Samara, Chris Waddle.
+[3104.20 - 3109.20] P:1845.96 E:0.292404 |  Yeah, I think it's not being the best game, England's being the best side, and although about that, I think McGuire goes separate to teams.
+[3109.20 - 3115.20] P:1955.09 E:0.248314 |  Sterling in the last five minutes caused so many problems, but his decisions let him down, bad decisions.
+[3115.20 - 3122.20] P:1930.89 E:0.245758 |  Yeah, you say England are on top, but Sweden, what will they be saying in half-time? How do they turn this round?
+[3122.20 - 3134.20] P:1697.62 E:0.288066 |  Well, I know there'll be a lot to get through with it being such a busy afternoon, Lewis Hamilton on pole at the Grand Prix, but here in Samara, it's so far so good for England on what may well become a very, very nervy afternoon.
+[3134.20 - 3144.20] P:1886.67 E:0.275503 |  England leading through Harry McGuire's header in the half-hour, Sweden-Nel, England won, and Mark Chapman is here with us just over two hour right.
+[3144.20 - 3157.20] P:1622.01 E:0.249280 |  No substitutions in half-time. Chris, as England get the second half underway, although we've got a false start, and Jesse Lingard now plays the ball back into the England half.
+[3157.20 - 3165.20] P:1594.27 E:0.261321 |  England playing from left to right as we look in the second period, the all-red kit, Sweden first-choice colours of the yellow, blue and yellow socks.
+[3165.20 - 3170.20] P:1473.88 E:0.267645 |  Chris, if England were able to get a second goal, do you think Sweden would be able to come back from that?
+[3170.20 - 3177.20] P:1487.54 E:0.272224 |  Well, they never say never, but I can't hardly relate what we've saw so far. I think as they well get one goal, we've not seen anything really, nothing at all.
+[3177.20 - 3187.20] P:1579.58 E:0.266440 |  They've got to improve dramatically, and I know this is the way that they play, but they'll have to be more adventurous.
+[3187.20 - 3197.20] P:1618.33 E:0.253327 |  Here they are with Augustinsson, who plays the ball back into central defence. Swedish side is Olsen and Gull, Kraft, Lindelöf, Granquist and Augustinsson,
+[3197.20 - 3206.20] P:1648.71 E:0.242787 |  Midfield Klosson, Södlarsson, Eckdal and Forsberg with Berg and Toijsson up front. Here comes Sweden, cross from the right, Berg gets his head to it,
+[3206.20 - 3215.20] P:1589.92 E:0.232525 |  but walk it in well against him, Berg could only head it out into the full-back position, where Forsberg with his flopping blonde hair, Forsberg gets it back,
+[3216.20 - 3222.20] P:1641.82 E:0.253531 |  Schoort outside his shorts, now to Klosson, who's come to the left-hand side. Klosson leaves it towards Forsberg, who's crossed,
+[3222.20 - 3227.20] P:1600.39 E:0.266746 |  hits the back of Deli Allian, loops out of play about ten yards away from the corner flag.
+[3227.20 - 3233.20] P:1636.04 E:0.264575 |  So England leading through Harry Maguire's headed goal. Yeah, if you weren't listening, I don't know what you were doing.
+[3233.20 - 3242.20] P:1558.31 E:0.243177 |  If you've not been across this match, but yep, Harry scored, but not that Harry. The other one, Throyn Klosson takes this into the full-back position.
+[3242.20 - 3248.20] P:1583.17 E:0.281182 |  Eckdal bounces off Henderson back towards Augustinsson with a deep cross towards the back post.
+[3248.20 - 3255.20] P:1797.79 E:0.312600 |  Head up from Berg, brilliantly saved from Pickford, leaping to his left. Brilliant save, could easily have been 1-1.
+[3255.20 - 3263.20] P:1519.92 E:0.238510 |  There's a warning for England. Sweden still in possession. More from Chris Waddle on that in a moment, but the move is still alive.
+[3263.20 - 3268.20] P:1535.30 E:0.294933 |  Eckdal with a run into the penalty area, shielded by Maguire, who is able to shield it over the dead ball line.
+[3268.20 - 3276.20] P:1563.57 E:0.253601 |  But Jordan Pickford there, a wonderful save, leaping to his left from Berg's header.
+[3276.20 - 3281.20] P:1538.15 E:0.272037 |  Berg pulls off to the far post, Disney gets up against Archie Young and he wins the head-eye direct.
+[3281.20 - 3289.20] P:1574.40 E:0.243407 |  He just didn't save the post. Pickford, very good save with his left hand, pushes it away, and Maguire watches it out.
+[3289.20 - 3297.20] P:1466.23 E:0.242173 |  It's the best for Seaman, Sweden. Berg, who scored a stack of goals in the United Arab Emirates, admittedly,
+[3297.20 - 3307.20] P:1533.68 E:0.258171 |  but for Al Ain, who won the League and the Cup in the UAE this season. Here, that is his 14th attempt on goal without scoring.
+[3307.20 - 3311.20] P:1516.35 E:0.259553 |  No one who has failed to score at this World Cup has had more efforts without scoring.
+[3311.20 - 3316.20] P:1513.21 E:0.227846 |  But that very nearly broke the duck. Still 1-0 England.
+[3316.20 - 3320.20] P:1467.98 E:0.258326 |  Trivia hits a long pass for Sterling to chase the Grandcrest, is able to head it down.
+[3320.20 - 3323.20] P:1561.49 E:0.268860 |  And the England team, it's unchanged. The England team from the Columbia match.
+[3323.20 - 3329.20] P:1413.05 E:0.254624 |  So Pickford in goal, Walker, Stones and Maguire, Henderson, Trivia and Young in the wide positions.
+[3329.20 - 3334.20] P:1345.56 E:0.268939 |  Lingard and Alley with Sterling and Harry Kane. The winners of this England are 1-0 up.
+[3334.20 - 3337.20] P:1410.28 E:0.263452 |  The winners of this will play either Russia or Croatia.
+[3337.20 - 3342.20] P:1410.23 E:0.269202 |  That match on 5-Live tonight, live from Sochi with Conor McNamara and Dion Dublin.
+[3342.20 - 3346.20] P:1364.92 E:0.272592 |  And somewhere in the midst of all this, Kyle Edmund and Novak Djokovic will be playing at Wimbledon.
+[3346.20 - 3352.20] P:1470.78 E:0.279193 |  We'll have that covered. The coverage continues on 5-Live Sports Extra, BBC Television and also on the BBC Sport website.
+[3352.20 - 3364.20] P:1411.50 E:0.264309 |  And app 6-0-6 to come. I'll let you know when the lines are open to talk about whatever transpires over the course of the next 3-quarters of an hour or longer.
+[3364.20 - 3370.20] P:1504.39 E:0.279715 |  And the lines are now open. 08, 08, 05, 9-0-9, 6-9-3, get in touch at BBC 6-0-6.
+[3370.20 - 3381.20] P:1387.67 E:0.273677 |  You can text 8-5-0, 5-8. Lines open now. Chris Sutton's going to be involved. Chris Waddle as well with Kelly Cades who's back in the studio at Red Square.
+[3381.20 - 3388.20] P:1383.18 E:0.270571 |  1-0 England lead. Here, a ball through the middle. 4-0 Sterling. But Sterling dispossessed by a combination of Eckdalen, Grandcrest.
+[3388.20 - 3391.20] P:1384.20 E:0.295792 |  Now he has Klossom on the right-hand side. Ashle Young gets back into position.
+[3391.20 - 3398.20] P:1521.50 E:0.263606 |  But Klossom has worked at the Berg and then Berg loses the ball to Henderson. Harry Kane, very deep position.
+[3398.20 - 3406.20] P:1505.10 E:0.271237 |  Deep inside his own half, Harry Kane plays the ball to Trippier. And now Kyle Walker will have a little wonder forward.
+[3406.20 - 3413.20] P:1490.66 E:0.272343 |  Still Kane near the halfway line. Kane lifts it out towards the left flank. Ashle Young gets it down and has space in front of him on the left wing.
+[3413.20 - 3418.20] P:1442.60 E:0.256689 |  Klossom eventually comes across. Young, back towards Henderson.
+[3418.20 - 3424.20] P:1421.83 E:0.288221 |  Henderson goes for one of those high passes. Slung to the right. Trippier heads it across. A falling header away by Grandcrest.
+[3424.20 - 3429.20] P:1585.70 E:0.269436 |  Only back to England though. Lingard passes it straight out for him.
+[3429.20 - 3433.20] P:1465.09 E:0.307736 |  That's how it comes up for England at the minute. We've had one scare. That was all by Berg ahead at the far post.
+[3433.20 - 3436.20] P:1501.79 E:0.278129 |  Apart from that, England again in total control.
+[3436.20 - 3446.20] P:1651.21 E:0.281292 |  Oh, Swing, you'd be looking for some pace to come up. Berg playing it through to Tivenen. Tivenen though. Trippier came across and just took the ball away as he was looking to pass it forward.
+[3447.20 - 3451.20] P:1685.15 E:0.293035 |  What could have been a promising move for Sweden came to absolutely nothing.
+[3451.20 - 3458.20] P:1534.39 E:0.281603 |  It's just like pace. The two similar two centre forwards. And I think if you could get somewhere where Sweden should be looking to put someone with a bit of pace who can help them out.
+[3458.20 - 3462.20] P:1450.27 E:0.260221 |  Because if they don't hit them, England just picked the ball up straight away.
+[3462.20 - 3469.20] P:1431.97 E:0.267819 |  Ashle Young on the far side. England only ever been in two World Cup semi-finals.
+[3469.20 - 3476.20] P:1381.29 E:0.277716 |  1966 and the one that Chris Waddle played in in 1990. That's been it.
+[3476.20 - 3483.20] P:1327.61 E:0.293603 |  And here, a lead in 1-0 and already we've played five minutes of the second half.
+[3483.20 - 3488.20] P:1424.92 E:0.298868 |  Pickford with a long pass downfield. Lindelof wins it in the air against Harry Kane.
+[3488.20 - 3493.20] P:1421.65 E:0.281566 |  Then it's headed forward by Klosser. Bounces in the centre circle. Stirling.
+[3493.20 - 3502.20] P:1457.69 E:0.297489 |  It was just a little too physical, believe it or not. Stirling on Grandfist concedes a foul and it's a free kick to Sweden in the centre circle.
+[3502.20 - 3507.20] P:1508.32 E:0.289484 |  Just with his jump into Grandfist. Free kick is taken to Kraft on the right hand side.
+[3507.20 - 3513.20] P:1440.51 E:0.276981 |  Playing instead of the suspended Mikael Lustig of Celtic who picked up two yellow cards.
+[3513.20 - 3519.20] P:1581.24 E:0.269131 |  Lindelof at the back for Sweden. The Manchester United's central defender.
+[3519.20 - 3524.20] P:1520.03 E:0.274293 |  There were a number of these Swedish players say they actually support Manchester United.
+[3524.20 - 3528.20] P:1536.36 E:0.294875 |  Klosser now on the right hand side. Tried the pass but it hit the heels of Ashle Young.
+[3528.20 - 3533.20] P:1335.46 E:0.283248 |  Kraft was making it over. Lapping run. Comes back centrally for Seb Larsen.
+[3533.20 - 3538.20] P:1556.03 E:0.280941 |  High crossfield pass from him but Forsberg has to back away and take down on his chest
+[3538.20 - 3544.20] P:1484.79 E:0.266778 |  but then controls it brilliantly and swings the ball in from an angle but Jordan Pickford quickly backpedaling.
+[3544.20 - 3547.20] P:1511.16 E:0.291492 |  Watched it drift away over the top of the crossbar for a goal kick.
+[3547.20 - 3552.20] P:1568.09 E:0.277078 |  And it's a friendly. Oh so more from Sweden in the last five minutes and we haven't got all of the first half.
+[3552.20 - 3556.20] P:1632.98 E:0.287155 |  Let's be honest they've actually had words in off-ten about try and up the table.
+[3556.20 - 3561.20] P:1574.89 E:0.241937 |  They take a little bit more risk. Not a lot. That was a waste opportunity for us but we've got it weighed.
+[3561.20 - 3567.20] P:1521.78 E:0.271475 |  Crosses it behind the goal. One nail to England. Pickford in no hurry to take this.
+[3567.20 - 3574.20] P:1588.61 E:0.285347 |  In this most attractive city of Samara where the Russian space industry is based.
+[3574.20 - 3581.20] P:1478.97 E:0.299267 |  Space Museum itself all sorts of Yuri Gagarin artifacts. The rocket that he became the first man in space was born.
+[3581.20 - 3587.20] P:1577.94 E:0.259375 |  It was built here. Throw in two Sweden on the far side.
+[3587.20 - 3592.20] P:1493.09 E:0.287747 |  That Kraft is waiting to take. A little run across field from Ekdal.
+[3592.20 - 3598.20] P:1539.86 E:0.272101 |  Ekdal gives it back to Kraft. Stirling in with a challenge. Back healed.
+[3598.20 - 3602.20] P:1566.27 E:0.286812 |  Straight out of play for a throw in. It's got to be better than that from Sweden.
+[3602.20 - 3605.20] P:1612.37 E:0.321359 |  I think if that was England we'd be exasperated.
+[3605.20 - 3611.20] P:1816.47 E:0.317593 |  I just think how Sweden can change it. I've got two or three subs warming up.
+[3611.20 - 3619.20] P:1727.98 E:0.317775 |  Throw in. Taken by England to Harry Kane. Another chorus of Russia ringing around the stadium.
+[3619.20 - 3622.20] P:1750.05 E:0.295778 |  Kane is tripped by Berg. It's a free kick.
+[3622.20 - 3626.20] P:1697.51 E:0.299772 |  It's always round up 52-53 minutes seeing that as well as it's only a little bit.
+[3626.20 - 3633.20] P:1546.11 E:0.310510 |  We'll hear a great deal more of that from the match in Sochi this evening as Russia tried to win a place in the semi-finals of the World Cup.
+[3633.20 - 3641.20] P:1548.18 E:0.277646 |  Free kick. Young has taken it. Dali Ali has some space but the referee says that he hadn't indicated that England could take it.
+[3641.20 - 3643.20] P:1483.34 E:0.279458 |  So they'll have to go back and take it again.
+[3643.20 - 3648.20] P:1558.00 E:0.276598 |  So it's a chance from the set piece. England have already scored from one, from a corner in this match.
+[3648.20 - 3652.20] P:1446.57 E:0.275374 |  Young again being very careful about where he's placing the ball.
+[3652.20 - 3657.20] P:1452.36 E:0.262713 |  Let's keep an eye on the man Harry Maguire who always causes problems.
+[3657.20 - 3665.20] P:1561.56 E:0.265973 |  Maguire is the furthest away at the back post. Here's the delivery towards Maguire who heads it right across the face of goal.
+[3665.20 - 3672.20] P:1683.50 E:0.276155 |  An overhead kick right across the box. Maguire nods it back across the penalty area and it's clear to where Bylarsson in the penalty area.
+[3672.20 - 3677.20] P:1566.22 E:0.260536 |  There's an overhead kick by Sterling on the far post that found its way straight back to Maguire.
+[3677.20 - 3681.20] P:1572.08 E:0.285096 |  On the corner, Hanhari and Maguire come in. Again a simple set piece.
+[3681.20 - 3686.20] P:1564.92 E:0.289774 |  Balls hung up in the far post. He gets there. Nobody's near him. Look, he heads it back across the goal.
+[3686.20 - 3692.20] P:1531.12 E:0.272696 |  Sterling with a basic kick doesn't go any way. Again, back across the goal. That's a simple top. Nobody reacts.
+[3692.20 - 3695.20] P:1541.88 E:0.268711 |  No defence that Harry Maguire has played against here.
+[3695.20 - 3697.20] P:1477.19 E:0.243416 |  Nobody can handle those set pieces.
+[3698.20 - 3704.20] P:1635.37 E:0.277260 |  And he scored the goal. Harry Maguire of Leicester City in England.
+[3704.20 - 3708.20] P:1704.13 E:0.292117 |  Here's Sterling on the right-hand side. Sterling with a chance to cross. Cain's after it.
+[3708.20 - 3714.20] P:1526.69 E:0.265229 |  But it's headed away by Lindelöf who managed to come across Harry Cain and get his head to it before the England captain.
+[3714.20 - 3720.20] P:1717.32 E:0.302418 |  And the referee is motioning across.
+[3720.20 - 3727.20] P:1572.28 E:0.278827 |  Because he had a swing at Tovan. Tovan had a swing at whoever picked the ball. Was it Sterling or Lindelöf?
+[3727.20 - 3734.20] P:1510.92 E:0.264179 |  And referee Koipers, beyond Koipers says to Tovan very clearly, that's your last warning.
+[3734.20 - 3739.20] P:1508.17 E:0.277008 |  That's good referee. He's left no one in any doubt.
+[3740.20 - 3746.20] P:1443.27 E:0.273679 |  Throw in for England that is taken by Trippier back towards Walker on the half way line.
+[3746.20 - 3750.20] P:1496.18 E:0.282763 |  BBC Radio 5 Live from Samara. England winning 1-0.
+[3750.20 - 3754.20] P:1564.76 E:0.282426 |  Getting touch on social media at 5 Live Sport and let us know where you're watching.
+[3754.20 - 3761.20] P:1532.04 E:0.261218 |  Particularly if it's unusual. We'd love to be able to read them out during the course of 5 Live Sport and 6-0-6.
+[3761.20 - 3770.20] P:1519.12 E:0.240936 |  The lines are open. 08, 08, 05, 9-0-9, 6-9-3. Trippier and now the ball is played downfield by Augustin.
+[3770.20 - 3775.20] P:1383.18 E:0.311687 |  Henderson then under pressure can only stab the ball out of play. Are we going to see a change?
+[3777.20 - 3781.20] P:1503.42 E:0.309939 |  Number 22. I think he's been warming up for 10 minutes and they've called him back into the dugout.
+[3781.20 - 3785.20] P:1430.78 E:0.278970 |  I don't know if he's doing too well to sit down and not put me on yet.
+[3785.20 - 3789.20] P:1545.39 E:0.297291 |  He has a centre forward, Isaac Keesad. I think he's coming on here to England again.
+[3789.20 - 3797.20] P:1625.28 E:0.280050 |  He has Harry Kane on the right hand side, a curling pass, goalkeeper came for it then went back and it was all the way across to the far side into the full back position.
+[3797.20 - 3803.20] P:1541.98 E:0.278690 |  Sterling crosses straight onto the head of Lindelöf. Harry Maguire is suddenly involved in the attack.
+[3803.20 - 3808.20] P:1436.31 E:0.276764 |  Chesting it down and playing it forward. Clear away to Henderson. Now with Sterling on the left hand side.
+[3808.20 - 3812.20] P:1374.81 E:0.265049 |  Lindegard is available. Lindegard takes it on the outside of his right boot.
+[3812.20 - 3816.20] P:1389.75 E:0.283699 |  Harry Maguire still involved in the attack, rolling his foot over the top of the ball.
+[3816.20 - 3820.20] P:1625.90 E:0.286933 |  He's been able to find Lindegard. Lindegard takes it on and shoots and it's deflected.
+[3820.20 - 3824.20] P:1603.73 E:0.314485 |  Off a defender on the edge of the area and the ball skews away behind for a corner to England.
+[3824.20 - 3832.20] P:1715.58 E:0.295045 |  Good spell by England, good tempo about them as well. Sweeney struggling to get clear that anything away, it's all England that pushed them back.
+[3832.20 - 3836.20] P:1639.03 E:0.282805 |  Harry Maguire involved again.
+[3836.20 - 3840.20] P:1727.49 E:0.304567 |  Coming in at number 10 as well now isn't it?
+[3840.20 - 3844.20] P:1697.51 E:0.308241 |  Corner for England.
+[3844.20 - 3848.20] P:1587.70 E:0.306870 |  Let's keep an eye on Zinedine Maguire. Where is he?
+[3848.20 - 3857.20] P:1591.08 E:0.280222 |  He's between Kane and Stones and we're seeing this line up again as it's been pointed out a little bit like the old Madness album cover.
+[3857.20 - 3861.20] P:1547.77 E:0.246149 |  Where they're all lining up and leaning back in a row.
+[3861.20 - 3870.20] P:1628.66 E:0.284121 |  Here's Trippier to take the corner. Raheem Sterling is making a nuisance of himself in there as well.
+[3870.20 - 3875.20] P:1667.05 E:0.264710 |  Trippier with the delivery towards the back post this time. Lindelof got a head to it.
+[3875.20 - 3879.20] P:1504.17 E:0.243735 |  Henderson was complaining about being held in there.
+[3879.20 - 3883.20] P:1501.06 E:0.259198 |  It's been nothing in terms of the wrestling and that manhandling in this match.
+[3883.20 - 3886.20] P:1614.04 E:0.277435 |  It's been nothing like some of the other games that we've seen.
+[3886.20 - 3890.20] P:1665.09 E:0.249064 |  That could have been, it must be Tug.
+[3890.20 - 3892.20] P:1638.49 E:0.263872 |  Very good.
+[3892.20 - 3895.20] P:1549.95 E:0.233509 |  Throne for England on the far side.
+[3895.20 - 3898.20] P:1566.15 E:0.269845 |  Sterling takes this to Kane.
+[3898.20 - 3902.20] P:1525.31 E:0.258720 |  Kane now wriggles away into the penalty area and then eventually the challenge by Eckdahl.
+[3902.20 - 3905.20] P:1400.31 E:0.230521 |  Young is still available on the left-hand side.
+[3905.20 - 3907.20] P:1523.02 E:0.274111 |  Henderson gives it back to Young.
+[3907.20 - 3910.20] P:1628.58 E:0.276967 |  Young slips it past Losson and then the cross hits the first defender.
+[3910.20 - 3913.20] P:1553.07 E:0.253066 |  It's bounced back to Henderson though. Henderson's ball in.
+[3913.20 - 3915.20] P:1515.11 E:0.282478 |  This time headed away by Lindelof.
+[3915.20 - 3918.20] P:1643.29 E:0.260005 |  Again England are having a good little spell here. They're probing.
+[3918.20 - 3920.20] P:1675.90 E:0.316192 |  Second goal may be in the offing.
+[3920.20 - 3923.20] P:1714.06 E:0.221215 |  Young plays it to Deli Alley.
+[3923.20 - 3925.20] P:1725.41 E:0.288828 |  Drags it back, plays it square to Lingard.
+[3925.20 - 3927.20] P:1731.17 E:0.285928 |  Lingard shoots, it's deflected by Granquist.
+[3927.20 - 3929.20] P:1674.63 E:0.246733 |  Out to the right-hand side to Trippier.
+[3929.20 - 3931.20] P:1726.30 E:0.289315 |  England are all over Sweden here.
+[3931.20 - 3933.20] P:1604.49 E:0.262891 |  Trippier then tees up Lingard.
+[3933.20 - 3935.20] P:1833.93 E:0.340118 |  Lingard plays it into the back post.
+[3935.20 - 3937.20] P:1894.08 E:0.366424 |  Deli Alley heads it in.
+[3937.20 - 3939.20] P:1864.32 E:0.364424 |  It's 2-0 to England.
+[3939.20 - 3941.20] P:1896.60 E:0.336750 |  They're on the way to the semi-finals.
+[3941.20 - 3944.20] P:1932.22 E:0.319791 |  Deli Alley makes his mark on this World Cup.
+[3944.20 - 3949.20] P:1803.71 E:0.349930 |  Sweden 0, England 2, England now in control of the quarter-finals.
+[3949.20 - 3951.20] P:1746.72 E:0.316346 |  It's been coming hasn't it?
+[3951.20 - 3954.20] P:1787.89 E:0.292559 |  And England have absolutely dominated the last 10 minutes.
+[3954.20 - 3956.20] P:1755.58 E:0.303667 |  Sweden just can't get near them.
+[3956.20 - 3958.20] P:1790.27 E:0.279832 |  They haven't got a clue how to stop them.
+[3958.20 - 3960.20] P:1792.51 E:0.300474 |  They've been putting balls in the box.
+[3960.20 - 3962.20] P:1787.63 E:0.282435 |  Socks blocked, they've tried everything.
+[3962.20 - 3965.20] P:1727.60 E:0.282095 |  And England this time get rewarded with a great ball to far post.
+[3965.20 - 3967.20] P:1810.31 E:0.270139 |  Deli Alley beats the off-side trap.
+[3967.20 - 3970.20] P:1706.10 E:0.292982 |  Good header, makes it look easy as it comes in.
+[3970.20 - 3973.20] P:1700.09 E:0.307715 |  Sweden don't clear the lanes. Deli Alley is definitely on stage.
+[3973.20 - 3975.20] P:1631.47 E:0.223409 |  Does it need it?
+[3975.20 - 3977.20] P:1571.79 E:0.296856 |  Great header.
+[3977.20 - 3979.20] P:1731.68 E:0.292367 |  Game over because I cannot see Sweden scoring two goals.
+[3979.20 - 3982.20] P:1683.40 E:0.281018 |  And what would you say that England need to do now?
+[3982.20 - 3984.20] P:1622.26 E:0.279760 |  Just keep the tempo for the next 10-15 minutes.
+[3984.20 - 3985.20] P:1714.72 E:0.272828 |  Keep going.
+[3985.20 - 3986.20] P:1811.18 E:0.260707 |  If you get a third, great.
+[3986.20 - 3989.20] P:1753.36 E:0.279180 |  Don't start easing off and encouraging Sweden off.
+[3989.20 - 3991.20] P:1627.89 E:0.249236 |  Go for the jugular.
+[3991.20 - 3992.20] P:1646.47 E:0.283937 |  Yep, that's the one.
+[3992.20 - 3995.20] P:1807.20 E:0.266009 |  And later on they'll be able to go for the jiggly.
+[3995.20 - 3998.20] P:1614.61 E:0.248776 |  That's the local beer by the way.
+[3998.20 - 4000.20] P:1573.38 E:0.275242 |  The one step beyond now though.
+[4001.20 - 4003.20] P:1638.13 E:0.262323 |  2-0 to England.
+[4003.20 - 4006.20] P:1556.09 E:0.288475 |  They've got the big brewery in Samara where they make jiggly beer.
+[4006.20 - 4011.20] P:1612.40 E:0.293823 |  He has Kane on the half way line who is blocked and blatantly blocked.
+[4011.20 - 4013.20] P:1638.31 E:0.321569 |  He was, it's a free kick.
+[4013.20 - 4016.20] P:1894.41 E:0.296266 |  Might have taken a bang in the Netherlands actually,
+[4016.20 - 4018.20] P:1776.74 E:0.296497 |  holding his side.
+[4018.20 - 4021.20] P:1813.71 E:0.293527 |  And referee Kuipers has given the free kick England's way.
+[4021.20 - 4026.20] P:1631.85 E:0.267092 |  So Deli Alley scoring for England for only the third time.
+[4026.20 - 4029.20] P:1487.08 E:0.269386 |  It is an area where, and we know he's Tottenham goal scoring,
+[4029.20 - 4032.20] P:1515.40 E:0.278812 |  record is superb for a midfielder.
+[4032.20 - 4036.20] P:1553.38 E:0.280375 |  He's another one that you always feel could score more for England.
+[4036.20 - 4037.20] P:1505.19 E:0.327288 |  Yeah, definitely.
+[4037.20 - 4040.20] P:1700.69 E:0.283511 |  He got in the right place right time this time as well.
+[4040.20 - 4043.20] P:1607.77 E:0.290826 |  But against Stirling was Nierman, so where was he?
+[4043.20 - 4045.20] P:1553.84 E:0.267882 |  He was very congested in that little bit.
+[4045.20 - 4047.20] P:1502.40 E:0.276455 |  He almost couldn't miss Deli Alley.
+[4047.20 - 4049.20] P:1550.30 E:0.279177 |  The curling cross in to him,
+[4049.20 - 4051.20] P:1510.66 E:0.284755 |  peeled away at the back post in the six yard box
+[4051.20 - 4053.20] P:1661.05 E:0.264516 |  and he just headed it into the roof of the net.
+[4053.20 - 4056.20] P:1505.55 E:0.237291 |  Sweden nil, England 2.
+[4056.20 - 4058.20] P:1567.12 E:0.239697 |  Stirling back to Linngar.
+[4058.20 - 4060.20] P:1593.22 E:0.269006 |  And now square to Harry Kane.
+[4060.20 - 4062.20] P:1630.73 E:0.298607 |  England players queuing up on the left hand side.
+[4062.20 - 4064.20] P:1544.73 E:0.227985 |  Young is there.
+[4064.20 - 4066.20] P:1639.76 E:0.290228 |  Deli Alley on the overlap.
+[4066.20 - 4068.20] P:1748.89 E:0.257721 |  Alley in the box on the left hand side.
+[4068.20 - 4072.20] P:1663.53 E:0.253908 |  Deli Alley chips it to the back post where it's headed away by Augusteensson.
+[4072.20 - 4074.20] P:1529.92 E:0.259368 |  England have continued the momentum.
+[4074.20 - 4079.20] P:1457.68 E:0.251209 |  Henderson and Trippier are now walker with possession back near the half way line.
+[4079.20 - 4081.20] P:1504.78 E:0.293470 |  So 2-0 it is.
+[4081.20 - 4083.20] P:1467.02 E:0.265741 |  Harry Maguire in the first half.
+[4083.20 - 4085.20] P:1496.90 E:0.244481 |  Deli Alley in the second.
+[4085.20 - 4089.20] P:1608.73 E:0.299498 |  John Stones puts his foot on the ball inside the England half.
+[4089.20 - 4093.20] P:1630.94 E:0.292209 |  And we see now Janna Andersson,
+[4093.20 - 4096.20] P:1591.50 E:0.275139 |  who's taken off his blue jacket.
+[4096.20 - 4099.20] P:1568.07 E:0.284296 |  And he's couldn't quite a frustrated figure down there
+[4099.20 - 4101.20] P:1467.84 E:0.302186 |  because his team are making no impression.
+[4101.20 - 4103.20] P:1550.36 E:0.302017 |  They've conceded a second goal, Sweden.
+[4103.20 - 4106.20] P:1445.70 E:0.269214 |  And England have taken up from where they left off before.
+[4106.20 - 4108.20] P:1542.23 E:0.285846 |  It went in. Henderson four towards Trippier.
+[4108.20 - 4111.20] P:1536.22 E:0.311222 |  And Trippier wins the header that the ball runs through for a goal kick.
+[4111.20 - 4115.20] P:1484.27 E:0.312196 |  So we have a score line that is being celebrated by the England supporters
+[4115.20 - 4117.20] P:1444.12 E:0.276572 |  in the stadium here.
+[4117.20 - 4119.20] P:1679.94 E:0.217121 |  2-0.
+[4119.20 - 4121.20] P:1595.30 E:0.325449 |  Yeah, and I think it'll be delayed.
+[4121.20 - 4123.20] P:1494.20 E:0.305203 |  I think it's like an offer come out with a great tempo about them.
+[4123.20 - 4125.20] P:1610.31 E:0.303387 |  And they're moving the ball a great legume.
+[4125.20 - 4127.20] P:1586.77 E:0.274220 |  This chance is here Sweden on the counter attack.
+[4127.20 - 4129.20] P:1523.50 E:0.296586 |  Here they come Sweden. A rare attack.
+[4129.20 - 4131.20] P:1639.24 E:0.318872 |  Oh, Harry Maguire is beaten too easily.
+[4131.20 - 4133.20] P:1817.76 E:0.327296 |  Tyvenon now slips it across the back.
+[4133.20 - 4135.20] P:1889.70 E:0.364984 |  And then the shot by Trassen saved by Petrit.
+[4135.20 - 4138.20] P:1850.64 E:0.344440 |  Another shot blocked by the diving defender.
+[4138.20 - 4140.20] P:1838.54 E:0.292210 |  Trassen is in there again.
+[4140.20 - 4142.20] P:1700.05 E:0.329815 |  Jordan Henderson with a crucial block in there.
+[4142.20 - 4144.20] P:1777.23 E:0.298088 |  Saved by Pickford.
+[4144.20 - 4146.20] P:1741.75 E:0.302708 |  Crucial block by Henderson.
+[4146.20 - 4148.20] P:1725.25 E:0.323620 |  And it stays 2-0.
+[4148.20 - 4150.20] P:1760.51 E:0.314084 |  He's been their best player, Claeson, for me.
+[4150.20 - 4152.20] P:1643.11 E:0.321417 |  They had a shot first half, went nowhere.
+[4152.20 - 4154.20] P:1759.19 E:0.251100 |  Then he comes in, great little run.
+[4154.20 - 4156.20] P:1737.27 E:0.305502 |  Bird lovely flick off.
+[4156.20 - 4158.20] P:1646.21 E:0.284985 |  Great save by Pickford again.
+[4158.20 - 4160.20] P:1522.86 E:0.297603 |  He's ready to time. Claeson can't get a rebound in.
+[4160.20 - 4162.20] P:1513.41 E:0.299561 |  It was blocked by Henderson. A great block it was.
+[4162.20 - 4164.20] P:1464.12 E:0.284512 |  Tyvenon now wins the header.
+[4164.20 - 4166.20] P:1409.92 E:0.315052 |  And then it just dribbles away.
+[4166.20 - 4168.20] P:1661.76 E:0.261487 |  Bancers wide of the goal for a goal kick to England.
+[4168.20 - 4170.20] P:1683.26 E:0.268520 |  That's what Sweden have to do.
+[4170.20 - 4172.20] P:1615.44 E:0.285444 |  Sweden now have to commit themselves forward
+[4172.20 - 4174.20] P:1571.39 E:0.299208 |  because we've got less than half an hour to play
+[4174.20 - 4176.20] P:1600.87 E:0.270423 |  and it's 2-0 to England.
+[4176.20 - 4178.20] P:1691.67 E:0.252679 |  England as long as they don't come off the pace.
+[4178.20 - 4180.20] P:1732.17 E:0.303344 |  That's the key.
+[4180.20 - 4182.20] P:1716.65 E:0.255903 |  We've had so far a second half. It's been very good.
+[4182.20 - 4184.20] P:1782.71 E:0.296384 |  Goal kick.
+[4184.20 - 4186.20] P:1556.64 E:0.330243 |  But Pickford is working to take.
+[4186.20 - 4188.20] P:1570.54 E:0.280135 |  No hurry.
+[4188.20 - 4190.20] P:1612.09 E:0.255874 |  Referee Kuipers is onto this.
+[4190.20 - 4192.20] P:1655.53 E:0.283231 |  And whistles impatiently.
+[4192.20 - 4194.20] P:1630.00 E:0.293911 |  Pickford hits the ball.
+[4194.20 - 4196.20] P:1448.92 E:0.301985 |  He's got a good shot.
+[4196.20 - 4198.20] P:1517.68 E:0.322008 |  Pickford hits it long.
+[4200.20 - 4202.20] P:1377.74 E:0.276467 |  Harry Kane is beaten in the air
+[4202.20 - 4204.20] P:1451.17 E:0.333161 |  by Lindelof.
+[4204.20 - 4206.20] P:1575.83 E:0.278728 |  And now Tyvenon with a touch to Forsberg.
+[4206.20 - 4208.20] P:1596.61 E:0.264140 |  Stones in the challenge. Took the ball.
+[4208.20 - 4210.20] P:1571.89 E:0.278719 |  And there's a little bit of shoving between Tyvenon and Stones.
+[4210.20 - 4212.20] P:1506.36 E:0.300487 |  The referee says to the two of them
+[4212.20 - 4214.20] P:1481.74 E:0.271114 |  as they run past them.
+[4214.20 - 4216.20] P:1570.29 E:0.237050 |  Look, cut it out.
+[4216.20 - 4218.20] P:1486.80 E:0.233808 |  He's already spoken to Tyvenon.
+[4218.20 - 4220.20] P:1573.45 E:0.266487 |  Lindelof with the ball inside the Swedish half.
+[4220.20 - 4222.20] P:1702.10 E:0.285578 |  And John Guidetti is going to be coming on.
+[4222.20 - 4224.20] P:1659.81 E:0.310172 |  It would appear.
+[4224.20 - 4226.20] P:1673.75 E:0.313297 |  Long ball for Sweden.
+[4226.20 - 4228.20] P:1639.52 E:0.284147 |  But an easy take for Pickford.
+[4228.20 - 4230.20] P:1721.99 E:0.279462 |  It's got to be Berger.
+[4230.20 - 4232.20] P:1597.56 E:0.306385 |  Tyvenon is going to come off.
+[4232.20 - 4234.20] P:1705.07 E:0.282423 |  None of them have impressed today.
+[4234.20 - 4236.20] P:1613.39 E:0.308107 |  England is dealt with quite comfortably.
+[4236.20 - 4238.20] P:1517.79 E:0.308742 |  It's going to be a double change.
+[4238.20 - 4240.20] P:1637.80 E:0.257711 |  Martin Olsen is going to come on as well.
+[4240.20 - 4242.20] P:1685.49 E:0.310394 |  Here is...
+[4242.20 - 4244.20] P:1680.36 E:0.304810 |  Grankriss does well.
+[4244.20 - 4246.20] P:1647.63 E:0.269197 |  Forsberg now.
+[4246.20 - 4248.20] P:1594.78 E:0.287496 |  Warrker.
+[4248.20 - 4250.20] P:1457.94 E:0.305435 |  And now Klassen.
+[4250.20 - 4252.20] P:1641.89 E:0.302107 |  Klassen couldn't find the pass to Berger.
+[4252.20 - 4254.20] P:1686.19 E:0.283001 |  And now, back here.
+[4254.20 - 4256.20] P:1354.80 E:0.244936 |  Ashley Jung down the left-hand side.
+[4256.20 - 4258.20] P:1449.08 E:0.227358 |  Harry Maguire.
+[4258.20 - 4260.20] P:1545.42 E:0.303987 |  Harry Kane.
+[4260.20 - 4262.20] P:1606.91 E:0.267093 |  And Raheem Sterling.
+[4262.20 - 4264.20] P:1591.58 E:0.287167 |  Young is still in possession.
+[4264.20 - 4266.20] P:1550.99 E:0.283731 |  And Young plays it square to Sterling.
+[4266.20 - 4268.20] P:1472.84 E:0.250530 |  And Sterling now drags his foot over the ball
+[4268.20 - 4270.20] P:1389.72 E:0.261536 |  and plays it to Tripier on the right-hand side.
+[4270.20 - 4272.20] P:1327.04 E:0.297162 |  Tripier, Sweden now back in position.
+[4272.20 - 4274.20] P:1538.27 E:0.301689 |  And the momentum of the England move has slowed.
+[4274.20 - 4276.20] P:1529.61 E:0.293678 |  2-0 to England. BBC Radio 5 Live.
+[4276.20 - 4278.20] P:1605.74 E:0.284649 |  Talk about it with Chris Waddell and Chris Sutton on 6-0-6.
+[4278.20 - 4280.20] P:1526.61 E:0.270640 |  Kelly Cades will be hosting after the end of this game.
+[4280.20 - 4282.20] P:1513.01 E:0.294159 |  And also as well, we'll be down in the tunnel.
+[4282.20 - 4284.20] P:1539.26 E:0.301971 |  And we'll bring you interviews live from down there
+[4284.20 - 4286.20] P:1499.38 E:0.271705 |  with Gareth Southgate
+[4286.20 - 4288.20] P:1408.40 E:0.290330 |  and the various England players.
+[4288.20 - 4290.20] P:1424.81 E:0.278242 |  You'll hear them as well on the 5-Live
+[4290.20 - 4292.20] P:1561.06 E:0.268067 |  World Cup Daily Podcast,
+[4292.20 - 4294.20] P:1581.75 E:0.277263 |  which you can download every morning.
+[4294.20 - 4296.20] P:1564.29 E:0.288823 |  And we will see now, I think, this change.
+[4296.20 - 4298.20] P:1541.98 E:0.321170 |  Is it going to be a double change?
+[4298.20 - 4300.20] P:1553.68 E:0.277775 |  I think it is, yes.
+[4300.20 - 4302.20] P:1666.68 E:0.248503 |  So, Toivenham is the first player to make way.
+[4302.20 - 4304.20] P:1709.74 E:0.265940 |  And John Gudetti,
+[4304.20 - 4306.20] P:1597.51 E:0.276032 |  who you'll remember,
+[4306.20 - 4308.20] P:1547.99 E:0.259156 |  was a Manchester City youngster.
+[4308.20 - 4310.20] P:1566.93 E:0.275592 |  Salt of Ego more recently.
+[4310.20 - 4312.20] P:1587.97 E:0.309758 |  And now, at Alivars in Spain,
+[4312.20 - 4314.20] P:1579.30 E:0.252952 |  he comes on up front.
+[4314.20 - 4316.20] P:1600.15 E:0.243081 |  And
+[4316.20 - 4318.20] P:1802.17 E:0.301715 |  it's that Forsberg
+[4318.20 - 4320.20] P:1718.01 E:0.336646 |  who's coming off it is.
+[4320.20 - 4322.20] P:1646.38 E:0.327368 |  So Forsberg, who so much was hoped for
+[4322.20 - 4324.20] P:1799.61 E:0.328109 |  by the Swedish supporters
+[4324.20 - 4326.20] P:1889.14 E:0.262657 |  and the Swedish media who are here.
+[4326.20 - 4328.20] P:1807.07 E:0.299209 |  And I think I heard one or two boos, you know,
+[4328.20 - 4330.20] P:1622.61 E:0.317261 |  from the Swedish fans at the decision
+[4330.20 - 4332.20] P:1666.36 E:0.300813 |  to substitute him.
+[4332.20 - 4334.20] P:1702.96 E:0.289501 |  But he's off.
+[4334.20 - 4336.20] P:1853.64 E:0.276301 |  And Martin Olsen,
+[4336.20 - 4338.20] P:1739.09 E:0.227731 |  of Swansea City, obviously,
+[4338.20 - 4340.20] P:1482.77 E:0.245499 |  relegated this season, comes on.
+[4340.20 - 4342.20] P:1565.13 E:0.290574 |  Harry Kane takes the ball down,
+[4342.20 - 4344.20] P:1706.56 E:0.291464 |  brilliantly, slips it through to Stirling.
+[4344.20 - 4346.20] P:1734.94 E:0.294542 |  Right side of the penalty area,
+[4346.20 - 4348.20] P:1687.43 E:0.283522 |  Stirling very tightly watched.
+[4348.20 - 4350.20] P:1731.71 E:0.282548 |  He's got three Swedish players around him,
+[4350.20 - 4352.20] P:1700.58 E:0.258910 |  goes for the byline and wins the corner
+[4352.20 - 4354.20] P:1887.80 E:0.245525 |  for England.
+[4354.20 - 4356.20] P:1695.97 E:0.308458 |  Yeah, England could have gone really punished
+[4356.20 - 4358.20] P:1706.11 E:0.321465 |  than he has in that set piece there,
+[4358.20 - 4360.20] P:1654.06 E:0.257105 |  as McGuire just
+[4360.20 - 4362.20] P:1726.88 E:0.312552 |  jogging up now for this set piece.
+[4362.20 - 4364.20] P:1822.02 E:0.267935 |  Corner for England.
+[4366.20 - 4368.20] P:1617.22 E:0.268907 |  And he has Tridia to take this.
+[4370.20 - 4372.20] P:1758.95 E:0.301554 |  Referee just
+[4372.20 - 4374.20] P:1583.44 E:0.297724 |  keeping a very sharp eye on the England
+[4374.20 - 4376.20] P:1685.55 E:0.297748 |  formation, which is now becoming
+[4376.20 - 4378.20] P:1748.83 E:0.271096 |  very familiar.
+[4378.20 - 4380.20] P:1721.45 E:0.300721 |  Jon Stuns joins the back of the conga,
+[4380.20 - 4382.20] P:1632.44 E:0.298479 |  puts his arms around McGuire.
+[4382.20 - 4384.20] P:1804.79 E:0.287384 |  He has Tridia, the outswinger.
+[4384.20 - 4386.20] P:1647.62 E:0.289818 |  Oh, I thought Stuns was held there,
+[4386.20 - 4388.20] P:1731.76 E:0.299738 |  both still in the area,
+[4388.20 - 4390.20] P:1777.49 E:0.346666 |  and doesn't head to the cross. McGuire's onto it,
+[4390.20 - 4392.20] P:1803.71 E:0.273908 |  but he's blazed it, left footed.
+[4392.20 - 4394.20] P:1669.54 E:0.241030 |  High up the back of the lower tier of the stand.
+[4394.20 - 4396.20] P:1689.50 E:0.225871 |  Keep it on his head.
+[4396.20 - 4398.20] P:1639.92 E:0.288995 |  He's lashed it out with his left foot,
+[4398.20 - 4400.20] P:1607.69 E:0.294335 |  he's full of confidence to go out,
+[4400.20 - 4402.20] P:1664.37 E:0.287392 |  but Big Scramble comes back across to him,
+[4402.20 - 4404.20] P:1685.90 E:0.289296 |  and he's really got a bit compulsive.
+[4404.20 - 4406.20] P:1656.28 E:0.238306 |  He's lashed out with his left foot.
+[4406.20 - 4408.20] P:1708.36 E:0.233794 |  I think he cleared the England fans.
+[4408.20 - 4410.20] P:1611.32 E:0.288122 |  Sweden nil. England
+[4410.20 - 4412.20] P:1476.81 E:0.258942 |  two.
+[4412.20 - 4414.20] P:1438.92 E:0.269180 |  He landed right up in amongst them,
+[4414.20 - 4416.20] P:1416.54 E:0.294922 |  I think the band might be up there as well.
+[4416.20 - 4418.20] P:1517.41 E:0.280251 |  There's a concourse, one of those stadiums
+[4418.20 - 4420.20] P:1515.43 E:0.269005 |  that has a concourse at the back of the lower tier,
+[4420.20 - 4422.20] P:1624.02 E:0.278043 |  and there's constant movement in there
+[4422.20 - 4424.20] P:1662.78 E:0.287966 |  and there's a double go for chips and drinks
+[4424.20 - 4426.20] P:1612.43 E:0.307169 |  and things.
+[4426.20 - 4428.20] P:1687.65 E:0.296890 |  The goal is out of play
+[4428.20 - 4430.20] P:1779.31 E:0.286440 |  for the goal kick
+[4430.20 - 4432.20] P:1827.57 E:0.282486 |  to England.
+[4432.20 - 4434.20] P:1818.84 E:0.277401 |  So 2-0,
+[4434.20 - 4436.20] P:1783.84 E:0.280291 |  just over a quarter of the match to play.
+[4436.20 - 4438.20] P:1694.28 E:0.287381 |  They've played
+[4438.20 - 4440.20] P:1554.87 E:0.311962 |  67, nearly 67 minutes,
+[4440.20 - 4442.20] P:1586.90 E:0.306906 |  and
+[4442.20 - 4444.20] P:1627.27 E:0.266974 |  England are in a good place.
+[4444.20 - 4446.20] P:1614.38 E:0.303589 |  Very good place. 2-0 up against the team
+[4446.20 - 4448.20] P:1658.55 E:0.306069 |  who've really struggled to score goals
+[4448.20 - 4450.20] P:1754.49 E:0.224890 |  and were not really
+[4450.20 - 4452.20] P:1595.49 E:0.301238 |  convinced this had a couple of chances.
+[4452.20 - 4454.20] P:1667.21 E:0.264624 |  Let's be on a second half. They could have
+[4454.20 - 4456.20] P:1617.34 E:0.302680 |  scored a couple, but England
+[4456.20 - 4458.20] P:1654.58 E:0.216012 |  uncontrolled this game.
+[4458.20 - 4460.20] P:1639.35 E:0.247971 |  They've been strong England,
+[4460.20 - 4462.20] P:1512.13 E:0.267173 |  particularly at set pieces.
+[4462.20 - 4464.20] P:1545.42 E:0.292077 |  And
+[4464.20 - 4466.20] P:1616.03 E:0.317634 |  the second goal was scored from open play
+[4466.20 - 4468.20] P:1525.44 E:0.213179 |  by
+[4468.20 - 4470.20] P:1629.61 E:0.270168 |  Deli Alley, close range header,
+[4470.20 - 4472.20] P:1661.28 E:0.288788 |  and it is Sweden nil, England
+[4472.20 - 4474.20] P:1685.74 E:0.278535 |  two.
+[4474.20 - 4476.20] P:1709.84 E:0.302532 |  So
+[4476.20 - 4478.20] P:1767.37 E:0.337012 |  every minute it takes by
+[4478.20 - 4480.20] P:1742.60 E:0.317805 |  we're closer to a World Cup
+[4480.20 - 4482.20] P:1776.69 E:0.310664 |  semi-final in Moscow for
+[4482.20 - 4484.20] P:1707.01 E:0.296421 |  England on Wednesday night
+[4484.20 - 4486.20] P:1798.00 E:0.313270 |  against either
+[4486.20 - 4488.20] P:1795.05 E:0.312146 |  Russia or
+[4488.20 - 4490.20] P:1858.23 E:0.312533 |  Croatia. Obviously
+[4490.20 - 4492.20] P:1814.06 E:0.290307 |  Croatia strong favourites, strong, strong favourites,
+[4492.20 - 4494.20] P:1762.63 E:0.279640 |  but
+[4494.20 - 4496.20] P:1706.75 E:0.299453 |  there is something of a force behind Russia
+[4496.20 - 4498.20] P:1673.71 E:0.266511 |  you feel at this World Cup.
+[4498.20 - 4500.20] P:1742.19 E:0.257237 |  Surely Croatia
+[4500.20 - 4502.20] P:1545.44 E:0.261855 |  will win that, but we'll see
+[4502.20 - 4504.20] P:1479.41 E:0.274746 |  how it unfolds on Saturday night
+[4504.20 - 4506.20] P:1608.52 E:0.224779 |  in Sochi.
+[4506.20 - 4508.20] P:1614.36 E:0.259456 |  Two nil to England.
+[4508.20 - 4510.20] P:1638.38 E:0.292870 |  They were just played back
+[4510.20 - 4512.20] P:1709.20 E:0.266689 |  towards
+[4512.20 - 4514.20] P:1726.99 E:0.275084 |  goalkeeper Olsen.
+[4514.20 - 4516.20] P:1736.71 E:0.291864 |  Olsen
+[4516.20 - 4518.20] P:1728.70 E:0.337275 |  long into the England half
+[4518.20 - 4520.20] P:1780.23 E:0.279468 |  Walker thumps it forward, then it's
+[4520.20 - 4522.20] P:1711.91 E:0.258819 |  thumped back by Granquist.
+[4522.20 - 4524.20] P:1537.36 E:0.310700 |  Harry Maguire wins a header. Deli Alley
+[4524.20 - 4526.20] P:1701.06 E:0.301350 |  helps it on to Raheem Sterling.
+[4526.20 - 4528.20] P:1722.88 E:0.317755 |  Sterling goes for the early ball across.
+[4528.20 - 4530.20] P:1887.41 E:0.329761 |  Granquist is clear, it's straight to Deli Alley
+[4530.20 - 4532.20] P:1649.94 E:0.290510 |  who shoots and it hits Granquist inside the penalty area.
+[4532.20 - 4534.20] P:1615.04 E:0.270381 |  Deli Alley's come to life with that goal
+[4534.20 - 4536.20] P:1593.95 E:0.227654 |  and he scored. Alley now
+[4536.20 - 4538.20] P:1638.88 E:0.272382 |  running his foot over the ball in the Tottenham way of his
+[4538.20 - 4540.20] P:1682.30 E:0.223232 |  full of confidence. Sterling
+[4540.20 - 4542.20] P:1484.45 E:0.219578 |  back to Henderson. Now to Jung on the left flank.
+[4542.20 - 4544.20] P:1629.56 E:0.248672 |  Jung slips it towards the edge
+[4544.20 - 4546.20] P:1653.43 E:0.277632 |  of the box towards Sterling. Sterling turns
+[4546.20 - 4548.20] P:1615.47 E:0.268428 |  infield through three men around him.
+[4548.20 - 4550.20] P:1654.53 E:0.271788 |  He's managed to find space, gives it to
+[4550.20 - 4552.20] P:1556.37 E:0.263916 |  Lingard. Lingard now to Deli Alley.
+[4552.20 - 4554.20] P:1687.94 E:0.257078 |  Alley curls it, goalwards, took a deflection
+[4554.20 - 4556.20] P:1772.20 E:0.279180 |  that carried it right across the face
+[4556.20 - 4558.20] P:1765.01 E:0.285238 |  of the Swedish goal and beyond
+[4558.20 - 4560.20] P:1762.86 E:0.282273 |  the far post for another corner.
+[4560.20 - 4562.20] P:1750.35 E:0.286598 |  England would be far better in Sweden. Sweden's gone a bit
+[4562.20 - 4564.20] P:1630.08 E:0.312061 |  now, I think mentally they realise that
+[4564.20 - 4566.20] P:1694.59 E:0.298865 |  we're not getting any joy. And he has another set
+[4566.20 - 4568.20] P:1713.71 E:0.296817 |  piece again which England could score from.
+[4568.20 - 4570.20] P:1636.29 E:0.304116 |  And England sense that. You can see, you can see it.
+[4570.20 - 4572.20] P:1711.93 E:0.257027 |  Even though they tell him on the ball, they know
+[4572.20 - 4574.20] P:1808.18 E:0.287910 |  they know that Sweden are
+[4574.20 - 4576.20] P:1684.44 E:0.314247 |  struggling here in this heat as well.
+[4576.20 - 4578.20] P:1732.56 E:0.239370 |  Trivia with the corner.
+[4578.20 - 4580.20] P:1815.93 E:0.327986 |  Here it goes.
+[4580.20 - 4582.20] P:1871.55 E:0.268132 |  A flick off the head
+[4582.20 - 4584.20] P:1769.06 E:0.284201 |  of Granquist which took it away from anyone
+[4584.20 - 4586.20] P:1580.66 E:0.261155 |  in a red England shirt.
+[4586.20 - 4588.20] P:1563.27 E:0.259226 |  And Jung is going to allow the ball to
+[4588.20 - 4590.20] P:1690.63 E:0.306448 |  infact he just keeps it in
+[4590.20 - 4592.20] P:1504.55 E:0.229469 |  and plays it back towards
+[4592.20 - 4594.20] P:1645.06 E:0.235884 |  Stoans. Now back to
+[4594.20 - 4596.20] P:1649.12 E:0.228564 |  Walker. McGuire now.
+[4596.20 - 4598.20] P:1582.39 E:0.235405 |  He stayed up for a moment but
+[4598.20 - 4600.20] P:1478.39 E:0.259096 |  in any case Lingard finds him
+[4600.20 - 4602.20] P:1498.28 E:0.269679 |  and then he hits an awful pass
+[4602.20 - 4604.20] P:1428.26 E:0.266457 |  McGuire. That's way beyond anyone in a red shirt
+[4604.20 - 4606.20] P:1510.87 E:0.263395 |  and bounces through for a goal.
+[4606.20 - 4608.20] P:1568.66 E:0.295568 |  Worry about that. Wasn't his finest hour.
+[4608.20 - 4610.20] P:1671.19 E:0.215579 |  But he's having
+[4610.20 - 4612.20] P:1693.68 E:0.287919 |  a fine World Cup. 25 year old
+[4612.20 - 4614.20] P:1564.62 E:0.259691 |  Harry McGuire.
+[4614.20 - 4616.20] P:1637.65 E:0.284391 |  Since there will be
+[4616.20 - 4618.20] P:1511.92 E:0.307949 |  interest in him after this World Cup you know
+[4618.20 - 4620.20] P:1524.22 E:0.295654 |  he's only been at Leicester City for one season.
+[4620.20 - 4622.20] P:1489.22 E:0.255019 |  As the ball is played back by
+[4622.20 - 4624.20] P:1591.78 E:0.248807 |  Lindelöf Olsen.
+[4624.20 - 4626.20] P:1633.12 E:0.304087 |  Passes it out here to Agustin
+[4626.20 - 4628.20] P:1637.01 E:0.289901 |  Sten. And his pass
+[4628.20 - 4630.20] P:1699.11 E:0.308018 |  towards the halfway line is cut out
+[4630.20 - 4632.20] P:1672.87 E:0.289453 |  by Jordan Henderson.
+[4632.20 - 4634.20] P:1526.55 E:0.290511 |  And it's a throwing
+[4634.20 - 4636.20] P:1671.77 E:0.290261 |  to Sweden. So John
+[4636.20 - 4638.20] P:1635.07 E:0.275728 |  Gudetti has come on.
+[4638.20 - 4640.20] P:1646.40 E:0.278697 |  Janna Andersen has made that double substitution.
+[4640.20 - 4642.20] P:1548.62 E:0.250771 |  Olsen and
+[4642.20 - 4644.20] P:1663.17 E:0.321696 |  Gudetti but I'm not sure
+[4644.20 - 4646.20] P:1803.99 E:0.285177 |  either of them have touched the ball yet.
+[4648.20 - 4650.20] P:1675.84 E:0.331157 |  It's with said Larson.
+[4650.20 - 4652.20] P:1702.10 E:0.206587 |  Larson to the right
+[4652.20 - 4654.20] P:1680.83 E:0.243857 |  hand side. The Kraft.
+[4654.20 - 4656.20] P:1746.12 E:0.308104 |  Kraft with Deli Alley
+[4656.20 - 4658.20] P:1598.37 E:0.291425 |  which has put a foot in on him but the ball runs
+[4658.20 - 4660.20] P:1828.68 E:0.287516 |  for Kraft to take it on.
+[4660.20 - 4662.20] P:1627.01 E:0.283424 |  Alley then puts in another little challenge.
+[4662.20 - 4664.20] P:1677.05 E:0.304172 |  There is support behind him which he uses
+[4664.20 - 4666.20] P:1596.24 E:0.271457 |  from Larson.
+[4666.20 - 4668.20] P:1611.83 E:0.284433 |  High ball out to the left hand side
+[4668.20 - 4670.20] P:1661.28 E:0.277058 |  Martin Olsen does get his head to this.
+[4670.20 - 4672.20] P:1644.87 E:0.275918 |  Now the cross from Agustin Sten.
+[4672.20 - 4674.20] P:1643.79 E:0.304148 |  It's a good looking one but Harry McGuire was underneath it
+[4674.20 - 4676.20] P:1671.48 E:0.246728 |  to head it back out towards the
+[4676.20 - 4678.20] P:1478.33 E:0.258212 |  left hand side from which it came.
+[4678.20 - 4680.20] P:1586.19 E:0.250720 |  And then Trippia has well
+[4680.20 - 4682.20] P:1542.39 E:0.257333 |  got a touch on that. Olsen though.
+[4682.20 - 4684.20] P:1456.44 E:0.266666 |  The ball runs out to the left. Olsen
+[4684.20 - 4686.20] P:1406.07 E:0.277619 |  two-nil England lead. Now Larson.
+[4686.20 - 4688.20] P:1655.52 E:0.243508 |  Larson but Walkers
+[4688.20 - 4690.20] P:1369.13 E:0.302351 |  smartly done by Kyle Walker there.
+[4690.20 - 4692.20] P:1663.42 E:0.245830 |  Read the danger. Stepped across Gudetti
+[4692.20 - 4694.20] P:1508.82 E:0.281613 |  and plays the ball
+[4694.20 - 4696.20] P:1700.90 E:0.282222 |  away for England.
+[4696.20 - 4698.20] P:1628.01 E:0.255664 |  20 minutes to play. England
+[4698.20 - 4700.20] P:1673.21 E:0.277174 |  are 20 minutes away from a World Cup
+[4700.20 - 4702.20] P:1740.99 E:0.234695 |  semi-final.
+[4702.20 - 4704.20] P:1743.54 E:0.295493 |  Just think about that
+[4704.20 - 4706.20] P:1851.67 E:0.333232 |  Larson.
+[4706.20 - 4708.20] P:1853.41 E:0.345986 |  However, here they come.
+[4708.20 - 4710.20] P:1835.46 E:0.333633 |  Plays it through to Gudetti.
+[4710.20 - 4712.20] P:1819.78 E:0.345607 |  Gudetti with the cross. It's controlled
+[4712.20 - 4714.20] P:1964.03 E:0.342092 |  and hit by Berg.
+[4714.20 - 4716.20] P:1887.54 E:0.323374 |  And Pickford has got a touch
+[4716.20 - 4718.20] P:1784.07 E:0.301824 |  to that to push it over the top. That's another
+[4718.20 - 4720.20] P:1771.38 E:0.284435 |  excellent save from Jordan.
+[4720.20 - 4722.20] P:1696.75 E:0.283898 |  Pickford how many chances Berg missed now?
+[4722.20 - 4724.20] P:1831.25 E:0.295928 |  It was about 19 or something. He's just kind of scored
+[4724.20 - 4726.20] P:1763.02 E:0.278033 |  a goal. Good counter-attack by
+[4726.20 - 4728.20] P:1718.90 E:0.243059 |  Sweden. Gudetti could ball in.
+[4728.20 - 4730.20] P:1718.72 E:0.281694 |  Had a good first touch Berg as well.
+[4730.20 - 4732.20] P:1745.06 E:0.266572 |  It's a good save by Pickford. Straight out of
+[4732.20 - 4734.20] P:1767.83 E:0.266735 |  the corner.
+[4734.20 - 4736.20] P:1625.04 E:0.192151 |  Back to the corner.
+[4736.20 - 4738.20] P:1673.21 E:0.232586 |  That's a great one.
+[4738.20 - 4740.20] P:1599.42 E:0.312495 |  Back to the corner.
+[4740.20 - 4742.20] P:1797.90 E:0.279395 |  He's got a good touch.
+[4742.20 - 4744.20] P:1890.53 E:0.318149 |  Fingerships it over the cross.
+[4744.20 - 4746.20] P:1877.48 E:0.314801 |  He's got ten yards out.
+[4746.20 - 4748.20] P:1969.57 E:0.306465 |  Fingerships touched it.
+[4748.20 - 4750.20] P:1783.63 E:0.311700 |  Might have been on the way over
+[4750.20 - 4752.20] P:1732.99 E:0.254181 |  but he's got a crucial touch.
+[4752.20 - 4754.20] P:1672.22 E:0.260301 |  So it's a corner to Sweden. It's their first
+[4754.20 - 4756.20] P:1600.61 E:0.287097 |  corner incidentally but they are dangerous
+[4756.20 - 4758.20] P:1541.22 E:0.254216 |  from corners. Here it is.
+[4758.20 - 4760.20] P:1512.91 E:0.272824 |  A deep delivery.
+[4760.20 - 4762.20] P:1517.91 E:0.261175 |  Berg that's gone begging.
+[4762.20 - 4764.20] P:1399.33 E:0.310259 |  I don't know how many is that now. It's now
+[4764.20 - 4766.20] P:1606.53 E:0.261500 |  15.
+[4766.20 - 4768.20] P:1585.87 E:0.309595 |  Without scoring.
+[4768.20 - 4770.20] P:1684.87 E:0.307131 |  And this will cut. Not in this match.
+[4770.20 - 4772.20] P:1577.74 E:0.307500 |  I hope it was going in. John, just in the replay
+[4772.20 - 4774.20] P:1665.33 E:0.271575 |  would have went under the bar. So that's two
+[4774.20 - 4776.20] P:1651.63 E:0.248236 |  important saves from Jordan Pickford then in
+[4776.20 - 4778.20] P:1815.46 E:0.268409 |  this second half. In the second half, yeah.
+[4778.20 - 4780.20] P:1710.87 E:0.274599 |  He, I'm sure, and the England defence
+[4780.20 - 4782.20] P:1830.25 E:0.286487 |  will very much want this clean sheet.
+[4782.20 - 4784.20] P:1704.12 E:0.268859 |  That's three actually. Berg had a header as well.
+[4784.20 - 4786.20] P:1611.30 E:0.241284 |  And Kassan.
+[4786.20 - 4788.20] P:1747.20 E:0.311126 |  So he did. They're right.
+[4788.20 - 4790.20] P:1784.11 E:0.314850 |  39,991
+[4790.20 - 4792.20] P:1663.37 E:0.343055 |  are inside this
+[4792.20 - 4794.20] P:1555.58 E:0.290317 |  futuristic arena
+[4794.20 - 4796.20] P:1821.03 E:0.268538 |  which will be the new home
+[4796.20 - 4798.20] P:1864.73 E:0.271918 |  to Krila Sovatov.
+[4798.20 - 4800.20] P:1787.60 E:0.325691 |  He has Lingard now.
+[4800.20 - 4802.20] P:1926.91 E:0.321817 |  Skips away from a couple of tackles.
+[4802.20 - 4804.20] P:1760.87 E:0.323385 |  Lingard approaching the edge of the
+[4804.20 - 4806.20] P:1765.94 E:0.272759 |  penalty area. Over hits the pass.
+[4806.20 - 4808.20] P:1658.28 E:0.297517 |  Stirling can't reach that. Runs away from it.
+[4808.20 - 4810.20] P:1689.80 E:0.282035 |  Pays for a goal kick.
+[4810.20 - 4812.20] P:1827.06 E:0.257376 |  But Lingard and Alley
+[4812.20 - 4814.20] P:1695.38 E:0.303609 |  and Stirling are finding great
+[4814.20 - 4816.20] P:1653.42 E:0.260557 |  joy when they're playing.
+[4816.20 - 4818.20] P:1699.05 E:0.271573 |  They're finding great joy when they're
+[4818.20 - 4820.20] P:1680.86 E:0.278361 |  coming forward. And this tiring Swedish
+[4820.20 - 4822.20] P:1706.08 E:0.239164 |  team
+[4822.20 - 4824.20] P:1669.09 E:0.273682 |  can't live with them at times.
+[4824.20 - 4826.20] P:1847.94 E:0.255581 |  Now I think every nice that they've got
+[4826.20 - 4828.20] P:1738.48 E:0.240800 |  three and four and really finish this
+[4828.20 - 4830.20] P:1680.43 E:0.242721 |  game off. You know, Pickford's out to make
+[4830.20 - 4832.20] P:1668.96 E:0.237426 |  three good saves. But Lingard being
+[4832.20 - 4834.20] P:1609.40 E:0.217304 |  by far a better save.
+[4836.20 - 4838.20] P:1549.34 E:0.286734 |  There has been something of a gulf between them.
+[4840.20 - 4842.20] P:1583.05 E:0.293807 |  It's a notable
+[4842.20 - 4844.20] P:1685.67 E:0.276969 |  performance this from England.
+[4844.20 - 4846.20] P:1545.34 E:0.280309 |  Awkward, awkward
+[4846.20 - 4848.20] P:1731.87 E:0.268045 |  opponents. There's so many teams have found.
+[4848.20 - 4850.20] P:1610.01 E:0.289282 |  Click by Gudetti, but that will just
+[4850.20 - 4852.20] P:1638.28 E:0.298426 |  carry it away through to Jordan
+[4852.20 - 4854.20] P:1645.92 E:0.290469 |  Pickford. Who certainly
+[4854.20 - 4856.20] P:1569.60 E:0.245822 |  has a claim
+[4856.20 - 4858.20] P:1581.73 E:0.291545 |  to be man of the match. The goalkeeper
+[4858.20 - 4860.20] P:1535.66 E:0.307026 |  for long periods
+[4860.20 - 4862.20] P:1502.07 E:0.278464 |  has had nothing to do.
+[4862.20 - 4864.20] P:1648.74 E:0.236120 |  And then very
+[4864.20 - 4866.20] P:1596.44 E:0.254216 |  suddenly he's
+[4866.20 - 4868.20] P:1631.08 E:0.318792 |  being forced into action and made
+[4868.20 - 4870.20] P:1654.14 E:0.334784 |  a series of very decent saves.
+[4870.20 - 4872.20] P:1631.59 E:0.270819 |  Pickford
+[4872.20 - 4874.20] P:1598.93 E:0.328961 |  hits it up towards the halfway line
+[4874.20 - 4876.20] P:1651.16 E:0.281533 |  where it comes off the head of Echidal
+[4876.20 - 4878.20] P:1635.04 E:0.307929 |  and bounces out of play for
+[4878.20 - 4880.20] P:1684.31 E:0.316793 |  England. What about
+[4880.20 - 4882.20] P:1778.23 E:0.269006 |  a change for England? Garry Southgate
+[4882.20 - 4884.20] P:1605.22 E:0.266542 |  he had to make one. He's making one now
+[4884.20 - 4886.20] P:1725.71 E:0.212140 |  and
+[4886.20 - 4888.20] P:1706.22 E:0.333087 |  who is it? No, I think he probably
+[4888.20 - 4890.20] P:1844.81 E:0.302445 |  took
+[4890.20 - 4892.20] P:1898.09 E:0.297666 |  Deli Alley off.
+[4892.20 - 4894.20] P:1857.94 E:0.290255 |  Time for the player on.
+[4894.20 - 4896.20] P:1853.24 E:0.322333 |  Claesson's suggesting he's been caught there.
+[4896.20 - 4898.20] P:1899.99 E:0.282377 |  There are two Swedish players down,
+[4898.20 - 4900.20] P:1821.49 E:0.290818 |  but England play on and Deli Alley's
+[4900.20 - 4902.20] P:1879.56 E:0.245492 |  attempted pass through the inside left
+[4902.20 - 4904.20] P:1805.72 E:0.299106 |  position was intercepted and the Swedish
+[4904.20 - 4906.20] P:1740.92 E:0.265157 |  players are saying to England
+[4906.20 - 4908.20] P:1617.85 E:0.307698 |  how can you play it on? There are two men
+[4908.20 - 4910.20] P:1595.01 E:0.263425 |  down, but now they're on my head injuries
+[4910.20 - 4912.20] P:1505.82 E:0.296768 |  and referee Koypas has been quite happy to allow
+[4912.20 - 4914.20] P:1656.57 E:0.278676 |  play to continue. It's going to be Fabian Delph
+[4914.20 - 4916.20] P:1564.37 E:0.285199 |  coming on as
+[4916.20 - 4918.20] P:1563.52 E:0.204514 |  Lindgard
+[4918.20 - 4920.20] P:1681.68 E:0.284648 |  gives it to Alley. Now Ashley Young
+[4920.20 - 4922.20] P:1612.95 E:0.230062 |  back towards
+[4922.20 - 4924.20] P:1577.70 E:0.258072 |  Deli Alley
+[4924.20 - 4926.20] P:1454.25 E:0.328082 |  and England I think looking to work
+[4926.20 - 4928.20] P:1650.25 E:0.262256 |  Sweden a little more here
+[4928.20 - 4930.20] P:1620.88 E:0.256222 |  and tie them a little more
+[4930.20 - 4932.20] P:1659.06 E:0.293045 |  McGuire all the way back
+[4932.20 - 4934.20] P:1818.59 E:0.289991 |  towards Petred.
+[4934.20 - 4936.20] P:1799.96 E:0.305295 |  We talked so much about the temperature
+[4936.20 - 4938.20] P:1599.82 E:0.277345 |  here and it's not as stifling I don't
+[4938.20 - 4940.20] P:1520.18 E:0.291311 |  think as it was in Sochi when we were there
+[4940.20 - 4942.20] P:1655.18 E:0.235477 |  or in Ischli, North Garod
+[4942.20 - 4944.20] P:1644.11 E:0.263671 |  but it is warm
+[4944.20 - 4946.20] P:1738.28 E:0.241216 |  and it's been tough for Sweden without
+[4946.20 - 4948.20] P:1591.49 E:0.228246 |  the ball.
+[4948.20 - 4950.20] P:1668.91 E:0.297434 |  Difficult game for them coming into
+[4950.20 - 4952.20] P:1625.68 E:0.257608 |  those talks, you know, England were this
+[4952.20 - 4954.20] P:1648.92 E:0.239541 |  and England were that, didn't have this
+[4954.20 - 4956.20] P:1702.77 E:0.287782 |  England being a better save. First half
+[4956.20 - 4958.20] P:1412.65 E:0.242330 |  and they got nothing really to talk about
+[4958.20 - 4960.20] P:1648.83 E:0.226054 |  was it
+[4960.20 - 4962.20] P:1584.97 E:0.278535 |  England just shaded it, but second half
+[4962.20 - 4964.20] P:1622.80 E:0.223443 |  England have been far better.
+[4964.20 - 4966.20] P:1606.24 E:0.300876 |  If you've just joined us, Harry McGuire scored
+[4966.20 - 4968.20] P:1537.09 E:0.208232 |  with a header in the first half
+[4968.20 - 4970.20] P:1591.39 E:0.272913 |  and Deli Alley nodded in from close
+[4970.20 - 4972.20] P:1550.03 E:0.259011 |  range in the second. The goal's coming
+[4972.20 - 4974.20] P:1724.92 E:0.230881 |  in the 30th and the 59th
+[4974.20 - 4976.20] P:1597.18 E:0.218991 |  minutes.
+[4976.20 - 4978.20] P:1766.35 E:0.260646 |  2 Nell England and England are now 15
+[4978.20 - 4980.20] P:1670.49 E:0.256369 |  minutes away from the World Cup
+[4980.20 - 4982.20] P:1633.75 E:0.246894 |  semi-finals. Fabian Delph is going
+[4982.20 - 4984.20] P:1643.84 E:0.278971 |  to replace Deli Alley as Chris Waddle
+[4984.20 - 4986.20] P:1742.59 E:0.261654 |  and he's almost defeated.
+[4986.20 - 4988.20] P:1796.95 E:0.284679 |  So this is Fabian Delph's first
+[4988.20 - 4990.20] P:1864.27 E:0.231794 |  appearance since arriving back with the
+[4990.20 - 4992.20] P:1753.52 E:0.291715 |  squad after being there for the birth
+[4992.20 - 4994.20] P:1771.89 E:0.261649 |  of his third child.
+[4994.20 - 4996.20] P:1762.02 E:0.260304 |  So we'll have two new fathers on the
+[4996.20 - 4998.20] P:1801.59 E:0.290005 |  field in Grand Christ and Fabian Delph.
+[4998.20 - 5000.20] P:1846.85 E:0.274536 |  And Fabian Delph
+[5000.20 - 5002.20] P:1892.96 E:0.274674 |  this is his 14th cap
+[5002.20 - 5004.20] P:1701.75 E:0.324630 |  and a number of the England players
+[5004.20 - 5006.20] P:1832.38 E:0.290200 |  are actually coming across to the
+[5006.20 - 5008.20] P:1881.75 E:0.313284 |  water bottles and referee Kuyper
+[5008.20 - 5010.20] P:1789.03 E:0.309016 |  is saying to Deli Alley, come on, he's
+[5010.20 - 5012.20] P:1954.30 E:0.281456 |  almost ushering him off the field
+[5012.20 - 5014.20] P:1931.98 E:0.300338 |  into a trot. Goal scorer Deli Alley.
+[5014.20 - 5016.20] P:1914.26 E:0.317016 |  Chris today, how do you feel that his overall performance?
+[5016.20 - 5018.20] P:1712.16 E:0.311207 |  He's done better, he got more confident
+[5018.20 - 5020.20] P:1788.06 E:0.310133 |  after the golden ease. He's started
+[5020.20 - 5022.20] P:1607.27 E:0.317064 |  rolling his foot around the ball and enjoying
+[5022.20 - 5024.20] P:1808.41 E:0.256861 |  the ball a bit more but I still
+[5024.20 - 5026.20] P:1837.76 E:0.246283 |  think it's more front.
+[5026.20 - 5028.20] P:1739.07 E:0.194768 |  Well, it looks as though there'll be more
+[5028.20 - 5030.20] P:1696.91 E:0.257157 |  from England that this World Cup too.
+[5034.20 - 5036.20] P:1495.26 E:0.291795 |  Here's Linda Lough at the back.
+[5038.20 - 5040.20] P:1522.62 E:0.287683 |  Linda Lough carries it into the centre
+[5040.20 - 5042.20] P:1426.50 E:0.271206 |  circle. It's a long pass that
+[5042.20 - 5044.20] P:1466.44 E:0.306906 |  Ashley Young nods down to the newly
+[5044.20 - 5046.20] P:1525.02 E:0.273570 |  arrived Fabian Delph
+[5046.20 - 5048.20] P:1427.48 E:0.240317 |  and then Henderson lifts a ball
+[5048.20 - 5050.20] P:1736.13 E:0.301827 |  forward for Sterling who
+[5050.20 - 5052.20] P:1464.60 E:0.276481 |  sprints away from Linda Lough down the left hand side
+[5052.20 - 5054.20] P:1539.16 E:0.252441 |  in possession. Ball running
+[5054.20 - 5056.20] P:1450.79 E:0.280578 |  towards the corner flag. The support
+[5056.20 - 5058.20] P:1511.35 E:0.242424 |  from Fabian Delph. Delph
+[5058.20 - 5060.20] P:1589.54 E:0.260953 |  takes a couple of touches. Lingard
+[5060.20 - 5062.20] P:1352.15 E:0.261541 |  is available centrally
+[5062.20 - 5064.20] P:1417.31 E:0.269667 |  but he goes all the way back behind him to
+[5064.20 - 5066.20] P:1600.16 E:0.227487 |  to Ashley Young. Now
+[5066.20 - 5068.20] P:1433.12 E:0.283009 |  Henderson back to Delph
+[5068.20 - 5070.20] P:1615.90 E:0.248192 |  and then he's
+[5070.20 - 5072.20] P:1695.63 E:0.256734 |  back to the centre.
+[5072.20 - 5074.20] P:1737.96 E:0.314416 |  He's got a good time to cross.
+[5074.20 - 5076.20] P:1747.54 E:0.313234 |  Does so. Kane
+[5076.20 - 5078.20] P:1579.66 E:0.284220 |  chests it down then lays it to
+[5078.20 - 5080.20] P:1553.45 E:0.267553 |  Trippia. Trippia's ball
+[5080.20 - 5082.20] P:1703.44 E:0.231437 |  across, cleared away and it
+[5082.20 - 5084.20] P:1590.94 E:0.296111 |  evaded Harry Kane. I thought for a moment
+[5084.20 - 5086.20] P:1756.35 E:0.299715 |  there it was going to fall right to the feet
+[5086.20 - 5088.20] P:1799.97 E:0.231789 |  of the England captain but
+[5088.20 - 5090.20] P:1701.09 E:0.262179 |  it's there.
+[5090.20 - 5092.20] P:1682.81 E:0.315097 |  It's a terrible well done referee.
+[5092.20 - 5094.20] P:1613.47 E:0.238118 |  There's somebody down in the box though
+[5094.20 - 5096.20] P:1635.06 E:0.319761 |  and it's got
+[5096.20 - 5098.20] P:1596.00 E:0.277456 |  two England.
+[5098.20 - 5100.20] P:1564.92 E:0.314100 |  Just intercepted that cross
+[5100.20 - 5102.20] P:1482.13 E:0.308206 |  ahead of Sterling and it's just taken the bank.
+[5102.20 - 5104.20] P:1532.44 E:0.298813 |  But he's alright, he doesn't need any treatment.
+[5104.20 - 5106.20] P:1495.95 E:0.268823 |  Sweden need to get on with this.
+[5106.20 - 5108.20] P:1570.43 E:0.270117 |  We've now got just over 12 minutes
+[5108.20 - 5110.20] P:1486.64 E:0.258779 |  to play. Sweden now
+[5110.20 - 5112.20] P:1438.76 E:0.227735 |  England too.
+[5112.20 - 5114.20] P:1603.42 E:0.248001 |  Professional performance
+[5114.20 - 5116.20] P:1442.70 E:0.272318 |  simply England have been the better team.
+[5116.20 - 5118.20] P:1580.92 E:0.219934 |  Walk up
+[5118.20 - 5120.20] P:1445.94 E:0.261684 |  back to stones.
+[5122.20 - 5124.20] P:1480.78 E:0.263417 |  Stones and
+[5124.20 - 5126.20] P:1605.21 E:0.313706 |  Birgit collided there off the ball
+[5126.20 - 5128.20] P:1600.23 E:0.306675 |  and Birgit's having a little go at
+[5128.20 - 5130.20] P:1870.72 E:0.250653 |  stones.
+[5130.20 - 5132.20] P:1878.01 E:0.311415 |  Sweden carrying it forward.
+[5132.20 - 5134.20] P:1739.94 E:0.289865 |  There's the ball to Gudetti on the
+[5134.20 - 5136.20] P:1651.55 E:0.271616 |  left side. Then Olsen with the cross
+[5136.20 - 5138.20] P:1714.09 E:0.302855 |  but that hits Trippia who threw himself
+[5138.20 - 5140.20] P:1651.78 E:0.257121 |  in front of it. Olsen back in
+[5140.20 - 5142.20] P:1734.24 E:0.283282 |  possession for Sweden and Olsen goes
+[5142.20 - 5144.20] P:1737.33 E:0.269546 |  for the cross and it's beyond everyone
+[5144.20 - 5146.20] P:1649.47 E:0.291900 |  apart from the man at the back post, Ashley Young
+[5146.20 - 5148.20] P:1695.76 E:0.313933 |  who follows up and then clears it away. There's a collision
+[5148.20 - 5150.20] P:1715.83 E:0.252541 |  between him
+[5150.20 - 5152.20] P:1729.44 E:0.286394 |  and the Swedish player
+[5152.20 - 5154.20] P:1740.74 E:0.279697 |  who I think was also
+[5154.20 - 5156.20] P:1731.71 E:0.298953 |  Kraft
+[5156.20 - 5158.20] P:1699.32 E:0.272902 |  who's ended up
+[5158.20 - 5160.20] P:1750.33 E:0.295236 |  the worse off of the two
+[5160.20 - 5162.20] P:1614.04 E:0.258168 |  and might need some treatment so the referee has
+[5162.20 - 5164.20] P:1481.42 E:0.261148 |  stopped playing.
+[5164.20 - 5166.20] P:1550.98 E:0.273067 |  So Kraft is down
+[5166.20 - 5168.20] P:1486.40 E:0.252822 |  ball out of play
+[5168.20 - 5170.20] P:1524.52 E:0.280441 |  England leading by two goals to nil.
+[5170.20 - 5172.20] P:1522.36 E:0.276006 |  We will have commentary later
+[5172.20 - 5174.20] P:1516.47 E:0.274225 |  on the last of the quarterfinals.
+[5174.20 - 5176.20] P:1605.69 E:0.255611 |  Russia against Croatia
+[5176.20 - 5178.20] P:1539.37 E:0.238016 |  with Conor McNamara
+[5178.20 - 5180.20] P:1416.79 E:0.278739 |  and Dion Dublin
+[5180.20 - 5182.20] P:1469.44 E:0.270486 |  we will bring you the semi-finals on
+[5182.20 - 5184.20] P:1474.65 E:0.303102 |  Tuesday and Wednesday night
+[5184.20 - 5186.20] P:1583.36 E:0.258906 |  live from St Petersburg
+[5186.20 - 5188.20] P:1498.53 E:0.320991 |  and Moscow the Luzhniki
+[5188.20 - 5190.20] P:1544.06 E:0.293666 |  and that's where England will be heading.
+[5190.20 - 5192.20] P:1477.87 E:0.254915 |  Seven o'clock Wednesday night
+[5192.20 - 5194.20] P:1491.48 E:0.241123 |  England against
+[5194.20 - 5196.20] P:1496.04 E:0.298587 |  either Russia or Croatia
+[5196.20 - 5198.20] P:1394.10 E:0.282640 |  as long as England see this through
+[5198.20 - 5200.20] P:1427.30 E:0.292167 |  with just over ten minutes to play.
+[5200.20 - 5202.20] P:1555.13 E:0.278159 |  Valenti Stopic after that
+[5202.20 - 5204.20] P:1466.67 E:0.253400 |  coming together between Young and Kraft
+[5204.20 - 5206.20] P:1511.46 E:0.258602 |  on the edge of the box.
+[5206.20 - 5208.20] P:1541.75 E:0.276470 |  It's just a matter of seeing the game through
+[5208.20 - 5210.20] P:1661.22 E:0.324585 |  John now in
+[5210.20 - 5212.20] P:1603.12 E:0.269173 |  ten, twelve minutes whatever is left
+[5212.20 - 5214.20] P:1636.01 E:0.251434 |  and just look after the ball
+[5214.20 - 5216.20] P:1612.71 E:0.292828 |  yes you can go and get another goal
+[5216.20 - 5218.20] P:1551.49 E:0.268446 |  but don't get sloppy, don't drop off.
+[5218.20 - 5220.20] P:1564.29 E:0.194287 |  Kraft is just getting to his feet
+[5220.20 - 5222.20] P:1520.04 E:0.318808 |  so I think he's going to be okay.
+[5222.20 - 5224.20] P:1373.98 E:0.305103 |  The lines are open to talk about this
+[5224.20 - 5226.20] P:1509.57 E:0.274626 |  England performance, Gareth Southgate
+[5226.20 - 5228.20] P:1505.51 E:0.288413 |  an unchanged team, Harry McGuire and
+[5228.20 - 5230.20] P:1595.49 E:0.272970 |  Daly, Alley scoring
+[5230.20 - 5232.20] P:1567.98 E:0.279752 |  08, 08, 05, 9, 09, 6, 9, 3
+[5232.20 - 5234.20] P:1544.83 E:0.278700 |  Kelly Cates hosting
+[5234.20 - 5236.20] P:1568.99 E:0.326473 |  the Red Square studio in Moscow
+[5236.20 - 5238.20] P:1493.67 E:0.294142 |  Chris Waddle will be taking part from here in Samara
+[5238.20 - 5240.20] P:1580.32 E:0.278481 |  Kraft has been let off the field
+[5240.20 - 5242.20] P:1689.01 E:0.279008 |  getting touch at BBC 606
+[5242.20 - 5244.20] P:1478.38 E:0.280921 |  so you can also get in touch on
+[5244.20 - 5246.20] P:1532.60 E:0.299485 |  at Five Live Sport to tell us where you've been watching
+[5246.20 - 5248.20] P:1503.33 E:0.281407 |  the match, where you've been listening
+[5248.20 - 5250.20] P:1452.92 E:0.257212 |  to us as well this afternoon
+[5250.20 - 5252.20] P:1504.34 E:0.269439 |  in all sorts of unusual places
+[5252.20 - 5254.20] P:1412.08 E:0.273022 |  on a Saturday afternoon
+[5254.20 - 5256.20] P:1576.65 E:0.307810 |  Text 85058
+[5256.20 - 5258.20] P:1596.75 E:0.278244 |  as well, Lewis Hamilton will be on
+[5258.20 - 5260.20] P:1729.08 E:0.266708 |  pole position for the British Grand Prix
+[5260.20 - 5262.20] P:1633.41 E:0.326491 |  this weekend BBC Radio bringing you
+[5262.20 - 5264.20] P:1626.28 E:0.206895 |  this match
+[5264.20 - 5266.20] P:1519.68 E:0.259897 |  all of the World Cup games
+[5266.20 - 5268.20] P:1629.62 E:0.272849 |  the British Grand Prix, Wimbledon, the Tour de France
+[5268.20 - 5270.20] P:1602.63 E:0.273040 |  England, India 2020
+[5270.20 - 5272.20] P:1599.22 E:0.294073 |  tomorrow the only place you'll be able to get
+[5272.20 - 5274.20] P:1556.77 E:0.281723 |  that is here on BBC Radio
+[5274.20 - 5276.20] P:1526.59 E:0.255605 |  on Five Live and Sports Extra
+[5276.20 - 5278.20] P:1577.77 E:0.250877 |  here 2-0 to England
+[5278.20 - 5280.20] P:1609.47 E:0.226616 |  and Kraft is back on the field
+[5280.20 - 5282.20] P:1534.79 E:0.244635 |  and plays back underway
+[5282.20 - 5284.20] P:1521.78 E:0.237730 |  Olsen on the left hand side
+[5284.20 - 5286.20] P:1566.77 E:0.252352 |  time running very quickly out
+[5286.20 - 5288.20] P:1586.91 E:0.265916 |  on Sweden's World Cup here
+[5288.20 - 5290.20] P:1518.79 E:0.306337 |  Ekdal plays it across to Lindelöf
+[5290.20 - 5292.20] P:1593.35 E:0.295412 |  centre-circle, another chorus of footballs
+[5292.20 - 5294.20] P:1709.48 E:0.262384 |  coming home, breaks out, Klassen
+[5294.20 - 5296.20] P:1706.99 E:0.266177 |  a double deflection, bounces for
+[5296.20 - 5298.20] P:1767.14 E:0.273230 |  Berg through the middle but pickford very quickly
+[5298.20 - 5300.20] P:1734.76 E:0.276147 |  out, Leips catches the ball and for some
+[5300.20 - 5302.20] P:1731.08 E:0.279429 |  reason gets up and walks across
+[5302.20 - 5304.20] P:1782.03 E:0.267972 |  to Berg and tries to square up
+[5304.20 - 5306.20] P:1792.61 E:0.255466 |  to him, he obviously feels that Berg
+[5306.20 - 5308.20] P:1726.09 E:0.245177 |  wasn't entitled to go for
+[5308.20 - 5310.20] P:1540.94 E:0.245316 |  that ball, I thought he was
+[5310.20 - 5312.20] P:1734.64 E:0.294055 |  I don't think he touched him, Dale's
+[5312.20 - 5314.20] P:1555.03 E:0.273076 |  going to come on, I would think that would be
+[5314.20 - 5316.20] P:1570.17 E:0.264057 |  for Stirling or Linngard
+[5316.20 - 5318.20] P:1482.35 E:0.216163 |  but
+[5318.20 - 5320.20] P:1391.27 E:0.252326 |  I don't know, he's getting a little bit frustrated
+[5320.20 - 5322.20] P:1557.25 E:0.309415 |  Berg, he's had a few niggles around
+[5322.20 - 5324.20] P:1647.76 E:0.257165 |  the stones slightly didn't he, so
+[5324.20 - 5326.20] P:1643.83 E:0.274581 |  he's had a couple of efforts that he might
+[5326.20 - 5328.20] P:1459.92 E:0.280951 |  have thought were goal-bound saved by pickford
+[5328.20 - 5330.20] P:1464.85 E:0.236139 |  he's had 18 on it
+[5330.20 - 5332.20] P:1546.94 E:0.273984 |  not quite that many
+[5332.20 - 5334.20] P:1661.45 E:0.272920 |  2-0 to England, Grandfest
+[5334.20 - 5336.20] P:1655.13 E:0.265164 |  leaves away from Linngard
+[5336.20 - 5338.20] P:1620.29 E:0.302137 |  and then sends a pass through which is
+[5338.20 - 5340.20] P:1780.45 E:0.289699 |  steered back by Jung to pickford
+[5340.20 - 5342.20] P:1727.13 E:0.279216 |  and he has the ball safely in his
+[5342.20 - 5344.20] P:1735.80 E:0.253248 |  6-yard box, so England supporters
+[5344.20 - 5346.20] P:1760.67 E:0.271548 |  can begin very soon
+[5346.20 - 5348.20] P:1546.91 E:0.212030 |  let's not get ahead of ourselves
+[5348.20 - 5350.20] P:1654.84 E:0.260728 |  to make plans for Moscow
+[5350.20 - 5352.20] P:1556.14 E:0.216406 |  on Wednesday night, Kane
+[5352.20 - 5354.20] P:1545.23 E:0.244878 |  chests the ball down in the centre
+[5354.20 - 5356.20] P:1613.44 E:0.271869 |  circle, put under pressure, Harry Kane
+[5356.20 - 5358.20] P:1512.97 E:0.329317 |  then is able to lay it off to Linngard
+[5358.20 - 5360.20] P:1675.78 E:0.307047 |  and Linngard approaching the edge of the penalty
+[5360.20 - 5362.20] P:1751.91 E:0.271140 |  area, shoots, it's deflected by a defender
+[5362.20 - 5364.20] P:1719.94 E:0.224502 |  across the box, Linngard is
+[5364.20 - 5366.20] P:1707.86 E:0.225255 |  first to it, Linngard
+[5366.20 - 5368.20] P:1654.11 E:0.184540 |  with Trippiart
+[5368.20 - 5370.20] P:1485.63 E:0.266031 |  available which he uses
+[5370.20 - 5372.20] P:1473.36 E:0.263696 |  Trippiart now to Henderson
+[5372.20 - 5374.20] P:1361.08 E:0.267074 |  Kane and Stirling
+[5374.20 - 5376.20] P:1523.15 E:0.265844 |  waiting in the penalty area
+[5376.20 - 5378.20] P:1630.99 E:0.315178 |  but England just go back towards the
+[5378.20 - 5380.20] P:1536.45 E:0.293625 |  half-way line, leading by two goals to Nill
+[5380.20 - 5382.20] P:1619.27 E:0.289051 |  don't need to do anything rash
+[5382.20 - 5384.20] P:1544.64 E:0.227539 |  in this situation
+[5384.20 - 5386.20] P:1520.89 E:0.266012 |  pickford, outside of his penalty
+[5386.20 - 5388.20] P:1470.02 E:0.278201 |  area, hits a long pass out
+[5388.20 - 5390.20] P:1446.45 E:0.273573 |  towards the right-hand side, Trippiart
+[5390.20 - 5392.20] P:1464.63 E:0.286663 |  wins it in the air against
+[5392.20 - 5394.20] P:1534.57 E:0.280647 |  Augustinsen, Kane then tries to go through
+[5394.20 - 5396.20] P:1688.62 E:0.302053 |  a double challenge, Trippiart always caught there
+[5396.20 - 5398.20] P:1676.84 E:0.288246 |  by Augustinsen, she just
+[5398.20 - 5400.20] P:1640.57 E:0.287759 |  pulled the ball away and I think was caught maybe on the
+[5400.20 - 5402.20] P:1794.98 E:0.284143 |  ball at his ankle, the substitution
+[5402.20 - 5404.20] P:1746.12 E:0.323972 |  will happen now and I was going to wait
+[5404.20 - 5406.20] P:1836.64 E:0.322465 |  to see how Trippiart goes, he's still
+[5406.20 - 5408.20] P:1723.96 E:0.278093 |  on his top, he's fought a bit late
+[5410.20 - 5412.20] P:1470.36 E:0.306647 |  it'll be okay, 7.5 minutes to play
+[5412.20 - 5414.20] P:1631.63 E:0.270328 |  and it is an England free kick
+[5414.20 - 5416.20] P:1558.87 E:0.284597 |  they lead 2-0, also
+[5416.20 - 5418.20] P:1566.68 E:0.307734 |  tonight as well as Russia, Croatia
+[5418.20 - 5420.20] P:1505.70 E:0.286879 |  the British number one Kyle Edmund playing
+[5420.20 - 5422.20] P:1468.93 E:0.264044 |  Novak Djokovic at Wimbledon
+[5422.20 - 5424.20] P:1575.20 E:0.258918 |  so we'll bring you that
+[5424.20 - 5426.20] P:1538.46 E:0.299006 |  on 5 Live and on 5 Live Sports Extra
+[5426.20 - 5428.20] P:1513.14 E:0.296695 |  you can watch that on BBC Television
+[5428.20 - 5430.20] P:1491.01 E:0.300387 |  follow it on the BBC Sport website and app
+[5430.20 - 5432.20] P:1462.13 E:0.284731 |  I don't know if we're any the wiser as to when that
+[5432.20 - 5434.20] P:1625.83 E:0.252173 |  match might start
+[5434.20 - 5436.20] P:1553.81 E:0.263160 |  Kyle Edmund against Novak Djokovic
+[5436.20 - 5438.20] P:1606.02 E:0.268579 |  when we do we'll let you know
+[5438.20 - 5440.20] P:1621.68 E:0.240774 |  Jung
+[5442.20 - 5444.20] P:1424.84 E:0.298150 |  and Trippiart working
+[5444.20 - 5446.20] P:1599.64 E:0.282143 |  something with the free kick, Jordan Henderson
+[5446.20 - 5448.20] P:1534.56 E:0.259650 |  comes across and says
+[5448.20 - 5450.20] P:1441.20 E:0.247591 |  to Ashley Jung
+[5450.20 - 5452.20] P:1575.38 E:0.284419 |  to leave it perhaps to him
+[5454.20 - 5456.20] P:1583.15 E:0.308311 |  and Jordan Henderson just giving
+[5456.20 - 5458.20] P:1653.36 E:0.262969 |  some instructions to Trippiart, Eric Dyer
+[5458.20 - 5460.20] P:1768.10 E:0.288394 |  still waiting to come on as a substitute
+[5460.20 - 5462.20] P:1687.34 E:0.251112 |  Henderson joins the wall, Trippiart
+[5462.20 - 5464.20] P:1614.87 E:0.269896 |  plays the free kick in but that's way over the top
+[5464.20 - 5466.20] P:1526.95 E:0.262915 |  with Goldkeeper Olsen who just allowed
+[5466.20 - 5468.20] P:1703.00 E:0.299196 |  to drift over his head and behind for a Gold kick
+[5468.20 - 5470.20] P:1598.84 E:0.292029 |  and Eric Dyer will be coming on now
+[5470.20 - 5472.20] P:1702.90 E:0.239667 |  and he's going to be Henderson coming on
+[5472.20 - 5474.20] P:1457.32 E:0.284814 |  for Jordan Henderson in that central position
+[5474.20 - 5476.20] P:1535.06 E:0.244911 |  so here comes Eric Dyer
+[5476.20 - 5478.20] P:1645.01 E:0.239120 |  his 30th cap
+[5478.20 - 5480.20] P:1585.30 E:0.227504 |  here in Samara
+[5480.20 - 5482.20] P:1569.28 E:0.255283 |  in this World Cup quarterfinal
+[5482.20 - 5484.20] P:1654.62 E:0.305967 |  we'll see Garas Southgate there as well
+[5484.20 - 5486.20] P:1749.31 E:0.270827 |  in the now familiar waistcoat
+[5486.20 - 5488.20] P:1738.76 E:0.291498 |  and the blue shirt
+[5488.20 - 5490.20] P:1777.34 E:0.282414 |  and Jordan Henderson
+[5490.20 - 5492.20] P:1908.28 E:0.272188 |  being applauded off
+[5492.20 - 5494.20] P:1765.93 E:0.314361 |  perhaps as well Chris this substitution
+[5494.20 - 5496.20] P:1709.74 E:0.295151 |  has an element of
+[5496.20 - 5498.20] P:1667.20 E:0.310543 |  just keeping Jordan Henderson
+[5498.20 - 5500.20] P:1612.85 E:0.313054 |  to make sure he's okay for the semi-finals
+[5500.20 - 5502.20] P:1921.87 E:0.270426 |  yep, we'll see if there's
+[5502.20 - 5504.20] P:1816.11 E:0.264880 |  three of them
+[5508.20 - 5510.20] P:1733.64 E:0.321318 |  so Eric Dyer is on, good decision
+[5510.20 - 5512.20] P:1688.55 E:0.299911 |  Jordan Henderson is very competitive
+[5512.20 - 5514.20] P:1727.22 E:0.248275 |  he's got him over in my eyes this so
+[5514.20 - 5516.20] P:1786.30 E:0.264351 |  good decision
+[5516.20 - 5518.20] P:1729.64 E:0.269592 |  and Sweden are also going to make a change
+[5518.20 - 5520.20] P:1592.31 E:0.269787 |  and they, this is their final change
+[5520.20 - 5522.20] P:1411.56 E:0.298647 |  Pontus Janssen is coming on
+[5522.20 - 5524.20] P:1653.83 E:0.314941 |  and what looks as though he's actually going to play up front
+[5524.20 - 5526.20] P:1613.98 E:0.300810 |  the lead tonight at Central Defender
+[5526.20 - 5528.20] P:1563.30 E:0.278166 |  so they want another big man up front
+[5528.20 - 5530.20] P:1836.50 E:0.261683 |  to try and chase this game
+[5530.20 - 5532.20] P:1799.14 E:0.255425 |  Pontus Janssen
+[5532.20 - 5534.20] P:1759.20 E:0.316347 |  who started the first match in Central defense
+[5534.20 - 5536.20] P:1589.84 E:0.316509 |  when Viktor Lindelof was ill
+[5536.20 - 5538.20] P:1573.73 E:0.310502 |  actually didn't play against South Korea
+[5538.20 - 5540.20] P:1748.40 E:0.271743 |  but this is his first appearance
+[5540.20 - 5542.20] P:1641.82 E:0.266488 |  since then, the big number 18
+[5542.20 - 5544.20] P:1576.74 E:0.278860 |  that is so
+[5544.20 - 5546.20] P:1458.46 E:0.305121 |  highly regarded by the lead United supporters
+[5550.20 - 5552.20] P:1523.57 E:0.275528 |  just over five minutes to play
+[5552.20 - 5554.20] P:1539.97 E:0.276607 |  in fact, exactly five minutes plus added time
+[5554.20 - 5556.20] P:1453.71 E:0.218539 |  England
+[5556.20 - 5558.20] P:1444.08 E:0.284481 |  are five minutes away now from
+[5558.20 - 5560.20] P:1516.96 E:0.301173 |  the World Cup semi-final
+[5560.20 - 5562.20] P:1424.26 E:0.234702 |  in Moscow
+[5562.20 - 5564.20] P:1390.13 E:0.292809 |  Harry Kane
+[5564.20 - 5566.20] P:1395.93 E:0.255069 |  heads the ball near the corner of the penalty area
+[5566.20 - 5568.20] P:1466.67 E:0.245490 |  but away from Sterling
+[5568.20 - 5570.20] P:1437.77 E:0.293701 |  and it's cleared away on the edge of the box
+[5570.20 - 5572.20] P:1412.69 E:0.309134 |  and then Lindegard will get to it first near the
+[5572.20 - 5574.20] P:1320.56 E:0.272391 |  center circle
+[5574.20 - 5576.20] P:1591.54 E:0.315415 |  and Lindegard gets a return pass from Trippia down the right hand side
+[5576.20 - 5578.20] P:1526.90 E:0.284117 |  Lindegard running away from Olsen
+[5578.20 - 5580.20] P:1723.34 E:0.305079 |  who trips him just sort of ran
+[5580.20 - 5582.20] P:1564.77 E:0.293738 |  across his heels and clipped him and down he went
+[5582.20 - 5584.20] P:1571.73 E:0.302119 |  and it's another free kick
+[5584.20 - 5586.20] P:1620.85 E:0.299594 |  that's a free kick which is good for England in waste time
+[5586.20 - 5588.20] P:1614.87 E:0.255889 |  it was accidental that but it was a free kick
+[5588.20 - 5590.20] P:1686.09 E:0.282962 |  so there will be no rush to take this
+[5594.20 - 5596.20] P:1637.59 E:0.335050 |  Trippia
+[5596.20 - 5598.20] P:1585.10 E:0.320896 |  spins the ball down under the surface
+[5598.20 - 5600.20] P:1534.94 E:0.305370 |  of the pitch the white line is sprayed out
+[5600.20 - 5602.20] P:1443.05 E:0.245929 |  and the England supporters
+[5602.20 - 5604.20] P:1629.62 E:0.277426 |  are in party mood
+[5604.20 - 5606.20] P:1622.18 E:0.294449 |  just imagine it back home as well can't you Chris
+[5606.20 - 5608.20] P:1699.11 E:0.279508 |  yep the scene in some of the pubs
+[5608.20 - 5610.20] P:1669.25 E:0.330444 |  and bars the sitting rooms
+[5610.20 - 5612.20] P:1615.93 E:0.280057 |  the bedrooms the kitchens
+[5612.20 - 5614.20] P:1558.52 E:0.282576 |  of England
+[5616.20 - 5618.20] P:1685.16 E:0.271349 |  Trippia on the right with the free kick
+[5618.20 - 5620.20] P:1484.40 E:0.278071 |  played in but it catches the head of Larsen
+[5620.20 - 5622.20] P:1425.97 E:0.270109 |  the ball hangs on the edge of the box
+[5622.20 - 5624.20] P:1558.37 E:0.276482 |  Maguire wins it the ball is scraped away
+[5624.20 - 5626.20] P:1508.33 E:0.230001 |  by Eckdahl up towards
+[5626.20 - 5628.20] P:1639.66 E:0.280942 |  Pontus Janssen and then
+[5628.20 - 5630.20] P:1706.81 E:0.293146 |  Claeson is fouled by Harry Maguire
+[5630.20 - 5632.20] P:1802.79 E:0.286570 |  and it's a free kick and Claeson is not that
+[5632.20 - 5634.20] P:1674.04 E:0.278592 |  Guidetti actually is not very happy
+[5634.20 - 5636.20] P:1640.47 E:0.312153 |  he gets up and actually I thought he might have
+[5636.20 - 5638.20] P:1679.54 E:0.264399 |  thought it was a yellow card from Maguire
+[5638.20 - 5640.20] P:1596.53 E:0.238624 |  who is not in danger of missing the
+[5640.20 - 5642.20] P:1580.47 E:0.283133 |  semi-final which should swiftly point out
+[5642.20 - 5644.20] P:1506.99 E:0.271827 |  that's his first yellow card of the tournament
+[5644.20 - 5646.20] P:1549.71 E:0.262178 |  but I thought that Guidetti actually
+[5646.20 - 5648.20] P:1555.79 E:0.301236 |  reacted
+[5648.20 - 5650.20] P:1699.01 E:0.271977 |  there we have the DRA star at it
+[5650.20 - 5652.20] P:1674.14 E:0.346516 |  yep
+[5652.20 - 5654.20] P:1620.11 E:0.308081 |  it was a good tackle we're seeing the benefit of a replay
+[5654.20 - 5656.20] P:1750.81 E:0.298055 |  it's not the wrong the challenge
+[5656.20 - 5658.20] P:1775.54 E:0.293024 |  remember yellow cards will be wiped after the quarter-finals
+[5658.20 - 5660.20] P:1887.88 E:0.298631 |  Sweden nail England
+[5660.20 - 5662.20] P:1605.66 E:0.234103 |  2
+[5664.20 - 5666.20] P:1632.88 E:0.295888 |  Olsen the goalkeeper will take this
+[5666.20 - 5668.20] P:1675.23 E:0.223255 |  if Sweden are going to
+[5668.20 - 5670.20] P:1496.90 E:0.286638 |  launch a late rally
+[5670.20 - 5672.20] P:1487.69 E:0.264573 |  then they're going to have to score about now
+[5672.20 - 5674.20] P:1467.50 E:0.286137 |  long one up towards Janssen
+[5674.20 - 5676.20] P:1551.66 E:0.275460 |  who fouls Eric Dyer on the edge of the box
+[5676.20 - 5678.20] P:1695.89 E:0.257553 |  and it's a free kick
+[5678.20 - 5680.20] P:1716.56 E:0.276894 |  for England
+[5680.20 - 5682.20] P:1547.62 E:0.257813 |  and another chance to slow the play down
+[5682.20 - 5684.20] P:1705.93 E:0.298879 |  I've got a saying
+[5684.20 - 5686.20] P:1607.49 E:0.324449 |  I'd better say John Aday
+[5686.20 - 5688.20] P:1624.03 E:0.255549 |  first half wasn't a classic was it by Orniths
+[5688.20 - 5690.20] P:1630.07 E:0.306207 |  they got the important goal
+[5690.20 - 5692.20] P:1653.00 E:0.270680 |  which is very important in a game like this
+[5692.20 - 5694.20] P:1532.45 E:0.257680 |  another set piece
+[5694.20 - 5696.20] P:1481.05 E:0.284217 |  yeah but it settles the nerves
+[5696.20 - 5698.20] P:1714.14 E:0.268459 |  and I think then Sweden must have thought
+[5698.20 - 5700.20] P:1578.09 E:0.293203 |  are we going to get back into the game
+[5700.20 - 5702.20] P:1683.60 E:0.309220 |  yes they've had three very good chances
+[5702.20 - 5704.20] P:1797.12 E:0.254485 |  second half
+[5704.20 - 5706.20] P:1812.06 E:0.277450 |  but England 2 could have put this game at a better long term
+[5706.20 - 5708.20] P:1920.00 E:0.310999 |  I think those England supporters inside the ground here
+[5708.20 - 5710.20] P:1834.05 E:0.306145 |  have already begun to think of
+[5710.20 - 5712.20] P:1655.28 E:0.297975 |  the jiggly brewery
+[5712.20 - 5714.20] P:1445.10 E:0.272748 |  in town they'll be having there
+[5714.20 - 5716.20] P:1532.58 E:0.270653 |  it'll be doing a roaring trade this evening
+[5716.20 - 5718.20] P:1478.18 E:0.259652 |  you can actually go and fill up your own bottle
+[5718.20 - 5720.20] P:1432.75 E:0.236402 |  from a little stall
+[5720.20 - 5722.20] P:1561.38 E:0.280953 |  in the side of the brewery
+[5722.20 - 5724.20] P:1393.13 E:0.263177 |  and it costs next to nothing
+[5724.20 - 5726.20] P:1451.53 E:0.258430 |  here's Delph
+[5726.20 - 5728.20] P:1398.87 E:0.210168 |  to the left hand side to Jung
+[5728.20 - 5730.20] P:1640.11 E:0.280359 |  now to Sterling
+[5730.20 - 5732.20] P:1596.75 E:0.282401 |  he's getting his shirt pulled there but Sterling still being able to
+[5732.20 - 5734.20] P:1588.26 E:0.280161 |  wriggle away from Lindelof
+[5734.20 - 5736.20] P:1819.61 E:0.277113 |  Sterling across towards Delph
+[5736.20 - 5738.20] P:1706.98 E:0.290297 |  Delph gets a fortunate bounce to the ball
+[5738.20 - 5740.20] P:1738.20 E:0.301031 |  Delph
+[5740.20 - 5742.20] P:1649.77 E:0.265707 |  he's going to leave it for Sterling
+[5742.20 - 5744.20] P:1675.24 E:0.285150 |  they left it for each other and it was through for a goal kick
+[5744.20 - 5746.20] P:1633.07 E:0.257436 |  so we now are in the 89th
+[5746.20 - 5748.20] P:1593.58 E:0.225237 |  minute
+[5748.20 - 5750.20] P:1628.07 E:0.324760 |  it's going to be England's
+[5750.20 - 5752.20] P:1575.40 E:0.233246 |  first World Cup semi-finals
+[5752.20 - 5754.20] P:1526.61 E:0.242353 |  for 28 years
+[5754.20 - 5756.20] P:1599.49 E:0.256422 |  long ball downfield
+[5756.20 - 5758.20] P:1718.35 E:0.295682 |  for Sweden which is headed away by
+[5758.20 - 5760.20] P:1535.67 E:0.233179 |  Kyle Walker on the edge of the box
+[5760.20 - 5762.20] P:1657.21 E:0.302630 |  I'll ask you Chris who you would pick out from this England
+[5762.20 - 5764.20] P:1466.56 E:0.283340 |  performance who the most notable performance
+[5764.20 - 5766.20] P:1601.78 E:0.256411 |  when we get a chance but it's Ford from Augustin
+[5766.20 - 5768.20] P:1676.13 E:0.245012 |  Steenson
+[5768.20 - 5770.20] P:1598.26 E:0.183050 |  headed away from Maguire
+[5770.20 - 5772.20] P:1552.49 E:0.221558 |  I think
+[5772.20 - 5774.20] P:1657.67 E:0.280543 |  Sweden were thinking and hoping for a free kick
+[5774.20 - 5776.20] P:1517.25 E:0.282606 |  there for Maguire's challenge
+[5776.20 - 5778.20] P:1504.00 E:0.267375 |  on Berg and Maguire gives him a little pat on the back
+[5778.20 - 5780.20] P:1539.48 E:0.250308 |  as the two of them get up together
+[5780.20 - 5782.20] P:1650.21 E:0.236144 |  they've sent Granquist forward
+[5782.20 - 5784.20] P:1502.22 E:0.237722 |  as well, Sweden
+[5784.20 - 5786.20] P:1540.89 E:0.242757 |  Janssen's up there
+[5786.20 - 5788.20] P:1595.70 E:0.296436 |  Janssen and Granquist on Maguire Dushov
+[5788.20 - 5790.20] P:1654.71 E:0.250013 |  Granquist in the back
+[5790.20 - 5792.20] P:1682.76 E:0.300927 |  and he goes down very easily the captain
+[5792.20 - 5794.20] P:1595.56 E:0.268623 |  and it is a free kick this time
+[5794.20 - 5796.20] P:1845.26 E:0.242181 |  he's been yellow carded
+[5796.20 - 5798.20] P:1830.44 E:0.300468 |  sometimes you get sulta
+[5798.20 - 5800.20] P:1452.23 E:0.294546 |  if he just focuses on the ball and goes and heads it
+[5800.20 - 5802.20] P:1632.78 E:0.275633 |  he's won every header today doesn't he
+[5802.20 - 5804.20] P:1624.36 E:0.268183 |  does it need to push people out of the way and go ahead of the ball
+[5804.20 - 5806.20] P:1551.32 E:0.263300 |  just focus on the ball go ahead it
+[5806.20 - 5808.20] P:1687.00 E:0.266468 |  it's a silly free kick to give away
+[5808.20 - 5810.20] P:1704.57 E:0.250009 |  in a good position
+[5810.20 - 5812.20] P:1755.36 E:0.259513 |  last one of the fans in this one
+[5812.20 - 5814.20] P:1632.05 E:0.287112 |  just to the right of the D
+[5814.20 - 5816.20] P:1590.34 E:0.254230 |  we've seen him score a number of free kicks over the years
+[5816.20 - 5818.20] P:1462.58 E:0.295720 |  the former Arsenal and Birmingham
+[5818.20 - 5820.20] P:1380.14 E:0.273219 |  and Hull said he man
+[5820.20 - 5822.20] P:1515.83 E:0.247247 |  he is there
+[5822.20 - 5824.20] P:1632.38 E:0.244641 |  back there
+[5824.20 - 5826.20] P:1547.39 E:0.300772 |  Augustinsson looks like the more likely take out
+[5826.20 - 5828.20] P:1494.24 E:0.236913 |  the way that they are
+[5828.20 - 5830.20] P:1483.41 E:0.257570 |  sorting themselves out
+[5830.20 - 5832.20] P:1600.67 E:0.296936 |  Augustinsson did score against Mexico
+[5832.20 - 5834.20] P:1461.37 E:0.288308 |  remember in the 3-0 win which was
+[5834.20 - 5836.20] P:1567.45 E:0.217997 |  a big high point
+[5836.20 - 5838.20] P:1498.52 E:0.226348 |  for Sweden in the group
+[5838.20 - 5840.20] P:1532.93 E:0.311073 |  and he just moves it
+[5840.20 - 5842.20] P:1603.23 E:0.268131 |  Augustinsson slightly to the left
+[5842.20 - 5844.20] P:1664.88 E:0.255998 |  so free kick
+[5844.20 - 5846.20] P:1657.96 E:0.257892 |  for Sweden
+[5846.20 - 5848.20] P:1637.81 E:0.268826 |  with the 90 minutes almost up
+[5848.20 - 5850.20] P:1673.81 E:0.254009 |  and England leading by 2 goes to 0
+[5850.20 - 5852.20] P:1712.84 E:0.290679 |  and is broken away
+[5852.20 - 5854.20] P:1609.64 E:0.330680 |  Augustinsson takes the free kick but over the wall
+[5854.20 - 5856.20] P:1727.09 E:0.270392 |  over the bar
+[5856.20 - 5858.20] P:1795.42 E:0.250732 |  and into the fans behind Jordan Pickford's goal
+[5858.20 - 5860.20] P:1705.49 E:0.277062 |  and England's 2-0 lead
+[5860.20 - 5862.20] P:1721.00 E:0.304982 |  is secure
+[5862.20 - 5864.20] P:1717.07 E:0.268124 |  and 5 minutes about at time
+[5864.20 - 5866.20] P:1703.35 E:0.305147 |  well that sums up Sweden's performance really
+[5866.20 - 5868.20] P:1721.46 E:0.284610 |  that's gone what
+[5868.20 - 5870.20] P:1675.52 E:0.250628 |  30 yards over the bar
+[5870.20 - 5872.20] P:1733.88 E:0.258782 |  and this
+[5872.20 - 5874.20] P:1764.46 E:0.288305 |  final England change
+[5874.20 - 5876.20] P:1705.45 E:0.237678 |  is Marcus Rashford coming on
+[5876.20 - 5878.20] P:1708.17 E:0.302009 |  to replace Raheem Sterling
+[5878.20 - 5880.20] P:1718.73 E:0.317863 |  and while they do that Chris
+[5880.20 - 5882.20] P:1910.30 E:0.302971 |  come on pick out a couple of names for us
+[5882.20 - 5884.20] P:1866.14 E:0.299085 |  I'm going to say
+[5884.20 - 5886.20] P:1583.01 E:0.268530 |  Iain McGuire for all he's picked the yellow up
+[5886.20 - 5888.20] P:1667.32 E:0.254527 |  I think he's been very impressive
+[5888.20 - 5890.20] P:1611.60 E:0.269785 |  set pieces but on the ball he's looked very comfortable
+[5890.20 - 5892.20] P:1602.74 E:0.312485 |  stones played well
+[5892.20 - 5894.20] P:1646.42 E:0.288131 |  I don't think we've got really a bar player
+[5894.20 - 5896.20] P:1660.70 E:0.278299 |  Trippie again always is 7
+[5896.20 - 5898.20] P:1713.69 E:0.289207 |  out of 10 Mr. Eliber
+[5898.20 - 5900.20] P:1916.56 E:0.303624 |  it's best we've saw at Dele Alli
+[5900.20 - 5902.20] P:1941.02 E:0.272125 |  Lingard's been very very lively
+[5902.20 - 5904.20] P:1846.97 E:0.298938 |  Assy Young it's the best game
+[5904.20 - 5906.20] P:1648.19 E:0.324569 |  Assy Young's had it left wing back as well
+[5906.20 - 5908.20] P:1683.47 E:0.304772 |  and Pickford as well for the saves
+[5908.20 - 5910.20] P:1790.01 E:0.277013 |  yeah three great trades
+[5910.20 - 5912.20] P:1848.00 E:0.293794 |  2-0 to England
+[5912.20 - 5914.20] P:1814.36 E:0.319512 |  who have dominated the game even though Sweden
+[5914.20 - 5916.20] P:1566.12 E:0.255000 |  did have those second half chances
+[5916.20 - 5918.20] P:1616.92 E:0.260345 |  which were kept out by Jordan Pickford
+[5918.20 - 5920.20] P:1491.75 E:0.249900 |  already one minute
+[5920.20 - 5922.20] P:1508.91 E:0.222725 |  about at time has been played
+[5922.20 - 5924.20] P:1387.64 E:0.269525 |  it's going to be a semi-final
+[5924.20 - 5926.20] P:1480.83 E:0.232693 |  on Wednesday night in Moscow
+[5928.20 - 5930.20] P:1525.41 E:0.286526 |  England defending
+[5930.20 - 5932.20] P:1643.68 E:0.269359 |  with John Stones
+[5932.20 - 5934.20] P:1634.78 E:0.275455 |  who gets up high
+[5934.20 - 5936.20] P:1680.59 E:0.284150 |  and has been fouled and there's frustration now
+[5936.20 - 5938.20] P:1571.78 E:0.286143 |  for Sweden he's offside
+[5938.20 - 5940.20] P:1666.20 E:0.276078 |  he thinks it's a foul he's actually offside
+[5940.20 - 5942.20] P:1557.99 E:0.318648 |  so it's a free kick for England half inside their own half
+[5942.20 - 5944.20] P:1543.21 E:0.254727 |  back in Sweden
+[5944.20 - 5946.20] P:1559.17 E:0.281610 |  they were hoping that it was going to be
+[5946.20 - 5948.20] P:1646.29 E:0.305393 |  USA 94 all over again
+[5948.20 - 5950.20] P:1588.30 E:0.275361 |  and they would reach the semi-final
+[5950.20 - 5952.20] P:1534.50 E:0.255736 |  but they have been outplayed
+[5952.20 - 5954.20] P:1487.67 E:0.275735 |  really by this England team
+[5954.20 - 5956.20] P:1507.41 E:0.290978 |  here today
+[5956.20 - 5958.20] P:1589.45 E:0.265097 |  Pickford takes the free kick
+[5958.20 - 5960.20] P:1468.55 E:0.261556 |  high towards the left hand side
+[5960.20 - 5962.20] P:1699.19 E:0.293411 |  Kane flicks it on with his head
+[5962.20 - 5964.20] P:1596.14 E:0.260042 |  he's onto the field now
+[5964.20 - 5966.20] P:1622.43 E:0.250104 |  can't keep up with this
+[5966.20 - 5968.20] P:1606.03 E:0.283216 |  can't reach it before it bounces over the dead ball line
+[5968.20 - 5970.20] P:1609.33 E:0.260740 |  even Marcus Rashford who is on to win
+[5970.20 - 5972.20] P:1411.75 E:0.235837 |  his 23rd cap for England
+[5972.20 - 5974.20] P:1626.06 E:0.180075 |  2-0 Leleed
+[5974.20 - 5976.20] P:1638.64 E:0.211084 |  and Olsen
+[5976.20 - 5978.20] P:1680.10 E:0.219549 |  with urgency
+[5978.20 - 5980.20] P:1585.83 E:0.274273 |  strikes this downfield
+[5980.20 - 5982.20] P:1526.95 E:0.253068 |  it's Glan Stone
+[5982.20 - 5984.20] P:1581.78 E:0.304646 |  had a one by Stones
+[5984.20 - 5986.20] P:1515.06 E:0.278394 |  England would be furious if they conceded a goal
+[5986.20 - 5988.20] P:1637.91 E:0.232751 |  now they were furious when they let one in against Panama
+[5988.20 - 5990.20] P:1562.20 E:0.239122 |  Klassen on the right
+[5990.20 - 5992.20] P:1607.48 E:0.268314 |  flicked on by Gudette
+[5992.20 - 5994.20] P:1576.56 E:0.239079 |  is it going to reach Olsen or is it
+[5994.20 - 5996.20] P:1567.42 E:0.268926 |  no, Troupier gets there first
+[5996.20 - 5998.20] P:1583.83 E:0.295345 |  and just volleys it back into Swedish territory
+[5998.20 - 6000.20] P:1745.81 E:0.323322 |  and there's a poor touch on the chest by Augustinsson
+[6000.20 - 6002.20] P:1635.81 E:0.335477 |  who has just chested it straight out of play
+[6002.20 - 6004.20] P:1539.30 E:0.299060 |  and it's a throw in to England
+[6004.20 - 6006.20] P:1471.95 E:0.306248 |  and the National Anthem
+[6006.20 - 6008.20] P:1419.10 E:0.300203 |  rings around
+[6008.20 - 6010.20] P:1416.23 E:0.280417 |  the stadium in Samara
+[6014.20 - 6016.20] P:1578.62 E:0.321052 |  they all be making their plans
+[6016.20 - 6018.20] P:1646.99 E:0.270825 |  to get to Moscow
+[6018.20 - 6020.20] P:1688.83 E:0.312705 |  they might be hiring cars and vans and mini buses
+[6020.20 - 6022.20] P:1699.75 E:0.306379 |  they'll want to stay
+[6022.20 - 6024.20] P:1652.81 E:0.294354 |  a little longer in Russia
+[6024.20 - 6026.20] P:1721.71 E:0.263375 |  to see England
+[6026.20 - 6028.20] P:1755.64 E:0.312503 |  in their first World Cup semi-final
+[6028.20 - 6030.20] P:1578.96 E:0.252844 |  since 1990
+[6030.20 - 6032.20] P:1649.74 E:0.323774 |  Larson hits a ball downfield
+[6032.20 - 6034.20] P:1748.80 E:0.232374 |  this for
+[6034.20 - 6036.20] P:1745.04 E:0.286644 |  Janssen to chase, Pontus Janssen
+[6036.20 - 6038.20] P:1611.74 E:0.276110 |  the pickford is able to come
+[6038.20 - 6040.20] P:1594.32 E:0.278133 |  across his penalty area
+[6040.20 - 6042.20] P:1610.02 E:0.269072 |  and leather it downfield
+[6042.20 - 6044.20] P:1462.77 E:0.333640 |  Kane loses out in the air to Limberlough
+[6044.20 - 6046.20] P:1497.63 E:0.277979 |  and Delph
+[6046.20 - 6048.20] P:1616.54 E:0.304476 |  taken out by the challenge from Seb Larson
+[6048.20 - 6050.20] P:1432.25 E:0.305974 |  Harry Kane's got the ball on the left wing
+[6050.20 - 6052.20] P:1471.02 E:0.279843 |  I think he's going to run it towards the corner flag
+[6052.20 - 6054.20] P:1555.78 E:0.278145 |  yes he is the England captain taking it down there
+[6054.20 - 6056.20] P:1468.82 E:0.277989 |  on the left
+[6056.20 - 6058.20] P:1577.84 E:0.288611 |  Larson is back there with him and then Larson kicks out
+[6058.20 - 6060.20] P:1636.74 E:0.264130 |  it Kane brings him down
+[6060.20 - 6062.20] P:1640.17 E:0.298935 |  and gets a yellow card for him
+[6062.20 - 6064.20] P:1690.86 E:0.301284 |  and that was utter total frustration from Seb Larson
+[6064.20 - 6066.20] P:1617.50 E:0.266457 |  yeah very very frustrated
+[6066.20 - 6068.20] P:1680.69 E:0.326240 |  and see his last chance, what is he now 33
+[6068.20 - 6070.20] P:1603.46 E:0.301257 |  he's probably playing in the lower cup
+[6070.20 - 6072.20] P:1757.86 E:0.304689 |  and he's probably thought again
+[6072.20 - 6074.20] P:1636.22 E:0.319808 |  like England did, you're not going to get a better chance
+[6074.20 - 6076.20] P:1733.03 E:0.277177 |  but no, that is sheer frustration
+[6078.20 - 6080.20] P:1952.72 E:0.316541 |  so it's nearly there
+[6080.20 - 6082.20] P:1936.01 E:0.324204 |  it's nearly there
+[6082.20 - 6084.20] P:1648.42 E:0.282463 |  last time England were in a World Cup
+[6084.20 - 6086.20] P:1679.71 E:0.259897 |  semi-final
+[6086.20 - 6088.20] P:1635.60 E:0.301874 |  this man here sitting next to me was involved in it
+[6088.20 - 6090.20] P:1532.06 E:0.250098 |  back in Italian 90
+[6090.20 - 6092.20] P:1600.00 E:0.288313 |  Terry Butcher who was out here with us
+[6092.20 - 6094.20] P:1574.19 E:0.288082 |  for such a long time as well
+[6094.20 - 6096.20] P:1403.93 E:0.312741 |  I'm sure Terry and every one of the other England players
+[6096.20 - 6098.20] P:1473.37 E:0.255352 |  who were involved will be delighted to see
+[6098.20 - 6100.20] P:1565.36 E:0.270355 |  this 2018 England team
+[6100.20 - 6102.20] P:1480.71 E:0.244203 |  match what they achieved
+[6102.20 - 6104.20] P:1546.17 E:0.295309 |  and reaching the last four of the World Cup
+[6106.20 - 6108.20] P:1553.66 E:0.282862 |  2-0, these are the last knockings
+[6108.20 - 6110.20] P:1509.61 E:0.269270 |  we're in the fifth minute of added time
+[6110.20 - 6112.20] P:1511.14 E:0.229568 |  Granthrist who stayed up front
+[6112.20 - 6114.20] P:1377.72 E:0.252872 |  but it's a vain effort
+[6114.20 - 6116.20] P:1637.17 E:0.284342 |  now from Sweden
+[6116.20 - 6118.20] P:1613.20 E:0.229050 |  Olsen taking it on the left hand side
+[6118.20 - 6120.20] P:1497.51 E:0.258883 |  Olsen still in possession
+[6122.20 - 6124.20] P:1549.75 E:0.291537 |  Sweden's World Cup is about to come to an end
+[6124.20 - 6126.20] P:1556.92 E:0.261840 |  at the last eight stage
+[6126.20 - 6128.20] P:1622.38 E:0.265864 |  Olsen plays it in aerially
+[6128.20 - 6130.20] P:1438.96 E:0.290905 |  Maguire wins the header on the edge of the box
+[6130.20 - 6132.20] P:1484.00 E:0.238990 |  against Janssen
+[6132.20 - 6134.20] P:1493.53 E:0.289060 |  comes out to Klosson and Klosson's ball into the edge of the box
+[6134.20 - 6136.20] P:1388.08 E:0.233575 |  flicked on by Janssen
+[6136.20 - 6138.20] P:1442.36 E:0.249058 |  Walker beaten in the air
+[6138.20 - 6140.20] P:1465.45 E:0.241652 |  by Granthrist and then it's won
+[6140.20 - 6142.20] P:1570.90 E:0.260965 |  on the edge of the box by Eric Dyer
+[6142.20 - 6144.20] P:1447.03 E:0.286828 |  and we are now seeing the final seconds
+[6144.20 - 6146.20] P:1552.94 E:0.260111 |  Jesse Linngard is just running the ball
+[6146.20 - 6148.20] P:1564.08 E:0.268052 |  away downfield
+[6148.20 - 6150.20] P:1551.17 E:0.252911 |  and he's running it now down into the Swedish
+[6150.20 - 6152.20] P:1523.15 E:0.236149 |  left-back position
+[6152.20 - 6154.20] P:1651.22 E:0.272430 |  Rashford gets a touch, gives it back to his
+[6154.20 - 6156.20] P:1628.19 E:0.280961 |  Manchester United colleague Jesse Linngard
+[6156.20 - 6158.20] P:1726.77 E:0.320038 |  and there it is
+[6158.20 - 6160.20] P:1928.34 E:0.321106 |  the final whistle goes
+[6160.20 - 6162.20] P:1873.00 E:0.348976 |  John Stones drops onto his knees
+[6162.20 - 6164.20] P:1878.94 E:0.288631 |  and punches the air
+[6164.20 - 6166.20] P:1804.49 E:0.340793 |  Jesse Linngard and Marcus Rashford
+[6166.20 - 6168.20] P:1787.34 E:0.260262 |  hook one another
+[6168.20 - 6170.20] P:1667.15 E:0.332911 |  Ashley Young the oldest member of the squad
+[6170.20 - 6172.20] P:1754.47 E:0.305430 |  just leans forward and puts his hands on his knees
+[6172.20 - 6174.20] P:1659.36 E:0.280515 |  but England are there
+[6174.20 - 6176.20] P:1725.80 E:0.313460 |  in the semifinal
+[6176.20 - 6178.20] P:1725.99 E:0.273288 |  of the World Cup
+[6178.20 - 6180.20] P:1697.06 E:0.297420 |  so 1966
+[6180.20 - 6182.20] P:1518.80 E:0.302295 |  1990
+[6182.20 - 6184.20] P:1502.34 E:0.267735 |  and now
+[6184.20 - 6186.20] P:1550.36 E:0.314864 |  2018 in Russia
+[6186.20 - 6188.20] P:1570.05 E:0.273163 |  England in the semifinal
+[6188.20 - 6190.20] P:1544.70 E:0.252080 |  of the World Cup
+[6190.20 - 6192.20] P:1612.66 E:0.255960 |  for only the third time
+[6192.20 - 6194.20] P:1754.26 E:0.269266 |  who would have thought it
+[6194.20 - 6196.20] P:1699.16 E:0.294864 |  start of the tournament, nobody John
+[6196.20 - 6198.20] P:1734.72 E:0.275377 |  to be honest, give them credit
+[6198.20 - 6200.20] P:1760.51 E:0.300779 |  whether the draw has been came or not
+[6200.20 - 6202.20] P:1642.85 E:0.284383 |  they've had to beat what's in front of them and they are
+[6202.20 - 6204.20] P:1748.91 E:0.268543 |  and they are in the semifinal of the World Cup
+[6204.20 - 6206.20] P:1740.86 E:0.308785 |  they'll probably have to pinch a few of them later
+[6206.20 - 6208.20] P:1707.47 E:0.257736 |  when it sinks in but they've got a
+[6208.20 - 6210.20] P:1656.81 E:0.306050 |  very very good chance of progressing
+[6210.20 - 6212.20] P:1685.66 E:0.259220 |  to the final as well
+[6212.20 - 6214.20] P:1499.06 E:0.254635 |  so enjoy your parties tonight
+[6214.20 - 6216.20] P:1819.73 E:0.317890 |  enjoy your glass of jiggly if you can get it
+[6216.20 - 6218.20] P:1558.73 E:0.239348 |  and look forward
+[6218.20 - 6220.20] P:1595.55 E:0.265930 |  to Wednesday night in Moscow
+[6220.20 - 6222.20] P:1641.15 E:0.297139 |  the Luzhniki, that's where the final
+[6222.20 - 6224.20] P:1541.44 E:0.240336 |  will be held next Sunday
+[6224.20 - 6226.20] P:1508.38 E:0.262373 |  but first of all
+[6226.20 - 6228.20] P:1676.23 E:0.265245 |  a semifinal, 7 o'clock
+[6228.20 - 6230.20] P:1655.73 E:0.254729 |  British summertime, that's the time it'll kick off
+[6230.20 - 6232.20] P:1540.58 E:0.253540 |  Wednesday night and England
+[6232.20 - 6234.20] P:1644.89 E:0.307157 |  will be playing either Croatia
+[6234.20 - 6236.20] P:1814.56 E:0.235665 |  or Russia
+[6236.20 - 6238.20] P:1726.80 E:0.280380 |  but really
+[6238.20 - 6240.20] P:1781.10 E:0.265481 |  Chris, it was remarkably
+[6240.20 - 6242.20] P:1596.80 E:0.289441 |  straightforward
+[6242.20 - 6244.20] P:1704.58 E:0.280412 |  what's the quarterfinal
+[6244.20 - 6246.20] P:1574.81 E:0.317824 |  it's not going to be a quarterfinal in that
+[6246.20 - 6248.20] P:1746.10 E:0.278656 |  way, the way they played
+[6248.20 - 6250.20] P:1809.51 E:0.275204 |  second half, they were very good
+[6250.20 - 6252.20] P:1632.13 E:0.280568 |  first half, edgy, nervous
+[6252.20 - 6254.20] P:1615.51 E:0.241215 |  bit weary, Sweden on the counter
+[6254.20 - 6256.20] P:1482.30 E:0.309264 |  Sweden didn't come with a party
+[6256.20 - 6258.20] P:1683.85 E:0.265966 |  they did not offer anything
+[6258.20 - 6260.20] P:1694.73 E:0.263782 |  second half, they had three good chances
+[6260.20 - 6262.20] P:1636.21 E:0.287998 |  great plays by Pickfan
+[6262.20 - 6264.20] P:1741.10 E:0.249175 |  take that out of it, they've been poor
+[6264.20 - 6266.20] P:1649.77 E:0.273536 |  and England thoroughly deserved their win
+[6266.20 - 6268.20] P:1393.38 E:0.332484 |  and well done
+[6268.20 - 6270.20] P:1617.57 E:0.301029 |  6 o'clock on the way, we'd love to know where you listened to us
+[6270.20 - 6272.20] P:1679.24 E:0.267868 |  and what your feelings were
+[6272.20 - 6274.20] P:1762.13 E:0.272326 |  at 5 live sport
+[6274.20 - 6276.20] P:1649.88 E:0.275639 |  but the final score
+[6276.20 - 6278.20] P:1602.95 E:0.304138 |  here in Samara as the England players
+[6278.20 - 6280.20] P:1636.24 E:0.307894 |  go to their supporters in the end to our right
+[6280.20 - 6282.20] P:1663.27 E:0.299125 |  Sweden, Nill
+[6282.20 - 6284.20] P:1699.59 E:0.239686 |  England 2

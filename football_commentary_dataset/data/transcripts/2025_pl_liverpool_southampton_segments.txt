@@ -1,0 +1,1513 @@
+[0.00 - 2.44] P:1630.96 E:0.025445 |  England and Scotland faster than anywhere else.
+[2.44 - 5.60] P:1668.79 E:0.077633 |  Our base is Anfield, they're under way, Liverpool Southampton.
+[5.60 - 7.64] P:1684.98 E:0.089273 |  Here are Chris Sutton and Ian Dennis.
+[7.64 - 10.28] P:1649.77 E:0.106237 |  Thank you, Mark, just under way, Liverpool then all in red,
+[10.28 - 12.56] P:1790.85 E:0.095287 |  playing from right to left, so they're defending the Cop,
+[12.56 - 15.48] P:1770.47 E:0.103763 |  for those of you who know Anfield against the Southampton side
+[15.48 - 17.00] P:1897.46 E:0.089069 |  in their change strip.
+[17.00 - 20.52] P:1869.38 E:0.107973 |  The luminous yellow shirts and navy shorts,
+[20.52 - 22.16] P:1804.16 E:0.107273 |  and I'll run through the two teams for you,
+[22.16 - 24.60] P:1811.67 E:0.098060 |  where Liverpool have made just the three changes.
+[24.60 - 26.88] P:1761.31 E:0.095900 |  Simacass for Robertson at left back.
+[26.88 - 29.36] P:1826.51 E:0.104040 |  You've got Jones from a Callister in the midfield,
+[29.36 - 32.32] P:1795.02 E:0.108503 |  and then the other change is Nunes for Jota.
+[32.32 - 34.88] P:1805.36 E:0.107118 |  So, Alisson in goal, Alexander-Arnold, Van Dijk,
+[34.88 - 38.68] P:1834.60 E:0.096876 |  Kanate and Simacass, Jones Gravenberg and Subosly,
+[38.68 - 42.68] P:1663.37 E:0.099842 |  Dias Nunes and Mo Salah, who's on the ball now,
+[42.68 - 45.08] P:1757.18 E:0.107208 |  as he passes the ball to Alexander-Arnold,
+[45.08 - 48.08] P:1862.80 E:0.103508 |  who quickly switches play to the left corner of the area,
+[48.08 - 50.68] P:1886.68 E:0.095591 |  taken on the chest by Dias, ball inside.
+[50.68 - 53.16] P:1743.80 E:0.098909 |  Jones with a shot away, blocked by Bednarek,
+[53.16 - 54.72] P:1903.45 E:0.101988 |  who able to get the ball away.
+[54.72 - 56.72] P:1817.25 E:0.096765 |  Ramstell is in goal for Southampton,
+[56.72 - 57.88] P:1806.37 E:0.091568 |  they're playing with a back four,
+[57.88 - 61.28] P:1820.31 E:0.091900 |  Walker-Peters, Bednarek, Harwood-Bellis and Ryan Manning,
+[61.28 - 63.20] P:1772.26 E:0.096575 |  Dibbling-Smallbone, Uwe Chukwu,
+[63.20 - 67.64] P:1735.62 E:0.087108 |  Fernandez-Sulimana and Grombeke complete that Saints line-up.
+[67.64 - 70.72] P:1774.17 E:0.100240 |  As Doncaster-Robers lead Swindantown by a goal to Niel,
+[70.72 - 74.64] P:1746.06 E:0.100911 |  Doncaster, who are looking for automatic promotion from lead two,
+[74.64 - 78.08] P:1645.71 E:0.100220 |  they are already one goal up against Swindantown.
+[78.08 - 79.24] P:1676.05 E:0.057350 |  Christoph?
+[79.24 - 84.88] P:1721.23 E:0.095236 |  Yep, it's playing for the title against playing for Pride this afternoon.
+[84.92 - 89.16] P:1692.99 E:0.104762 |  Randfield and Southampton immediately at the start of this game,
+[89.16 - 93.40] P:1675.79 E:0.097368 |  they've sat in their 4-4-2 Liverpool dominating possession.
+[93.40 - 97.48] P:1693.08 E:0.105557 |  Yes, if ever there was a game that constituted a home banker,
+[97.48 - 101.56] P:1709.98 E:0.102135 |  it is this, with 58 points behind, between rather,
+[101.56 - 105.00] P:1642.58 E:0.104985 |  the league leaders Liverpool and bottom of the table Southampton.
+[105.00 - 107.36] P:1757.74 E:0.109894 |  A penalty in Dublin, James Burry.
+[107.36 - 109.76] P:1726.86 E:0.118939 |  Two penalties, one for Arland from Prendergast,
+[109.76 - 113.52] P:1731.43 E:0.103625 |  but immediately France respond and Thomas Ramos knocks one over
+[113.56 - 116.40] P:1712.03 E:0.101806 |  from 25 metres out, three minutes to half-time,
+[116.40 - 118.56] P:1767.56 E:0.098331 |  and France still lead by eight points to three,
+[118.56 - 122.88] P:1789.48 E:0.091487 |  but the breaking news on Twan du Po is out of the match with injury.
+[122.88 - 124.84] P:1759.44 E:0.091297 |  Commentary of that is on Sports Extra,
+[124.84 - 128.08] P:1696.16 E:0.095468 |  it'll be followed by Scotland Wales at 4.45.
+[128.08 - 130.36] P:1768.89 E:0.096909 |  Incidentally, next week on Sports Extra,
+[130.36 - 134.08] P:1697.34 E:0.095963 |  you'll have the best possible coverage of the Cheltenham Festival
+[134.08 - 135.76] P:1814.67 E:0.073114 |  from Tuesday.
+[135.76 - 139.56] P:1680.84 E:0.103181 |  All 28 races will be on BBC Radio 5 Live,
+[139.56 - 141.56] P:1728.78 E:0.094477 |  either on Sports Extra or 5 Live.
+[141.60 - 145.00] P:1736.50 E:0.088480 |  Can't wait for that from Tuesday to Friday of next week.
+[145.00 - 147.12] P:1774.64 E:0.097290 |  You won't miss a trick when it comes to the horse racing
+[147.12 - 151.92] P:1718.63 E:0.085624 |  and that Cheltenham Festival from Tuesday afternoon from 1 o'clock.
+[151.92 - 155.40] P:1868.29 E:0.105875 |  This, though, the Liverpool are entering the final straight,
+[155.40 - 157.32] P:1845.81 E:0.100779 |  and they are well clear.
+[157.32 - 161.44] P:1785.38 E:0.089827 |  13 points, although Arsenal do have a game in hand.
+[161.44 - 165.28] P:1797.88 E:0.085499 |  But Liverpool, only the three changes,
+[165.28 - 169.28] P:1766.36 E:0.102837 |  not wholesale changes, that Arnav Slott making today.
+[170.16 - 172.72] P:1729.33 E:0.119656 |  That was certainly the question before the game,
+[172.72 - 175.64] P:1838.49 E:0.106213 |  with that Liverpool would make a lot of changes,
+[175.64 - 179.20] P:1730.20 E:0.111308 |  looking ahead to huge Champions League,
+[179.20 - 183.08] P:1623.29 E:0.120162 |  right here at Anfield on Tuesday against PSG.
+[183.08 - 185.52] P:1686.35 E:0.111486 |  But it's one of those, I think, before the start of the season,
+[185.52 - 188.36] P:1739.58 E:0.109263 |  Liverpool fans wanted to see their team win the Premier League,
+[188.36 - 191.16] P:1648.12 E:0.089957 |  and they want to get the job done as quickly as possible.
+[191.16 - 194.64] P:1734.58 E:0.102762 |  But Arnav Slott focusing on the task in hand,
+[194.64 - 196.64] P:1831.30 E:0.115708 |  and showing respect to Sal Hanson.
+[196.64 - 199.20] P:1825.28 E:0.106871 |  Goal at the stadium of line in the championship, John Bennett.
+[199.24 - 202.96] P:1821.38 E:0.126503 |  Sunderland won, Cardiff City, Niel, Elisa Mayender again.
+[202.96 - 205.40] P:1809.00 E:0.104710 |  He scored two in his last game, he's scored now.
+[205.40 - 207.28] P:1561.61 E:0.112439 |  Awful playing out from the back from Cardiff.
+[207.28 - 209.60] P:1737.86 E:0.107369 |  Sunderland won it back, Mayender made no mistake.
+[209.60 - 211.32] P:1695.39 E:0.099768 |  Sunderland won, Cardiff, Niel.
+[211.32 - 214.80] P:1690.54 E:0.107658 |  Bottom of the table, Derby County taking on Blackburn today.
+[214.80 - 216.48] P:1885.15 E:0.100820 |  Lee Blakeman, you've seen a goal.
+[216.48 - 220.40] P:1764.27 E:0.107620 |  The first goal of the John Eustice era has been scored by Craig Forsythe.
+[220.40 - 224.32] P:1603.47 E:0.094812 |  Cross-in found Forsythe at the back post, beat the keeper well.
+[224.32 - 226.32] P:1781.47 E:0.088321 |  Derby won Blackburn, Niel.
+[226.36 - 229.56] P:1716.16 E:0.119618 |  Certainly going to be a pivotal afternoon in the Football League.
+[229.56 - 232.84] P:1860.28 E:0.103098 |  We'll keep you across it, whether at the Championship League 1 or League 2,
+[232.84 - 234.48] P:1741.66 E:0.107349 |  as well as focusing on the Premier League.
+[234.48 - 237.92] P:1762.35 E:0.095718 |  We've also got John Southall at Brighton, Chris Coles at Crystal Palace,
+[237.92 - 240.52] P:1714.25 E:0.101774 |  in the two other games in the Premier League.
+[240.52 - 243.52] P:1666.46 E:0.107549 |  After earlier, Nottingham Forest beat Manchester City by a goal to Niel.
+[243.52 - 245.80] P:1811.61 E:0.100634 |  Talking of Chris Coles, let's go to Selhurst Park.
+[245.80 - 249.52] P:1731.12 E:0.111845 |  Lively start, still Palace, Niel, Ipswich, Niel, two big chances apiece,
+[249.52 - 252.28] P:1692.62 E:0.106716 |  and Kettier well saved by Palmer and Phyllegene,
+[252.28 - 254.96] P:1567.49 E:0.104851 |  forcing a good save from Henderson, Niel Niel.
+[255.00 - 258.72] P:1742.54 E:0.109062 |  Savoslai outside the centre-circle, just tried to nick the ball towards Gravenburg.
+[258.72 - 263.56] P:1846.86 E:0.091379 |  Southampton have it, Dibbling with his socks rolled down.
+[263.56 - 266.72] P:1743.68 E:0.103897 |  The young Southampton player, Curtis Jones in field,
+[266.72 - 269.80] P:1720.89 E:0.091069 |  Dias able to turn, holds off one challenge,
+[269.80 - 273.92] P:1690.24 E:0.091076 |  and then it was Bednareka who went to ground and got the ball for Southampton.
+[273.92 - 276.44] P:1827.30 E:0.110034 |  Dibbling then loses the ball once again,
+[276.44 - 279.40] P:1842.29 E:0.107489 |  Liverpool's desire to win it back, so evident.
+[279.40 - 282.92] P:1764.28 E:0.112461 |  Yes, Southampton just cannot get up the pitch at this moment in time.
+[282.92 - 289.92] P:1871.96 E:0.103354 |  Liverpool smothering Southampton when they do try and play out from the back.
+[291.44 - 295.52] P:1745.31 E:0.096239 |  Alexander-Arnold forward, front of the Sakenidawglesch stand,
+[295.52 - 298.32] P:1698.06 E:0.099476 |  midway through the Southampton half, slides the ball in,
+[298.32 - 302.48] P:1756.60 E:0.115668 |  laid back out to Gravenburg, cuts it in, here is Mo Salak, comes to Jones!
+[302.48 - 304.52] P:1910.81 E:0.100496 |  Jones puts it wide.
+[304.52 - 307.24] P:1851.48 E:0.120188 |  He was just inside the penalty area right footed,
+[307.24 - 309.92] P:1859.34 E:0.114742 |  and that was just away from the left hand post, Niel Niel.
+[309.92 - 314.52] P:1790.42 E:0.114068 |  He knows his reaction, tells you everything, Curtis Jones, he should have scored.
+[314.52 - 318.48] P:1654.51 E:0.119206 |  They work it well down the right hand side, ball into Salak, pop back,
+[318.48 - 321.36] P:1555.59 E:0.105402 |  and then outright, and the ball fed back to...
+[321.36 - 323.52] P:1532.35 E:0.099503 |  Salak couldn't get a shot off,
+[323.52 - 327.28] P:1750.89 E:0.098073 |  and the ball's prodded towards Curtis Jones from the Southampton defender.
+[327.28 - 332.76] P:1683.83 E:0.076364 |  He's 12 yards out, and he's got to bury that, didn't hit the target.
+[332.76 - 335.40] P:1646.42 E:0.093108 |  Pass the right hand post of Ramstail.
+[335.40 - 337.84] P:1823.95 E:0.104745 |  On a slot, watching from the stands again,
+[337.84 - 341.36] P:1820.27 E:0.097814 |  as he serves the second of his two-match touchline van,
+[341.36 - 343.60] P:1874.94 E:0.110092 |  for his antics against Everton,
+[343.60 - 347.44] P:1757.96 E:0.098382 |  that also resulted in a £70,000 fine,
+[347.44 - 351.48] P:1721.56 E:0.102078 |  as we welcome listeners to the BBC World Service,
+[351.48 - 353.96] P:1787.90 E:0.107295 |  to Anfield, Liverpool against Southampton,
+[353.96 - 356.40] P:1705.40 E:0.093637 |  so wherever you are in the world,
+[356.40 - 360.72] P:1684.53 E:0.092817 |  it's a pleasure to have your company on this Saturday afternoon.
+[360.72 - 363.16] P:1573.20 E:0.105482 |  So, Niel Niel here, Niel Niel at Selhurst Park.
+[363.20 - 366.40] P:1841.74 E:0.088660 |  What's the early stages like at the Amex, John Southall?
+[366.40 - 368.84] P:1382.31 E:0.117232 |  Well, it's the same here, Ian Brighton Niel, full of Niel.
+[368.84 - 370.80] P:1440.66 E:0.107609 |  Live, we start to the game, though, for Brighton,
+[370.80 - 372.80] P:1652.53 E:0.107555 |  Matoma flying down the left-hand side,
+[372.80 - 375.84] P:1438.23 E:0.106480 |  cutting his shot saved by Leno Brighton Niel, full of Niel.
+[375.84 - 378.12] P:1838.71 E:0.103844 |  Jones, just beside his own half,
+[378.12 - 380.56] P:1755.21 E:0.077009 |  strokes the ball back to Allyson.
+[380.56 - 382.72] P:1634.53 E:0.086796 |  The performance of his life.
+[382.72 - 386.80] P:1780.39 E:0.100514 |  He described his superb heroics against Paris Saint-Germain
+[386.80 - 389.56] P:1628.69 E:0.084203 |  in midweek in the Champions League.
+[389.56 - 393.04] P:1783.01 E:0.111197 |  We will be live here on Tuesday night for yet more...
+[393.08 - 397.64] P:1763.65 E:0.095461 |  European action during the week on BBC Radio 5 Live and BBC Sounds.
+[397.64 - 399.40] P:1804.17 E:0.096427 |  It should be some occasion,
+[399.40 - 402.20] P:1665.57 E:0.096659 |  Liverpool against Paris Saint-Germain here on Tuesday.
+[402.20 - 403.84] P:1824.03 E:0.103639 |  Another goal at Derby, Lee Blakeman.
+[403.84 - 406.76] P:1745.78 E:0.106070 |  Another one for Derby. Derby, two, Blackburn, Niel.
+[406.76 - 409.52] P:1709.61 E:0.101369 |  Low ball in from the right, picked out Ebu Adams,
+[409.52 - 410.88] P:1674.45 E:0.098647 |  scrambling the area.
+[410.88 - 414.40] P:1708.02 E:0.095562 |  Adams put it in, two goals in six and a half minutes,
+[414.40 - 416.80] P:1733.54 E:0.088273 |  and the bottom club, Lee Blackburn, two, Niel.
+[416.80 - 418.88] P:1777.55 E:0.102833 |  There you are, bottom. They're seven points adrift,
+[418.88 - 422.28] P:1844.96 E:0.107979 |  without a win in 12, but John Eustis against his old side.
+[423.12 - 426.72] P:1808.25 E:0.096986 |  Setting Blackburn Rovers and their playoff aspirations
+[426.72 - 428.40] P:1806.60 E:0.079962 |  with that current score line.
+[428.40 - 430.88] P:1746.51 E:0.078343 |  Seven minutes played here. What have you made of the start, Chris?
+[430.88 - 434.72] P:1847.67 E:0.097015 |  Well, Southampton just getting a bit of a foothold in this game,
+[434.72 - 437.40] P:1612.78 E:0.101891 |  and trying to press Liverpool a bit higher up the pitch.
+[437.40 - 440.56] P:1703.58 E:0.091228 |  Liverpool will build up play a little bit better
+[440.56 - 444.04] P:1668.86 E:0.087438 |  than Southampton's structure at this moment in time.
+[444.04 - 445.60] P:1713.25 E:0.105980 |  But from their perspective,
+[445.60 - 448.60] P:1739.17 E:0.103341 |  it's a case of hanging on in there in this game.
+[449.40 - 452.12] P:1699.00 E:0.100797 |  I mean, it's like getting an opportunity trying, Nick,
+[452.12 - 453.96] P:1533.66 E:0.116561 |  but their season's over, isn't it, really?
+[453.96 - 455.40] P:1686.76 E:0.088028 |  They're going to go down.
+[455.40 - 457.60] P:1648.09 E:0.112975 |  I think they need to win something like seven or eight games,
+[457.60 - 459.40] P:1704.77 E:0.108057 |  the one-two all-season Southampton.
+[460.72 - 462.28] P:1825.34 E:0.120997 |  Yeah, talking of Derby County,
+[462.28 - 466.28] P:1683.96 E:0.104256 |  as well as with those two goals that we've heard there in the East Midlands,
+[466.28 - 468.84] P:1657.89 E:0.104940 |  Southampton will want to avoid that tag of being
+[468.84 - 472.92] P:1690.66 E:0.086909 |  the worst side in Premier League history that currently is Derby County.
+[472.92 - 478.52] P:1848.91 E:0.095833 |  But in fact, when Derby County muster just the 11 points in 0-7-08,
+[479.00 - 483.36] P:1706.97 E:0.106664 |  like Southampton, they had nine points at this stage of the season.
+[484.36 - 486.08] P:1738.87 E:0.113482 |  It's 0-0. It's the Premier League.
+[486.08 - 489.24] P:1974.48 E:0.104748 |  Five live and BBC sounds also live on the World Service,
+[489.24 - 493.08] P:1832.13 E:0.084105 |  as the ball is stroked by Canate out towards Alexander-Arnold
+[493.08 - 494.28] P:1602.21 E:0.098725 |  in field to Gravenberg.
+[494.28 - 497.32] P:1684.49 E:0.071644 |  Gravenberg, who I thought was just hobbling a fraction
+[497.32 - 500.68] P:1716.39 E:0.101414 |  after a challenge earlier on, I think, with Fernandez and his persistence,
+[500.68 - 503.04] P:1742.75 E:0.092288 |  it goes behind and out for a goal kick.
+[503.04 - 504.76] P:1759.40 E:0.104904 |  Half-time then in Dublin, James Burridge.
+[504.76 - 508.36] P:1890.83 E:0.101879 |  A monster penalty from Sam Prendergast from 50 metres,
+[508.36 - 510.12] P:1693.57 E:0.106213 |  brings Arland to within two.
+[510.12 - 511.72] P:1738.53 E:0.080064 |  Eight points to six.
+[511.72 - 512.92] P:1697.68 E:0.107765 |  France lead at half-time.
+[512.92 - 516.68] P:1656.89 E:0.093126 |  Bielbari with a try, low and Antoine Dupont out.
+[517.80 - 520.20] P:1772.44 E:0.095985 |  Mentioned the second half will be on Sports Extra.
+[520.20 - 523.16] P:1735.76 E:0.087871 |  Also talked about the Cheltenham Festival on Sports Extra.
+[523.16 - 526.36] P:1688.69 E:0.107252 |  India, New Zealand in the Champions Trophy cricket final tomorrow.
+[527.16 - 529.00] P:1662.52 E:0.098562 |  Nine o'clock, the coverage will start.
+[529.00 - 531.64] P:1727.49 E:0.082851 |  That too will be on Sports Extra.
+[531.72 - 534.84] P:1694.31 E:0.096563 |  As Ram Steyl, away towards our left with a goal kick,
+[534.84 - 538.44] P:1715.85 E:0.090038 |  bounces away off at Dibbling, tries to win it back, succeeds,
+[538.44 - 540.92] P:1911.87 E:0.095109 |  then gives it and shows too much to Simicast.
+[540.92 - 544.92] P:1746.85 E:0.098339 |  And now Gravenberg will play it short, then in field, Canate,
+[544.92 - 547.64] P:1661.58 E:0.099926 |  just stands on the ball and plays it back towards Gravenberg,
+[547.64 - 551.16] P:1703.83 E:0.091926 |  who is coming forward now outside the centre-circle,
+[551.16 - 552.84] P:1733.77 E:0.094410 |  along the ground towards Simicast.
+[552.84 - 555.24] P:1848.00 E:0.108461 |  Look for that ball over the top four, Diaz to chase.
+[555.80 - 559.16] P:1771.91 E:0.109487 |  Harwood Bellis will try and get there and did just about get there,
+[559.16 - 562.60] P:1850.29 E:0.104318 |  and Diaz has gone crashing into the advertising hoardings
+[562.60 - 564.04] P:1764.52 E:0.115476 |  and might have taken a blow to the head.
+[564.04 - 564.20] P:1958.06 E:0.103080 |  Yeah.
+[565.48 - 568.60] P:1716.11 E:0.108561 |  That looks to be a really sore one for Diaz.
+[570.04 - 572.12] P:1585.82 E:0.102528 |  Tried to keep the ball in play.
+[572.12 - 575.56] P:1754.43 E:0.097006 |  Harwood Bellis made the challenge and then it's a follow-through.
+[576.76 - 584.68] P:1654.59 E:0.084758 |  As he slides down a little incline and he hammers his head into the advertising boards.
+[585.64 - 587.40] P:1678.82 E:0.102366 |  I'm seeing that again.
+[587.40 - 590.76] P:1731.40 E:0.107407 |  That's a... Just hope he's all right, really.
+[590.76 - 592.44] P:1739.00 E:0.090251 |  There's some clatter to his head.
+[593.48 - 596.44] P:1760.37 E:0.115116 |  I said Harwood Bellis, it was actually bad and direct, my apologies.
+[596.44 - 599.40] P:1870.46 E:0.110011 |  But Diaz is back on his feet.
+[600.68 - 603.16] P:1812.74 E:0.117647 |  Supporters singing his name here inside Anfield.
+[603.16 - 608.36] P:1743.25 E:0.085848 |  It remains 0-0, 10 minutes played between Liverpool and Southampton.
+[608.36 - 610.28] P:1805.70 E:0.101733 |  So a corner kick for the league leaders,
+[610.92 - 614.28] P:1730.76 E:0.095888 |  that Alexander-Ranould is going to take on this near side.
+[614.36 - 617.88] P:1767.88 E:0.097035 |  At the Anfield road end of the ground, half of that bottom tier
+[617.88 - 621.40] P:1766.79 E:0.091948 |  allocates it to the Saints supporters and they've packed it too.
+[621.40 - 626.04] P:1638.75 E:0.088168 |  In it comes now and then headed out on this occasion by Harwood Bellis.
+[626.04 - 630.28] P:1707.90 E:0.096673 |  But they're played out by Simicast that forces Gravenburg out very, very wide
+[630.28 - 631.64] P:1730.92 E:0.099443 |  and he can't keep the ball in place.
+[631.64 - 632.60] P:1751.03 E:0.093423 |  Southampton throw.
+[632.60 - 635.80] P:1566.20 E:0.083187 |  And do you know what, from Southampton's point of view, Ian,
+[635.80 - 639.00] P:1577.56 E:0.093554 |  it's been a health thing, they've had a pretty decent start here.
+[639.00 - 640.68] P:1923.35 E:0.103857 |  There was a chance for Curtis Jones,
+[641.64 - 644.92] P:1455.02 E:0.102710 |  but they just, I don't think, 10 minutes on the clock and
+[646.28 - 648.68] P:1671.91 E:0.111074 |  kept it at a nil so far, they'll try and
+[649.56 - 654.76] P:1663.92 E:0.095371 |  gain little victories in this game early on and not give away a cheap goal.
+[654.76 - 656.60] P:1592.80 E:0.097814 |  If Liverpool need to score a goal,
+[656.60 - 659.32] P:1711.75 E:0.088375 |  it'll have to be a moment of quality, a moment of brilliance
+[659.32 - 661.08] P:1672.55 E:0.084854 |  and have to defend set-piece as well.
+[661.80 - 664.20] P:1637.67 E:0.097398 |  And then try and carry a threat of their own eventually.
+[665.00 - 669.08] P:1764.77 E:0.089754 |  They've lost their last six league visits with an aggregate scoreline of
+[669.80 - 671.24] P:1689.91 E:0.116555 |  19 goals to one.
+[672.12 - 676.12] P:1731.23 E:0.099638 |  In fact, it was 2013, the last time that Southampton won here
+[676.12 - 678.12] P:1687.13 E:0.089546 |  and it was the former Liverpool player.
+[678.12 - 679.88] P:1749.26 E:0.099423 |  He went on to the play for Liverpool,
+[679.88 - 682.12] P:1659.49 E:0.093296 |  Dayan Lovren, who got the goal for Saints that day.
+[682.12 - 684.92] P:1669.34 E:0.111260 |  Bristol Robersley had us feel down by a goal to a late Norian,
+[684.92 - 688.20] P:1689.10 E:0.105378 |  nil Northampton, down one, a latest scores in league one.
+[689.00 - 692.04] P:1740.52 E:0.100127 |  In the Premier League, it's still nil-nil here, top against bottom.
+[692.04 - 695.40] P:1684.57 E:0.080468 |  Gravenburg out towards Alexander Radell,
+[695.40 - 698.12] P:1807.04 E:0.085191 |  who slowly passes the ball to Mo Salah,
+[698.12 - 698.92] P:1678.41 E:0.094020 |  running at Manning.
+[699.80 - 701.88] P:1618.52 E:0.109973 |  Level the area, Manning gets a foot into the challenge
+[701.88 - 704.12] P:1761.14 E:0.097728 |  and his right foot forces the ball out of play for a throw.
+[704.12 - 705.80] P:1723.06 E:0.089832 |  He dealt with it well there, Manning.
+[705.80 - 708.04] P:1621.33 E:0.114311 |  First 1v1 for Mo Salah, driving.
+[708.84 - 710.20] P:1673.85 E:0.120247 |  Trying to get on the outside.
+[711.00 - 713.00] P:1710.30 E:0.121257 |  Just a little bit slow now from Liverpool,
+[714.04 - 716.60] P:1738.80 E:0.107931 |  with their passing, lacking a little bit of pace
+[716.60 - 719.00] P:1722.74 E:0.113578 |  and that allows Southampton to get back into their shape
+[719.56 - 722.36] P:1563.65 E:0.085378 |  and their positioning and make it difficult to play through.
+[722.36 - 725.32] P:1706.75 E:0.080861 |  Dias flicks the ball in field, reaches Gravenburg.
+[725.32 - 728.12] P:1838.31 E:0.105175 |  30 yards out from goal, short forward ball back towards Dias,
+[728.12 - 730.84] P:1782.99 E:0.090115 |  runs into trouble, manages to nick it towards Savoslai,
+[730.84 - 733.00] P:1906.83 E:0.095262 |  helps it on its way out towards Salah.
+[733.00 - 734.92] P:1717.01 E:0.101483 |  Still 25 yards out, forward ball,
+[734.92 - 736.60] P:1806.28 E:0.086011 |  Ukechukul headed away,
+[736.60 - 739.72] P:1755.14 E:0.090938 |  Dibbling has Simakas snapping at his heels,
+[739.72 - 742.76] P:1798.46 E:0.115616 |  but again, Jones, those desire levels for Liverpool
+[742.76 - 744.28] P:1813.29 E:0.112035 |  to win the ball back so quickly.
+[745.16 - 746.60] P:1796.09 E:0.113637 |  And Dibbling has been unfortunate
+[746.60 - 749.00] P:1777.07 E:0.108609 |  because he must have lost it about four or five times already
+[749.00 - 750.36] P:1822.86 E:0.086401 |  the Southampton youngster.
+[750.36 - 752.68] P:1684.62 E:0.118887 |  He's the one, isn't he, Dibbling, where you think,
+[752.68 - 754.28] P:1712.66 E:0.101685 |  if Southampton want to get up the pitch,
+[754.28 - 757.00] P:1636.64 E:0.097493 |  he is a dribbler, he is a ball carrier.
+[758.52 - 760.28] P:1699.25 E:0.113403 |  Interesting the way they've set up there.
+[761.16 - 766.12] P:1561.93 E:0.097173 |  You know, in a 4-4-2, going back and it has Fernandez playing
+[766.12 - 769.96] P:1614.24 E:0.102056 |  furthest forward, but they're set up to contain and frustrate
+[769.96 - 773.96] P:1519.64 E:0.087355 |  and that's what they have done in these early stages.
+[775.40 - 777.56] P:1740.58 E:0.113245 |  There's been a goal at Ashton Gate in the championship,
+[777.56 - 779.08] P:1736.50 E:0.108199 |  Bristol City have fallen behind,
+[779.08 - 780.76] P:1767.47 E:0.111722 |  Bristol City, Neal Hall City won.
+[780.76 - 782.44] P:1608.13 E:0.101368 |  Details of that goal from Oanguina.
+[783.08 - 786.20] P:1693.90 E:0.105211 |  Well taken goal by Jal Pedro, a lovely turn in the box
+[786.20 - 788.60] P:1832.78 E:0.089211 |  by the centre forward, centre back Rob Dickey,
+[788.60 - 791.00] P:1743.61 E:0.094322 |  slipping Pedro, side-fussing past the keeper,
+[791.00 - 793.88] P:1597.90 E:0.099431 |  his sixth of the season, Hall City, a goal ahead,
+[793.88 - 795.64] P:1545.05 E:0.082054 |  Bristol, Neal Hall City won.
+[796.28 - 798.36] P:1749.18 E:0.108720 |  Thank you, Oanguina, early on in the championship,
+[798.36 - 801.56] P:1752.84 E:0.104499 |  Coventry City beat Stoke City by three goals to two,
+[801.56 - 804.20] P:1755.65 E:0.108007 |  Southampton almost getting caught out by playing it out
+[804.20 - 805.88] P:1701.11 E:0.097691 |  from the back, but they get away with it.
+[805.88 - 808.44] P:1819.73 E:0.101138 |  Ramsdale's forward ball can't release Sulamana,
+[808.44 - 811.08] P:1891.58 E:0.116423 |  Watford 1-0, wall two was the result at Dickey, which was right.
+[811.16 - 813.48] P:1842.55 E:0.114547 |  That was like the old Russell Martin ball, wasn't it?
+[814.84 - 818.52] P:1663.28 E:0.094444 |  Did just get away with it, small-bone under real pressure,
+[819.40 - 822.28] P:1525.94 E:0.090247 |  and the ball eventually going back to Ramsdale,
+[822.28 - 823.72] P:1687.33 E:0.095074 |  who hoofed the ball clear.
+[824.68 - 827.72] P:1627.22 E:0.102488 |  Liverpool so good with the press, they're on to Southampton.
+[829.16 - 833.48] P:1853.24 E:0.105928 |  Here is small-bone, runs it forward, shows too much to Canate,
+[833.48 - 836.60] P:1752.74 E:0.095417 |  slides in, wins the ball, Van Dyke, a former Southampton player,
+[836.60 - 839.88] P:1842.89 E:0.083017 |  of course, Jones came under pressure from Ugochukwu.
+[839.88 - 842.20] P:1732.07 E:0.100666 |  Canate then passes the ball out to Gravenberg,
+[842.20 - 844.04] P:1957.76 E:0.095448 |  who's out towards that right touch line,
+[844.84 - 847.24] P:1712.38 E:0.101078 |  bypasses Alexander-Arnold on both occasions,
+[847.24 - 849.56] P:1844.46 E:0.078059 |  the two players, as it's back with Canate.
+[849.56 - 852.84] P:1703.42 E:0.083895 |  Alexander-Arnold again wants it now and gets it,
+[852.84 - 855.24] P:1748.38 E:0.098785 |  and his forward ball looks for the run of Nunes,
+[855.24 - 857.16] P:1677.77 E:0.103555 |  and then two Southampton players collide.
+[857.72 - 860.60] P:1740.39 E:0.075113 |  That was Manning coming in,
+[861.96 - 864.12] P:1648.66 E:0.101431 |  and it was also going to be Bednarek,
+[864.12 - 866.52] P:1615.94 E:0.080684 |  and they've clashed heads and they've both gone down.
+[866.52 - 869.96] P:1744.34 E:0.083723 |  That's an absolute sickness, and there's concern here
+[872.04 - 877.32] P:1727.36 E:0.077802 |  for both players, eyes on the ball, both of them,
+[877.32 - 881.32] P:1610.18 E:0.082817 |  and then they clash heads, and I've got to say Bednarek,
+[883.00 - 885.56] P:1567.02 E:0.076668 |  looks like Manning is okay.
+[885.56 - 889.56] P:1753.51 E:0.086830 |  Bednarek is down in a pretty awkward position there,
+[889.56 - 890.76] P:1667.30 E:0.081467 |  let's just hope he's all right.
+[891.32 - 893.24] P:1750.00 E:0.102340 |  Yep, Manning has set up,
+[893.24 - 896.20] P:1699.62 E:0.084534 |  but Bednarek is still flat out at the moment.
+[896.20 - 898.36] P:1705.83 E:0.097292 |  There's now been ascending off at Ashton Gate, oh, and...
+[899.00 - 902.52] P:1784.24 E:0.096446 |  Goal score to Jal Pedro has received a red card,
+[902.52 - 906.12] P:1803.21 E:0.097724 |  landing in on George Tanner, late referee can run across,
+[906.12 - 908.28] P:1787.44 E:0.087497 |  brandished the red card, whole city,
+[908.28 - 912.12] P:1669.59 E:0.093690 |  a goal ahead, up to 10 men, Jal Pedro off the field.
+[912.68 - 915.24] P:1835.00 E:0.104610 |  Manning is onto his feet now, he looks okay,
+[915.24 - 917.16] P:1795.29 E:0.091230 |  Bednarek is still being treated,
+[917.16 - 921.16] P:1794.58 E:0.091773 |  and they're taking quite rightly the due care and attention of two physios,
+[921.16 - 924.76] P:1756.96 E:0.086772 |  they're just holding the head and talking to Jan Bednarek.
+[924.76 - 927.32] P:1728.25 E:0.097083 |  Brarrow leading Ackrington, Stanley by a goal to Nill,
+[927.32 - 930.52] P:1724.53 E:0.090404 |  we've got a lengthy stoppage then here at Anfield,
+[930.52 - 934.84] P:1844.49 E:0.088262 |  we will go to Crystal Palace against Ipswich Town and Chris Coles.
+[934.84 - 937.24] P:1916.18 E:0.113138 |  Which is still 0-0, 15 minutes old,
+[937.24 - 941.00] P:1667.21 E:0.104927 |  but Crystal Palace just beginning to stamp their authority on this game,
+[941.00 - 943.24] P:1557.28 E:0.103067 |  a couple of decent chances, Jefferson Lerma,
+[943.24 - 945.64] P:1709.53 E:0.104293 |  shot from the edge of the area, well found by Munoz,
+[945.64 - 947.88] P:1669.44 E:0.093194 |  Lerma, fraction of space, right foot shot,
+[947.88 - 950.76] P:1511.90 E:0.089405 |  just dragged it a couple of yards wide of the left hand posed.
+[950.76 - 952.28] P:1618.27 E:0.098962 |  Palace, Nill, Ipswich, Nill.
+[952.28 - 954.68] P:1714.36 E:0.102900 |  Still Brighton and Hove Alvian, Nill, full of Nill,
+[954.68 - 957.72] P:1822.46 E:0.090558 |  earlier at the City Ground, Nottingham Forest Peak Manchester City,
+[957.72 - 960.60] P:1814.20 E:0.103072 |  by a goal to Nill, we know that fourth place Sunderland,
+[960.60 - 963.64] P:1860.27 E:0.091557 |  a leading Cardiff City, by a goal to Nill,
+[963.64 - 966.12] P:1905.88 E:0.094694 |  they've got Burnley and Sheffield United above them,
+[966.12 - 967.72] P:1580.33 E:0.089789 |  at Bramble Lane, it's Julia Vald.
+[967.72 - 970.76] P:1621.88 E:0.097863 |  Yes, it is still Sheffield United Nill, Preston Nill,
+[970.76 - 974.92] P:1627.59 E:0.098959 |  we have 17 minutes gone, but lots of early pressure from Sheffield United,
+[974.92 - 977.80] P:1677.60 E:0.090639 |  Tyrese Campbell's early shot, hit the side netting,
+[977.80 - 979.56] P:1395.96 E:0.097951 |  but still goalless at Bramble Lane.
+[980.44 - 983.00] P:1632.25 E:0.105663 |  Plymouth have fallen behind, Plymouth next to bottom,
+[983.00 - 987.32] P:1770.95 E:0.101317 |  without a win in four, Sheffield Wednesday have just taken the lead,
+[987.32 - 989.88] P:1650.18 E:0.092743 |  and Bellacockchap is going to be coming on,
+[989.88 - 992.92] P:1723.62 E:0.106724 |  because Bednarak at least is sitting up now, Chris Surton,
+[992.92 - 994.36] P:1665.51 E:0.088841 |  which is always a relief.
+[994.36 - 999.96] P:1659.35 E:0.076493 |  Yes, absolutely, but they shouldn't take any risks with head knocks,
+[999.96 - 1005.08] P:1652.46 E:0.083035 |  and that looks a pretty severe one, so Bellacockchap will come on,
+[1005.08 - 1005.80] P:2022.08 E:0.100854 |  like for like.
+[1006.68 - 1009.08] P:1734.22 E:0.089887 |  And I mentioned that goal at home park, here's John Akerz.
+[1009.08 - 1012.04] P:1642.92 E:0.099367 |  Plymouth, Nill, Sheffield Wednesday, one, an own goal from Alkbetter,
+[1012.12 - 1014.52] P:1691.25 E:0.096335 |  cross from the left, he just didn't deal with it,
+[1014.52 - 1017.32] P:1750.41 E:0.102843 |  came off his shins and went in, our goal had started well,
+[1017.32 - 1019.40] P:1743.83 E:0.109211 |  but they're behind, Plymouth Nill Wednesday won.
+[1020.28 - 1026.36] P:1840.32 E:0.094674 |  Well, the stretcher was ready, and it was poised by the four gentlemen
+[1026.36 - 1029.72] P:1770.62 E:0.095355 |  who were willing to carry it, but Bednarak is on his feet,
+[1029.72 - 1032.20] P:1772.42 E:0.096161 |  but he's not going to be in a position to continue,
+[1032.84 - 1035.80] P:1679.85 E:0.112726 |  as we will go to London Road in League One,
+[1035.80 - 1037.48] P:1900.24 E:0.102122 |  where there's been a goal, Adam Whitty.
+[1038.28 - 1040.76] P:1854.33 E:0.106330 |  And it's gone to Peterborough, they lead one Nill over Wickham,
+[1041.08 - 1043.56] P:1872.98 E:0.096773 |  League Mother Sill with a calm and composed penalty,
+[1043.56 - 1046.76] P:1938.36 E:0.090455 |  his 14th of the season, it is Peterborough One,
+[1046.76 - 1048.76] P:1728.70 E:0.062830 |  Wickham Nill with 14 minutes gone.
+[1048.76 - 1051.24] P:1857.60 E:0.096308 |  Jan Bednarak started to walk, and then he stops,
+[1051.24 - 1053.88] P:1777.54 E:0.107487 |  and put his hands on his knees, he really isn't a bad way.
+[1054.84 - 1058.04] P:1782.46 E:0.094530 |  It's not a good look, and it's not worth us speculating,
+[1058.04 - 1060.28] P:1785.92 E:0.103432 |  but with a blow like that,
+[1062.76 - 1064.44] P:1894.05 E:0.124724 |  and the way that he's stooped in,
+[1064.44 - 1067.72] P:1849.43 E:0.106072 |  as he listened to the evasion he's getting,
+[1067.72 - 1070.76] P:1846.25 E:0.110351 |  but there'll be some sort of concussion in there,
+[1070.76 - 1076.12] P:1844.19 E:0.101321 |  how severe it is, anything is as it takes time to recover.
+[1077.72 - 1081.16] P:1765.93 E:0.105666 |  Well, he's getting a nice ovation from the Anfield crowd,
+[1081.16 - 1082.52] P:1717.60 E:0.098493 |  as well as the travelling support,
+[1082.52 - 1084.28] P:1739.89 E:0.082035 |  Jan Bednarak, the Southampton captain,
+[1084.28 - 1085.64] P:1694.28 E:0.104401 |  forced off the field of play,
+[1086.28 - 1090.12] P:1695.34 E:0.102813 |  and it means that Bellacoccia, the German defender,
+[1090.12 - 1094.60] P:1699.11 E:0.094330 |  will come on to replace him in the heart of that Saints back line.
+[1095.32 - 1098.84] P:1867.21 E:0.094401 |  So that was a good four-minute-five-minute stoppage
+[1099.56 - 1101.88] P:1683.12 E:0.105920 |  here at Anfield, where it remains nil-nil,
+[1101.88 - 1105.32] P:1836.93 E:0.077500 |  and Southampton forced into that change,
+[1105.32 - 1108.04] P:1580.22 E:0.094666 |  and there will be a drop ball for Aaron Ramsdale,
+[1108.04 - 1110.92] P:1755.84 E:0.087434 |  as play is going to get underway here,
+[1110.92 - 1114.84] P:1742.71 E:0.090925 |  and Ramsdale will just touch it back into his penalty area,
+[1114.84 - 1115.96] P:1618.45 E:0.097128 |  and then pick the ball up,
+[1115.96 - 1120.04] P:1894.22 E:0.098224 |  and allow those luminous shirts of Southampton's change strip
+[1120.04 - 1122.68] P:1762.56 E:0.097048 |  to move further forward as they attack the Cop End,
+[1122.68 - 1126.44] P:1796.75 E:0.097115 |  but it's an extremely high line from Liverpool who are all in red.
+[1126.44 - 1128.28] P:1737.59 E:0.095486 |  And then Ramsdale gets good distance on that.
+[1128.84 - 1131.32] P:1762.26 E:0.105342 |  Silamano was making the run in behind Canate,
+[1131.96 - 1135.72] P:1790.41 E:0.094428 |  and Alexander-Arnold tried to usher it out for a...
+[1136.52 - 1138.76] P:1615.80 E:0.100795 |  He's actually kept... Didn't keep the ball in play.
+[1138.76 - 1141.00] P:1625.13 E:0.095485 |  No, and I can't believe he didn't really...
+[1142.28 - 1144.04] P:1658.15 E:0.113518 |  Really casual defending.
+[1144.04 - 1148.84] P:1491.07 E:0.089456 |  He had time to get back and clear the ball out for a throw
+[1148.84 - 1150.20] P:1546.73 E:0.081312 |  into Southampton.
+[1150.20 - 1153.88] P:1634.73 E:0.082342 |  Of course, this allows Southampton to put a corner into...
+[1155.72 - 1159.88] P:1618.52 E:0.085225 |  the Liverpool box and try and cause them a problem or two,
+[1159.88 - 1163.56] P:1596.57 E:0.078922 |  but defending really slack from Alexander-Arnold.
+[1163.56 - 1165.88] P:1831.24 E:0.099587 |  Keen to usher it out for a goal kick, got a touch,
+[1165.88 - 1168.76] P:1817.88 E:0.091864 |  and by that point he'd conceded a corner that Smallbone's going to take
+[1168.76 - 1171.00] P:1803.42 E:0.083630 |  in front of the Cop, far side the left, nil-nil.
+[1171.00 - 1173.80] P:1740.24 E:0.104117 |  It's an in-swinger, and Harwood Ballet's got something on it,
+[1173.80 - 1175.56] P:1886.63 E:0.114719 |  six yards out, but didn't have the power,
+[1176.20 - 1180.28] P:1904.69 E:0.109125 |  and after his exertions in Paris in midweek,
+[1180.28 - 1182.20] P:1782.40 E:0.103539 |  that was a comfortable save by Allyson.
+[1183.48 - 1186.68] P:1829.74 E:0.112517 |  But that stoppage in play, you can feel that there's been that lol
+[1186.68 - 1189.48] P:1789.26 E:0.092806 |  and the crowd then just tried to raise Liverpool
+[1190.28 - 1193.32] P:1602.68 E:0.103415 |  as 20 minutes played, it remains nil-nil.
+[1194.52 - 1198.12] P:1672.04 E:0.120971 |  And really, the only scare to Southampton goal
+[1198.12 - 1200.52] P:1636.52 E:0.111484 |  was that one from Jones that he put wide.
+[1201.16 - 1203.48] P:1745.24 E:0.110523 |  There's a clear cut opportunity,
+[1203.48 - 1206.92] P:1598.54 E:0.107956 |  but the most important thing is Liverpool keep moving
+[1206.92 - 1211.00] P:1571.40 E:0.087130 |  the ball quickly, real purpose and pace to the passing,
+[1211.00 - 1212.36] P:1768.23 E:0.094307 |  and they have just slackened off.
+[1214.04 - 1217.16] P:1577.29 E:0.107313 |  Here is Salah. Salah on the right-hand side,
+[1217.16 - 1219.40] P:1721.46 E:0.111003 |  Sir Boss Lyle looks for a return ball to Salah,
+[1219.40 - 1222.20] P:1939.37 E:0.108570 |  tried to cut back inside onto his left foot.
+[1222.20 - 1224.76] P:1795.80 E:0.114036 |  Smallbone was there to clear the ball out of play.
+[1224.76 - 1226.04] P:1806.80 E:0.112634 |  It's a Liverpool throw level,
+[1226.04 - 1228.76] P:1609.63 E:0.102641 |  the penalty area on the right-hand side, five-live.
+[1229.32 - 1232.36] P:1753.35 E:0.112894 |  BBC sounds and we're also live on the World Service.
+[1233.00 - 1234.28] P:1616.34 E:0.105157 |  Where it remains nil-nil.
+[1234.28 - 1235.96] P:1772.33 E:0.095022 |  Lutentown are down to 10-men.
+[1235.96 - 1240.52] P:1738.94 E:0.096261 |  Naismith has been sent off, they're currently drawing away at Burnley.
+[1241.40 - 1243.64] P:1624.75 E:0.100313 |  Nil-nil remains at Turf Moor,
+[1243.64 - 1247.24] P:1765.99 E:0.090014 |  but third place Burnley and beaten in 22 games.
+[1247.24 - 1250.12] P:1694.01 E:0.088468 |  And Lutentown struggling third from bottom,
+[1250.12 - 1254.36] P:1682.31 E:0.085411 |  and now down to 10 after that second bookable offense for K Naismith.
+[1255.00 - 1258.92] P:1684.18 E:0.092925 |  As here is Sir Boss Lyle over the halfway line.
+[1258.92 - 1261.72] P:1742.71 E:0.082107 |  Graven Birx ahead of him, but he's come to a standstill.
+[1261.80 - 1263.72] P:1782.80 E:0.100068 |  Chris, certainly quite rightly said,
+[1264.44 - 1267.08] P:1689.08 E:0.104343 |  the tempo at times can be a little bit slow from the league leaders,
+[1267.08 - 1268.84] P:1736.92 E:0.081620 |  as Van Dijk to Jones.
+[1269.56 - 1271.00] P:1596.07 E:0.096696 |  They've certainly been quick to win it back,
+[1271.00 - 1273.96] P:1663.68 E:0.089594 |  however, when they've not had the ball, here is Diaz,
+[1273.96 - 1276.04] P:1755.79 E:0.102410 |  shown on the inside by Walker-Peters.
+[1276.04 - 1278.76] P:1714.66 E:0.104629 |  They doubled up on this left-hand side, they lose it,
+[1278.76 - 1281.08] P:1686.02 E:0.094198 |  dibbling on the Southampton right,
+[1281.08 - 1284.84] P:1702.97 E:0.092981 |  Ukechukwu now to Walker-Peters, passes the ball in field,
+[1284.84 - 1288.12] P:1731.95 E:0.099189 |  laid off by Fernandez, Smallbone, nicely done,
+[1288.12 - 1291.16] P:1687.05 E:0.107230 |  and worked out now by Grombe, out towards Sulimana.
+[1291.16 - 1292.60] P:1849.01 E:0.088001 |  Southampton are attacking,
+[1292.60 - 1295.72] P:1866.13 E:0.107272 |  Sulimana enters the penalty area, goes past one challenge,
+[1295.72 - 1298.04] P:1862.66 E:0.112418 |  Alexander-Arnold comes through to the corner, Mill Nill.
+[1298.04 - 1301.96] P:1696.80 E:0.114679 |  Yeah, brilliant from Southampton, actually, from deep in their own half,
+[1302.84 - 1305.40] P:1484.12 E:0.114202 |  all the way up the pitch, Switcher played to Sulimana,
+[1305.40 - 1310.76] P:1550.19 E:0.106601 |  who drives on the inside, and Alexander-Arnold's had to stay alert inside his own box.
+[1311.80 - 1315.88] P:1491.40 E:0.089400 |  Smallbone, once again to Whippa Corner,
+[1315.88 - 1319.80] P:1648.99 E:0.095622 |  and Liverpool will be keen on this occasion to get that first contact.
+[1320.76 - 1322.84] P:1738.85 E:0.112238 |  Smallbone then places the ball down,
+[1322.84 - 1325.00] P:1819.49 E:0.105046 |  it's another corner kick on that far side to the left,
+[1325.00 - 1327.56] P:1782.26 E:0.098834 |  as Southampton played from left to right, attacking the cop.
+[1329.24 - 1333.56] P:1804.81 E:0.089562 |  Midway through the first half, Smallbone, another in-swinger,
+[1333.56 - 1337.88] P:1716.43 E:0.099588 |  met by Nunez, comes out to Grombe, hit then by Fernandez,
+[1339.24 - 1343.48] P:1780.50 E:0.117437 |  and then Allison with the save, and he looks for that long ball over the top,
+[1343.48 - 1346.04] P:1846.41 E:0.105922 |  as the Southampton shirts quickly retreat,
+[1346.04 - 1349.40] P:1775.87 E:0.117935 |  Salah though to Alexander-Arnold, and the return ball to Salah,
+[1349.48 - 1353.24] P:1889.05 E:0.112266 |  was just a fraction short, using that sending off Katie Smith.
+[1353.24 - 1355.96] P:1684.41 E:0.123385 |  Now, Burnley-Nill, Luton-Nill, but Luton relegation,
+[1355.96 - 1359.16] P:1574.54 E:0.106085 |  threat Luton down to 10, Calnay-Smith of the back line,
+[1359.16 - 1363.00] P:1658.60 E:0.109177 |  sent off second yellow, sliding in on Josh Brownhill, Burnley-Nill, Luton-Nill.
+[1363.00 - 1367.40] P:1788.80 E:0.107392 |  Doncaster-Rowes have got a second goal, Doncaster-Rowes too, Swindon-Town-Nill.
+[1367.40 - 1370.36] P:1800.70 E:0.104070 |  Doncaster-Hoo were third this morning in league two.
+[1371.00 - 1375.64] P:1723.17 E:0.095911 |  Here is Walker-Peters, ball in field, Ugochukku, lets it roll,
+[1375.64 - 1378.04] P:1715.86 E:0.107476 |  and then he was, referees played a good advantage there,
+[1378.04 - 1380.12] P:1884.27 E:0.106701 |  actually a referee, Lewis Smith from Lancashire.
+[1381.56 - 1383.80] P:1766.78 E:0.117598 |  Only the fifth game in the Premier League this season,
+[1384.60 - 1388.12] P:1718.72 E:0.097126 |  as Smallbone on that left-hand side of the penalty area,
+[1388.12 - 1391.56] P:1779.22 E:0.105543 |  Manning tried to thread it through, comes to Sulamana, no way through,
+[1391.56 - 1394.52] P:1914.52 E:0.115529 |  Grombate was there, Liverpool concede another corner kick.
+[1394.52 - 1396.44] P:1746.92 E:0.112502 |  They only had a bit of defending to do,
+[1397.08 - 1398.44] P:1648.79 E:0.116961 |  haven't made the last five minutes,
+[1398.44 - 1402.12] P:1534.83 E:0.111216 |  Southampton growing in confidence, Sulamana, once again,
+[1403.08 - 1406.68] P:1537.63 E:0.104543 |  good feet to try and get a shot off inside the box,
+[1407.24 - 1410.44] P:1508.39 E:0.090749 |  and Southampton pushing, Liverpool back.
+[1411.48 - 1415.08] P:1766.79 E:0.104853 |  Just for confirmation as well, that substitution for Bellacockchap,
+[1415.08 - 1417.88] P:1681.02 E:0.092573 |  coming on for Bednarak is a concussion substitute,
+[1417.88 - 1422.36] P:1738.38 E:0.104692 |  so Southampton will still be able to use five more substitutes if they so wish.
+[1422.36 - 1424.76] P:1764.66 E:0.111469 |  But now will be Neil Bolton won as the latest scorer in the league,
+[1424.76 - 1427.72] P:1522.66 E:0.099933 |  one year up today. Southampton have another corner,
+[1427.72 - 1430.36] P:1714.56 E:0.104445 |  again it's on the left-hand side, again Smallbone to take it,
+[1430.36 - 1432.76] P:1886.80 E:0.102971 |  goes deep this time, looks for Harwood Bellacke,
+[1432.84 - 1437.72] P:1770.99 E:0.109987 |  clicked away by Liverpool, kept in play by Saboslai on this near side.
+[1437.72 - 1441.88] P:1808.81 E:0.101576 |  Saboslai looks for a long diagonal ball, Fernandez was running back,
+[1441.88 - 1444.60] P:1770.58 E:0.108255 |  and required Bellacockchap to go to ground,
+[1444.60 - 1450.52] P:1871.14 E:0.114303 |  and prevent it from reaching the red shirt of Nunez,
+[1450.52 - 1454.60] P:1781.04 E:0.088394 |  and then the referee, Lewis Smith, who last weekend, would you believe,
+[1454.60 - 1459.16] P:1892.55 E:0.091919 |  was taking charge of Chelmsfield against Werving in National League South,
+[1459.80 - 1465.24] P:1618.51 E:0.104783 |  and here he is, officiating yet again at Anfield, where remains Neil Neil.
+[1465.24 - 1467.00] P:1699.08 E:0.109639 |  We'll go to the Amix, John Southall.
+[1467.00 - 1469.88] P:1492.23 E:0.117820 |  There's Broughton Neil, Fullham Neil, very little between these two sides,
+[1469.88 - 1472.04] P:1372.32 E:0.109615 |  opening for Brighton and Minntay on the right-hand side,
+[1472.04 - 1475.72] P:1474.48 E:0.107256 |  pass Basset, Leono saved it as near post, Brighton, Neil, Fullham Neil.
+[1476.44 - 1477.32] P:1584.10 E:0.109392 |  Did I interrupt you?
+[1477.32 - 1479.16] P:1843.41 E:0.119776 |  Were you going to say something before I went to John?
+[1479.16 - 1482.76] P:1625.94 E:0.071855 |  I don't know, so you don't rate Chelmsfield and Werving then?
+[1482.76 - 1486.84] P:1890.47 E:0.103793 |  No, I was just talking more about the contrast from Chelmsfield to Liverpool.
+[1489.64 - 1494.36] P:1754.80 E:0.105062 |  I do. He has shown 134 yellow cards in his 40 games this season,
+[1494.36 - 1495.80] P:1770.48 E:0.099125 |  as the Lancashire official.
+[1496.52 - 1500.28] P:1650.93 E:0.089712 |  Here is Gravenberg forward, Chris Sutton is with us, Neil Neil.
+[1501.16 - 1505.40] P:1664.83 E:0.087691 |  As it's almost 25 past three on this Saturday afternoon on Merseyside,
+[1505.96 - 1507.24] P:1571.73 E:0.097939 |  for it is a very pleasant day.
+[1508.52 - 1510.44] P:1858.59 E:0.109868 |  It almost feels as if spring has arrived.
+[1510.44 - 1512.52] P:1914.82 E:0.095330 |  We've got a little bit of blue sky, the sun is shining.
+[1513.56 - 1514.52] P:1522.61 E:0.089139 |  It's a little milder.
+[1515.40 - 1517.00] P:1650.07 E:0.107169 |  Neil Neil.
+[1517.72 - 1519.72] P:1795.81 E:0.117404 |  And Luke Warb so far from the league leaders.
+[1519.72 - 1522.68] P:1824.66 E:0.108670 |  Here is Gravenberg, opens up for him, checks back onto his left foot,
+[1522.68 - 1527.56] P:1708.10 E:0.111630 |  still going Gravenberg, overruns it, Alexander Arnold is there, saved by Ramsdale.
+[1528.28 - 1532.04] P:1808.20 E:0.107131 |  Closed him down, quickly went to ground and made the block save.
+[1532.04 - 1536.12] P:1848.19 E:0.098649 |  Now the counter-attack for Southampton, small bone, releases Sulamana,
+[1536.12 - 1538.20] P:1811.34 E:0.097527 |  away on the left-hand side, in field.
+[1538.20 - 1540.76] P:1861.07 E:0.114098 |  Grombeke is going to shoot, no he isn't, edge of the area.
+[1540.76 - 1543.24] P:1880.05 E:0.105240 |  Now he might shoot, he held onto it too long.
+[1543.32 - 1545.80] P:1873.36 E:0.113964 |  Liverpool had too many red shirts and took it off him.
+[1545.80 - 1550.44] P:1839.51 E:0.118188 |  I've got to say, brilliant goalkeeping from Ramsdale, end to end now though.
+[1551.32 - 1554.84] P:1751.80 E:0.096445 |  Here is Salah running forward, midway through the Southampton half,
+[1554.84 - 1558.52] P:1710.69 E:0.112975 |  out to Alexander Arnold, high at the pitch on that far side, the right.
+[1558.52 - 1562.84] P:1708.88 E:0.097444 |  So Bosslite with his dark hair trotting into the Liverpool attack,
+[1562.84 - 1565.88] P:1688.25 E:0.093863 |  and then he passes the ball to Canars, in every outfield player now
+[1565.88 - 1567.72] P:1730.12 E:0.095445 |  is in the half away towards our left.
+[1567.72 - 1569.72] P:1762.60 E:0.104359 |  As Liverpool attack the Anfield road end.
+[1570.44 - 1571.56] P:1757.04 E:0.106470 |  It is still Neil Neil.
+[1572.28 - 1575.80] P:1841.60 E:0.096161 |  Here is Simacas, one of those three changes that Arnault Slott made.
+[1576.36 - 1578.68] P:1749.44 E:0.099984 |  Lewis Diaz has got to get past Walker Peters,
+[1578.68 - 1579.96] P:1693.02 E:0.107931 |  Dibbling's doubled up on him too,
+[1580.68 - 1584.44] P:1719.60 E:0.102926 |  and then Diaz passes the ball in field, Gravenberg looked for a shooting opportunity.
+[1585.48 - 1589.24] P:1819.13 E:0.095218 |  And in the end he's snuffed out, but the ball will rebound to Simacas,
+[1589.24 - 1590.60] P:1665.59 E:0.095956 |  in field now to Van Dijk,
+[1591.24 - 1594.28] P:1839.58 E:0.098334 |  Van Dijk who made 80 appearances and scored seven goals
+[1594.28 - 1596.84] P:1850.27 E:0.088893 |  in his two and a half years on the South Coast.
+[1597.80 - 1601.80] P:1657.07 E:0.089135 |  Alexander Arnold out towards Salah, Salah running at Manning,
+[1602.44 - 1604.60] P:1803.67 E:0.103082 |  enters the penalty area on that far side.
+[1604.60 - 1607.96] P:1727.33 E:0.113501 |  So Bosslite has a go and it noongies with a header over the top, loops over,
+[1608.52 - 1612.68] P:1882.07 E:0.110738 |  and it will go out for a goal kick as Swansea City lead Middlesbrough by a goal to Neil
+[1612.68 - 1615.64] P:1857.72 E:0.107604 |  in the championship, and there's been a try in Ireland, James Burridge.
+[1615.64 - 1618.52] P:1836.89 E:0.100780 |  The perfect start to the second half for Ireland.
+[1618.52 - 1622.36] P:1721.59 E:0.102078 |  Dan Sheehan off the back of the driving mall from a five meter line out,
+[1622.36 - 1624.04] P:1724.74 E:0.096658 |  dived to the right hand side,
+[1624.12 - 1629.40] P:1715.07 E:0.097700 |  Prendergast knocks over the conversion from touch, Ireland lead by 13 points to eight.
+[1629.40 - 1632.68] P:1865.76 E:0.102098 |  commentary continues on sports, extra no other goals to tell you about Chris.
+[1633.64 - 1636.60] P:1661.11 E:0.104063 |  No, it's better from Salah pushing Manning back,
+[1637.56 - 1639.96] P:1793.24 E:0.113291 |  and probing, Manning's got to engage I think.
+[1641.48 - 1646.04] P:1771.18 E:0.104646 |  Maya up and further out, and let Mo Salah drive into the box and the ball eventually,
+[1646.04 - 1649.64] P:1729.06 E:0.097891 |  just a little bit too high for Nunes who couldn't direct his header on target.
+[1649.64 - 1652.20] P:1805.56 E:0.086456 |  We've got Chukwuk back in the St Side,
+[1652.20 - 1657.64] P:1915.18 E:0.104275 |  he was one of the six changes, of course he was ineligible to face his parent club last time
+[1657.64 - 1661.64] P:1911.59 E:0.097208 |  out against Chelsea, but unable to really make any headway on this near side the right,
+[1661.64 - 1665.24] P:1844.88 E:0.084125 |  and it'll be a Liverpool throw with 28 minutes played.
+[1665.24 - 1667.48] P:1783.64 E:0.093458 |  Let's get an update from Salah's Park, Chris Coles.
+[1667.48 - 1671.64] P:1779.58 E:0.100319 |  Crystal Palace, Neil Ipswich, Neil, but the chances continue to flow for Palace and Ketya,
+[1671.64 - 1675.72] P:1694.22 E:0.106934 |  and Ezzah linking up well, Ezzah's shot well blocked, and Enciso at the other end for Ipswich,
+[1675.72 - 1679.00] P:1652.70 E:0.097490 |  a right foot shot, well saved by the diving Dean Henderson.
+[1679.00 - 1680.68] P:1614.31 E:0.096424 |  Alice, Neil Ipswich, Neil.
+[1680.68 - 1685.64] P:1867.15 E:0.099882 |  Alison clears long, he got a lovely ovation as he came out to to warm up,
+[1685.64 - 1689.32] P:1826.00 E:0.119347 |  and the Liverpool crowd got a first sight of him inside the stadium today,
+[1690.04 - 1692.36] P:1806.06 E:0.112508 |  after his performance against Paris Saint-Germain.
+[1693.00 - 1698.36] P:1792.45 E:0.102431 |  As Liverpool get a free kick over on that far side the right, Monday night club from seven,
+[1698.36 - 1701.32] P:1804.90 E:0.109039 |  Tuesday will have commentary of Liverpool Paris Saint-Germain the return,
+[1701.32 - 1704.44] P:1857.77 E:0.105102 |  we're at Villa Park on Wednesday, Preston Miller against Bruges,
+[1704.44 - 1707.16] P:1858.92 E:0.103066 |  and it'll trap it on Thursday, Manchester United against Real,
+[1707.16 - 1710.84] P:1911.18 E:0.086965 |  so she'd had three more successive nights of European football.
+[1712.36 - 1717.00] P:1623.32 E:0.097260 |  Yes, Southampton unhappy about the award of the free kick, but it's a long ball from Alison,
+[1717.72 - 1724.04] P:1840.76 E:0.105584 |  Manning and Salah competing for it, and Manning went down, there was a hand in the back from Salah,
+[1724.04 - 1728.04] P:1690.78 E:0.093906 |  not a strong hand, and Manning threw himself to the floor, gathered the ball up,
+[1728.04 - 1730.92] P:1607.47 E:0.087442 |  and I think the referee and the assistant on the far side,
+[1730.92 - 1734.84] P:1683.55 E:0.102888 |  thought the correct decision gave the free kick to Liverpool, simulation.
+[1735.08 - 1739.40] P:1585.75 E:0.092298 |  That's Chris Sutton, this is BBC Radio 5 Live, 0-0,
+[1739.96 - 1743.80] P:1694.19 E:0.098481 |  Canate out to Alexander-Arnold, plays it in towards Gravenbork, finds the space,
+[1743.80 - 1747.80] P:1870.38 E:0.106499 |  Nunes gets the shot away early, and it was a comfortable save by Ransdale,
+[1747.80 - 1752.92] P:1893.91 E:0.104914 |  one touch, hit it low, left footed, Rumsdale low, low down, comfortable save, 0-0.
+[1752.92 - 1757.48] P:1728.66 E:0.095536 |  Yes, the quickness of pass from Gravenbork, well 30 yards out, just feeds Nunes,
+[1757.48 - 1761.40] P:1892.16 E:0.093450 |  just hit, he can't, he takes a quick first touch with his right foot, swivels,
+[1762.36 - 1766.76] P:1755.18 E:0.099015 |  and tries to drive the ball with his weaker left foot, doesn't catch it cleanly,
+[1766.76 - 1769.24] P:1763.11 E:0.089048 |  and Ramsdale makes a very comfortable save.
+[1770.92 - 1775.64] P:1841.26 E:0.098027 |  15 minutes to go to the break, there will be at least five minutes of added on time for that
+[1776.28 - 1782.92] P:1781.34 E:0.079826 |  head injury to Bednarek, as Van Dyke gets it back from Gravenbork, and then just
+[1783.88 - 1789.08] P:1780.89 E:0.086947 |  strokes it to Simicass, forward ball from Simicass, back with a Liverpool left back,
+[1789.08 - 1794.44] P:1827.52 E:0.093156 |  ex-City leading Shrewsbury Town by a goal to Nill in League One, Van Dyke now will spread the
+[1794.44 - 1799.72] P:1873.96 E:0.095750 |  ball out to Alexander-Arnold, off the chest, hits it early, hits it low, cut out by Manning,
+[1800.36 - 1804.92] P:1792.15 E:0.100495 |  Sulimana back there on defensive duties now, gets away from Alexander-Arnold, who's struggling
+[1804.92 - 1810.28] P:1899.50 E:0.093101 |  to keep up with Sulimana, his ball in field, Fernandez then just touches it, and it breaks down
+[1810.28 - 1816.28] P:1889.85 E:0.110037 |  quite easily. Lewis Diasto wasn't alert, walk of Peter's wasps, steps out of defence and continues
+[1816.28 - 1822.44] P:1790.16 E:0.101699 |  the run, Simicass brings him down, and that will be a Southampton free kick, and a yellow card
+[1822.44 - 1827.88] P:1759.13 E:0.097517 |  is shown to the Liverpool left back Costa Simicass. Yeah, just not quite on the same wavelength at
+[1827.88 - 1834.84] P:1573.93 E:0.093934 |  times the Liverpool players in this first half, and Walker-Peter's ends up with a ball and gets the
+[1834.84 - 1841.24] P:1724.19 E:0.091394 |  other side of Simicass, and it's a rash challenge, it's a yellow card challenge every day of the week,
+[1841.32 - 1847.56] P:1753.59 E:0.073601 |  Southampton breaking on Liverpool, you could say a good foul from Liverpool's perspective,
+[1849.24 - 1854.60] P:1715.55 E:0.095219 |  30-odd yards out, a little bit too far out to shoot in my book, not going to beat the goalkeeper
+[1854.60 - 1862.04] P:1693.60 E:0.084336 |  of Allyson's quality, are they from there Ian? You wouldn't have thought so, it is fractionally
+[1862.04 - 1869.32] P:1731.54 E:0.081933 |  right of centre, but Chris has called it in terms of the distance, 30-35 yards out, small bonus.
+[1869.40 - 1875.96] P:1659.44 E:0.075334 |  The goalkeeper, the form he's in. Could be the quality of the strike from small bone,
+[1876.60 - 1881.40] P:1683.35 E:0.097497 |  in the end he chips it, down with header by Harwood Ballas, Nunez was the one,
+[1882.12 - 1885.16] P:1808.76 E:0.113851 |  don't think he heard the shout from Allyson because there was nobody running behind him,
+[1885.16 - 1890.28] P:1829.88 E:0.101584 |  he's conceded a corner. And do you know what he did the right thing? It was a nervy clearance and
+[1890.28 - 1895.64] P:1705.08 E:0.089402 |  maybe Allyson was there, didn't call early enough, but had a few corners Southampton,
+[1895.64 - 1901.00] P:1679.02 E:0.067776 |  I think this is maybe their fourth, is it? I think you're probably right, fourth or fifth,
+[1901.00 - 1905.40] P:1742.89 E:0.088414 |  small bone and all from that far side to the left, we're going to turf more in a moment,
+[1905.40 - 1910.36] P:1732.90 E:0.085938 |  where there's been a goal, remember Lutentown were reduced to 10 men, they're at third place Burnley,
+[1910.36 - 1917.00] P:1645.74 E:0.083178 |  small bone, with this corner kick for Southampton, nil-nil, 13 minutes to go to half time in the
+[1917.00 - 1922.68] P:1821.35 E:0.084626 |  Premier League, small bone to take it, in it comes now, Van Dijk heads it out, Fernandez tries to
+[1922.68 - 1927.24] P:1808.69 E:0.107053 |  guide the header back out towards small bone and then it's followed away by Alexander-Arnold
+[1928.44 - 1932.92] P:1836.62 E:0.107717 |  and Grunbeck has to get there before Salah and he can't, Salah has gone past him, Salah now with
+[1932.92 - 1937.80] P:1840.26 E:0.105889 |  a cross from the right hand side and Fernandez is there and he should get the ball away for South
+[1937.80 - 1943.80] P:1737.31 E:0.107201 | ampton, so to turf more, Katie Smith. Burnley won 10 man, Lutent, nil and it feels a bit cruel,
+[1943.80 - 1949.40] P:1628.66 E:0.106290 |  an oom golfer sent back McGinnis, brought on to replace Cal Naysmith, he was sent off for a second
+[1949.40 - 1954.28] P:1700.52 E:0.104101 |  yellow across him from the right hand side and he stabbed it home by accident, Burnley won Lutent,
+[1954.28 - 1959.56] P:1818.55 E:0.089131 |  nil. Salah Malera has carried the ball forward to Uga Cikhu, Southampton are just starting to grow
+[1959.56 - 1965.64] P:1658.33 E:0.095700 |  incompetence. Yeah they are but gotta say, what a recovery run from Fernandez there when Salah
+[1965.64 - 1972.44] P:1620.82 E:0.082884 |  got away to the byline and pulled the ball back, right place, right time, to clear up the danger.
+[1972.44 - 1977.16] P:1861.39 E:0.094780 |  Uga Cikhu, short diagonal ball, divelling, Walker-Peters on this near side, the right has to get
+[1977.16 - 1982.52] P:1772.33 E:0.098923 |  away from Simacas and Diaz, helped out by dibbling, right corner of the area, runs in field, looks for
+[1982.52 - 1987.24] P:1839.08 E:0.092324 |  the left footed shot, block, comes back to dibbling, just tried to prod it into the path of Fernandez,
+[1987.24 - 1991.40] P:1852.49 E:0.103352 |  it's dug out by Gravenberg and Liverpool have the ball and then there's a foul there, small
+[1991.40 - 1996.44] P:1905.88 E:0.102547 |  boat on Lewis Diaz, pre-kick to Liverpool, we'll go to find out what's happening in that title
+[1996.44 - 2000.52] P:1805.79 E:0.113817 |  decider, Ireland-France, James Burridge. And France have taken back the lead, albeit
+[2000.52 - 2004.76] P:1650.72 E:0.103450 |  controversially, Bordenhofer has borrowed over from five meters but the crowd in sense because
+[2004.76 - 2009.88] P:1742.48 E:0.119971 |  they felt that Pietro Amani was taken out in the process, Ramos converted but Ireland have also
+[2009.88 - 2015.56] P:1730.08 E:0.109575 |  lost Calvin Nash for at least 10 minutes as it's been referred to the bunker for a head-ahead
+[2015.56 - 2020.44] P:1602.96 E:0.105780 |  or collision with Thomas Ramos, France have the lead back, 15 points to 13.
+[2021.16 - 2026.84] P:1892.64 E:0.093365 |  commentary continues on Sports Extra, Diaz looks for the run of Jones ahead of him left-hand side
+[2026.84 - 2032.84] P:1797.14 E:0.084121 |  of the penalty area, Jones plays it to Simacas, level the box, Jones now makes the run behind him
+[2032.84 - 2038.44] P:1671.76 E:0.079759 |  so he's 25 yards out from goal in field to Gravenberg, back with Van Dyke, Van Dyke to Simacas,
+[2039.16 - 2044.36] P:1750.17 E:0.103122 |  Simacas in field to Diaz but they're playing in front of those luminous yellow shirts of
+[2044.36 - 2049.64] P:1806.35 E:0.090697 |  Southampton, Canate didn't control the ball, it runs past him and through to Alexander-Arnold,
+[2049.64 - 2055.08] P:1749.25 E:0.082474 |  coming back into a central area midway through the Saints half, then Van Dyke along the ground,
+[2055.08 - 2061.96] P:1874.98 E:0.081407 |  Simacas sends over the cross, Nunes climbs, small bone, clears it right footed, Tramir
+[2062.04 - 2068.68] P:1876.65 E:0.085398 |  Rovers nil, Bromley 1 is a ladies' score in League 2, Tramir Rovers struggling in the
+[2068.68 - 2075.00] P:1926.89 E:0.088438 |  nether regions of League 2, the two results earlier incidentally, Wimbledon 2 knocks County Nil,
+[2075.00 - 2081.00] P:1847.51 E:0.083035 |  so Wimbledon go fourth and Walsall the leaders lost again, they've only had two wins in their last
+[2081.00 - 2087.88] P:1867.56 E:0.083954 |  11, Grimsby Town doing their playoff hopes, the world of good, winning 3-1 at the Besscott Stadium
+[2088.68 - 2095.48] P:1786.56 E:0.091333 |  and they were the two results in League 2 and the two results in League 1, Crawley 1, Reading 1,
+[2095.48 - 2101.80] P:1811.77 E:0.079475 |  Stockport County Nil, Charlton Athletic Nil, they've only lost one of their last 11 have
+[2101.80 - 2107.08] P:1937.26 E:0.089470 |  Charlton under Nathan Jones, they're on a really really good run of form, there's been a goal at
+[2107.08 - 2112.60] P:1702.11 E:0.105588 |  Brighton, Johnson out all. Brighton nil full and one, Raoul Hemdener has got the other side of Van
+[2112.60 - 2117.96] P:1792.65 E:0.104816 |  Hecker who should have done better the centre half and finished it off, Brighton nil full and one.
+[2117.96 - 2122.28] P:1924.21 E:0.095859 |  We've got under 10 minutes to go to half time, it remains nil nil, it's also goalless at South
+[2122.28 - 2127.08] P:1890.00 E:0.088282 |  Hurst Park between Crystal Palace and Ipswich, later on we've got commentary of Aston Villa at
+[2127.08 - 2132.04] P:1824.79 E:0.086287 |  Brentford for that 5-30 game in West London, as Dibbling picks it up now for Southampton
+[2132.52 - 2138.04] P:1775.25 E:0.086083 |  and then in field to Fernandez, little touch then the cross and the stretch there was Albert
+[2138.04 - 2142.60] P:1883.32 E:0.105496 |  Grombach, the Danish international just lacked the height to get on the end of that with a connection
+[2142.60 - 2149.08] P:1631.67 E:0.081521 |  goal kick. You just peeled away didn't you on the diagonal from Canate, actually the longer
+[2149.08 - 2157.72] P:1613.28 E:0.078394 |  this game has gone on Southampton, we're fancying this now Fernandez who's playing as a false nine
+[2157.72 - 2166.68] P:1576.65 E:0.070803 |  so is Grombach but being more prominent Fernandez. Haven't won in the last eight visits to
+[2166.76 - 2173.32] P:1936.94 E:0.093382 |  Anfield since a shame long goal in the League Cup semi-final back in 2017, they've failed to score
+[2173.32 - 2178.92] P:1649.14 E:0.083934 |  in seven of those eight visits, it's nil nil here, we've got nine minutes to go to the break but the
+[2178.92 - 2184.60] P:1827.89 E:0.087782 |  St supporters are in good voice in that Anfield road end away towards our left, Subosla in field
+[2184.60 - 2189.56] P:1832.93 E:0.086936 |  to Alexander Ronald, 30 yards out from goal, his ball will go over the top of Bellacotcha,
+[2189.56 - 2194.76] P:1813.88 E:0.087763 |  it'll be kept in play by Simacast with his quick cross, Bellacotcha heads it away then to Dias,
+[2194.76 - 2200.20] P:1818.44 E:0.079109 |  turns outside the area, he waits, faces goal, Liverpool remember playing from right to left,
+[2200.20 - 2204.36] P:1780.39 E:0.093017 |  Simacast on this near side, infield now to Gravenberg they go over League leaders,
+[2205.08 - 2210.20] P:1746.37 E:0.086666 |  Southampton have everybody back behind the ball, they're being patient, Simacast goes down the line,
+[2210.20 - 2216.68] P:1794.59 E:0.087872 |  Dias runs onto it, left hand side of the box, back with Simacast once more, just passes the ball,
+[2216.68 - 2220.52] P:1796.31 E:0.097758 |  10 yards infield to Gravenberg, Alexander Ronald now is in possession,
+[2220.52 - 2224.36] P:1845.16 E:0.099390 |  Salah creates the width on that far side the right and he runs at Manning who backpedals,
+[2224.36 - 2228.20] P:1832.41 E:0.100801 |  they've doubled up on him, Alexander Ronald joins Dias, he's back into the area, his shot left footed,
+[2228.20 - 2233.48] P:1905.80 E:0.104343 |  blocked, will go to Pat Murphy at the Hawthorns in the championship. Still 0-0 here, QPR getting
+[2233.48 - 2238.84] P:1662.46 E:0.112899 |  into this game, Dunn has just hit the side net and Johnson over the bar for West Brom after great
+[2238.84 - 2245.48] P:1775.69 E:0.103520 |  work by Fellows, West Brom nilled QPR-0. Alexander Ronald's low cross, that'll be cleared by Manning,
+[2246.20 - 2252.84] P:1807.50 E:0.098399 |  MK Donz who sacked Scotland, he is their manager last weekend, Ben Gladwin is the interim but
+[2252.84 - 2259.40] P:1743.53 E:0.107889 |  MK Donz has fallen behind, MK Donz nil, Morkham 1, that's in league two, there are no other goals
+[2259.40 - 2263.56] P:1848.59 E:0.085266 |  to tell you about as we have seven minutes to go to the break on this Saturday afternoon.
+[2263.56 - 2267.80] P:1613.33 E:0.096588 |  Yeah and every Sassampton player you mention behind the ball, defending the box when Manning
+[2268.52 - 2274.68] P:1680.30 E:0.090435 |  walled it, walled it at Sassampton left back, there's nobody up the pitch but he hooked it forward
+[2274.68 - 2278.68] P:1721.60 E:0.092768 |  anyway, there's Liverpool straight back on the attack, there goes Dibbling.
+[2278.76 - 2283.08] P:1850.62 E:0.108897 |  Referee has played the advantage as Dibbling will run forward but Gravenberg just running back
+[2283.64 - 2288.36] P:1900.37 E:0.114135 |  and just easily takes it away off his toes and Liverpool see it back to Alisson, another try
+[2288.36 - 2293.88] P:1790.51 E:0.103690 |  in Dublin, James Burridge. An outstanding counter-attack try from France, a second for Louis
+[2293.88 - 2299.56] P:1730.78 E:0.101894 |  Bielbari after Penno, counter-attack from within his own half, Bielbari raised down the left wing
+[2299.56 - 2305.72] P:1697.81 E:0.101054 |  for 30 metres, kicked the ball back inside somehow, managed to win the race to grind the ball down,
+[2305.72 - 2312.20] P:1697.06 E:0.102556 |  Ramos has converted Ireland down to 14 still with Nash in the bin and it's France leading by 22 points
+[2312.20 - 2318.20] P:1849.61 E:0.084142 |  to 13. Commentary continues on Sports Extra, England, Italy tomorrow incidentally there
+[2318.20 - 2323.72] P:1766.60 E:0.085987 |  were commentary from three on the BBC Sport website. Salah enters the penalty area, Salah
+[2323.72 - 2328.60] P:1851.10 E:0.096039 |  tried to thread it back towards the boss line, small bone there with the interception, Fernandez
+[2328.60 - 2334.52] P:1791.51 E:0.084047 |  holds on to it, passes the ball back to Walker Peters inside his own box, Fernandez once again.
+[2335.72 - 2341.40] P:1769.58 E:0.094367 |  Got a look of Catino, hasn't he? Mateus Fernandez. He has actually, I mentioned him a couple of
+[2341.40 - 2347.00] P:1752.47 E:0.086204 |  moments ago, he's been good on the ball, he's been very composed. Fernandez signed him from
+[2347.00 - 2352.68] P:1864.94 E:0.090626 |  Sporting in the summer, the Portuguese midfielder, that diminutive in statue like Philip Catino.
+[2352.68 - 2357.88] P:1800.18 E:0.091242 |  Tramlia Rovers have equalised at Prenton Park, Tramlia 1, Bromley 1 is a latest score in League 2.
+[2357.88 - 2362.52] P:1724.58 E:0.089593 |  It's 0-0 here, this is the Premier League, Fulham are leading at Brighton and Crystal Palace 0,
+[2363.48 - 2368.04] P:1868.11 E:0.088931 |  earlier Forest beat Manchester City by a goal to 0, they moved within three points
+[2368.04 - 2372.68] P:1764.27 E:0.086623 |  of second place Arsenal, Hugo Chukwu forward for Southampton, passes the ball out towards
+[2372.68 - 2377.40] P:1846.86 E:0.101388 |  Dibbling on the right hand side, penalty at the Hawthorns, Pat Murphy. To West Brom, Adam Armstrong
+[2377.40 - 2382.92] P:1727.28 E:0.099970 |  is about to take it right footed, disputed, Cook, the captain of the Queensborough Rangers has been
+[2382.92 - 2388.36] P:1803.76 E:0.111525 |  booked for descent, looked in the innocuous challenge to me, West Brom won't care, it's 0-0,
+[2388.44 - 2393.80] P:1804.01 E:0.106401 |  what a time to get a goal just for half time, here comes Armstrong and this nephatic goal,
+[2394.44 - 2398.52] P:1732.47 E:0.115718 |  right foot finish to the right of the keeper, West Brom 1, Rangers 0.
+[2399.64 - 2402.84] P:1808.25 E:0.104776 |  Thank you Pat and straight to Derby, there's been another goal, Lee Blatman.
+[2402.84 - 2407.96] P:1788.01 E:0.095855 |  Blackburn have got one back, Derby 2, Blackburn 1, ball in from the right, picked out Mac Targay
+[2407.96 - 2412.44] P:1660.02 E:0.091565 |  on the penalty spot and he blasted it into the roof of the net, five to go until half time,
+[2412.44 - 2417.96] P:1752.84 E:0.089893 |  Derby 2, Blackburn 1. Adam Armstrong then with that goal for West Brom a Chalbion,
+[2418.76 - 2429.32] P:1763.27 E:0.080228 |  on loan from Southampton, he just shy of 150 appearances for the Saints.
+[2429.32 - 2435.00] P:1681.93 E:0.076131 |  Yeah I think that's a smart piece of business actually, that West Brom, Adam Armstrong scores
+[2435.00 - 2444.28] P:1901.91 E:0.080532 |  goals at that level. Yes, proven. Newport County are leading at Chesterfield, Chesterfield 0,
+[2444.76 - 2448.84] P:1989.81 E:0.088626 |  Newport County 1 is the latest scoring league too, the ball is at the feet of Allison as
+[2448.84 - 2453.24] P:1825.07 E:0.103568 |  there's been a goal at Burnley in the championship, Katie Smith. And Burnley have doubled their lead over
+[2453.24 - 2459.64] P:1908.07 E:0.107775 |  10 man, Luton, Burnley 2, Luton 0, Lyle Foster this time the ball ricocheting around on the right
+[2459.64 - 2464.84] P:1862.85 E:0.100979 |  hand side of the box, it comes in towards the back post and there's Lyle Foster to stab it home,
+[2464.84 - 2469.48] P:1804.42 E:0.100398 |  Burnley 2, Luton 0. Liverpool really haven't progressed very far as Van Dijk now gives it to
+[2469.56 - 2474.92] P:1837.72 E:0.091880 |  Gravenberg, they are on the halfway line as Van Dijk just jogs his way to join the attack
+[2474.92 - 2482.12] P:1817.32 E:0.088464 |  and now it's with Gravenberg once again, Plymouth Argyll 0, Sheffield Wednesday 2 and it was Breitner
+[2482.12 - 2487.40] P:1835.06 E:0.105997 |  Hobalby 0, Fullham 1 but you've seen another goal, John. Yeah, Breitner equalised, Breitner 1,
+[2487.40 - 2493.24] P:1735.44 E:0.110601 |  Fullham 1, Freak it on the left hand side, met by Jean-Paul Van Hecke with the header off the left
+[2493.24 - 2498.84] P:1744.55 E:0.101935 |  post and it went his first with the club, Breitner 1, Fullham 1. Simicast as a shot was blocked by
+[2498.84 - 2503.24] P:1755.92 E:0.102957 |  Dias, Simicast and Gravenberg contrived to give the ball away, Liverpool win it back though,
+[2503.24 - 2508.84] P:1889.16 E:0.104683 |  here is Jones just outside the penalty area, little ball in for Alexander-Arnold, there comes the cross
+[2508.84 - 2515.64] P:1946.07 E:0.109618 |  and diving and sliding with Manning and it goes behind for Liverpool corner as we have three
+[2515.64 - 2519.64] P:1801.92 E:0.102547 |  minutes to go to the break. Yeah, it's just that final ball for Liverpool, I've got to say Summer
+[2519.64 - 2526.04] P:1668.09 E:0.093114 |  Southamptons last ditch defending has been first glass, firstly Ian Belikotch, I think got the
+[2526.04 - 2531.56] P:1727.56 E:0.090165 |  block from Dias' effort and then Manning in that near post space position, you expect better quality
+[2531.56 - 2536.20] P:1890.29 E:0.104631 |  from Alexander-Arnold but he's in the right place, right time to pop it behind Liverpool corner.
+[2537.16 - 2542.44] P:1962.71 E:0.099205 |  So under three minutes to go, corner kick, we'll be going to Sunderland in a moment but let's just
+[2542.44 - 2546.76] P:1867.81 E:0.100757 |  see what happens with this corner, it's Chesterfield have equalised at home to Newport now 1-1 and it
+[2546.76 - 2551.64] P:1852.86 E:0.093433 |  comes from Simicast, two Southampton players go for the same ball, Howard Bell is downward header
+[2551.64 - 2558.92] P:1779.99 E:0.095895 |  from Jones and then hooked over the crossbar and hooked high by Nunez, MK Don's 1, Morkham 1 is a
+[2558.92 - 2563.72] P:1951.86 E:0.098147 |  latest score in League 2, now at the top of the championship Sheffield United Niel, Preston Niel,
+[2563.72 - 2569.00] P:1909.27 E:0.093967 |  Burnley leading the 10 men of Luton Town by two goals to Niel, Sunderland against Cardiff City,
+[2569.00 - 2574.20] P:1826.23 E:0.107026 |  Sunderland were ahead, John Bennett. Equaliser for Cardiff City, Sunderland won, Cardiff City won,
+[2574.20 - 2579.56] P:1792.98 E:0.100884 |  Isaac Davis with the goal across, wasn't dealt with by the goalkeeper, fell to him back post,
+[2579.56 - 2584.76] P:1836.27 E:0.086804 |  low finish, Sunderland won, Cardiff City won. That's fourth top against fourth bottom,
+[2584.76 - 2590.44] P:1780.46 E:0.078304 |  Plymouth are Gail are next to bottom and not going too good for them this afternoon, John Acres.
+[2590.44 - 2595.24] P:1719.45 E:0.106666 |  Sheffield Wednesday have done really well in this first half, it's Callum Patterson with the goal
+[2595.24 - 2600.12] P:1806.12 E:0.088857 |  to make it 2-0 to potentially keep their season alive, Plymouth Niel, Sheffield Wednesday 2.
+[2600.12 - 2604.84] P:1911.98 E:0.095331 |  Sports report at five will have all the results and all the reaction before Brentford against
+[2604.92 - 2609.56] P:1818.70 E:0.091976 |  Aston Villa at 5.30, Connor McNamara and Matt Upson and then Chris Sutton and Robbie Savage
+[2609.56 - 2617.24] P:1870.67 E:0.085083 |  will take your calls at around 7.30 on 6.06, 08, 08, 05, 9.09, 6.93, we've got 90 seconds to go of
+[2617.24 - 2624.04] P:1822.73 E:0.078721 |  normal time, still expecting quite a bit of added on time here at Anfield, but it remains 0-0 and
+[2624.04 - 2628.04] P:1733.01 E:0.096948 |  as predicted we will be having five minutes as the ball goes over the head of Suboslai,
+[2628.04 - 2633.16] P:1855.77 E:0.095007 |  Salah tries to win it back, they do succeed in getting the ball back, in fact Nunez is a judge
+[2633.16 - 2638.52] P:1867.88 E:0.082864 |  to have handled that ball by the referee Louis Smith. James Burridge watching Ireland France.
+[2639.24 - 2644.44] P:1753.19 E:0.102807 |  France are bossing this second half, two tries and now Thomas Ramos has just knocked over another
+[2644.44 - 2657.24] P:1828.76 E:0.072000 |  penalty, 25 points to 13, France lead. Commentary on Sports Extra as Ramstell takes his time, there is
+[2657.80 - 2664.60] P:1624.95 E:0.078872 |  quite a lull in the atmosphere now here at Anfield as Ramstell hits that so long.
+[2665.16 - 2670.84] P:1860.39 E:0.091698 |  He's meant to do that. But no, that was a good 30 yards ahead of every Southampton player,
+[2670.84 - 2675.08] P:1801.89 E:0.082247 |  one bounce and it was out for a goal kick. That was absolutely ridiculous and he's had a little
+[2675.08 - 2679.88] P:1720.29 E:0.098095 |  look over to the bench, I think that's saying we'd take a point here, isn't it?
+[2681.40 - 2685.56] P:1774.12 E:0.085215 |  Stevenage won Mansfield, they probably would take a point to be fair.
+[2685.56 - 2690.04] P:1854.36 E:0.096657 |  Chesterfield two Newport County ones, so Chesterfield have quickly turned that around with two goals
+[2690.04 - 2695.56] P:1936.09 E:0.086426 |  in the space of three minutes. Will be very soon going into that official five minutes, a minimum
+[2695.56 - 2701.88] P:1801.19 E:0.085945 |  of five minutes here at Anfield as Alexander-Arnold goes towards Nunez. But Bellacotcha was tight
+[2701.88 - 2706.44] P:1866.66 E:0.097525 |  behind him, Smallbone helped out, they released the ball to Sulamana and Alexander-Arnold
+[2706.44 - 2710.04] P:1875.61 E:0.106253 |  runs it out of play for a Southampton throw, so into stoppage time we go, goalers.
+[2710.04 - 2715.88] P:1747.34 E:0.085147 |  Yeah, Sulamana has actually been a good ball carry of the Southampton, got them up the pitch,
+[2715.88 - 2721.00] P:1590.88 E:0.084793 |  driving there, wins his team, a throw in Smallbone, winning the ball back initially,
+[2721.00 - 2726.20] P:1685.85 E:0.084645 |  he's given that backline of Southampton good protection and it's turning out to be an awkward
+[2726.20 - 2732.92] P:1822.79 E:0.073127 |  afternoon for Liverpool, you've got to earn titles, maybe people looking forward to Tuesday.
+[2732.92 - 2737.32] P:1866.94 E:0.102751 |  Nobody's picked up the run for Smallbone and Van Dyke leaves it for Allison, Allison comes,
+[2737.32 - 2744.20] P:1857.35 E:0.107939 |  doesn't get there, Smallbone slots the ball in, confusion at the heart of the Liverpool defence
+[2744.20 - 2750.44] P:1798.10 E:0.107462 |  with Van Dyke and Allison and Smallbone took full advantage, he slotted the ball into the
+[2750.44 - 2756.76] P:1831.56 E:0.112146 |  cop end, what a surprising scoreline here, the league leaders Liverpool, Niel, bottom of the table,
+[2756.76 - 2761.80] P:1763.52 E:0.103639 |  Southampton won. I don't think anybody saw that coming, I mentioned it had been a
+[2761.80 - 2769.96] P:1569.87 E:0.099723 |  nervy afternoon for Liverpool, so far, Allison having a word with the referee,
+[2771.08 - 2775.64] P:1806.74 E:0.105921 |  I think he thought there was some sort of foul in there but it's just a simple throw in left hand
+[2775.64 - 2781.32] P:1835.47 E:0.104535 |  side, Smallbone drives into the box, Van Dyke lets it run through to Allison, Allison doesn't use his
+[2781.32 - 2787.64] P:1704.87 E:0.096101 |  hands, he just prods the ball out with his right boot and then Smallbone from the angle,
+[2787.64 - 2793.16] P:1752.63 E:0.097186 |  left hand side of the box looks to square it back but instead reverses it back into the goal,
+[2793.16 - 2798.76] P:1721.05 E:0.095072 |  it's a brilliant finish, it's a clever finish, Allison suggesting there was contact, I think
+[2798.76 - 2804.84] P:1657.03 E:0.094039 |  it was Fernandez on him but not enough in that, I don't think and he actually not makes Allison
+[2804.84 - 2810.28] P:1643.94 E:0.095968 |  Smallbone, it's a clever finish, brilliant finish and Southampton stun, Liverpool.
+[2811.24 - 2815.64] P:1874.90 E:0.103275 |  Who for you was at fault, Allison or Van Dyke? I think Allison should come with his hands,
+[2815.64 - 2822.44] P:1795.15 E:0.098975 |  just pick it up, he didn't, he went with his foot and it's the softest of goals and now Liverpool,
+[2822.44 - 2828.44] P:1792.90 E:0.093079 |  I think Liverpool fans rocking up today would have thought this is going to be a formality,
+[2828.44 - 2829.88] P:1759.67 E:0.106385 |  they're going to have to work at it now.
+[2830.92 - 2835.32] P:1693.50 E:0.095151 |  Lake Norrion, Nill, Northampton Town 2 and there you have the
+[2837.40 - 2845.00] P:1838.29 E:0.092053 |  perfect illustration of how life can change very very quickly for a goalkeeper, when you make
+[2845.00 - 2850.92] P:1856.22 E:0.103915 |  the saves this hour he's expected to make those saves, oh that was a crude challenge by Nunez,
+[2850.92 - 2856.52] P:1781.92 E:0.091365 |  he has just kicked out and side down Walker Peters, that was
+[2859.00 - 2866.20] P:1707.62 E:0.087547 |  extremely crude. Well what's he doing? I think he'll see yellow but as one there's no attempt
+[2866.28 - 2876.28] P:1626.75 E:0.080660 |  to win the ball and he's just a careless kick out Walker Peters who had got beyond him the other side,
+[2877.00 - 2882.04] P:1714.16 E:0.089751 |  yellow card out, referee's hand, I think that's right but what's he playing at? Got a control
+[2882.04 - 2891.40] P:1678.21 E:0.076736 |  himself in Liverpool, losing control, before half time here. So days after the performance of his
+[2891.64 - 2896.84] P:1747.03 E:0.085261 |  life against Paris Saint-Germain, Alisson and van Dijk break down in communication
+[2897.88 - 2903.72] P:1757.70 E:0.095382 |  and the fact that they actually haven't had a look at this would suggest that VAR would be maybe looking
+[2906.28 - 2911.96] P:1889.31 E:0.103779 |  at a potential red because the free kick hasn't been able to be taken, again you wouldn't have a
+[2911.96 - 2916.12] P:1800.64 E:0.093216 |  clue inside the stadium that VAR are doing that but I'm only surmising.
+[2916.36 - 2924.28] P:1710.68 E:0.070552 |  But are they looking for serious foul play? Maybe so I think.
+[2926.04 - 2930.68] P:1922.14 E:0.101316 |  The VAR incidentally is Matt Donahue in the VAR.
+[2933.64 - 2942.44] P:1701.15 E:0.092362 |  I don't know how far away from the ball Nunez was but it was such a reckless,
+[2942.52 - 2947.56] P:1899.03 E:0.101947 |  staff challenge. In your opinion was it serious foul play or violent conduct? Because they're the
+[2947.56 - 2953.24] P:1896.97 E:0.091581 |  two elements that would ultimately warrant a straight red. Yeah they are now looking at,
+[2953.24 - 2958.92] P:1757.98 E:0.085388 |  we've got confirmation of the VAR. Let's get an update from Pat Murphy at the Hawthorns.
+[2961.56 - 2967.08] P:1858.39 E:0.090585 |  No, Daniel Furlong, I'm told, has been sent off to West Bromwich Arbyn, West Brom 1,
+[2967.08 - 2971.56] P:1683.20 E:0.081765 |  Queen's Park Rangers 0. If that we can go to Pat now. As I was saying,
+[2971.56 - 2977.08] P:1618.35 E:0.101953 |  Daniel Furlong sent off straight red card, elbowed, Koki Saeed to the winger, no doubt
+[2977.08 - 2982.60] P:1754.43 E:0.108901 |  told the referee's mind, West Brom curious, they'll now play, Cutlery Mears and the next
+[2982.60 - 2989.56] P:1872.46 E:0.095882 |  second half with 10 men but the leading 1-0. Thanks Pat, so after that VAR check it's just the yellow
+[2989.56 - 2996.84] P:1690.18 E:0.087959 |  card. Yeah and I just wonder whether there was, you know, looking at the replay, whether
+[2997.80 - 3002.92] P:1748.70 E:0.090360 |  they'd say well Nunez did make an attempt to win the ball but it's just stupidity from him.
+[3002.92 - 3009.32] P:1616.96 E:0.086476 |  I don't think he did, I think he's gotten away with one there but Liverpool lucky to have 11 on the pitch.
+[3010.44 - 3014.92] P:1821.58 E:0.107762 |  And so Hampson with Sulamana, it's a bit of a live wire, passes the ball out towards Dibbling,
+[3014.92 - 3019.40] P:1838.15 E:0.104180 |  Simacast there with the interception, gets there first, Simacast over the halfway line,
+[3019.40 - 3024.04] P:1858.07 E:0.111264 |  Salah stays out wide, Simacast can't release the ball, he's all on his left foot, couldn't get the
+[3024.04 - 3029.24] P:1880.83 E:0.103811 |  angle to switch it with his right towards that right hand side towards Salah. Alexander Arle now
+[3029.24 - 3034.52] P:1903.57 E:0.088573 |  runs forward, the league leaders are behind, Salah who's been quiet, comes in field, continues to
+[3034.52 - 3042.28] P:1807.82 E:0.084469 |  come in field, blocked by Small Boat, falls to Van Dyke, we're in stoppage time, where Liverpool
+[3042.36 - 3048.04] P:1936.39 E:0.094652 |  are behind, here is Dias, Dias now goes on the outside of Walker-Peters, just about keeps the ball
+[3048.04 - 3053.40] P:1913.77 E:0.092423 |  in play, left hand side of the penalty area, Simacast with the cross, Salah lets it run through,
+[3053.40 - 3058.60] P:1883.55 E:0.096133 |  Alexander Arle, doesn't hit first time, now the good block comes in from Manning, just through
+[3058.60 - 3065.16] P:1880.47 E:0.102228 |  his body in front of it, Subostlai keeps the ball in play on that far side, Canate, that goal has
+[3065.16 - 3070.12] P:1798.01 E:0.092440 |  certainly sparked Liverpool into life but they give the ball away through Fernandez, let's go to
+[3070.12 - 3076.68] P:1849.37 E:0.097459 |  Dublin, latest from James Burridge. And France are blowing Ireland away, they've scored their bonus
+[3076.68 - 3082.04] P:1787.88 E:0.104194 |  point try, replacement forward, Oscar Gershw, docks the ball down, Ramos kicks it through, that's
+[3082.04 - 3089.72] P:1784.69 E:0.094393 |  three second half tries from France and the score line, 32 points to 13. Wow commentary on sports
+[3089.72 - 3096.44] P:1839.43 E:0.101911 |  extra, Subostlai, here is Salah, excellent challenge made by Manning, it looked like it was going past
+[3097.00 - 3101.96] P:1820.93 E:0.103383 |  him and then a last ditch challenge by Manning, just carved it away from the path of Salah,
+[3101.96 - 3107.16] P:1878.82 E:0.098586 |  there is the halftime whistle and nobody expected this score line, started the commentary by talking
+[3107.16 - 3112.92] P:1709.76 E:0.093703 |  about a potential home banker, anything but Liverpool, Nilsalhampton won. Yeah, just hasn't
+[3112.92 - 3118.60] P:1733.53 E:0.098672 |  happened for Liverpool and Salahampton have shot them with a small bone, goal, an error I think from
+[3118.60 - 3123.96] P:1725.12 E:0.093752 |  Alisson, maybe Van Dyke as well could have done better to try and ask for a ball back to Alisson,
+[3124.04 - 3128.68] P:1745.23 E:0.096607 |  but Alisson wasn't decisive, and all of a sudden says Anton find themselves in front,
+[3128.68 - 3135.64] P:1832.32 E:0.087092 |  they've defended deep, they've defended brilliantly at time, last ditch blocks but Liverpool have got
+[3135.64 - 3141.48] P:1912.71 E:0.096299 |  serious work to do in this second half. Yes they do, because not many expected this score line,
+[3142.04 - 3148.68] P:1803.28 E:0.087081 |  it's Liverpool Nilsalhampton won. Worth the petrol money? I knew you were going to play there.
+[3149.56 - 3157.16] P:1777.88 E:0.099876 |  So I was praying that the small bone goal would be real bad. Can I just say if you're claiming
+[3157.16 - 3164.20] P:1863.93 E:0.100203 |  expenses, I'm giving you a lift back to Salphord, it's my petrol. Thank you very much to you both,
+[3164.20 - 3169.08] P:1573.98 E:0.095608 |  second half on the way to Liverpool Nilsalhampton won, remember in the early game, Nottingham
+[3169.08 - 3175.88] P:1779.92 E:0.080693 |  Forest won Manchester City 0, only three games at three o'clock in the Premier League next to the
+[3175.88 - 3181.00] P:1645.90 E:0.092707 |  Amex all-square at the break, John Seathal. Yes Brighton won, full-on-one, we had 35 minutes of
+[3181.00 - 3185.48] P:1499.07 E:0.113247 |  mediocrity, then the full-on goal, lovely cross from a rope, Wobby on the right hand side, Jan
+[3185.48 - 3189.80] P:1767.77 E:0.104444 |  Paul van Hecke, missed judge, Dier Raal Himmenes didn't, and he smashed it in at the back post,
+[3189.80 - 3195.00] P:1646.32 E:0.099981 |  tenth league goal of the season, equalised a seven minutes later, free kick, met by van Hecke,
+[3195.00 - 3200.12] P:1872.76 E:0.096018 |  who headed in off the left post, his first goal of the further club, good finish as well,
+[3200.12 - 3205.00] P:1666.65 E:0.092103 |  Brighton won, full-on-one. All-square at Salherst Park as well, Chris Coles. But no goals in this
+[3205.00 - 3209.64] P:1730.38 E:0.106056 |  one, Palace 0, Ipswich 0, it's had its moments, particularly in the opening 10 minutes, both sides
+[3209.64 - 3214.12] P:1713.46 E:0.102573 |  creating their best chances early, Wharton's through, Baldwin Kettier, denied by a smothering
+[3214.12 - 3218.76] P:1563.01 E:0.098766 |  Palmer save, Philogen for Ipswich on the end of a cutback, Henderson diving low to save,
+[3218.76 - 3223.56] P:1620.29 E:0.100101 |  the chances that followed not of the same quality, Lermer from range, and Ancizo shooting at the
+[3223.56 - 3229.00] P:1687.18 E:0.098943 |  keeper from an angle, a bit more care needed from both in the final third, Crystal Palace 0, Ipswich
+[3229.24 - 3235.88] P:1978.57 E:0.098254 |  0. Into the championship earlier, Coventry 3, Stoke 2, and Watford 1, Millwall 2, as far as the
+[3235.88 - 3241.00] P:1742.86 E:0.096773 |  three o'clock's are concerned, we'll start at Bramble Lane, Julia Boldt. It is Sheffield's United
+[3241.00 - 3246.36] P:1759.50 E:0.102926 |  0, Preston 0, Chris Wilder went down the tunnel at half-time, shaking his head because he knows
+[3246.36 - 3251.72] P:1824.78 E:0.102204 |  his side have had more possession, and some good chances to go in front, but we yet to see a goal
+[3251.72 - 3258.04] P:1644.81 E:0.101017 |  here, Tyrese Campbell and Gustavo Harmer both being clear on goal, but have shot wide. Preston
+[3258.04 - 3262.76] P:1634.11 E:0.105307 |  have been defending with all they have, and they did have a penalty shot, Bradpott's looks have been
+[3262.76 - 3268.20] P:1578.36 E:0.104059 |  brought down by Vinnie Souza in the box, the ref waved it away, half-time Sheffield United 0,
+[3268.20 - 3272.36] P:1727.24 E:0.105284 |  Preston 0. Three red cards in the championship already this afternoon, one of them's come at
+[3272.36 - 3277.72] P:1747.17 E:0.096991 |  Turfmore, Katie Smith. Burnley 2, Tenman, Luton 0, and with that score at Sheffield United,
+[3277.72 - 3281.56] P:1616.09 E:0.100441 |  Burnley up to second in the live table right now on goal difference, game burst into life after
+[3281.56 - 3285.96] P:1779.24 E:0.107566 |  90 minutes, Cal Naismith of Luton sent off for a second yellow, then Mark McGinnis brought onto
+[3285.96 - 3290.36] P:1765.39 E:0.098567 |  proper Luton's back line, only five minutes later his botched clearance giving Burnley the lead,
+[3290.36 - 3294.44] P:1813.89 E:0.103291 |  Lyle Foster adding another side-footing and a ball from the right, Luton sitting deep,
+[3294.44 - 3298.44] P:1695.40 E:0.103411 |  this second half could be pretty horrible to come from there, five points from safety,
+[3298.44 - 3302.68] P:1743.74 E:0.104200 |  and they're trailing 2-0. Sunderland one card if one at the break, details from John Bennett.
+[3302.68 - 3308.44] P:1954.29 E:0.106096 |  Yeah, frustration for Sunderland following a dream start, in form Elisa Mayenda with an emphatic
+[3308.44 - 3313.00] P:2000.98 E:0.096461 |  finish on two minutes, Patrick Roberts played him in after winning the ball back, Sunderland
+[3313.00 - 3317.16] P:1745.19 E:0.105131 |  were in control at that stage, Romain Mundall the winger, a constant danger but they didn't get the
+[3317.16 - 3321.96] P:1829.96 E:0.103262 |  second and Cardiff equalised, Odouda's cross not dealt with by the goalkeeper who thought he was
+[3321.96 - 3327.00] P:2004.54 E:0.098879 |  fouled the ball fell to Isaac Davis who scored on his first start of the season, Mayenda then hit
+[3327.00 - 3331.80] P:1864.28 E:0.103337 |  the side netting but at halftime it's Sunderland one, Cardiff City one. West Brom another side down
+[3331.80 - 3336.12] P:1716.41 E:0.104678 |  to 10 at the break but they do lead Pat Murphy. Two controversial decisions by the referee,
+[3336.12 - 3341.96] P:1709.35 E:0.101173 |  Adam Herk said just for halftime he ruled that Morgan had tripped Malumbi, pounded it at Armstrong,
+[3341.96 - 3347.96] P:1683.01 E:0.094132 |  converted and then Furlong, West Brom's full back sent off straight red card allegedly elbowing
+[3347.96 - 3353.80] P:1505.44 E:0.097756 |  Saeto in the face, we'll see how West Brom hang on to that lead, the lead QPR 1-0.
+[3353.80 - 3358.52] P:1871.00 E:0.106374 |  And the third red card of the championship afternoon has gone to Hull but they lead as well at Bristol
+[3358.52 - 3363.96] P:1875.63 E:0.084677 |  City, Ohain Gwyneth. Yeah Bristol City 0, Hull City 1 after dominating the early stages Hull took a
+[3363.96 - 3369.40] P:1819.78 E:0.088133 |  deserved lead with a well taken goal by Giao Pedro but a minute later the Brazilian-born Italy cap
+[3369.40 - 3374.28] P:1886.95 E:0.084805 |  striker unnecessarily lunged into a tackle with George Tanner just inside the Bristol City half
+[3374.28 - 3379.00] P:1934.85 E:0.076022 |  and was shown a straight red. Bristol City have pressured Hull's defence with plenty of crosses,
+[3379.00 - 3384.04] P:1898.71 E:0.083194 |  centre forward Sinclair Armstrong missing the best one headed over from close range, Bristol City 0,
+[3384.04 - 3388.28] P:1765.69 E:0.091427 |  Hull City 1. Going well for John Eustice against his former club, Lee Blightman. Great game,
+[3388.28 - 3393.08] P:1973.02 E:0.087224 |  this has been marked, Derby 2, Blackburn 1, Derby 2 up inside the first seven minutes, Forsythe
+[3393.08 - 3397.40] P:1789.71 E:0.078943 |  with the first, Adams with the second, Blackburn got one back through, McTarget, great finish,
+[3397.40 - 3402.60] P:1902.33 E:0.080754 |  five before half time, it's been wide open for the most part and as things stand, Derby are off
+[3402.60 - 3407.40] P:1821.88 E:0.086802 |  the bottom of the table, Derby 2, Blackburn 1. Replaced by Plymouth, John Acres. And as things
+[3407.40 - 3412.44] P:1837.77 E:0.095038 |  stand, Plymouth fans around me feel like that's it, feel like that if they don't have a miraculous
+[3412.44 - 3417.32] P:1787.43 E:0.090921 |  comeback in the second half that could be their season. Plymouth-0, Sheffield Wednesday 2, Ogbetter
+[3417.32 - 3421.08] P:1868.04 E:0.086576 |  couldn't deal with a cross from the left hand side and put it through his own goal and then
+[3421.08 - 3425.32] P:1852.38 E:0.084145 |  Patterson with a really cool finish, they've been undone down the left hand side twice Plymouth,
+[3425.32 - 3429.72] P:1897.87 E:0.091633 |  it's Plymouth-0, Sheffield Wednesday 2. Just one championship game that we're not at this afternoon
+[3429.72 - 3434.12] P:1941.97 E:0.096247 |  and that's at Swansea in the home side, Lee Middlesbrough by a goal to nearly on G-Song.
+[3434.76 - 3439.64] P:1810.91 E:0.098267 |  With that, in the early games in League 1, both finished all square, Crawley and Reading 1 all,
+[3439.64 - 3446.28] P:1896.16 E:0.092268 |  Stockport 0, Charlton 0. Goalless is also the scoreline involving the leaders this afternoon,
+[3446.28 - 3451.24] P:1839.21 E:0.093918 |  Birmingham, they're at home to Lincoln, Adam Cotier. They are having to play the patient game,
+[3451.24 - 3456.60] P:1930.51 E:0.093297 |  Birmingham City here, lots of possession, they've had the best openings to, Emil Hansen curled
+[3456.60 - 3461.48] P:2038.65 E:0.083688 |  wide just before half time, that's probably the closest they've come, Taylor Gardner, Hickman also
+[3461.48 - 3467.48] P:1960.94 E:0.086087 |  had a left foot volley saved by Wittings in the Lincoln goal, Lincoln playing well, Birmingham 0,
+[3467.48 - 3472.28] P:1846.10 E:0.103302 |  Lincoln 0. Good news for Birmingham is that the size behind them aren't taking advantage as yet,
+[3472.28 - 3477.88] P:1929.34 E:0.085014 |  second place Wittings behind Adam Witty. Yeah, they've been poor, they trail Peterborough by one
+[3477.88 - 3482.36] P:2045.80 E:0.090103 |  goal to nil, Posh have been in total control, Malik Mothersill's penalty the difference,
+[3482.36 - 3487.64] P:2115.81 E:0.087451 |  but Bradley, Eovian and Mothersill came close to adding a second, Posh going eight points clear
+[3487.64 - 3492.20] P:2049.10 E:0.086636 |  of the drop zone as it stands, Wickham's hold on an automatic promotion place which seemed
+[3492.20 - 3496.68] P:2068.35 E:0.080953 |  certain six weeks ago might just be slipping, Peterborough 1, Wickham 0 at the break. Third
+[3496.68 - 3501.88] P:1926.11 E:0.084673 |  place Wrexham being held though as well, Mark Webber. They are Wrexham 0, Rotherham 0, the
+[3501.88 - 3505.88] P:1985.05 E:0.084213 |  keepers are each ended in their corner this half with a super save each to keep it goalless,
+[3505.88 - 3511.08] P:1909.49 E:0.089116 |  audible groans from the Wrexham fans as they fluffed multiple chances, Sam Smith with two,
+[3511.08 - 3515.80] P:1828.83 E:0.091074 |  they came close after some early Rotherham pressure, Rotherham Malik Wilt had a point blank
+[3515.80 - 3519.72] P:1893.99 E:0.090103 |  shot of the Wrexham keeper who made himself big to block and then towards the end of the half,
+[3519.72 - 3524.84] P:1919.25 E:0.082039 |  Rotherham keeper Dylan Phillips diving low to his left to stop a goal going in from Matty James to
+[3524.84 - 3530.84] P:1762.04 E:0.094770 |  make it Wrexham 0, Rotherham 0. Elsewhere in league one it's goalless between Barnsley and Blackpool
+[3530.92 - 3536.84] P:1886.24 E:0.099839 |  Bristol Rovers, lead Huddersfield by a goal to nil, Rool Satiriou with that five for the season for
+[3536.84 - 3544.36] P:1872.97 E:0.087445 |  him, Burton Nill, Bolton 1, Exeter who have got just one win from their last 12 in the league,
+[3544.36 - 3549.40] P:1921.60 E:0.089358 |  lead bottom of the table, Shrewsbury by a goal to nil, Leighton Orient could be on course for a
+[3549.40 - 3555.00] P:1929.66 E:0.080632 |  fifth straight defeat in the league because they trail Northampton by two goals to nil at the break
+[3555.00 - 3559.48] P:1628.84 E:0.091539 |  at home, Cameron McGee and getting the second of those goals for Kevin Nolan side and he's now got
+[3559.48 - 3564.92] P:1989.67 E:0.091140 |  nine for the season, Stephen Isley Mansfield by a goal to nil, Jamie Reeds 10th of the season,
+[3564.92 - 3569.88] P:1933.50 E:0.083364 |  the difference between the two sides there and it's goalless between Wigan and Cambridge in
+[3569.88 - 3575.96] P:2000.05 E:0.092321 |  league two, AFC Wimbledon 2, Knotts County nil and Walsall 1 Grimsby 3 is how it finished earlier
+[3575.96 - 3581.40] P:1872.40 E:0.080829 |  and because of Walsall's defeat Bradford could go top this afternoon if they win at Jillingham,
+[3581.40 - 3585.80] P:1902.55 E:0.087599 |  Charlotte Richardson. It's Jillingham nil, Bradford nil, Bradford enjoyed dominant spells throughout
+[3585.80 - 3590.12] P:1919.08 E:0.088541 |  the opening half, had their best chance when former Jills player Jules Lapsley pressed the ball,
+[3590.12 - 3595.24] P:2065.04 E:0.083666 |  winning possession for Jamie Walker to feed Tommy Lee in behind, he was supported by Jills keeper
+[3595.24 - 3599.80] P:1827.53 E:0.082010 |  Glenn Morris, quick off his line to close the angle, make himself big and block the shot,
+[3599.80 - 3604.60] P:1929.69 E:0.079238 |  the visitors looking the more likely to score, it is a massive second half to come for them,
+[3604.60 - 3608.60] P:1874.97 E:0.081059 |  if Bradford can break that deadlock take those three points home, as you say Mark, they will
+[3608.60 - 3611.80] P:1791.68 E:0.077863 |  finish the day at top of league two at the break though it's Jillingham nil, Bradford nil.
+[3611.80 - 3616.52] P:1892.32 E:0.091897 |  Elsewhere Barrow 1, Akrington nil, goalless between Cheltenham and Colchester, Chesterfield
+[3616.52 - 3620.76] P:1793.50 E:0.093133 |  were a goal down at Holmton Newport but they turned it round very quickly to lead by two goals
+[3620.76 - 3627.16] P:2028.91 E:0.083330 |  to one, Doncaster 2, Swindon nil, Rob Street getting the first of their goals, seven for the season
+[3627.16 - 3632.20] P:1840.15 E:0.085742 |  for him, it's goalless between Fleetwood and Port Vale and between Harrogate and Carlisle,
+[3632.20 - 3639.24] P:1838.12 E:0.082372 |  NK Donnes 1, Morkham 1, Sulford nil, Crew nil and Tramir 1, Bromley 1, Michael Cheeks 18th of the
+[3639.24 - 3645.16] P:1862.62 E:0.083416 |  season putting Bromley ahead there, Josh Hawks of Tramir getting the equaliser, earlier in the
+[3645.16 - 3649.56] P:1843.91 E:0.091839 |  National League leaders Barnett beat Dagnam and Redbridge by a goal to nil to go 12 clear of
+[3649.56 - 3654.92] P:1817.14 E:0.086256 |  York at the top of the table having played two games more, in the three o'clock games AFC file
+[3654.92 - 3661.40] P:1847.68 E:0.086647 |  nil, Braintree 1, Aldershot 1, Gateshead 1, Boston nil, Woking 1, Eastley 1, Hartlepool 1,
+[3661.40 - 3666.68] P:1946.70 E:0.089368 |  Halifax 1, Joville nil, Maidenhead nil, Sutton 1, Rochdale lead, Wildstone 1 nil,
+[3666.68 - 3673.72] P:1839.61 E:0.081843 |  Solihull Moors 1, Ebb's Fleet 1, South Ender 2 upon Ultrigam and it's Tamworth 1, Oldham 1 in the
+[3673.72 - 3678.52] P:1937.37 E:0.080898 |  no Scottish Premiership Games this afternoon, Scottish quarterfinal weekend, earlier Aberdeen
+[3678.52 - 3684.12] P:1861.39 E:0.088888 |  beat Queen's Park to join Hart in the semi-finals, in the championship this afternoon, Aedrionians nil,
+[3684.12 - 3691.16] P:1787.93 E:0.084178 |  Hamilton nil, leaders Falkirk are a goal upon Dumfermling, Morton nil, Air 1 in League 1, Allewa nil,
+[3691.16 - 3696.52] P:1759.63 E:0.084921 |  Arbroath 1, Anand nil, Stenhouse Mjoln, Covranges 2, Queen of the South 1,
+[3696.52 - 3702.12] P:1951.95 E:0.086045 |  goalless between Dunbarton and Inverness and Kelty Hart and Montrose in League 2, Bonnymary
+[3702.12 - 3708.04] P:1819.42 E:0.086299 |  Gros nil, Edinburgh City nil, the leaders East 5 for a goal upon Clyde, Elgin nil, Forfar nil,
+[3708.04 - 3715.88] P:1859.45 E:0.071271 |  Elgin down to 10, also goalless between Spartans and Sterling and Stranra and Peter Head. Back to
+[3715.96 - 3722.12] P:1723.29 E:0.105091 |  the Aviva Stadium where France have absolutely annihilated Ireland in the second half, James Burridge.
+[3722.12 - 3726.84] P:1714.20 E:0.094874 |  And you know Mark, Harry talked about the bench and the importance, my goodness Fabian Gautay's
+[3726.84 - 3733.96] P:1785.88 E:0.094626 |  got its spot on, it was risky, it was a gamble, but the heft, the ferocious power that he has
+[3733.96 - 3739.48] P:1804.10 E:0.105834 |  unleashed in this second half, Ireland have had no answer to it at all as they try and throw some
+[3740.44 - 3747.88] P:1702.94 E:0.094547 |  seven minutes until halftime, 35 points to 13, one of France's biggest ever results,
+[3747.88 - 3752.92] P:1645.12 E:0.103336 |  potentially coming here in Dublin, three tries in this second half and actually Ireland started
+[3752.92 - 3757.72] P:1745.09 E:0.098367 |  brilliantly, they came out and scored within two minutes, Houdan, Sheehan, France looked to sleep
+[3757.72 - 3763.40] P:1745.34 E:0.098928 |  but my goodness, they then woke up big time, three tries, Biaburi has been brilliant and as
+[3763.40 - 3766.92] P:1620.79 E:0.104538 |  Ireland desperately try and get a try, they're trying to get within a bonus point because
+[3766.92 - 3771.88] P:1680.75 E:0.098033 |  points are going to make such a big difference as we go into the final weekend, they've got to try
+[3771.88 - 3776.20] P:1633.41 E:0.103274 |  and get a bonus point to get the game within seven as they're coming back for a penalty,
+[3776.20 - 3781.64] P:1753.37 E:0.099864 |  but it has been all power and they've had no answer to it. And James, if it comes down to
+[3781.64 - 3785.88] P:1686.70 E:0.099638 |  actually points differential then France are way ahead as well aren't they? Well because they're
+[3785.88 - 3792.28] P:1759.70 E:0.096230 |  completely thumped Italy two weeks ago as you'll remember in Rome and so Ireland are desperately
+[3792.28 - 3795.88] P:1690.10 E:0.104768 |  trying to get something out of this game, they've got six and a half minutes to do it but the
+[3795.88 - 3800.12] P:1693.67 E:0.099308 |  writing is on the wall and we talked all the week about statement victories, in fact you know
+[3800.12 - 3805.00] P:1740.15 E:0.107537 |  France have now intercepted from five metres from their own line and they're going to try and
+[3805.00 - 3812.12] P:1806.61 E:0.101807 |  race this one home, has Damien Panno got the legs on Prendergast, yes he has, that is the clinching
+[3812.12 - 3819.88] P:1810.44 E:0.103607 |  score, it is shuttered Ireland's grand slam dream and this sixth nations title is there for the
+[3819.88 - 3826.84] P:1718.07 E:0.099474 |  taking, France have produced an outstanding second half here in Dublin, one of their biggest
+[3826.84 - 3836.36] P:1782.92 E:0.095839 |  victories under Fabien Gaultier and my goodness me nobody saw this result coming, France 40
+[3836.36 - 3841.64] P:1703.22 E:0.103212 |  with the conversion to come, Ireland 13. And that conversion right in front of the post so you would
+[3841.64 - 3848.92] P:1795.45 E:0.099554 |  expect them to go 42-13 up, back to Anfield shortly where Liverpool trail southampton by
+[3848.92 - 3856.52] P:1673.09 E:0.092600 |  Goulton they'll let the break after John Barnes in the news. This is BBC Radio 5 Live, listen on BBC
+[3856.52 - 3862.52] P:1775.58 E:0.097564 |  Sounds. The Polish Prime Minister Donald Tusk has said that failing to stand up to Russia only leads
+[3862.52 - 3868.44] P:1826.42 E:0.094013 |  to more tragedy in Ukraine after another night of Russian air attacks on the country, at least 20
+[3868.44 - 3873.64] P:1903.64 E:0.086096 |  people were killed in the assault by Russia. A body has been found in the search for a suspect
+[3873.64 - 3878.28] P:1829.18 E:0.101862 |  after a woman was killed in a shooting on Valentine's Day in Kent, advanced stockings is
+[3878.28 - 3884.60] P:1829.55 E:0.081288 |  suspected of shooting his wife Lisa Smith in the car park of a pub in Knockholt. Two teenage boys
+[3884.60 - 3889.88] P:1750.21 E:0.095621 |  have been arrested in connection with the death of a 15-year-old boy in Glasgow, a men telke
+[3889.88 - 3895.40] P:1818.38 E:0.090519 |  suffered fatal injuries following an incident on Wednesday evening and a pro-Palestinian group has
+[3895.40 - 3900.36] P:1784.71 E:0.091132 |  vandalised parts of Donald Trump's Turnberry Golf Resort in Scotland, activists said it was in
+[3900.36 - 3907.72] P:1686.50 E:0.096862 |  response to the US president's statements on Gaza. On BBC iPlayer, a wandering salamander,
+[3908.60 - 3916.36] P:1516.25 E:0.107512 |  to find a mate he sets out on an extraordinary journey that has never been filmed before.
+[3916.36 - 3923.24] P:1345.39 E:0.114406 |  Explore the wildlife and spectacular natural beauty of the Americas. It's an epic journey where we
+[3923.24 - 3931.00] P:1353.36 E:0.109768 |  search for the wild and the wonderful. Narrated by Tom Hanks. It's up close, it is shocking and it's
+[3931.00 - 3942.28] P:1435.01 E:0.120028 |  beautiful. The Americas, watch on BBC iPlayer. This is Five Live Sports with Mob Chapman. Listen on BBC
+[3942.28 - 3950.60] P:1625.34 E:0.109267 |  Sounds. At the conversion lens, so it's 42.13, some of the second halves underway in the football
+[3950.60 - 3955.32] P:1864.19 E:0.092180 |  Dmitri Mitchell with his sixth of the season as double dexter's leading league one at home to
+[3955.32 - 3960.60] P:1886.38 E:0.087415 |  Shrewsbury and Wrexham have scored earlier at the start of the second half. I've won in their last
+[3960.60 - 3965.24] P:1812.59 E:0.086355 |  four at home in the league but they lead rather than by a goal to know thanks to Sam Smith, three
+[3965.24 - 3971.32] P:1790.58 E:0.094041 |  minutes into the second half. Once Ireland France is over, Scotland Wales takes over on Sports Extra.
+[3971.32 - 3976.04] P:1789.52 E:0.081609 |  Jamie Lyle. Well I think the complexion of this game has changed markedly over the past few weeks
+[3976.04 - 3980.20] P:1844.43 E:0.088657 |  as Scotland's hopes of challenging for the title wailed and withered for another year.
+[3980.20 - 3985.08] P:1851.54 E:0.080302 |  Wales looks to be renewed and reinvigorated by new coach Matt Sherrod. Remember still in an
+[3985.08 - 3990.60] P:1970.14 E:0.083297 |  unprecedented 15 game losing streak but imbued with such hope, such positivity having run the
+[3990.60 - 3996.28] P:1786.59 E:0.075867 |  Champions Ireland so close in Cardiff. It's a fascinating psychological dynamic and it all kicks
+[3996.28 - 4001.08] P:1767.59 E:0.079629 |  off in around 40 minutes time. 445. Thank you, Ireland have just gone over in school to try
+[4001.08 - 4008.20] P:1729.89 E:0.098153 |  Healy with it and I think they've converted that virtually immediately as well so that now takes
+[4008.20 - 4016.20] P:1789.91 E:0.084969 |  the score to 42 points to 20. You're about to get back underway at Anfield. Chris Sutton and Ian
+[4016.20 - 4022.36] P:1786.11 E:0.094939 |  Dennis. Thank you Mark. Yes we're Southampton are leading by a goal to nil and Arna Slott who of
+[4022.36 - 4027.56] P:1846.31 E:0.109666 |  course remember is suspended. He's in the stands for this second of his two match. Dutch line Bant
+[4028.52 - 4038.28] P:1822.09 E:0.091504 |  has actually made a triple change at the start of this second half. So Robertson has come on for
+[4038.28 - 4044.60] P:1824.79 E:0.080996 |  Simicast at left back. Harvey Elliott after that smash and grab raid the pick pocket from Paris.
+[4045.24 - 4051.24] P:1814.04 E:0.095831 |  He has come on for Jones in the midfield and McAllister has replaced the boss line.
+[4052.20 - 4060.76] P:1836.99 E:0.084094 |  Liverpool all in red playing from left to right as we look. They're unbeaten at Anfield in 18 games
+[4060.76 - 4068.12] P:1823.74 E:0.103156 |  where they have scored at least two in each of those 18 fixtures as Nunez tries to win the ball
+[4068.12 - 4073.08] P:1858.60 E:0.089235 |  back. Southampton haven't made any alterations at halftime but they did use that concussion
+[4073.08 - 4077.88] P:1831.66 E:0.090409 |  substitute during the first half. I'll run through the two teams for you as Wrexham are leading rather
+[4077.88 - 4083.08] P:1918.43 E:0.097464 |  in the United by a goal to nil and Exeter City two Shrews. Brinella's a latey score also. Liverpool
+[4083.08 - 4089.00] P:1976.66 E:0.112005 |  win a corner kick. Allison Alexander-Ronal van Dyke, Canate Robertson, Elliott Gravenberg,
+[4089.00 - 4095.16] P:1926.96 E:0.094174 |  McAllister, Diaz Salah and Nunez. Southampton, Ramsdale, Walker Peters, Bellacock,
+[4095.16 - 4099.96] P:1818.08 E:0.105499 |  chap the substitute, Harwood Bellison Manning, Dibbling Smallbone the goal scorer, Uga Chukwu,
+[4099.96 - 4105.48] P:1753.43 E:0.102220 |  Fernandez, Silamana and Grombe. Southampton defending the Cop in their luminous yellow
+[4105.48 - 4110.12] P:1902.06 E:0.099380 |  shirts and Navy shorts are playing from right to left as we look. Swindon have got a goal back
+[4110.12 - 4114.84] P:1854.96 E:0.088450 |  at Doncaster. Doncaster over's two, Swindon one. We'll get the thoughts of Chris Sutton at the
+[4114.84 - 4121.16] P:1836.78 E:0.090093 |  start of the second half after this corner kick where Ramsdale jumps up and down on his goal line.
+[4121.16 - 4125.96] P:1918.43 E:0.097058 |  It's an in-swinger, plenty of lock, plenty of height towards the far post. Salah leaves it for
+[4125.96 - 4133.32] P:1877.56 E:0.119256 |  Elliott, drives it in! Ramsdale superb save. Yeah, what a save this is from Ramsdale.
+[4134.28 - 4139.00] P:1820.93 E:0.114202 |  It's a corner deep to the back post. Mo Salah picks the ball up and feeds Elliott who
+[4140.12 - 4144.76] P:1706.33 E:0.120624 |  right foot and hammers the shot and is heading into the far corner. Ramsdale down to his right
+[4144.76 - 4150.84] P:1796.55 E:0.095101 |  hand side, tips around the far post, sensational goalkeeping. Excellent reflex save, two handed
+[4150.84 - 4156.76] P:1875.78 E:0.085514 |  down to his right, in comes the corner kick again, it's from that far side. Headed back out
+[4156.76 - 4163.08] P:1817.79 E:0.090752 |  towards McAllister, level the penalty area on the left. Ball is hit forward, diagonal ball,
+[4163.32 - 4168.44] P:1827.86 E:0.094079 |  running, manning, tucked in the left back. Elliott goes over the top, commits himself,
+[4168.44 - 4173.16] P:1775.02 E:0.097713 |  Dibbling now picks it up, the counterattack is on for Southampton. Suleymano now has the ball
+[4173.16 - 4177.64] P:1816.70 E:0.100676 |  midway through the Liverpool half. Suleymano does a little step over, cuts inside, shoots,
+[4177.64 - 4182.20] P:1847.58 E:0.112143 |  blocked by Elliott, Nunes with a flick on. Salah trying to get in between the two,
+[4182.20 - 4187.64] P:1853.10 E:0.109478 |  two Southampton defenders, couldn't get the touch and there was better, Cotch up to see it back
+[4187.64 - 4193.00] P:1840.53 E:0.113814 |  towards Ramsdale. Have you just sense the atmosphere inside the stadium? Ian has gone up a notch and
+[4193.32 - 4199.40] P:1803.36 E:0.115422 |  Liverpool decides to have substitutions from Arnazot at half time, three-foot-long to bring
+[4199.40 - 4204.68] P:1706.76 E:0.109996 |  extra energy, couldn't figure, and you feel that they're going to come out in this second half
+[4204.68 - 4209.80] P:1811.74 E:0.106646 |  and play with the desired intensity to try and get back into this game. Setback for Doncaster
+[4209.80 - 4214.28] P:1818.76 E:0.110495 |  Robes and their automatic promotion hopes in league two, they work two-nil up against Swindon,
+[4214.28 - 4219.24] P:1903.23 E:0.110972 |  but Swindon with two goals in a minute, equalised, it's two-two. DS running forward, DS, edge of the
+[4219.72 - 4225.00] P:1830.69 E:0.097328 |  D, leaves it for Salah, Salah, shot blocked by Howard Bellis, and then it's Alexander Arnault
+[4225.00 - 4230.36] P:1891.11 E:0.106168 |  who touches the ball back inside the centre-circle all the way back to Allyson, three minutes into
+[4230.36 - 4235.08] P:1718.46 E:0.103365 |  the second half. The noise inside Anfield there was so loud, actually couldn't hear the studio
+[4235.08 - 4240.52] P:1737.20 E:0.096631 |  instruction as to where we were going to go next, but it will be to Salah's park and Chris Colts.
+[4240.52 - 4244.60] P:1703.64 E:0.107274 |  Where Crystal Palace have just hit the post, still nil-nil with Ipswich, Everett,
+[4244.76 - 4249.56] P:1600.96 E:0.107952 |  Eze shot from the edge of the area, took a massive deflection, sent it spiralling into the sky,
+[4249.56 - 4253.72] P:1783.81 E:0.109576 |  beat the keeper, dropped against the frame of the goal, still Palace nil-nil, which nil.
+[4253.72 - 4258.20] P:1902.64 E:0.110835 |  Robertson's just dropped across in from the left and Manning wasn't sure where Salah was,
+[4258.20 - 4263.00] P:1907.63 E:0.112740 |  and he's followed it behind for a corner. Well, I tell you where Salah was, he was outstanding
+[4264.44 - 4269.24] P:1742.96 E:0.115936 |  on the edge of the box, and he's got to attack that area, that back post, the brilliant ball in
+[4269.24 - 4274.36] P:1704.74 E:0.095020 |  from Robertson, blind ball in, but into a good area, Manning taking no chances.
+[4274.36 - 4278.68] P:1983.09 E:0.090878 |  Liverpool are now certainly playing with a greater tempo as they trail.
+[4278.68 - 4282.84] P:2013.19 E:0.103715 |  McAllister with a corner kick right hand side, it's an out-swinger, Ramstell's got something
+[4282.84 - 4287.88] P:1957.48 E:0.103392 |  on it down towards Alexander-Arnold, scoop goal was by Robertson, and scoop wide
+[4287.88 - 4292.52] P:2016.39 E:0.107332 |  off the left boot, and it goes behind for a goal kick. Full-time now in Ireland in the Six Nations,
+[4292.52 - 4299.48] P:1818.99 E:0.103208 |  James Burridge. A thumping victory for France, 42 points to 27, one of Fabien Galtier's best ever.
+[4299.48 - 4305.24] P:1807.85 E:0.104529 |  Their power was unrelenting and Ireland had no answer. Four second half tries for Le Bleu,
+[4305.24 - 4311.00] P:1630.71 E:0.103238 |  and Ireland's Grand Slam Dream is in tatters. We are set for a fascinating final weekend.
+[4311.00 - 4316.12] P:1708.90 E:0.107270 |  France go top for now, two points clear of Ireland. England play Italy tomorrow,
+[4316.12 - 4319.64] P:1819.82 E:0.108613 |  three o'clock commentary, that'll be live on the BBC Sport website.
+[4319.64 - 4325.80] P:1869.21 E:0.107513 |  Scotland Wales gets underway at 4.45 at Murrowfield, commentary on sports extra,
+[4325.88 - 4329.96] P:1809.17 E:0.107220 |  as Burton-Albion have equalised at home to Bolton-Wanderers in League One. Burton-Want,
+[4329.96 - 4334.68] P:1801.00 E:0.100162 |  Bolton-Want is a ladies' score in the Premier League. Brighton and Hobalbion-Want, full-on-Want,
+[4334.68 - 4339.32] P:1890.77 E:0.109241 |  Crystal Palace, Neal-Lips, which Town-Neal, earlier not even Forest Peak Manchester City by a goal
+[4339.32 - 4346.20] P:1924.36 E:0.111740 |  to Neal, and Southampton leading here by a goal to Neal. Alexander-Arnold with the throw, reaches
+[4346.20 - 4352.04] P:1835.57 E:0.098794 |  Nunez, cut out by Bellicottcha, only as far as Harvey Elliott tried to play Alexander-Arnold on
+[4352.04 - 4356.52] P:1836.69 E:0.105811 |  the overlap on the right-hand side, bobbling ball, and Manning can clear it for Southampton.
+[4356.52 - 4361.00] P:1882.44 E:0.109653 |  Going to be back to the wall for the Saints. It is, we saw one from Manning in the first half,
+[4361.88 - 4366.60] P:1722.97 E:0.109425 |  nobody up the pitch for Southampton, everybody behind the ball, and Manning just punting the ball
+[4367.48 - 4372.04] P:1777.54 E:0.102067 |  into touch there, and Liverpool is not a tech-fee defence, isn't it? And that's the way it's going
+[4372.04 - 4377.48] P:1712.41 E:0.093633 |  to be in this second half. Bonsley-Neal, Blackpool-Want is the latest scoreline in League One,
+[4377.56 - 4382.36] P:1824.05 E:0.102590 |  Robertson to Diaz, Diaz on his toes, running in off that left touch line, goes towards the
+[4382.36 - 4392.20] P:1850.23 E:0.121740 |  byline. Diaz to the finish! To Red New Year's! With the goal from close range, right-footed,
+[4392.76 - 4398.36] P:1791.32 E:0.122652 |  pitted early, pitted hard, pitted low, but it's Ramstill. The roar inside, unfeeled,
+[4398.36 - 4404.52] P:1837.76 E:0.119329 |  will tell you the lead lead is 11-on-1-1. Different Liverpool in the second half,
+[4404.52 - 4409.72] P:1851.90 E:0.116392 |  direct from Diaz on that left-hand side, driving it, Walker-Peters, shifts the ball,
+[4409.72 - 4417.96] P:1921.57 E:0.118636 |  gets to the byline, pulls it across the city-line, and Darwin-Muniz on the move, gets the vital touch,
+[4417.96 - 4423.72] P:1823.82 E:0.113490 |  Ramstill in a sensational save at the start of the second half, no chance with that one, Liverpool level.
+[4424.92 - 4431.80] P:1836.68 E:0.111426 |  They might have the small matter of a League Cup final next weekend, they might have an
+[4431.80 - 4439.32] P:1814.31 E:0.109270 |  enticing Champions League midweek tie against Paris Saint-Germain, but you speak to any Liverpool
+[4439.32 - 4446.44] P:1789.96 E:0.117299 |  supporter, the one trophy they crave the most is the Premier League title, and their level at 11,
+[4446.44 - 4452.44] P:1772.23 E:0.120651 |  from Elena Sina-Gold, Julia Bold. Is Sheppield United won Preston Nill, the ball came in from the
+[4452.44 - 4458.12] P:1768.33 E:0.111221 |  left-hand side, and it was a diving header by Tyrese Campbell to eventually break the deadlock,
+[4458.20 - 4463.80] P:1852.09 E:0.107970 |  Sheppield United won Preston Nill. Diaz with a shot saved by Ramstill, Liverpool at the moment,
+[4463.80 - 4471.48] P:1907.93 E:0.121183 |  it's all Liverpool, this is loose Diaz, penalty, Liverpool a bit of a penalty, Darwin-Muniz was
+[4471.48 - 4477.40] P:1837.60 E:0.115962 |  fouled inside the area, the referee tried to let the game flow, brought it back, Liverpool have
+[4477.40 - 4482.84] P:1775.82 E:0.116244 |  an opportunity now to take the lead. Well Southampton players surrounding the referee, they're not happy
+[4483.08 - 4489.48] P:1912.31 E:0.102109 |  with this award of a penalty, let's have a look, is there contact?
+[4492.52 - 4497.48] P:1883.22 E:0.101344 |  I think it's a soft one in truth, Darwin-Muniz gets his body in
+[4499.64 - 4504.04] P:1828.59 E:0.112586 |  on small bone, but the fact he's awarded the penalty, the referee, I don't think they'll
+[4504.04 - 4508.84] P:1776.94 E:0.104989 |  overturn it, but it's as soft as can be, Munoz has played for that.
+[4509.40 - 4516.04] P:1949.58 E:0.121226 |  Thing is, earlier in the season you heard the referee's call, it would take a lot to change the
+[4516.04 - 4524.36] P:1888.88 E:0.117992 |  referee's call. Absolutely, but it's so minimal, for Nuno to hit the deck as he does do and stay down,
+[4525.40 - 4531.32] P:1853.50 E:0.117799 |  I can understand Southampton's frustration, you know, really can, but what a turn around from
+[4531.32 - 4535.56] P:1872.51 E:0.116212 |  Liverpool, start with their second half, they've gone through the levels, haven't they? Up a
+[4535.64 - 4543.40] P:1918.55 E:0.099279 |  gear, two gears, three gears, and there's Salah placing the ball on the spot. The penalty stands,
+[4543.40 - 4549.72] P:1861.56 E:0.098926 |  Liverpool have scored all seven Premier League penalties this season, it's Mo Salah,
+[4550.68 - 4559.48] P:1933.19 E:0.090236 |  30 goals already to his name for this campaign, he waits, Ramsdale is on the goal line,
+[4560.28 - 4566.12] P:1942.36 E:0.090265 |  Liverpool won, Southampton won, there's the referee's whistle, Salah takes his time,
+[4566.12 - 4574.12] P:1949.77 E:0.118505 |  runs to his right, runs up now, left-footed, and scores, Mo Salah, our right third in Liverpool's
+[4574.12 - 4582.76] P:1961.74 E:0.117507 |  all-time list of goal scorers with goal 242, and it's the second goal of the afternoon that puts
+[4582.76 - 4589.00] P:1902.84 E:0.111939 |  it in front by two goals to one. Did we expect anything else, it's a brilliant penalty.
+[4589.80 - 4594.76] P:1833.45 E:0.117997 |  Goes to Ramsdale's right-hand side, Ramsdale gets this correctly, but he can't get near it,
+[4595.64 - 4600.84] P:1840.40 E:0.120511 |  emphatic from Salah, and Liverpool, this second half, Blimey,
+[4602.68 - 4606.44] P:1688.83 E:0.119437 |  they've been hungry, they've played with the intensity, and now they're in front.
+[4607.40 - 4615.64] P:1892.39 E:0.107186 |  Only Roger Hunt with 285, and Ian Rush with 346 goals, have scored more than Mo Salah,
+[4615.72 - 4619.80] P:1853.01 E:0.111845 |  Bristol City won, Hull City won, killing of a leading Bradford City by a goal to Nils,
+[4619.80 - 4624.12] P:1849.79 E:0.105238 |  a Bradford City might miss out on an opportunity to go to the top of League two,
+[4624.68 - 4627.64] P:1874.18 E:0.109813 |  and there's been another goal at turf four, Katie Smith.
+[4627.64 - 4632.28] P:1724.97 E:0.116604 |  Burnley three, ten-man, Luton, Nils, top scorer Josh Brownhill getting the final touch,
+[4632.28 - 4637.32] P:1785.53 E:0.107514 |  Sammy at home, the ball brought in on the right-hand side from Edwards, taking it from the
+[4637.32 - 4641.80] P:1856.23 E:0.112695 |  by-lan, I've got to say from my vantage point, it looked like the ball had gone out,
+[4641.80 - 4643.80] P:1698.46 E:0.119071 |  but the goal stands, Burnley three, Luton, Nils.
+[4644.44 - 4649.96] P:1886.35 E:0.111633 |  And Liverpool also with that second goal from Mo Salah, have once again scored at least two now,
+[4649.96 - 4656.52] P:1793.01 E:0.107701 |  in each of their 19 games here at Anfield, unbeaten in the previous 18 by doing so.
+[4656.52 - 4662.52] P:1909.65 E:0.097781 |  late Norian have got a goal back, late Norian won, Northampton down two, but that change of
+[4665.88 - 4670.84] P:1962.62 E:0.108735 |  attitude, application in the second half has reached its rewards, what, 11 minutes into the
+[4670.84 - 4675.96] P:1877.11 E:0.104254 |  second period? Yeah, and you know, just greater intensity, they're running harder,
+[4675.96 - 4679.24] P:1737.35 E:0.104807 |  they've put Southampton under pressure, they've suffocated themselves,
+[4679.24 - 4683.96] P:1761.33 E:0.110868 |  Hampton haven't been able to get out, and it's a totally different Liverpool performance we've seen
+[4684.68 - 4687.56] P:1807.28 E:0.112298 |  in their second half, didn't take them long, did it after half time,
+[4688.68 - 4696.44] P:1890.81 E:0.106832 |  they now go in front, and they know what it means, you mentioned their desire to win
+[4696.44 - 4700.36] P:1860.46 E:0.107350 |  another Premier League title this season, they want to win as many trophies as they can,
+[4700.36 - 4705.64] P:1798.93 E:0.107531 |  but that's the one Liverpool fans want to win, and there've been Noisyri and in their second half,
+[4705.64 - 4711.88] P:1768.49 E:0.105679 |  haven't they? Oh yes they have, they've played their part too, and they will be noisy on Tuesday
+[4711.88 - 4717.48] P:1833.67 E:0.112683 |  night, not my words for the visit of Paris-Azhamat, but now in one, Bolton Wanderers two as the
+[4717.48 - 4725.72] P:1850.97 E:0.096101 |  latest scorer in League One, Southampton, who were leading at half time, and now just having
+[4726.68 - 4731.80] P:1980.85 E:0.107165 |  to hang in the game because Liverpool were looking to try and release Lewis Diaz, but it went and
+[4731.80 - 4738.20] P:1889.05 E:0.099367 |  reached Ramsdale who bowls the ball out towards Manning, but Liverpool have certainly pecked
+[4738.20 - 4744.04] P:1832.57 E:0.108887 |  things up in the second half, and now lead by two goals to one, back towards Ramsdale it goes,
+[4744.04 - 4750.84] P:1865.11 E:0.106137 |  who floats it out towards that far side, on a slot making that triple change, McAllister heads it on,
+[4750.84 - 4755.56] P:1832.29 E:0.095613 |  Southampton get a free kick, I wonder where we'll go next then, news of the Bristol City
+[4755.64 - 4761.48] P:1834.12 E:0.097669 |  goal it is with the Oanguini. Bristol City One, Hull City One, Anis Mehmeti scores his 12th the
+[4761.48 - 4766.52] P:1804.98 E:0.091615 |  season from the penalty spot, sending the keeper the wrong way to put it in the bottom left,
+[4766.52 - 4773.16] P:1909.34 E:0.102716 |  Sinclair Armstrong winning the penalty, Bristol City One, Hull City One. Well Bradford City second
+[4773.16 - 4777.88] P:1851.22 E:0.111159 |  in League Two against a Jullingham team who only have won one win in their last 15, however they
+[4777.88 - 4782.12] P:1907.31 E:0.100485 |  are leading, Charlotte Richardson. Jullingham One, Bradford, Neil Connor, Masterson gives the host
+[4782.12 - 4786.68] P:1902.01 E:0.096488 |  the lead from a corner, Masterson with his back towards goal able to turn and powerfully strikes
+[4786.68 - 4791.48] P:1840.72 E:0.091490 |  the ball through a busy six yard area into the back of the net, Jullingham One, Bradford, Neil.
+[4791.48 - 4796.04] P:1858.21 E:0.117412 |  Good news for Walsall supporters, their team have been faltering of late, only two wins in their
+[4796.04 - 4802.20] P:1885.08 E:0.105114 |  last 11, losing today at home to Grimsby Town by three goals to one, it's all Liverpool now isn't it?
+[4802.92 - 4809.88] P:1913.62 E:0.104907 |  Oh it is, I mean they're totally on top, but they are the noticeable difference Ian, is that they're
+[4809.88 - 4814.28] P:1735.12 E:0.111331 |  really running harder, Southampton not getting a moment's peace, a chance to
+[4814.28 - 4817.40] P:1762.64 E:0.107749 |  any of the Southampton players to get on the ball and get the heads up and
+[4818.68 - 4824.68] P:1811.28 E:0.100384 |  make your pass, Liverpool are smothering them, dominating them. You've played in big European
+[4824.68 - 4829.80] P:1835.66 E:0.098141 |  games and when you know you've got one on the horizon as Liverpool have against Paris Saint-Germain,
+[4829.80 - 4836.12] P:1878.58 E:0.100352 |  as a player how hard is it not to look too far ahead? I sort of get it and I think it was a case,
+[4836.12 - 4841.32] P:1702.91 E:0.100210 |  no disrespect to Southampton before this game where maybe they're going into it and Southampton's
+[4841.32 - 4846.60] P:1847.96 E:0.098119 |  record they've been particularly poor this season, bottom of the Premier League by a distance where
+[4846.60 - 4851.40] P:1848.11 E:0.093031 |  you're just expecting something to happen rather than players going out and making it happen
+[4851.40 - 4857.88] P:1838.10 E:0.083547 |  and that's been the difference in what the first 12-13 minutes in this second half,
+[4857.88 - 4864.12] P:1839.05 E:0.093880 |  greater desire, intensity and they've got the rewards. Passing the ball as well, a lot sharper
+[4864.36 - 4867.32] P:1897.14 E:0.111882 |  quicker in this second period, Barnes and Neal Blackpool too.
+[4867.32 - 4870.52] P:1785.92 E:0.098472 |  Team news now from Brentford for our 5-30 commentary, Connor McNamara.
+[4870.52 - 4874.76] P:1900.45 E:0.106810 |  Thomas Frank makes one change from Brentford's draw against Everton, 10 games to go, Christian
+[4874.76 - 4878.76] P:1886.57 E:0.100615 |  Norgaard has recovered from concussion, he comes back into the midfield in place of Yarmalook,
+[4878.76 - 4883.08] P:1935.10 E:0.106203 |  Vila 1 in Bruges of the Champions League on Tuesday, two changes here, one of them in goal,
+[4883.08 - 4888.36] P:1920.47 E:0.100748 |  Robin Olsen back for Ennie Martinez who's a back injury, Jacob Ramsey replaces Marcus Rashford is
+[4888.36 - 4893.96] P:1798.79 E:0.085102 |  on the bench. Matt Upson will be alongside Connor for commentary of that game at Brentford
+[4893.96 - 4898.04] P:1857.65 E:0.096581 |  after sports report will bring you the results and the reaction. DS running forward and running
+[4898.04 - 4901.64] P:1845.67 E:0.099295 |  hard on that far side the left, again they double up on him but he looks to try and squeeze in between
+[4901.64 - 4907.48] P:1899.83 E:0.097961 |  the two Southampton players, pulls it back, Robertson has a shot that was blocked, comes to the Van Dijk,
+[4907.48 - 4912.68] P:1898.53 E:0.097248 |  Van Dijk will pass it to Alexander Arnold who shoots and shoots wide, right footed,
+[4912.68 - 4919.32] P:2003.04 E:0.107484 |  off target, goal kick Liverpool now lead 2-1. Yeah that low back lift from Alexander Arnold,
+[4919.32 - 4924.52] P:1910.95 E:0.097568 |  all sorts of movement on the ball but as well wide I think of Ramsdale's right hand post,
+[4924.52 - 4929.80] P:1830.19 E:0.102915 |  goes for power, new is I tell you, middle of the goal, wasn't far off getting a touch there.
+[4931.00 - 4937.16] P:1927.96 E:0.112054 |  Said before that we're entering the final straight for Liverpool before today, 10 games remaining,
+[4937.16 - 4941.56] P:1841.13 E:0.111711 |  six of them at home and they're looking to use their home advantage to full effect
+[4941.56 - 4945.64] P:1849.58 E:0.099233 |  as they lead by two goals to one, to the south coast, John Southall.
+[4945.72 - 4949.08] P:1444.09 E:0.115529 |  Brighton 1, full on 1 really tightness, Brighton had a goal disaligned,
+[4949.08 - 4952.36] P:1657.69 E:0.103070 |  Metoma tucked it in but Minte was offside when he crossed the ball,
+[4952.36 - 4956.84] P:1823.74 E:0.104988 |  he played 64 minutes, here come Fulham cleared away by Brighton, Brighton 1 full on 1.
+[4956.84 - 4961.96] P:1931.07 E:0.103127 |  Salah almost got Nunez in, stopped by Harwood Bellis, plays it short to Uga Chukwu,
+[4961.96 - 4965.64] P:1847.05 E:0.111760 |  back with the England international Harwood Bellis who then hits the ball over the top,
+[4967.24 - 4974.52] P:1913.61 E:0.094630 |  Ivan Ureich who 49 year old Croatian patrol in that tiny technical area down below as we sit in
+[4974.52 - 4978.52] P:1878.36 E:0.098904 |  our lofty position here in the main stand on this bright afternoon on Merseyside,
+[4979.08 - 4982.60] P:1885.54 E:0.099042 |  he's lost nine of his 10 games in the Premier League.
+[4984.44 - 4988.12] P:1742.52 E:0.114932 |  Ivan the terrible you could say but it's not all on him this season is it?
+[4989.00 - 4993.96] P:1835.87 E:0.103019 |  It's not, I mean you consider the poor start that they had, that was a terrible start,
+[4993.96 - 4999.24] P:1720.64 E:0.105362 |  one point from 27, nine without a win, they were always behind the eight ball with a start such
+[4999.24 - 5006.52] P:1773.25 E:0.079775 |  as that, here is Alexander Arnold and even regardless what they may have dreamt of today,
+[5006.52 - 5011.48] P:1717.57 E:0.081405 |  still destined to go back to the championship Southampton when you've only won
+[5013.96 - 5019.72] P:1782.89 E:0.085521 |  two out of 27 games all season. I mean the fact they've lost 22 I mean is
+[5021.64 - 5026.20] P:1661.73 E:0.113303 |  an incredibly poor record isn't it but I tell you it's afternoon first half,
+[5026.84 - 5031.88] P:1725.76 E:0.098668 |  they more than competed didn't they? Yes they did. Arnold in there, blocks in and around the box
+[5031.88 - 5039.32] P:1774.66 E:0.083489 |  frustrated Liverpool but they have been blown away in this second half and they have barely been in
+[5039.32 - 5045.72] P:1831.29 E:0.082873 |  the Liverpool half. Only Sheffield United in top division history have had fewer points at this
+[5045.72 - 5052.52] P:1813.41 E:0.086719 |  stage of a season when they had eight in the 75-76 campaign. MK Donns have come from behind,
+[5052.52 - 5058.68] P:1758.03 E:0.090932 |  they now lead more combined, two goals to one in league two for Ben Gladwin as their interim
+[5058.68 - 5064.76] P:1899.19 E:0.079707 |  after the departure of Scott Lindsay. McAllister strokes it towards Diaz, Liverpool after that
+[5064.76 - 5069.96] P:1829.72 E:0.088198 |  tempo now you can, the way that they're playing there's that element of control, they've reasserted
+[5069.96 - 5075.40] P:1839.34 E:0.082649 |  themselves in this game as they've come from behind, here is Diaz who passes the ball behind the
+[5075.40 - 5080.92] P:1873.69 E:0.092782 |  referee Lewis Smith in his ultra blue referee's jersey, Manning cuts it out from reaching Salah,
+[5080.92 - 5085.88] P:1890.41 E:0.091931 |  Manning then lifts it away from Elliott, it'll touch with his head, Salah, Fahjie's
+[5085.88 - 5090.28] P:1858.68 E:0.096567 |  running over, it'll be a free kick to Salahampton, he wants to take it quickly but there's nobody
+[5090.28 - 5095.00] P:1858.18 E:0.094058 |  there. We'll go now to South London Chris Coles. Crystal, Palace, Niel, Ipswich, Niel, the chances
+[5095.00 - 5099.96] P:1678.76 E:0.102856 |  continue to flow, the goals do not, Henderson unconvincing from a corner, luckily Sar just
+[5099.96 - 5104.68] P:1609.51 E:0.101069 |  behind him cleared off the line and Eze at the other end for Palace, a shot well saved by the
+[5104.68 - 5110.28] P:1716.26 E:0.095769 |  backpedaling Palmer, still somehow Palace, Niel, Ipswich, Niel. Sugawari is going to come on for
+[5110.28 - 5117.00] P:1888.19 E:0.093040 |  Dibbling and Archer is also going to be coming on Cameron Archer and he will replace Albert
+[5117.00 - 5123.72] P:1827.24 E:0.091534 |  Grombeke the Danish international, double change being made for Salahampton in an attempt to try
+[5123.72 - 5133.00] P:1765.91 E:0.083592 |  and get back onto level terms as Liverpool lead by two goals to one, Chris. Cameron Archer will go as a
+[5133.96 - 5142.12] P:1634.46 E:0.082850 |  central striker, play up top in Southampton, maybe more of a focal point, a target type
+[5142.12 - 5146.60] P:1774.13 E:0.098472 |  and someone who'll play higher up and occupy the two Liverpool centre halves, they didn't set up in
+[5146.60 - 5154.20] P:1776.55 E:0.072581 |  the first half in that same sort of system and style, they played two up top but they were
+[5154.20 - 5162.60] P:1812.32 E:0.072289 |  withdrawn to Grombeke and Fernandez, it's a little tweak there. 64 minutes play, Archer had made the
+[5162.68 - 5171.56] P:1834.92 E:0.077109 |  run, that was cut out by the Liverpool defence, now it's with McAllister, Nunes, here is Dias,
+[5171.56 - 5175.56] P:1795.54 E:0.098532 |  Van Dijk just over the halfway line, left of the centre circle playing from left to right,
+[5175.56 - 5180.44] P:1883.14 E:0.093190 |  attacking the cop end, no other goals to tell you about elsewhere around the country, BBC Radio
+[5180.44 - 5188.28] P:1845.13 E:0.088344 |  Five Live, BBC Sounds and the World Service, later Brentford against Aston Villa, 606 to come as well
+[5188.28 - 5193.72] P:1829.46 E:0.097771 |  with Chris and Robbie, Dias stopped in his track, Smallbone who gave Southampton the lead,
+[5193.72 - 5198.84] P:1895.41 E:0.093552 |  then hit the ball up towards Archer, Van Dijk glides back and then on the run heads it towards
+[5198.84 - 5203.40] P:1847.10 E:0.094425 |  Gravenburg and Liverpool are once again on the front foot with McAllister going forward,
+[5203.40 - 5208.52] P:1862.90 E:0.104047 |  low to the feet of Dias able to turn, Dias enters the area, crosses the ball, Elliott on the rise
+[5208.52 - 5213.88] P:1950.30 E:0.101163 |  and his header dropped over the top for a goal kick. Dias has been much more lively, as most of the
+[5213.88 - 5217.40] P:1653.15 E:0.103536 |  Liverpool players in the second half and Elliott's brought a little spark hasn't he?
+[5218.28 - 5225.96] P:1718.32 E:0.077719 |  Maybe expected that after his goal in Paris, good run into the box, just can't direct the head up
+[5225.96 - 5231.56] P:1729.07 E:0.080288 |  on target and just looking at Southampton set up, Chukavarra has gone into that right back
+[5231.56 - 5239.96] P:1695.54 E:0.073813 |  position and Kyle Walker-Peters just playing up one. As Ramsdale bides his time in his
+[5240.04 - 5247.32] P:1845.61 E:0.085439 |  all-purple goalkeeping outfit and hits it right footed downfield. But Canate comes a long way
+[5247.32 - 5251.32] P:1887.24 E:0.086068 |  out of defence to head that on this near side, the right, Salford City have just taken the lead
+[5251.32 - 5256.68] P:1896.75 E:0.102054 |  at home to crew by a goal to nil in league two as Alexander-Arnold ties up in the midfield to
+[5256.68 - 5261.80] P:1844.17 E:0.093641 |  Van Dijk, Gravenburg caught in possession by Fernandez and Sulamana can come forward, Southampton
+[5261.80 - 5267.24] P:1952.46 E:0.102680 |  still remain in the game as McAllister though stops the run of Sulamana on the edge of the area,
+[5267.24 - 5272.12] P:1918.82 E:0.092855 |  they try and hoisted away downfield towards Diaz, a goal at Plymouth, John Acres.
+[5272.12 - 5277.32] P:1833.28 E:0.103138 |  Sheffield Wednesday season is still alive, it's Plymouth-Nil, Sheffield Wednesday three,
+[5277.32 - 5281.16] P:1617.95 E:0.098305 |  super finish from Gassamer, Plymouth-Nil, Sheffield Wednesday three.
+[5282.20 - 5287.72] P:1701.12 E:0.091113 |  Another Sheffield Wednesday fans don't like to hear it but Danny Roll is somebody who has been
+[5287.72 - 5293.24] P:1830.68 E:0.086721 |  linked in the past with Southampton and is being talked about once again as a potential Southampton
+[5293.24 - 5299.72] P:1842.09 E:0.093037 |  manager as they are leading three-nil at home park Birmingham City and Lincoln, a penalty at
+[5299.72 - 5306.60] P:1871.38 E:0.100094 |  St Andrews in league one, Adam Cotier. For Birmingham City and to be taken by Kieran Dowle, a water
+[5306.60 - 5313.80] P:1851.32 E:0.091501 |  foul by Sam Cluchas, the Lincoln sub, so Dowle about to step up here, he'll take this left footed,
+[5313.80 - 5319.08] P:1905.89 E:0.101244 |  the referee blows his whistle, it's Dowle and he scores, puts it in the top corner, Birmingham
+[5319.24 - 5324.44] P:1874.27 E:0.103849 |  one, Lincoln-Nil. A reminder that second place Wickham are behind at Peterbury, united by a
+[5324.44 - 5329.64] P:1871.18 E:0.098854 |  goal to Nill and with Wrexham leading, Rotherham United, Wrexham would go into that automatic
+[5329.64 - 5334.68] P:1907.75 E:0.095906 |  promotion spot without a win in four home games as Blackpool have rattled a third at Oakwell,
+[5334.68 - 5340.20] P:1891.72 E:0.085377 |  Barnes and Nill, Blackpool three in league one. We're approaching the midway point of the second
+[5340.20 - 5345.72] P:1849.38 E:0.084672 |  half and Liverpool leading by two goals to one, it's almost as if the normal order has now been
+[5345.72 - 5350.84] P:1920.49 E:0.088647 |  restored, even within the crowd, the atmosphere, the feeling around the place. Absolutely, I think
+[5350.84 - 5357.56] P:1956.61 E:0.106350 |  everybody inside the stadium understood what was needed in the second half, the crowd responded,
+[5358.68 - 5367.80] P:1971.02 E:0.119142 |  the players responded to the crowd and Colin Nunes is now getting a huge ovation,
+[5368.52 - 5374.36] P:1921.92 E:0.117363 |  he responded with that goal and then winning the penalty and I suppose there's that argument about
+[5374.44 - 5380.04] P:1940.61 E:0.112206 |  his misdemeanor in the first half, should it have been a red card, he stayed on and he has made his mark.
+[5380.84 - 5387.56] P:1960.07 E:0.096782 |  Well Jota has come on to replace Darwin Nunes and it was a lovely ovation for
+[5387.56 - 5393.00] P:1783.89 E:0.096729 |  ever Darwin Nunes, that lack of discipline did result in a yellow card, VAR did have a look at a
+[5393.00 - 5397.80] P:1696.11 E:0.088062 |  potential red, you never thought they would give a red though, would you? It was a kick out
+[5399.24 - 5403.08] P:1824.76 E:0.104985 |  as the ball eventually rolled in the weak spring sunshine towards us.
+[5403.08 - 5410.52] P:1788.42 E:0.090733 |  What it was, it was it was Darwin from Darwin, wasn't it, to even give the officials an opportunity
+[5410.52 - 5417.80] P:1733.73 E:0.097440 |  to send him off, it was careless and clumsy really as much as anything but Liverpool could have been
+[5417.80 - 5422.92] P:1948.83 E:0.104504 |  in a real pickle had he gone. Ultimately I think the yellow was the right decision, Liverpool
+[5422.92 - 5427.48] P:1966.47 E:0.102965 |  two, Southampton one, Robertson's early cross in, left corner of the area, Howard Bellis heads it out.
+[5428.36 - 5433.56] P:1800.89 E:0.079065 |  Liverpool though have the ball back once again with Robertson, now with Van Dijk,
+[5434.20 - 5438.92] P:1770.98 E:0.092659 |  left of the centre circle, mentioned the visit of Paris Saint-Germain on Tuesday night,
+[5438.92 - 5443.48] P:1793.75 E:0.100149 |  there'll be commentary here on BBC Radio 5 Live as they will from Villapark on Wednesday,
+[5443.48 - 5448.60] P:1863.11 E:0.084411 |  Mastin Villa against Bruges, Manchester United against Real Sociedad in the Europa League commentary
+[5448.60 - 5457.08] P:1801.80 E:0.079930 |  on Thursday from Old Trafford. Elliott gave Liverpool that priceless lead from Paris in midweek,
+[5457.56 - 5464.84] P:1853.59 E:0.086569 |  Canate to Van Dijk, Salah little touch towards Elliott and gives him space to run into on this
+[5464.84 - 5469.08] P:1936.07 E:0.094630 |  near side, the right ten yards in from the touch line. Alexander-Arnold's first time cross from
+[5469.08 - 5474.60] P:1909.54 E:0.100134 |  the right and arriving was Dias, Southampton get it away, Walker-Peters running back to Fernandez,
+[5474.60 - 5479.16] P:1945.56 E:0.099942 |  skips out of the challenge and McAllister runs forward but Liverpool will quickly close down
+[5479.16 - 5483.00] P:1747.94 E:0.097631 |  the avenue and Fernandez has to retreat back inside his own heart. You know what though,
+[5483.56 - 5491.96] P:1732.90 E:0.074379 |  Archer had made a run, he's one on one with Canate and I think Fernandez has got to try that pass,
+[5491.96 - 5498.44] P:1813.01 E:0.082739 |  take a chance, take a risk, try and put Archer through, it wasn't an easy pass to make but
+[5500.04 - 5505.24] P:1644.31 E:0.101770 |  I mean how many opportunities at Southampton going to get in this second half.
+[5506.04 - 5511.64] P:1918.73 E:0.093825 |  Geltland Festival next week, all 28 races covered for you on BBC Radio 5 Live Sports Extra,
+[5511.80 - 5515.88] P:1848.90 E:0.086225 |  the commentary on Tuesday on Sports Extra will be from 1 o'clock Mark Chapman presenting from
+[5515.88 - 5520.60] P:1916.09 E:0.096829 |  the course on Friday on Gold Cup Day as Geltland actually have fallen behind to Colchester United
+[5520.60 - 5525.24] P:1839.80 E:0.103876 |  but Archer's away here, Archer enters the penalty area right hand side, Archer saved by Allison,
+[5526.04 - 5529.16] P:1893.69 E:0.112175 |  stood inside his six-yard area and beat the ball away with both hands.
+[5529.16 - 5536.12] P:1801.87 E:0.097863 |  Yeah it's another warning for Liverpool, Archer through right hand side of the box and Van Dijk
+[5536.12 - 5541.64] P:1876.58 E:0.106737 |  actually just steadied himself, slowed himself down and said well you try and beat Allison from
+[5541.64 - 5546.76] P:1823.92 E:0.089549 |  the angle, I'm backing my goalkeeper and that was a good decision and a comfortable save in the
+[5546.76 - 5552.84] P:1794.97 E:0.082233 |  end from Allison down to his right hand side. You'd expect Archer to hit the target but he couldn't
+[5552.84 - 5557.64] P:1830.99 E:0.104851 |  beat Allison, it's Liverpool in the penalty area, this is Lewis Diaz, creates the space with a cross
+[5558.44 - 5562.20] P:1903.82 E:0.113303 |  and Salah couldn't get the conversion, he was a little bit off balance, he was just outside
+[5562.20 - 5566.68] P:1963.43 E:0.107203 |  the six-yard area right footed and it went wide, goal kick Liverpool still lead 2-1,
+[5566.68 - 5571.40] P:1882.01 E:0.083405 |  had that been his left foot, I think we would have expected a different outcome.
+[5571.40 - 5574.92] P:1857.46 E:0.100958 |  Diaz I wondered whether he could have got a shot off on the corner of the six-yard line,
+[5574.92 - 5580.84] P:1789.12 E:0.089062 |  he was unselfish and stabbed the ball up to Salah, he couldn't direct his effort on target.
+[5582.12 - 5588.44] P:1970.29 E:0.112733 |  Well this is going to be a really strong ovation for Adam Lallana who comes on for a
+[5588.44 - 5598.36] P:2019.69 E:0.103686 |  World Small Vote because he was a £25 million acquisition for Liverpool, six years here,
+[5598.36 - 5605.64] P:1723.27 E:0.085211 |  178 appearances and extremely popular, Adam Lallana comes on. Wonderful footballer, Adam Lallana,
+[5607.16 - 5612.84] P:1781.04 E:0.093980 |  stellar career and one thing that Salah's Hampton have missed in this second half is that
+[5613.56 - 5619.24] P:1854.82 E:0.089576 |  bit of creativity, cleverness, Guile and we know Adam Lallana has that in spades.
+[5621.00 - 5627.48] P:1805.00 E:0.083899 |  18 minutes remaining, still we have that weak sunshine, Colchester incidentally,
+[5627.48 - 5633.16] P:1605.49 E:0.075077 |  when I mentioned that they've taken the lead at Cheltenham, they're unbeaten in 10 in League 2,
+[5634.04 - 5639.08] P:1859.92 E:0.093151 |  they're on a really really good run of form with Colchester United, Liverpool lead by two goals to
+[5639.08 - 5647.16] P:1717.62 E:0.077842 |  one. It would take them 16 points clear of Arsenal, albeit Arsenal would have two games in hand
+[5648.60 - 5652.20] P:1745.54 E:0.091844 |  and one of them will be in five lives Premier League Sunday from midday tomorrow,
+[5652.20 - 5657.08] P:1885.11 E:0.081589 |  430 commentary at Old Trafford, Chelsea Leicester before that at two, Spurs,
+[5657.08 - 5662.20] P:1833.00 E:0.093889 |  Bournemouth will be on the BBC Sport website but it's been by and large one-way traffic in this
+[5662.20 - 5666.84] P:1861.60 E:0.099563 |  second half, DS from McAllister, stabs it into the path of Robertson, Robertson marauding his way
+[5666.84 - 5672.52] P:1957.77 E:0.112931 |  forward, Harwood-Gullis catching out behind for a corner kick. There's a wonderful crossfield
+[5672.52 - 5681.64] P:1856.03 E:0.098190 |  ball from Trent Alexander-Arnold to Diaz, must have been 40, 50, 60 yards and then Liverpool are on to them,
+[5682.36 - 5688.04] P:1860.34 E:0.095663 |  little ball inside to McAllister, releases Robertson, bit of a heavy touch inside the box and
+[5688.84 - 5693.96] P:1850.46 E:0.091255 |  eventually a corner. The corner has worked out to Elliott, enters the area, shoots headed away
+[5693.96 - 5699.64] P:1890.89 E:0.093453 |  by Bellacotcha, it was Ramstell who was already diving away towards his right, Wigan Athletic
+[5699.64 - 5704.92] P:1934.48 E:0.086740 |  leading Cambridge United by a goal to nil, they dispensed with the services of Sean Maloney last
+[5704.92 - 5713.56] P:1818.09 E:0.077798 |  week, did Wigan, so taking temporary charge is Glenn Whelan and they are ahead, Wigan won Cambridge
+[5713.56 - 5718.60] P:1863.05 E:0.109384 |  United nil, Robertson, lovely touch out of the air on that left hand side, high on the pitch he wins
+[5719.56 - 5723.08] P:1904.73 E:0.107730 |  Let's get an update from Brighton, it's not a corner kick, it's a goal kick,
+[5723.08 - 5727.24] P:1738.99 E:0.101139 |  update nevertheless from the Amex with John. Brighton won full-on-one,
+[5727.24 - 5730.76] P:1637.92 E:0.113222 |  game just dipped into a bit of a lull but Brighton have brought on March and Wellbeck,
+[5730.76 - 5735.56] P:1696.86 E:0.113893 |  and Wellbeck scored the winner in his last two games, he's got about 13 minutes to do it again,
+[5735.56 - 5740.28] P:1715.36 E:0.103624 |  Brighton one full-on-one. Tramirobas have come from behind, they lead Bromley by two goals to one,
+[5740.28 - 5743.88] P:1863.34 E:0.113150 |  it was a shake of the head in disagreement with Andy Robertson. I thought that was the correct
+[5743.88 - 5749.00] P:1862.21 E:0.099479 |  decision, I tell you what is interesting in the sort of ruthlessness from Anna Slott at half-time
+[5749.00 - 5753.40] P:1869.32 E:0.082404 |  saying, do you know what, not good enough in the first half, that lack of intensity,
+[5753.40 - 5759.96] P:1932.83 E:0.068282 |  I'm going to be positive, make the substitutions and that has proved a really clever decision.
+[5761.00 - 5765.08] P:1828.96 E:0.093973 |  Despite that touchline, Vanny is allowed to talk to the players during the halftime
+[5765.08 - 5769.40] P:1821.31 E:0.087687 |  interval, that's when he made that change and to good effect as well. So we've heard from Brighton
+[5770.20 - 5775.16] P:1868.97 E:0.098567 |  Crystal Palace, it switched Chris Coles. It's still 0-0 but Alex Palmer has saved Ipswich and
+[5775.16 - 5781.00] P:1652.13 E:0.107233 |  saved Leaf Davis, woefully short back pass, Daniel Munoz on to it, Palmer out to make a really good
+[5781.00 - 5787.32] P:1787.96 E:0.085448 |  save to keep it at Palace, near Ipswich, 0. Here is Ramsdale in the Southampton goal,
+[5787.32 - 5793.80] P:1816.31 E:0.079641 |  chipping the ball out towards Manning, Harwood Bellis, eventually will clear for Southampton,
+[5793.80 - 5798.84] P:1940.80 E:0.095307 |  Fernandez couldn't get hold of it, McAllister just touches it with the outside of his right
+[5798.84 - 5803.64] P:1986.51 E:0.085789 |  group to Van Dijk in the centre circle to stride forward, Barrow 2, Akrington Stanley
+[5803.64 - 5809.40] P:1846.05 E:0.084293 |  Nill is the latest score in League 2, we've got about 15 minutes remaining, we'll probably start
+[5809.40 - 5816.04] P:1894.51 E:0.078726 |  to rattle through the divisions, of course nothing in Scotland, it's Scottish Cup weekend,
+[5816.04 - 5822.36] P:1840.16 E:0.090278 |  Hearts beat Dundee 3-1 last night and Aberdeen beat Queen's Park in the early game by four goals to
+[5822.36 - 5828.20] P:1905.59 E:0.086005 |  one, the other two quarter finals, Celtic Hibs is tomorrow and Livingston St. Johnston is being
+[5828.20 - 5835.16] P:1980.98 E:0.082821 |  played on Monday night, but the latest scores in League 2, well the two results, Wimbledon 2-0,
+[5835.16 - 5840.84] P:1921.99 E:0.090716 |  County Nill, both sides looking still for automatic promotion, Walsall 1, Grimsby Town 3,
+[5840.84 - 5846.36] P:1917.60 E:0.084721 |  so the leaders lost, good for Grimsby in their playoff hopes, these are the latest scores,
+[5846.36 - 5851.48] P:1855.29 E:0.081940 |  Barrow 2, Akrington Nill as I've mentioned, Cheltenham Nill, Colchester 1, Chesterfield 2, Newport
+[5851.48 - 5856.36] P:1914.87 E:0.090975 |  County 1, Doncaster Rovers who were 2-0 up, now drawing 2-2 at home to Swindon Town, Fleetwood
+[5856.36 - 5860.28] P:1916.21 E:0.088778 |  and Portbell is goalless, Bradford City had a chance to go to the top of the table but they're
+[5860.28 - 5865.72] P:1845.13 E:0.092897 |  losing at Presfield, Jillingham 1, Bradford City Nill, Harrogate Nill, Carlisle United Nill, Carlisle
+[5865.72 - 5871.56] P:1852.57 E:0.087119 |  who were bottom of the table, Mark Hughes his team are 4-1 beaten, MK Donnes 2, Morkham 1,
+[5871.56 - 5876.20] P:1901.26 E:0.094669 |  Salford City 1, Crew Nill, Tramir Rovers 2, Bromley 1, goal at Sunderland, John Bennett.
+[5876.20 - 5881.00] P:1862.44 E:0.111259 |  A big goal for Sunderlanders, they look to cut the gap to the top two, Sunderland 2, Cardiff 1,
+[5881.00 - 5886.28] P:1883.28 E:0.107856 |  it's Chris Meppam tapping it in across from the right hand side, right place, right time, Sunderland
+[5886.28 - 5891.64] P:1911.56 E:0.102785 |  2, Cardiff 1. One turn too many by Lewis Diaz, he fell to the floor and Southampton saw it back
+[5891.64 - 5897.32] P:1951.75 E:0.089562 |  towards Ramsdale, Mansfield Town have equalised at Stephenage, Stephenage 1, Mansfield Town 1,
+[5897.32 - 5906.36] P:1854.44 E:0.084335 |  that is a latest score line from Broadhall Way, the latest scores in League 1, just keep my
+[5906.36 - 5912.60] P:1862.66 E:0.090364 |  eye on Archer on that right hand side for Southampton and in the sunshine Gravenburg wins the ball
+[5912.60 - 5917.48] P:1878.94 E:0.104583 |  deep inside his own half, the two results incidentally were Crawley 1, Reading 1, so Reading and
+[5917.48 - 5924.52] P:1943.49 E:0.097177 |  beaten in 8, Stockport County Nill, Charlton Nill, Charlton who've only now lost one of 11
+[5924.52 - 5930.04] P:1923.99 E:0.093853 |  under Nathan Jones, Barnsley Nill, Blackpool 3, Birmingham leaders 1, Lincoln City Nill, Bristol
+[5930.04 - 5936.28] P:1890.84 E:0.103205 |  Rovers 1, Huddersfield Nill, Burton 1, Bolton 2, Exeter leading Shrewsbury 2, Nill, Lake Norrie 1,
+[5936.28 - 5941.08] P:1886.52 E:0.092679 |  Northampton Town 2, Peterborough leading Wickham by a goal to Nill, Peterborough looking to go
+[5941.08 - 5946.52] P:1879.81 E:0.085817 |  5 and beaten, Stephenage 1, Mansfield 1 that scoreline I've just mentioned and Wigan 1, Cambridge
+[5946.52 - 5951.80] P:1896.68 E:0.092766 |  United Nill while Wrexham lead Rotherham by a goal to Nill, so Wrexham will go second in the table
+[5952.36 - 5959.48] P:1686.88 E:0.085363 |  as it currently stands, Chris. Yeah and I think this is how, this is the difference between
+[5959.48 - 5963.64] P:1820.51 E:0.096243 |  Arnav Slott's Liverpool and Jürgen Klopp's Liverpool who were brilliant to watch but
+[5965.16 - 5969.96] P:1856.92 E:0.094588 |  it's just kept the ball haven't they in sort of recent times trying to draw Southampton onto them,
+[5970.84 - 5975.64] P:1815.69 E:0.093618 |  playing at their own pace, slow, slow across the back and then quick whereas a little bit more
+[5975.64 - 5983.32] P:1826.51 E:0.071172 |  direct under Klopp and so they go for the kill but they're trying to draw Southampton players out
+[5983.32 - 5990.60] P:1699.33 E:0.089975 |  onto them and put them under pressure and then using their superiority to play through them.
+[5991.80 - 5996.44] P:1966.75 E:0.091078 |  Crew have got an equaliser at Salford in League 2, Salford 1, Crew 1 is now a latest score but
+[5996.44 - 6002.12] P:1844.82 E:0.082769 |  Liverpool are in control leading by two goals to one and Southampton at the moment,
+[6003.64 - 6008.20] P:1833.45 E:0.100983 |  Lalaarna is the one who decides to go and press Canate who passes the ball out towards Van Dijk,
+[6008.20 - 6013.48] P:1802.97 E:0.088685 |  he hits it forward, Robertson, Howard Balles commits himself with a header, goes out of play from that
+[6013.48 - 6019.80] P:1859.30 E:0.107051 |  far side. Frank Lampard, before I give you the championship scores, Gola Crystal Palace.
+[6020.76 - 6028.84] P:1718.05 E:0.112736 |  Finally, Ian, finally a chance has taken, Crystal Palace take the lead, Ismail Asar takes this really
+[6028.84 - 6035.32] P:1744.16 E:0.110164 |  nicely, bursting into the penalty area, lifts it over Alex Palmer to make it, Palace 1, Ipswich Nill.
+[6035.32 - 6039.72] P:1895.94 E:0.105715 |  McAllister forward, looks for Jota, goes behind him, Southampton able to bring the ball clear
+[6039.72 - 6044.28] P:1828.88 E:0.102261 |  through Fernandez, so one little at Selhurst Park, Brighton 1 full and one is still a scoreline,
+[6044.28 - 6048.84] P:1905.08 E:0.103529 |  Fernandez continued to run, there was no foul there as is the referee, Southampton is bent for
+[6048.84 - 6055.16] P:1851.28 E:0.104040 |  a test but Liverpool come forward as the crowd whip up the atmosphere once again inside Anfield
+[6055.16 - 6059.72] P:1830.86 E:0.098701 |  with the red and white scars being swung around their heads as they're in the cot, the Saquenidau
+[6059.72 - 6064.36] P:1868.09 E:0.102255 |  Gleesh down the Anfield road end, both bottom and top tiers away towards our left hand side
+[6064.36 - 6069.40] P:1865.30 E:0.099934 |  and we just 10 overs remain, 10, 10 overs? It was the cream of the sunshine, it fooled me,
+[6069.40 - 6074.92] P:1860.81 E:0.103367 |  10 minutes remaining. Yeah, I've got to say the recovery run from Diaz hands on hips at the moment
+[6075.00 - 6081.24] P:1847.90 E:0.093614 |  to get back and make the challenge on Fernandez, sums him up as a player, always had great desire,
+[6081.24 - 6086.28] P:1730.39 E:0.094182 |  ability with the ball, without the ball, he's first class as well. That was a googly,
+[6087.32 - 6089.64] P:1749.74 E:0.110206 |  almost tripping myself up there, here is it. Full toss.
+[6092.68 - 6099.96] P:1781.90 E:0.077122 |  Here is Elliott, Jota gives it back and Alexander Arnold, Southampton again defending very deep,
+[6099.96 - 6103.48] P:1797.06 E:0.101119 |  Fleetwood 1, Portbale 0 is the latest score line, here is Salah,
+[6104.04 - 6108.60] P:1945.77 E:0.104579 |  stopped by Lallana, dived on by Ramsdale, so earlier on the two results in the championship,
+[6108.60 - 6112.92] P:1937.28 E:0.096417 |  what a wonderful job Frank Lampard is doing at Coventry City, they beat Stoke by three goals to
+[6112.92 - 6118.76] P:1888.44 E:0.084283 |  two, they've won nine of their last 10 now of Coventry as they consolidated playoff position,
+[6118.76 - 6123.96] P:1876.88 E:0.100199 |  Watford 1, Millwall 2 was the other result in the other early game as Bellacotchup steps out of
+[6123.96 - 6128.36] P:1845.52 E:0.089768 |  defence for Southampton and chips the ball out towards Sulamana, doesn't reach him, headed forward
+[6128.36 - 6133.72] P:1895.32 E:0.092734 |  by a stationery Alexander Arnold, Elliott comes forward, links up with Salah and Elliott shoots,
+[6133.72 - 6138.12] P:1929.26 E:0.112999 |  and it was a floated effort off his left foot that was drifting wide, Ramsdale at full flight
+[6138.12 - 6143.96] P:1994.03 E:0.105958 |  away towards his right, out for a goal kick. Yeah, always drifting wide I think, 25 yards out,
+[6143.96 - 6150.36] P:1803.56 E:0.082618 |  why not take a shot, he just cuts across the ball and Ramsdale flings himself to his right,
+[6150.36 - 6156.44] P:1911.68 E:0.089588 |  but as well past five yards, past the right tempo, so the only danger for Liverpool is
+[6156.44 - 6163.56] P:1964.81 E:0.112646 |  Cameron Archer picking up a position in between Vanduiken and Robertson and those balls into the
+[6163.56 - 6171.80] P:1971.55 E:0.108236 |  right hand channel. The excellent Graven Burke is coming off and Wataru Endo comes on to replace
+[6171.80 - 6177.16] P:1905.70 E:0.117023 |  him in the midfield as we go to the Amex and John Southall. Bryton 1, full and one, Bryton pushing
+[6177.16 - 6181.72] P:1780.29 E:0.114937 |  for the winner here, Danny Welbeck with a header seven yards out, just drifted wide, great chance
+[6181.72 - 6186.20] P:1862.68 E:0.089784 |  that Bryton 1, full and one. And at long last I can give you the latest scores in the championship,
+[6186.20 - 6191.16] P:1776.08 E:0.090143 |  Bristol City 1, the 10 men of whole City 1, Burnley 3, the 10 men of Luton Town, Nill.
+[6191.16 - 6197.56] P:1943.25 E:0.089951 |  Darby County 2, Blackburn Rovers 1, that would be a first win in 13 for John Eustace against his
+[6197.56 - 6201.24] P:1850.04 E:0.092143 |  former club. Plymouth Argyll will go to the bottom of the table as it currently stands,
+[6201.24 - 6205.64] P:1824.04 E:0.105163 |  Plymouth Nill, Sheppard Wednesday 3, Sheppard United 1, Preston Northend, Nill, that would
+[6205.64 - 6210.44] P:1871.99 E:0.102184 |  take Chris Wilderside level with Leeds United at the top. Sunderland 2, Cardiff 1, Swansea 1,
+[6210.44 - 6214.84] P:1923.67 E:0.093869 |  Middlesbrunnell, West from a Chalbion, a down to 10 men, but they still lead Queen's Park Rangers
+[6214.84 - 6218.20] P:1860.33 E:0.100139 |  by a goal to Nill. Saller, that thing's way in towards the penalty area with the cross,
+[6218.20 - 6223.32] P:1911.44 E:0.090390 |  Bella Cutchup tries to clear, closed down quickly by Jota, Elliott picks it back up for Liverpool,
+[6223.32 - 6227.72] P:1905.26 E:0.093704 |  cross from the left-hand side, Harwood Ballas is the one now to run it out of the penalty area,
+[6227.72 - 6232.44] P:1887.87 E:0.107640 |  with eight minutes remaining, but it's behind Sulamana, it's a Liverpool throw to what they lead.
+[6232.44 - 6237.32] P:1808.27 E:0.094470 |  He was Harwood Ballas who's actually had a pretty decent game, off centre half for Southampton,
+[6237.32 - 6244.20] P:1667.20 E:0.083458 |  looking for the runner. There's a good pull in from Mo Saller, looking for the run in behind
+[6244.20 - 6250.12] P:1923.46 E:0.098532 |  of Sulamana, he didn't move and eventually tried to play a short ball and it went out for a throw in.
+[6251.40 - 6257.32] P:1915.37 E:0.080847 |  Here is Van Dijk, back out towards Lewis Dias, they might have thought of an improbable victory
+[6257.32 - 6263.40] P:1826.91 E:0.086918 |  at halftime, the St supporters have made that long journey up from the south coast,
+[6264.20 - 6271.16] P:1778.41 E:0.086332 |  but Liverpool came out a different animal altogether in the second half, and as they
+[6271.16 - 6276.04] P:1886.85 E:0.102454 |  win the ball again with Jota, Harwood Ballas tries to shield Jota away, and there was a foul
+[6276.04 - 6282.20] P:1796.93 E:0.076038 |  on Harwood Ballas, three kicks out Hampton. That is defended well, Harwood Ballas, yeah,
+[6282.20 - 6290.36] P:1830.98 E:0.078564 |  fair play to all those Southampton fans who have made the trip, I mean that is absolute loyalty.
+[6291.56 - 6297.16] P:1784.68 E:0.094512 |  This season they have seen a pile of dross, haven't they? Let's get it right, but that's absolute
+[6297.16 - 6301.40] P:1685.12 E:0.097609 |  commitment from them, and today first half their team actually did them proud.
+[6303.72 - 6311.56] P:1839.64 E:0.090853 |  Jo Aribo and Paul Anuatu are the two players coming on, as the two players going off
+[6312.28 - 6319.00] P:1725.24 E:0.090458 |  Ugochukwu and Manning. Yeah, they're risking now gambling, two central strikers who will play up
+[6319.00 - 6324.20] P:1738.97 E:0.091855 |  against the Liverpool centre-backs and leave them wide open in the middle of the park.
+[6324.76 - 6333.56] P:1843.18 E:0.084842 |  Even Urochukwu only had 12 games before he departed Roma last autumn, signing the 18-month
+[6333.56 - 6345.00] P:1776.93 E:0.084708 |  deal in December. It is another sinking feeling for Southampton who are rooted to the bottom of
+[6345.00 - 6352.52] P:1866.43 E:0.067796 |  the Premier League. 13 points adrift of safety from the start of play, and with Wolverhampton
+[6352.52 - 6358.12] P:1794.00 E:0.078436 |  Wanderers against Everton at eight o'clock tonight at Mollinieu, Wolves might have an
+[6358.12 - 6364.28] P:1920.76 E:0.074753 |  opportunity to pull further clear. It's which town remember, five points adrift of Wolves are
+[6364.28 - 6372.76] P:1942.77 E:0.098387 |  behind at Crystal Palace. Ball over the top towards Diaz. Sugawara, Diaz tries to get there,
+[6372.76 - 6377.96] P:1886.28 E:0.110909 |  oh, and then Harwood Ballas has gone on for a 50-50 challenge with Lewis Diaz. The ball has been
+[6377.96 - 6383.08] P:1946.39 E:0.103066 |  kept in play, but Lewis Diaz hasn't moved. That really looks about challenge for Lewis Diaz.
+[6383.08 - 6389.56] P:1899.30 E:0.096374 |  He was at full pelt going into it with Harwood Ballas. Both players went to Groundy and these
+[6389.56 - 6393.88] P:1901.64 E:0.103513 |  are always awkward situations because they're both making a genuine attempt to play the ball.
+[6393.88 - 6399.48] P:1862.78 E:0.089300 |  It's good that Diaz has actually sat up. But first of all, I wondered whether there's a handball.
+[6399.48 - 6404.68] P:1889.16 E:0.096922 |  I think it is a handball from Sugawara who moves his arm towards the ball. Liverpool should be
+[6404.68 - 6408.92] P:1921.41 E:0.099107 |  awarded a penalty. This will go to VAR. And then the challenge from Harwood Ballas,
+[6408.92 - 6415.64] P:1941.47 E:0.086870 |  he's really committed. So is Diaz. But I'm pretty sure a penalty will be awarded here. It should
+[6415.64 - 6422.44] P:1790.58 E:0.099796 |  be awarded. It should be. But then that collision and you're just thinking about Diaz. They need
+[6422.44 - 6427.40] P:1863.00 E:0.095511 |  him fit, don't they? Deliverpool, the threat he carries, whether it was a central striker.
+[6428.12 - 6428.60] P:1907.96 E:0.033318 |  Yep.
+[6429.72 - 6435.56] P:1933.64 E:0.087857 |  A wide player off the left-hand side. Good to see both sets of the two players
+[6436.44 - 6442.28] P:1952.46 E:0.103148 |  on their feet as the referee, Lewis Smith, has been ordered to go across to the screen
+[6442.92 - 6447.64] P:1866.58 E:0.105291 |  by Matt Donahue, the VAR. But there was a movement of the arm by Sugawara.
+[6447.64 - 6454.92] P:1896.12 E:0.094181 |  Yeah, it's a nudge with the right elbow. It's really stupid defending because he's inside Diaz.
+[6455.00 - 6460.36] P:1865.25 E:0.099916 |  He doesn't need to do that. He could let the ball bounce and there'd still be an awkward situation
+[6460.36 - 6466.84] P:1875.43 E:0.094535 |  to deliver. Paul to score from there. This will be 100% awarded as a penalty. If it's not in,
+[6466.84 - 6470.60] P:1874.92 E:0.083811 |  I'll leave my hat. Well, if that is the case, I'll help you easy.
+[6472.36 - 6479.32] P:1881.84 E:0.097459 |  That's it's brainless defending it is. It's needless. Doesn't need to move his arm towards the ball.
+[6479.32 - 6482.76] P:1897.30 E:0.098268 |  It doesn't need to take this long to look at it either. As soon as you see it once, you know
+[6482.76 - 6488.68] P:1912.48 E:0.093576 |  that that's a penalty. Incidentally, Paris Saint-Germain are away at red and at half time,
+[6488.68 - 6493.64] P:1888.63 E:0.109648 |  it's red-nil Paris Saint-Germain won. That's the opposition for Liverpool on Chief United.
+[6494.60 - 6500.04] P:1966.77 E:0.111715 |  As the penalty has been awarded, he's already scored from the spot once today,
+[6500.04 - 6505.80] P:1846.67 E:0.099456 |  has Mo Salah. His record from the penalty spot, incidentally, for Liverpool, he's missed eight
+[6505.80 - 6515.40] P:1874.64 E:0.087131 |  of 51 spot kicks. And this season, after that one earlier on, it is 10 from 11 as he places the
+[6515.40 - 6521.56] P:1841.96 E:0.099664 |  ball down. Liverpool lead to one. VAR quite rightly giving a penalty. Sugawara has been penalised
+[6521.56 - 6528.20] P:1897.92 E:0.077247 |  with three minutes remaining. This has an opportunity to wrap it up for the league.
+[6528.20 - 6530.84] P:1776.72 E:0.112533 |  What do you do? Do you go the same way and what would you do?
+[6531.56 - 6537.64] P:1853.70 E:0.085379 |  I did it. I probably miss it from him. Here is Salah. Straight run-off against Ramsdale.
+[6540.12 - 6545.56] P:1906.78 E:0.095226 |  This is a chance to go. Level with Sergio Aguero, joint fifth in the all-time
+[6546.12 - 6551.56] P:1992.47 E:0.103272 |  Premier League scoring charts. Once again, makes that movement to his right. It's emphatic.
+[6552.52 - 6558.52] P:1899.49 E:0.120217 |  Mo Salah rarely misses. Left foot, it covers the ball past Ramsdale.
+[6559.72 - 6565.32] P:1929.14 E:0.115860 |  Another goal from the spot for Salah and another step towards the title for Liverpool. Three-one.
+[6565.32 - 6574.28] P:1844.55 E:0.111757 |  Blimey. He meant that, didn't he? Three goals. Three points for Liverpool. 16 points clear. Ramsdale
+[6574.28 - 6581.24] P:1786.34 E:0.111643 |  thought he was going the same way. And he wraps his foot around it into the top corner to Ramsdale's
+[6581.24 - 6589.24] P:1776.32 E:0.101316 |  left-hand side. Liverpool in this second half, Blimey. They've been outstanding and they have
+[6589.24 - 6596.52] P:1787.87 E:0.109374 |  blown the Sorrey Saints away. What a penalty that is. Hammered in. You can hear the cries, Ian.
+[6597.24 - 6603.88] P:1879.26 E:0.114724 |  The Liverpool fans. I don't think they're wrong. Are you going to believe us? We're going to win the league.
+[6604.60 - 6613.24] P:1796.77 E:0.113074 |  A Salah breakery field inside Anfield. Mo Salah moves onto 184 in the Premier League.
+[6613.24 - 6620.92] P:1770.16 E:0.101422 |  Level with Sergio Aguero. Only Andy Cole is a matter of three goals away from Mo Salah,
+[6621.48 - 6624.60] P:1755.94 E:0.108659 |  as Quonset is going to be coming on for Liverpool as well.
+[6625.48 - 6629.64] P:1678.01 E:0.107922 |  As there's been a try at Murrayfield, Jamie Lyon. And it belongs to Scotland. Throwback,
+[6629.96 - 6634.36] P:1637.04 E:0.109158 |  Blair Kinghorn bursting down the left-hand side with the home team's first attack of the day.
+[6634.36 - 6639.80] P:1788.13 E:0.098265 |  They lead Wales in the Six Nations match by five points to three with just six minutes played.
+[6639.80 - 6644.44] P:1867.27 E:0.106161 |  commentary on sports. Extra console replace Trent Alexander-Arnold.
+[6646.12 - 6652.84] P:1928.96 E:0.114785 |  It's Liverpool leading by three goals to one as the empty spaces start to appear
+[6653.48 - 6658.36] P:1888.48 E:0.110587 |  a near way end for a league of Southampton. Brighton full of John Southall.
+[6664.36 - 6666.36] P:1915.64 E:0.115922 |  Can't get to John just at this moment.
+[6667.56 - 6671.24] P:1830.45 E:0.113165 |  And no of the latest scores to tell you about, but it's one-one there at the AmEx.
+[6671.24 - 6675.80] P:1834.84 E:0.107036 |  Crystal Palace lead, Ipswich by a goal to nil. Cometry to come. Brentford-Aston Villa at 5.30.
+[6676.36 - 6680.60] P:1847.29 E:0.106127 |  Sports report on its way with Mark Chapman on five live. We're also live on the World Service
+[6680.60 - 6686.76] P:1898.29 E:0.088302 |  and BBC Sounds this afternoon. There might have been an Arsenal supporter at half-time
+[6686.76 - 6692.44] P:1934.37 E:0.100212 |  with Southampton leading thinking, okay, 13 points behind, two games in hand,
+[6693.00 - 6697.40] P:1904.75 E:0.098695 |  still to come to Anfield on May the 10th. Liverpool now though have turned it around
+[6697.40 - 6704.52] P:1817.75 E:0.096477 |  second period, 16 clear. Yep, absolutely decisive substitutes. But half-time raising the
+[6705.32 - 6711.72] P:1791.20 E:0.108125 |  level of play second half. This has been the Liverpool we've been accustomed to this season.
+[6713.00 - 6718.84] P:1905.08 E:0.115225 |  We shall not be moved is now the latest chance for the Anfield crowd. Arsenal reeled in Manchester
+[6718.84 - 6725.48] P:1844.31 E:0.103949 |  United in 97-98. Liverpool will take some stopping. They're leading by three goals to one as we go
+[6725.48 - 6730.76] P:1657.26 E:0.104651 |  to the AmEx and John. Well, it's Brighton one full and one. We've got one minute left to play here.
+[6730.84 - 6735.48] P:1786.10 E:0.105845 |  Brighton pushing forward for this winning goal, but they're running out of time. Brighton one full
+[6735.48 - 6740.60] P:1756.05 E:0.093479 |  and one. We're not running out of time. We've got another seven minutes remaining of added on time.
+[6740.60 - 6746.60] P:1863.39 E:0.100919 |  So a minimum of seven, which will take us close to five o'clock in sports report on BBC Radio 5 Live.
+[6747.32 - 6751.72] P:1817.55 E:0.106609 |  Reminder that India-New Zealand champions Trophy cricket final will be on Sports Extra at nine
+[6751.72 - 6757.96] P:1809.04 E:0.094188 |  in the morning. Cheltenham Festival all the racing next week on Five Live and Sports Extra.
+[6757.96 - 6763.00] P:1778.46 E:0.095861 |  A coverage on Sports Extra starts at one o'clock on Tuesday as Liverpool,
+[6763.00 - 6770.76] P:1782.55 E:0.085867 |  with some defending to do now here. With the exception of that archer effort saved from Allyson,
+[6771.96 - 6773.96] P:1804.21 E:0.102770 |  it has been all Liverpool second period.
+[6774.76 - 6780.36] P:1764.80 E:0.103636 |  Oh, that's happened on a penalty here. Walker Peters left-hand side of the box. Quanta.
+[6780.36 - 6782.36] P:1781.77 E:0.046118 |  That's it.
+[6782.68 - 6787.80] P:1782.45 E:0.110156 |  Walker Peters goes down. I feel this contact. Obviously, VAR will be looking at this.
+[6788.68 - 6794.36] P:1883.64 E:0.099240 |  Mark Hughes, Carlisle United and beaten in four since Mark Hughes, that's four games.
+[6794.36 - 6798.04] P:1779.43 E:0.102822 |  Harrogate Town, they've got an injury time winner in North Yorkshire. Harrogate Town one,
+[6798.04 - 6803.88] P:1755.64 E:0.094598 |  Carlisle United nil. So bottom of the table lead to Carlisle. Four behind. Here is Salah. He's on a
+[6803.88 - 6813.08] P:1682.55 E:0.083484 |  hat-trick. Ball played by McAllister to Van Dijk now towards DS. And Sugawaro, who gave away that
+[6813.08 - 6820.28] P:1813.93 E:0.084731 |  penalty with that needless handball, kills another play for a throw. Much more like Liverpool second
+[6820.28 - 6829.88] P:1692.20 E:0.100477 |  half. Yep, absolutely. They know what they wanted to do, know that they slipped under the level
+[6830.68 - 6835.96] P:1785.97 E:0.103006 |  in the first half, but the second half they've been excellent. They've been slicker, faster, sharper,
+[6837.48 - 6840.12] P:1690.33 E:0.092260 |  braver, and they're press braver in the play.
+[6841.24 - 6845.48] P:1727.08 E:0.082441 |  Certainly got the rewards. They've blown this Southampton team away.
+[6847.32 - 6853.48] P:1812.48 E:0.092763 |  Looking to go unbeaten in 25 in the Premier League since the only defeat of the league campaign
+[6853.48 - 6858.60] P:1858.56 E:0.082910 |  against Nottingham Forest when we were here together back in mid-September. You think that
+[6858.60 - 6864.28] P:1915.33 E:0.092308 |  Liverpool have dropped five points against Nottingham Forest? They've dropped 12 points in the other
+[6864.28 - 6868.92] P:1799.60 E:0.095047 |  27 games that they've played in the top flight, leading by three goals to one.
+[6870.28 - 6875.88] P:1722.46 E:0.090189 |  Aribo will run forward on that far side for Southampton. Looking for the run ahead of him.
+[6877.32 - 6882.36] P:1900.35 E:0.113564 |  Gathering it in with Alisson. Port Vale have got an injury time equaliser in league two. Fleetwood
+[6882.36 - 6886.76] P:1796.08 E:0.097332 |  one, Port Vale one. Swansea City have beaten Middlesbrough. That's a blow to Michael Carrick
+[6886.76 - 6890.92] P:1833.31 E:0.084334 |  and their playoff hopes. They were only two points off the playoffs, but they've lost
+[6890.92 - 6895.32] P:1909.29 E:0.098492 |  in South Wales. Sunderland have beaten Cardiff by two goals to one, but there's a late penalty
+[6895.32 - 6901.88] P:1726.29 E:0.107629 |  at the Amex. John Southall. We are in the 97th minute of the game. Brighton one, full of one,
+[6901.88 - 6908.52] P:1667.91 E:0.109939 |  and Brighton have a penalty. Jowell Pedro, just nicked by Harrison Reid, went down by the far post,
+[6908.52 - 6914.68] P:1757.35 E:0.110883 |  and Pedro will take the penalty. Seven goals so far this season, two from two in the league.
+[6914.68 - 6919.08] P:1798.79 E:0.111849 |  Burn Leno, the hero at Old Trafford in the penalty shootout awaits. There's a hush that
+[6919.08 - 6924.28] P:1869.46 E:0.118580 |  just goes round the stadium. Remember Brighton have never beaten Fulham in the Premier League.
+[6924.28 - 6930.76] P:1796.24 E:0.101491 |  This is their 10th chance to do so. Jowell Pedro just waits, steps up, and he puts it into the
+[6930.76 - 6936.76] P:1883.02 E:0.113202 |  bottom right hand corner. The keeper went the right way, and the Amex erupts. Brighton have
+[6936.76 - 6943.88] P:1903.23 E:0.098245 |  pinched it. Brighton two, full of one. And Brighton looking for a fourth successive win
+[6943.88 - 6948.28] P:1939.07 E:0.101844 |  in the top flight as Wickham Wanderer, second in league one, have got an injury time equaliser
+[6948.28 - 6952.84] P:1854.17 E:0.095324 |  at London Road. Peterborough one, Wickham one. Southampton attacking on the edge of the area,
+[6952.84 - 6957.96] P:1855.96 E:0.099878 |  and Virgil van Dijk will get the ball away. So two late goals. Now the last we heard,
+[6957.96 - 6963.00] P:1776.30 E:0.110900 |  Wrexham were leading, still leading Wutherham by a goal to Nill, but at the top of the table,
+[6963.00 - 6968.68] P:1836.94 E:0.102942 |  it means that Wickham remain second. And there's been another late goal. It's at Turfmore, Katie Smith.
+[6968.68 - 6974.12] P:1868.55 E:0.110451 |  And it's Burnley four, Luton Town Nill. They put four past them in the reverse fixture. They've
+[6974.12 - 6980.20] P:1889.07 E:0.107884 |  done it again today. This one for Ashley Barnes slamming into the roof of the net. Burnley four,
+[6980.20 - 6985.16] P:1895.62 E:0.097734 |  Luton Nill. Low cross comes in from the left hand side. On that you just couldn't get the touch.
+[6985.16 - 6989.24] P:1929.65 E:0.096028 |  It'll go out of play on that far side. Bristol City one, whole City one is how it's finished,
+[6989.24 - 6992.68] P:1854.26 E:0.095246 |  and Jillingham have beaten Bradford City by a goal to Nill. So Bradford missed out on the chance to
+[6992.68 - 6998.04] P:1768.52 E:0.084452 |  go top of league two. Just a slight worry for Liverpool. Virgil van Dijk hobbling.
+[6998.04 - 7005.72] P:1658.96 E:0.077604 |  Well, he is, isn't he? Yeah, that's not a good look. Hopefully it will be nothing from
+[7007.96 - 7012.36] P:1664.51 E:0.099688 |  Liverpool's perspective that maybe just took a little knock in the box there.
+[7012.36 - 7016.60] P:1761.54 E:0.088531 |  Yeah, just keep an eye on that one. Paris Saint-Germain to come on Tuesday night,
+[7016.60 - 7022.44] P:1858.39 E:0.094051 |  live on five live. League cup final next Sunday against Newcastle United, live on five lives.
+[7022.44 - 7027.80] P:1822.66 E:0.097806 |  So much live football to look forward to as we'll get news of that. Wiccan equaliser from
+[7027.80 - 7032.76] P:1812.53 E:0.087401 |  Adam Witty. Yeah, Richard Coney's got a nine minute hat check the last time the team's met.
+[7032.76 - 7038.92] P:1839.80 E:0.095079 |  Might have stolen and in fact has stolen a draw for Wiccan full-time here. One all Wiccan,
+[7038.92 - 7043.80] P:1913.25 E:0.090784 |  goes second on goal difference as it looked like. Wiccan might leapfrog them at one stage.
+[7043.80 - 7049.08] P:1767.67 E:0.105134 |  Full-time, Peter will one Wiccan one. Yeah, Wiccan remaining second despite that leading for Wiccan
+[7049.08 - 7055.08] P:1844.88 E:0.112957 |  as Canate leads the charge out of defence. Ono Akshu goes with him. And Ono Akshu is shown a yellow
+[7055.08 - 7060.84] P:1881.30 E:0.107220 |  card as he gives away a free kick to Liverpool. It was a marauding run to the back by Canate.
+[7060.84 - 7071.40] P:1817.92 E:0.089351 |  Ono Slott wants to see that centre back pairing in the 97th minute, steaming forward.
+[7072.52 - 7075.72] P:1794.20 E:0.103704 |  It's the game's Liverpool have coming up, but he wins the free kick.
+[7076.84 - 7080.52] P:1802.61 E:0.103434 |  Commentary to come from Brentford Aston Villa, then Chris Sutton and Robbie Savitz taking your
+[7080.52 - 7087.96] P:1826.54 E:0.105319 |  call 08 08 5 9 0 9 6 9 3. Not just about the Premier League, but also in the in the championship
+[7087.96 - 7093.40] P:1815.54 E:0.095902 |  League 1, League 2 or indeed Scotland. You set the agenda as always with Chris and Robbie. We're
+[7093.40 - 7100.20] P:1817.13 E:0.082674 |  inside the last 60 seconds of the minimum of seven to be added on here at Anfield and this free kick
+[7100.20 - 7104.12] P:1789.97 E:0.093500 |  in front of the Cop End where three second half goals have turned it around for Liverpool
+[7104.76 - 7114.52] P:1757.67 E:0.080536 |  with a much improved performance, increasing the tempo and deservedly leading now 3-1.
+[7114.52 - 7120.44] P:1768.75 E:0.087249 |  Elliott stands over the free kick, Elliott left footed, slides it in low and cleared by Sulamana
+[7121.00 - 7124.68] P:1833.44 E:0.088573 |  and Canate will just take it on the chest and stroke it back towards Alisson.
+[7124.68 - 7129.48] P:1759.27 E:0.089914 |  That's a strange free kick actually. It's just ended up side-footing the ball. Look at
+[7129.48 - 7135.32] P:1840.06 E:0.095471 |  there trying to find a Liverpool player but sides putting it straight to the Southampton Defender
+[7135.32 - 7136.44] P:1858.56 E:0.112339 |  and he made the clearance.
+[7140.04 - 7145.88] P:1869.32 E:0.091421 |  Robertson at a nice gentle walking pace will take that throw in on the left hand side.
+[7147.64 - 7149.56] P:1974.38 E:0.102547 |  So what are your thoughts then Chris for this game?
+[7150.28 - 7157.40] P:1942.02 E:0.117652 |  Well thoughts are Liverpool is all about the three points hard work made hard work of it in
+[7157.40 - 7162.52] P:1898.70 E:0.114820 |  the first half went behind surprisingly and Alisson error you don't say that very often.
+[7163.16 - 7168.84] P:1881.92 E:0.109856 |  Second half changes made a half time decisive changes on the slot not messing around and it
+[7168.84 - 7175.80] P:1848.41 E:0.109605 |  was a different Liverpool in the second half Darwin Nunes has an incident with him in the first half but
+[7176.92 - 7183.08] P:1863.85 E:0.108960 |  we've got the the equalising goal and then two Mo Salah penalties three big points 16 points
+[7183.08 - 7191.80] P:1880.73 E:0.104224 |  the gap now that is an enormous gap to Arsenal and Liverpool on course for the Premier League
+[7191.80 - 7197.16] P:1884.93 E:0.110811 |  title still works to do though but an important three points. A sweet 16 for Liverpool small
+[7197.16 - 7202.12] P:1886.63 E:0.107897 |  bone slotted Southampton ahead on the stroke of half time but in the second half Nunes and two
+[7202.12 - 7206.92] P:1929.98 E:0.107388 |  penalties from Mo Salah mean that Liverpool the league leaders stretch their unbeaten run in the
+[7206.92 - 7213.24] P:1892.68 E:0.094090 |  top flight to 25 games it's finished Liverpool three Southampton one

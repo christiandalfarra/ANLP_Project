@@ -1,0 +1,1298 @@
+[0.00 - 11.00] P:1617.17 E:0.100990 |  For what has been described as a period of silence in memory of Her Majesty Queen Elizabeth II.
+[60.00 - 67.00] P:1762.39 E:0.117819 |  In a period of silence there were a few heckles but it was just a minority.
+[67.00 - 71.00] P:1828.67 E:0.124930 |  Jürgen Klopp had said he will show his respect with silence.
+[71.00 - 78.00] P:1820.20 E:0.107498 |  Sir Kenny Dalglish had talked about respect costs nothing and goes both ways.
+[81.00 - 89.00] P:1680.67 E:0.107195 |  In a crowd of probably around 54,000 you're talking of one, two or three voices that tried to spoil it.
+[89.00 - 97.00] P:1781.15 E:0.083740 |  But the majority certainly did show their respects to Her Majesty Queen Elizabeth II.
+[99.00 - 109.00] P:1800.12 E:0.105346 |  You're listening to BBC Radio 5 Live, live here in Anfield and the referee blows his whistle and Liverpool get us underway.
+[110.00 - 119.00] P:1744.10 E:0.091430 |  All in red playing from right to left as the Ajax supporters and alternate rows
+[119.00 - 126.00] P:1728.22 E:0.095677 |  are swaying from side to side which can have quite a dizzying effect from a visual point of view.
+[126.00 - 131.00] P:1648.86 E:0.099459 |  And thankfully now they just break out jumping up and down in unison.
+[131.00 - 137.00] P:1701.98 E:0.107743 |  Liverpool I'm sure felt a little bit dizzy at times when they conceded the four goals in Naples.
+[137.00 - 144.00] P:1825.68 E:0.102589 |  They're looking for a steady influence from this side today to try and get themselves back on track against an Ajax side.
+[147.00 - 151.00] P:1767.86 E:0.108116 |  Cammered rangers by four goals to nil.
+[151.00 - 155.00] P:1785.21 E:0.103910 |  So busy nights in the football league.
+[155.00 - 163.00] P:1765.06 E:0.115200 |  Early goals to tell you about Walsall nil, Colchester 1, Middlesbrough nil, Cardiff 1, Bradford Sickenley to get Tramir by a goal to nil.
+[163.00 - 166.00] P:1837.32 E:0.117729 |  Crawley 1, Stortport nil, Grimsby 1, Jillingham nil.
+[166.00 - 171.00] P:1846.46 E:0.120551 |  Swindon nil, Sutton 1, Charlton 1, Forrest Green nil, Lincoln Lee Derby by a goal to nil.
+[171.00 - 176.00] P:1751.20 E:0.109190 |  Grimsby 1, Jillingham 1 and you're up to date as Liverpool are attacking.
+[176.00 - 184.00] P:1836.69 E:0.100646 |  Out towards Salah, enters the penalty area, tries to pass the ball in low and cleared away by Daly Blint.
+[184.00 - 190.00] P:1734.23 E:0.089519 |  Here is Elliott, passes the ball forward, reaches Salah out on that far side.
+[190.00 - 195.00] P:1876.83 E:0.098968 |  Liverpool all in red, playing from right to left.
+[195.00 - 201.00] P:1716.83 E:0.087681 |  There's a good move from Liverpool, that start of the Thiago, quick long switch.
+[201.00 - 211.00] P:1757.13 E:0.096433 |  Ball hooked away by Alvarez on the edge of the penalty area, taken high on the chest by Virgil van Dijk.
+[211.00 - 220.00] P:1699.72 E:0.096591 |  And then van Dijk forward towards Thiago, in field, Lewis Diaz plays the ball back to Matip.
+[220.00 - 227.00] P:1710.78 E:0.098959 |  Over the halfway line, he comes, Elliott now inside, already Liverpool looking to try and pass the ball quite quickly.
+[227.00 - 235.00] P:1858.76 E:0.098794 |  Scooped forward by Matip to Alexander-Arnold, Cross though was blocked over on that far side and out it play, it goes for a throw.
+[235.00 - 247.00] P:1710.70 E:0.092288 |  Liverpool 4-3-3 against Ajax, 4-3-3, interesting match up that Daly Blint, 32-33, aging against Mo Salah.
+[247.00 - 253.00] P:1657.99 E:0.101193 |  Liverpool will look to exploit Ajax in that left back roll.
+[253.00 - 257.00] P:1788.26 E:0.110659 |  Liverpool in possession, seeing a lot of the ball in the early stages here.
+[257.00 - 262.00] P:1709.67 E:0.108911 |  Stockport of equalised down at Crawley in league two, Crawley one, Stockport one.
+[262.00 - 273.00] P:1740.59 E:0.113196 |  Cinecast just trying to feed it down the line to Tijota and it goes out of play that Wrench, his teenage right back, Dutch international is going to take it.
+[273.00 - 275.00] P:1679.74 E:0.107262 |  He's come through the academy.
+[275.00 - 288.00] P:1696.50 E:0.086706 |  You think about the players that have departed Ajax, obviously Martinez and Antony, combined for 170 million to Manchester United,
+[288.00 - 303.00] P:1642.33 E:0.088180 |  but Gravenberg leading to Bayern, O'Nanna, Tagliofico, Ale, 230 million pounds worth of money that they've brought into the club,
+[303.00 - 311.00] P:1846.23 E:0.086003 |  as Matip brings the ball out of defence, Harvey Elliott and yet they've won their last seven games.
+[311.00 - 321.00] P:1789.18 E:0.094501 |  Salah along the ground, Thiago, Thiago out towards Elliott, right hand side of the penalty area, cuts into on his left foot, crosses,
+[321.00 - 330.00] P:1856.25 E:0.109831 |  Ajax being forced back, Cinecast tees himself up for the volley, left footed inside the penalty area and he's skied it out for a goal, kick Neil Neil, Chris up.
+[330.00 - 336.00] P:1701.97 E:0.097135 |  Is it me or is there just a better feel about this Liverpool team with Thiago in the middle of the park,
+[336.00 - 343.00] P:1678.43 E:0.096191 |  lovely pass out to the right hand side, Harvey Elliott coming inside on his favourite left foot and as the ball was headed clear,
+[343.00 - 355.00] P:1703.58 E:0.084179 |  Cinecast decent first touch but full ref at the end, didn't get his left hip up high enough and the ball sailed well over the Ajax crossbar.
+[355.00 - 367.00] P:1799.07 E:0.086945 |  Five successive clean sheets by my calculations coming into the game, eight hours and fifty minutes since Ajax last conceded against Groningen.
+[367.00 - 378.00] P:1826.84 E:0.089252 |  As Allyson hits the ball long, luminous green goalkeeping out, put away towards our right hand side and it runs out for a Liverpool throw taken quickly.
+[379.00 - 389.00] P:1608.42 E:0.086460 |  As Elliott receives a late barge in the back by Taylor in the midfield to Allyson van Dijk who used to play for Groningen of course,
+[389.00 - 399.00] P:1838.30 E:0.092839 |  with Taddec actually during their time there as well as at Southampton. The ball is kept in play by Urien Timber, 21 year old defender,
+[399.00 - 409.00] P:1819.86 E:0.091820 |  Liverpool take it quickly then they give the ball away, Berghaus looking to try and find Mohamed Kudus who keeps hold of the ball, turns
+[409.00 - 418.00] P:1806.88 E:0.099556 |  and then Berghaus tried to hook it into the path of Daily Blint, the left back was never going to get forward and he won't want to get forward either
+[418.00 - 422.00] P:1617.59 E:0.097173 |  because he's going to try and keep a handle on Mo Salah.
+[422.00 - 432.00] P:1466.85 E:0.086124 |  Absolutely, what a lovely take from Kudus, Virgil van Dijk really tight to him, but maneuvered the ball away from him.
+[432.00 - 435.00] P:1594.19 E:0.092343 |  Quite right I think Blint will be more of a back support.
+[435.00 - 444.00] P:1631.70 E:0.080930 |  And that left hand side for Ajax, Steven Bergwein ahead of him who's had a sensational start to the season.
+[444.00 - 452.00] P:1745.03 E:0.089606 |  I just wonder if Ajax will look to exploit Liverpool and that right hand side defensively.
+[452.00 - 460.00] P:1715.67 E:0.093219 |  Well that's where Napoli had so much joy last week in Naples, ex-sider to a leading at Shrewsbury in league one by Goulton Hill,
+[460.00 - 469.00] P:1735.34 E:0.094552 |  Middlesbrough conceded again at the Riverside, Middlesbrough and Hill, Cardiff City 2, you have to date with the goals as they go in here on BBC Radio 5 Live
+[469.00 - 478.00] P:1783.10 E:0.087690 |  and indeed you might be listening via BBC Sounds as well as Ajax patiently pass the ball across their back line.
+[478.00 - 489.00] P:1744.62 E:0.087936 |  Timber to Calvin Bassi from a rangers play-up as he goes forward to Alvarez, now back towards goalkeeper Kasvia.
+[489.00 - 496.00] P:1833.18 E:0.116182 |  He didn't really look comfortable there trying to play the ball out and Bassi has put it out of play for a Liverpool throw
+[496.00 - 504.00] P:1780.73 E:0.089234 |  that Simacast wants to take on this near side. Simacast not much movement ahead of him so he hangs on to the ball.
+[504.00 - 506.00] P:1817.88 E:0.096864 |  Six and a half minutes played, 0-0.
+[506.00 - 515.00] P:1673.06 E:0.086569 |  Yeah it wasn't a great pass from Pazvia but I think that's his strength, the ball at his feet, Bassi panicked a little bit there.
+[515.00 - 525.00] P:1709.22 E:0.083466 |  Here is Tiago, Tiago with a cross from the left hand side. Alexander-Arnold lays it back, Elliott gets a touch,
+[525.00 - 533.00] P:1769.03 E:0.098528 |  Mattip passes the ball forward, Mohsala now coming in off the right touch line, right corner of the area, feeds it through to Alexander-Arnold,
+[533.00 - 540.00] P:1894.99 E:0.108013 |  back towards Salah, Ajax get the ball away through Bassi but Bassi and Ajax are sitting very deep in defence.
+[540.00 - 550.00] P:1770.36 E:0.092105 |  They are a quick free kick there from Liverpool and a good run from Alexander-Arnold, just moved into an inverted midfield position
+[550.00 - 560.00] P:1596.80 E:0.087176 |  and then Salah off the right hand side, fed the ball to him but Ajax scramble the ball to safety but Liverpool 40 yards out,
+[560.00 - 566.00] P:1783.09 E:0.095072 |  right hand side of the Ajax box with a free kick, too far to shoot I think.
+[566.00 - 574.00] P:1720.72 E:0.110717 |  Exeter have got a second, the four middles for player Jonathan Grounds at Shrewsbury, there 2-0 up, Peter Brinil fleet would want a ladies' score also in league one,
+[574.00 - 585.00] P:1749.95 E:0.084085 |  free kick for Liverpool, champions league night here at Anfield, 0-0, been playing for eight minutes, central position, actually right of centre,
+[585.00 - 594.00] P:1808.10 E:0.091314 |  Alexander-Arnold to wrap it in, goes through a crowd of players, arcs its way through them and out of play for a goal kick.
+[594.00 - 599.00] P:1664.42 E:0.087625 |  But Ajax are the ones who found themselves under pressure in these opening eight minutes.
+[599.00 - 611.00] P:1755.47 E:0.088840 |  Yes, I suppose we expected Liverpool with the hurt they would have been feeling after last week's performance and result against Napalator,
+[611.00 - 619.00] P:1778.70 E:0.102164 |  really come out of the blocks this evening and take the game to Ajax, that's what we've been accustomed to haven't we, under Jurgen Klopp,
+[619.00 - 625.00] P:1586.52 E:0.077019 |  front foot football, fearless football, hasn't been that so far this season though.
+[625.00 - 638.00] P:1692.08 E:0.083044 |  Shrewsbury have got a goal back now, Shrewsbury 1-0-0-2, Alexander-Arnold in field, Ajax coming forward, Taddex fouled inside the centre circle by Luis Díaz
+[638.00 - 645.00] P:1642.22 E:0.084362 |  and after Díaz the Portuguese referee gives a free kick to the Dutch side.
+[646.00 - 658.00] P:1591.38 E:0.087517 |  Slightly fortunate there, Luis Díaz, Taddex got the other side of him there running towards the Liverpool goal, first foul but maybe slightly fortunate not to see yellow.
+[658.00 - 668.00] P:1628.03 E:0.085899 |  Number of players will be maybe familiar to you, one of them is Calvin Bassi, formerly of Rangers, came through Leicester City's youth system.
+[669.00 - 675.00] P:1796.95 E:0.101621 |  Another one was Steven Bergwein who just got a little touch there trying to help it out towards the left hand side,
+[675.00 - 687.00] P:1710.71 E:0.083722 |  Ducan Taddex of course from Southampton, Steven Berghaus didn't have a spell at Watford, just in the 11 appearances between 2015 and 2017
+[687.00 - 694.00] P:1745.36 E:0.086621 |  and Daly Blint who actually had a good record playing against Liverpool during his time for Manchester United, he only lost one of six,
+[694.00 - 708.00] P:1744.30 E:0.078969 |  that defeat coming here in a Europa League match and in fact it is Daly Blint who takes the throw and hence the booze on that far side.
+[708.00 - 717.00] P:1817.28 E:0.083249 |  Handball, Liverpool have a free kick and it remains 0-0, in fact there could have been a number of these players who could have still been playing in the Premier League,
+[717.00 - 731.00] P:1786.00 E:0.082763 |  Everton showed interest in Mohamed Kudas in the summer window and Edson Alvarez was a target for Chelsea, both were unhappy that Ajax didn't sanction the moves,
+[731.00 - 736.00] P:1696.80 E:0.077364 |  however to their credit they both seem to have settled down quite quickly.
+[736.00 - 745.00] P:1747.09 E:0.096523 |  0-0 Champions League night on BBC Radio 5 Live, we've already brought you that dramatic finish where Sporting Lisbon beat Tottenham Hotspur by two goals for 0
+[745.00 - 750.00] P:1809.42 E:0.090726 |  and tomorrow night we're at the 80 had for Manchester City against Borussia Dortmund.
+[750.00 - 765.00] P:1675.11 E:0.082456 |  Simacass on this near side forward to Luiz Tia, short of the half way line, back to Simacass outside of the left boot and it was Timber who climbed above Jota and out it goes for a throw.
+[765.00 - 768.00] P:1835.57 E:0.091898 |  11 minutes play, what have you made of the start Chris Sun?
+[768.00 - 779.00] P:1662.06 E:0.096905 |  I think Liverpool have come out and they've tried to be positive and take the game to Ajax but not really found any real rhythm just yet.
+[779.00 - 791.00] P:1547.87 E:0.083117 |  That slickness in the final third, haven't seen any of that, Thiago has played a couple of nice passes, we've seen Jota now receive the ball, he's come deep and that centre forward roll,
+[791.00 - 796.00] P:1607.35 E:0.080625 |  linking the play up but just lacking that spark, that moment.
+[797.00 - 805.00] P:1722.53 E:0.102604 |  Here is Elliot just over the half way line, his pass so easily intercepted by Alvarez who saw it coming, raced onto it to break up the play.
+[805.00 - 819.00] P:1765.86 E:0.092390 |  Ajax now have Tanec on this near side the right, Birkhouse goes on the outside as a decoy, back to Alvarez, Ajax now send everybody forward so every outfield player is in the Liverpool half towards our right hand side
+[819.00 - 830.00] P:1836.64 E:0.097258 |  but it's still 0-0 here on 5-5, Basi, little lax, didn't control the ball and as a result of that he's forced to go back to the goalkeeper all in blue
+[830.00 - 840.00] P:1733.45 E:0.088027 |  and Liverpool can try and put Ajax under pressure midway through their own half with Basi, little touch to Birkhouse, back to his keeper,
+[840.00 - 849.00] P:1750.96 E:0.088992 |  Tanec goes out of his penalty area now and strikes it right footed long, Van Dyke challenged in the air, helped on by the head of Simicas,
+[849.00 - 860.00] P:1876.19 E:0.101882 |  referee sees no foul, Tanec now picks it up for Ajax, right corner of the area, plays it forward, here is Kudos the angle is tight and Marshall safely out for a goal kick by Matip,
+[860.00 - 870.00] P:1697.39 E:0.092783 |  Absolutely fending, it was, Matip did extremely well, actually came from a long ball Van Dyke, winning the header,
+[870.00 - 885.00] P:1628.89 E:0.084127 |  Ajax picking up the knock down and Tanec inside on his left foot, clever little run from Kudos and Matip stays on his feet, doesn't go to ground and Ushas Kudos away from goal,
+[885.00 - 894.00] P:1806.05 E:0.104296 |  more like a play for a Liverpool goal kick. Alexander-Arnold mixed it away from Blint, the left back had come out of position to try and press the England international,
+[894.00 - 904.00] P:1755.46 E:0.091670 |  Salah now can try and exploit that gap but Blint was back there, helped out by Basi and Ajax have actually done well on, urged on by that travelling support,
+[904.00 - 914.00] P:1850.58 E:0.100901 |  a boisterous punch and they might have something to cheer here as a diagonal ball was looking towards Mohammed Kudos but it was cut out by Van Dyke,
+[914.00 - 926.00] P:1682.30 E:0.084324 |  they were in, arrived early at Anfield this evening, I don't think they've stopped singing throughout the whole night, nearly 3,000 of them away towards our left hand side,
+[926.00 - 940.00] P:1642.58 E:0.091528 |  Liverpool 0, Ajax 0 remains the scoreline here on BBC Radio 5 Live, Stoke City leading at Hull in the championship by Eagleton 0 and in the Lancashire Derby it's Preston 0, Burnley 1,
+[940.00 - 950.00] P:1869.06 E:0.089102 |  that was an 8 o'clock kick off but Burnley have scored early there as the ball is cleared away by the goalkeeper Passfield,
+[950.00 - 961.00] P:1818.61 E:0.087054 |  Elliott will keep it in play, Wickham lead Attrington by Eagleton 0, Ipswich leading Bristol Rovers 1-0, Huddersfield 0, Wigan 1 is a latest score also in the championship,
+[961.00 - 968.00] P:1811.54 E:0.080021 |  Huddersfield 4 without a win and Cheltenham 0, Cambridge United 1, let's get an update from Swansea, Laura Kenyon.
+[968.00 - 979.00] P:1678.70 E:0.103995 |  Swansea 0, Sheffield United 0, chances at both ends, Olly McBurnie put one over the bar from close range for the league leaders, evenly poised though, plenty of Swansea threat and after half an hour it's 0-0.
+[979.00 - 989.00] P:1755.28 E:0.093246 |  Bruges looking to make it 2-1's out of 2 in Group B and leading away at Porto by Eagleton 0 in the Champions League, back to the championship, Lee Blakeman, Blackburn 0, Wattford 0,
+[989.00 - 996.00] P:1705.71 E:0.096527 |  Blackburn by far and away, the better of the two teams, they're Britain, Diaz and Hedges have both gone close but had their shot saved by Backman, 0-0.
+[996.00 - 1007.00] P:1848.55 E:0.101132 |  Alexander-Arnold running forward, Elliott on the overlap, Alexander-Arnold fires over the cross from the right corner of the area, diving forward was the fair-haired goalkeeper,
+[1007.00 - 1011.00] P:1852.15 E:0.073792 |  Greco-Passvere, comfortable save, goalless, Chris Sutton.
+[1011.00 - 1021.00] P:1706.63 E:0.089023 |  Yep, Harvey Elliott just making the overlap and Dailey-Blind backing off, Alexander-Arnold, do you expect better from him than that crossing position?
+[1021.00 - 1027.00] P:1804.68 E:0.088877 |  Normally he's really accurate but straight through to Passvere.
+[1027.00 - 1032.00] P:1941.31 E:0.103081 |  Here is Jota picking up a loose ball, tries to squeeze it through.
+[1032.00 - 1034.00] P:1711.19 E:0.087591 |  Swayze's most out of that went far too early.
+[1034.00 - 1039.00] P:1914.24 E:0.086190 |  Offside, Flags raised, pre-kick to Ajax.
+[1041.00 - 1045.00] P:1858.90 E:0.089987 |  There are just signs that it's just not clicking in that final third still for Liverpool.
+[1045.00 - 1057.00] P:1819.67 E:0.084996 |  Yep, I think it's Bournemouth's side, the story of Liverpool's season in both penalty areas, they just haven't been good enough.
+[1057.00 - 1064.00] P:1843.93 E:0.088801 |  They need to find a way of getting over the line and find a way of regaining that confidence.
+[1064.00 - 1074.00] P:1833.50 E:0.090563 |  Once you just see Ajax, the longer this half goes on, getting a foothold in this game, gaining confidence.
+[1076.00 - 1092.00] P:1887.73 E:0.092510 |  Preston 1-1, equaliser for Preston at deep-down in the championship, Passvere clears, Simikas and Tadich holding each other and it's Tadich the captain backing into the Liverpool left-back who is the offender in the eyes of the assistant referee.
+[1092.00 - 1093.00] P:1787.78 E:0.080987 |  Down to Leib.
+[1093.00 - 1097.00] P:1694.16 E:0.092744 |  He's not done anything wrong there, a 6-1 half, a dozen of the other.
+[1097.00 - 1102.00] P:1778.07 E:0.096679 |  I think Tadich furious with that decision, just letting the assistant know his feelings.
+[1103.00 - 1111.00] P:1891.62 E:0.117924 |  Here is Jota, just outside the D. He finds Mo Salah in the penalty area and Mo Salah scores.
+[1111.00 - 1125.00] P:1963.98 E:0.117228 |  Finds the back of the net, off that trusty left-back. Liverpool in the 17th minute, take the lead, Jota with the assist and Mo Salah for his first goal in 8 attempts in the Champions League.
+[1125.00 - 1127.00] P:1966.83 E:0.117577 |  Gives Liverpool the advantage, 1-0.
+[1128.00 - 1131.00] P:1785.23 E:0.126971 |  It's a clinical finish from Mo Salah.
+[1132.00 - 1133.00] P:1548.32 E:0.132270 |  Is this the spark?
+[1134.00 - 1140.00] P:1912.40 E:0.114746 |  Liverpool have needed to get their season going and it's a long ball from Alisson.
+[1140.00 - 1145.00] P:1873.90 E:0.100015 |  DS wins the first head-up and then Jota feeds the ball out to Salah.
+[1146.00 - 1149.00] P:1771.74 E:0.109462 |  I don't know what Daley Blinder is doing, he just let Salah run.
+[1150.00 - 1154.00] P:1633.06 E:0.120257 |  And Salah, superbly clinical, lovely pass from Jota.
+[1154.00 - 1158.00] P:1754.58 E:0.116863 |  One touch with his right foot actually, a little bit of a heavy touch with his right foot.
+[1158.00 - 1165.00] P:1734.51 E:0.106417 |  Pass bit, routed to a six yard line and Mo Salah beats him down to his left-hand side.
+[1167.00 - 1171.00] P:1789.94 E:0.112842 |  Just before that the Liverpool supporters have been singing his name.
+[1172.00 - 1178.00] P:1741.20 E:0.113909 |  Now it reverberates around Anfield because Liverpool have got the lead that they so wanted.
+[1179.00 - 1186.00] P:1776.47 E:0.109111 |  And for Mo Salah, who hasn't been firing on all cylinders this season, he's got the goal that he creates.
+[1187.00 - 1192.00] P:1939.25 E:0.111974 |  First goal in the Champions League since February against Inter Milan.
+[1194.00 - 1196.00] P:1771.76 E:0.106635 |  Just what Liverpool wanted.
+[1196.00 - 1204.00] P:1763.06 E:0.107879 |  Yep, and the truth is, I think, however they got the goal, no Jürgen Klopp, it didn't matter, it doesn't matter.
+[1204.00 - 1211.00] P:1789.43 E:0.098986 |  Long ball from Alisson, DS did really well to win the first header and then Jota nicely composed.
+[1211.00 - 1220.00] P:1700.06 E:0.085708 |  Salah actually a poor first touch, but still had time to pick his spot, clinical with his left foot.
+[1221.00 - 1228.00] P:1718.55 E:0.101030 |  MK John Snell, Bolton won the latest score in League One and Hartley-Paw United were actually yet to win this season,
+[1228.00 - 1231.00] P:1719.02 E:0.101987 |  a leading crew at Victoria Park by a Galton-Evan League two.
+[1231.00 - 1236.00] P:1829.33 E:0.103101 |  There is Berghaus out to Taddish, right corner of the penalty area.
+[1236.00 - 1240.00] P:1901.12 E:0.104195 |  Taddish's cross takes the deflection, might fall towards Taylor, waits for it to settle.
+[1240.00 - 1245.00] P:1857.82 E:0.104187 |  Now Berghaus, Berghaus puts the ball, late flag, now it's raised, wouldn't have counted.
+[1245.00 - 1248.00] P:1754.17 E:0.112603 |  Oh yes, I think he was in an offside position.
+[1251.00 - 1258.00] P:1523.54 E:0.090578 |  It's actually a poor effort from Taylor, 18-19 yards left-hand side of the box,
+[1258.00 - 1266.00] P:1591.72 E:0.087183 |  but initially the move is good, but the cross is blocked from Taddish and Taylor's 16 yards out, fires a shot,
+[1266.00 - 1276.00] P:1672.54 E:0.088062 |  but Berghaus 7 yards out, Trotsville onto the Liverpool crossbar, the yard offside.
+[1277.00 - 1279.00] P:1768.63 E:0.102395 |  Do you can see a little bit of role play?
+[1281.00 - 1282.00] P:1467.75 E:0.101122 |  Go on.
+[1282.00 - 1286.00] P:1666.25 E:0.103292 |  Well, I was just thinking you could take on the role of my maths teacher.
+[1287.00 - 1294.00] P:1679.30 E:0.096041 |  If it was 8 hours 50 minutes without a goal that they hadn't conceded coming into the game,
+[1294.00 - 1301.00] P:1799.53 E:0.107963 |  do you concur that it's now 9 hours 7 minutes, the first goal that Ajax had conceded?
+[1304.00 - 1308.00] P:1838.90 E:0.106995 |  Would you give me an A plus or a B for effort maybe?
+[1309.00 - 1313.00] P:1663.99 E:0.109378 |  I'd give you, I mean it's pretty basic, I'd give you a D for really basic.
+[1314.00 - 1316.00] P:1752.87 E:0.106842 |  You didn't see my maths reports.
+[1316.00 - 1321.00] P:1678.78 E:0.113624 |  Here is Lewis Diaz, Liverpool lead by a goal to 0, Crawley 2, stop, Port 1.
+[1321.00 - 1326.00] P:1712.72 E:0.095654 |  Simacast just tried to get the better of a wrench on this near side, comes back to Lewis Diaz
+[1326.00 - 1331.00] P:1748.34 E:0.094804 |  who's actually walking the ball towards the left corner of the penalty area.
+[1331.00 - 1338.00] P:1735.56 E:0.093406 |  Simacast, Jota all getting a touch now, back with Fabinho, but it was a nice play by Thiago,
+[1338.00 - 1342.00] P:1904.21 E:0.119015 |  and then he's needlessly brought down by Julian Simba.
+[1344.00 - 1347.00] P:1802.99 E:0.114845 |  Fortunately they get away without a yellow card, free kick to Liverpool.
+[1348.00 - 1352.00] P:1762.92 E:0.099185 |  Truthsbury 2, Exeter 2, Exeter worked 2-0 up there in League 1
+[1352.00 - 1355.00] P:1673.51 E:0.094527 |  and Crawley are leading stop-port by 2 goals to 1.
+[1355.00 - 1360.00] P:1784.34 E:0.097420 |  The goals as they go in on BBC Radio 5 Live, Champions League coverage here at Anfield
+[1360.00 - 1366.00] P:1737.26 E:0.094652 |  and Liverpool leading by a goal to 0 through Mo Salah and his fourth goal of the season.
+[1366.00 - 1372.00] P:1700.74 E:0.092925 |  That was lovely from Thiago, wasn't it? Shaped it, go back past the ball to Van Dijk,
+[1372.00 - 1376.00] P:1532.07 E:0.078892 |  one of his defenders, Taditch bought it and went the other way
+[1376.00 - 1380.00] P:1742.45 E:0.095827 |  and brought down opportunity for Liverpool from this free kick.
+[1382.00 - 1385.00] P:1748.92 E:0.108112 |  Alexander-Arnold leaves it for Simacast, kills it in,
+[1385.00 - 1390.00] P:1732.36 E:0.088554 |  and a clash between Blint and Fabinho off the ball, they've both gone to ground.
+[1390.00 - 1394.00] P:1851.18 E:0.110977 |  It's hoisted to Agli Bove and Dijk has stayed forward, only partially clear,
+[1394.00 - 1399.00] P:1899.76 E:0.114542 |  comes down to Lewis Diaz and on the half-bolly just by the penalty spot, right footed.
+[1399.00 - 1402.00] P:1999.10 E:0.110597 |  He's dragged it wide in the left hand post.
+[1402.00 - 1407.00] P:1931.84 E:0.102554 |  And a shake of the head from Lewis Diaz, it's a long ball from Simacast,
+[1407.00 - 1416.00] P:1731.57 E:0.097888 |  high ball, looping ball, Van Dijk heads the ball back towards goal, Alvarez can't get the distance on the header
+[1416.00 - 1424.00] P:1672.70 E:0.081344 |  and Diaz on his chest near the penalty spot, takes a touch and chokes the ball into the ground
+[1424.00 - 1428.00] P:1855.87 E:0.095063 |  and wide as the Ix goal, big chance for Liverpool.
+[1429.00 - 1436.00] P:1821.77 E:0.101741 |  Here is Elliot, when last week Thiago again nicely done, Jota shoots from distance
+[1436.00 - 1441.00] P:1954.91 E:0.112654 |  and he's pulled it 25 yards outright, but again it was another chance,
+[1441.00 - 1447.00] P:1901.04 E:0.107939 |  Liverpool are creating opportunities and you can see the confidence starting to return to these Liverpool players.
+[1447.00 - 1453.00] P:1762.57 E:0.092538 |  Yeah, I think a large part of that has been Thiago, just that sharpness in midfield,
+[1453.00 - 1460.00] P:1613.40 E:0.086329 |  driving past Alvarez, feeding the ball to Jota, who fires the ball on the half-turn,
+[1460.00 - 1464.00] P:1715.29 E:0.098395 |  initially fires the ball wide in 25 yards.
+[1467.00 - 1474.00] P:1842.66 E:0.105710 |  Well, last week Jürgen Klopp, when he was referring to that performance in Naples, said it was a horror show.
+[1474.00 - 1477.00] P:1817.60 E:0.108943 |  8 of the 11 were below their level.
+[1477.00 - 1480.00] P:1825.38 E:0.114772 |  You'd have said that it wouldn't have included Lewis Diaz,
+[1480.00 - 1483.00] P:1904.04 E:0.117160 |  it probably wouldn't have included Young Harvey Elliot.
+[1483.00 - 1489.00] P:1890.21 E:0.109167 |  And now you throw in Thiago, who's influenced his cliff, are all to see in the midfield.
+[1490.00 - 1497.00] P:1756.00 E:0.112546 |  And Liverpool just starting to get back into the stride that we know that they are capable of.
+[1497.00 - 1500.00] P:1771.19 E:0.114460 |  Goal and he would park in the championship, leave late.
+[1500.00 - 1505.00] P:1533.33 E:0.113427 |  Has been coming Blackburn 1, Watford 0, good move down the right, pulled back,
+[1505.00 - 1510.00] P:1868.94 E:0.102452 |  hedges, fired it in from the edge of the area, right on half-time, Blackburn 1, Watford 0.
+[1510.00 - 1516.00] P:1793.83 E:0.103388 |  And Swindon have equalised at home to Sutton in League 2, Swindon 1, Sutton 1, Ajax are attacking,
+[1516.00 - 1522.00] P:1906.90 E:0.106908 |  Wrench coming forward the right back, finds Bergwein, breaks away from it and in towards Alisson.
+[1526.00 - 1530.00] P:1716.38 E:0.108866 |  Lewis Diaz there, just a little bit careless, what a ball that is from Alisson.
+[1530.00 - 1537.00] P:1816.97 E:0.101098 |  The distribution from the goalkeeper is picked out, Jotter keeps it in play, down by the left-hand side,
+[1537.00 - 1544.00] P:1892.45 E:0.116424 |  in towards the near post and Blint has to track the run of Mo Salah, last touch-off Salah behind for a goal kick.
+[1544.00 - 1550.00] P:1893.17 E:0.106993 |  Barrow leading Doncaster by a goal to them in League 2, Barrow third this morning, 1-0 up at home there.
+[1550.00 - 1559.00] P:1711.44 E:0.102161 |  How good was that from Alisson, the distribution on the volley finds Jotter out on the left-hand side.
+[1560.00 - 1569.00] P:1857.34 E:0.099916 |  He drives to near the byline and fires a ball across and Mo Salah level with the near post six yards out, can't find the target.
+[1570.00 - 1581.00] P:1738.91 E:0.098757 |  Heading away by Simicast, Tiago little lunge from behind was it by Taddick, referee says not,
+[1581.00 - 1591.00] P:1607.21 E:0.095031 |  and it's given a throw, no it's a free kick to Ajax just inside their own half as they play from left to right,
+[1591.00 - 1598.00] P:1698.62 E:0.090037 |  treading by the goal to nil. The other game of course in Group A, scheduled for tonight,
+[1598.00 - 1606.00] P:1664.30 E:0.096790 |  but has been switched, pushed back for 24 hours, no away supporters will be allowed in Ibrox,
+[1606.00 - 1612.00] P:1727.52 E:0.105478 |  Rangers taking on Napoli tomorrow and then UEFA have decided that in the interest of fairness,
+[1612.00 - 1620.00] P:1716.20 E:0.092931 |  no away supporters will be inside or allowed to travel to Naples for the return,
+[1620.00 - 1627.00] P:1614.75 E:0.080335 |  but certainly opens it up a little bit now if Liverpool can get the three points,
+[1627.00 - 1633.00] P:1583.49 E:0.086757 |  with then to come the back to back games against Stephen Gerrard's former side.
+[1634.00 - 1644.00] P:1569.01 E:0.085119 |  After the international break when football resumes in October, Berkhaus to Vassi,
+[1644.00 - 1651.00] P:1792.20 E:0.103640 |  now with Alvarez back into the goalkeeper pass via, trying to play out from the back and Liverpool will press,
+[1651.00 - 1656.00] P:1822.11 E:0.095338 |  they beat the press though and Timber now brings it clear up towards the halfway line,
+[1656.00 - 1660.00] P:1812.20 E:0.089979 |  Taddick she's never scored actually against Liverpool in his club career,
+[1660.00 - 1668.00] P:1814.55 E:0.100574 |  whether it be for Southampton or Ajax in 12 previous appearances, he's staying out wide on this right hand side,
+[1668.00 - 1673.00] P:1685.84 E:0.090005 |  as Alvarez passes the ball to Daly Bliv, looking for the run on that left hand side,
+[1673.00 - 1678.00] P:1936.31 E:0.108175 |  the cross comes back and Bergwein leaves it, Kudas gets the shot away and scores,
+[1678.00 - 1685.00] P:1776.08 E:0.111922 |  flying equaliser off his left foot, put the underside of the crossbar, just as they found in Naples last week,
+[1685.00 - 1693.00] P:1715.10 E:0.107916 |  a weakness down Liverpool's right hand side and Ajax profited and Kudas with the equaliser 1-1.
+[1694.00 - 1703.00] P:1669.79 E:0.114723 |  Kudas to Kudas, but it's the midfield run of Bergwes on the Ajax left,
+[1703.00 - 1708.00] P:1712.99 E:0.107629 |  the Liverpool right hand side which does for Liverpool, the ball popped out into the left back position,
+[1708.00 - 1718.00] P:1616.14 E:0.111460 |  Daly Blind feeds the ball on the outside of Alexander-Arnold and then Bergwes is looking to find Bergwein inside the box,
+[1718.00 - 1729.00] P:1653.96 E:0.104377 |  but the ball eventually goes through to Kudas and this is a devastating first touch and the second touch into the back of the net,
+[1729.00 - 1736.00] P:1726.95 E:0.099606 |  off the underside of the crossbar, it's a devastating finish, it really is a brilliant finish from Kudas,
+[1736.00 - 1744.00] P:1647.20 E:0.099865 |  Van Dyck backs away, Alisson isn't saving that and really Ajax haven't deserved this on the balance of play,
+[1744.00 - 1751.00] P:1760.11 E:0.096445 |  but they are level and Liverpool, their vulnerability at the back this season once again exploited.
+[1752.00 - 1759.00] P:1688.04 E:0.099222 |  He's a 22 year old attacking with Fielder, but in the absence or after the void left by Sebastian Alair,
+[1759.00 - 1768.00] P:1712.91 E:0.097463 |  he was pushed further forward and he is in a rich vein of form, bearing in mind now he's scored in four successive games,
+[1768.00 - 1778.00] P:1688.20 E:0.101451 |  that's five goals in those four games, he only scored four in the previous 27, the Ghanaian international.
+[1780.00 - 1788.00] P:1485.85 E:0.113434 |  You can see certainly why Everton were keen to bring him to the Premier League and one suspects they won't necessarily be alone,
+[1788.00 - 1799.00] P:1712.08 E:0.102894 |  a young man 22 years of age signed from Norchland in Denmark two years ago, it was an emphatic finish,
+[1799.00 - 1809.00] P:1654.05 E:0.103655 |  Liverpool won, Ajax won, but there will be once more concerns how they were able to get round the back of Alexander-Arnold.
+[1809.00 - 1816.00] P:1586.10 E:0.097775 |  Yes, it's a really good run from Burghut and the ball, and daily blend out in the far touch line,
+[1816.00 - 1828.00] P:1674.20 E:0.103123 |  Slid to the right hand side of Arnold, Burghut who had run beyond him should be tracked from midfield, runner there, he wasn't,
+[1828.00 - 1834.00] P:1476.69 E:0.093218 |  and then Burghfein couldn't quite get on the end of it, or did Kudas?
+[1834.00 - 1842.00] P:1532.50 E:0.092176 |  Swindon two, Sutton one, a latest score in League two, back level pegging here at Anfield,
+[1842.00 - 1856.00] P:1771.25 E:0.093097 |  Liverpool all in red, defending the Cop on a clear mild night, which certainly wasn't the case when these two sides met in the late 60s,
+[1857.00 - 1867.00] P:1613.57 E:0.098700 |  and Liverpool suffered a heavy defeat in Amsterdam, played out in dense fog so that the spectators couldn't actually see
+[1867.00 - 1877.00] P:1785.06 E:0.098977 |  when some of the goals were scored on that particular night, well here they've seen a fine goal rattled in by Ajax, a salad,
+[1877.00 - 1884.00] P:1868.20 E:0.114548 |  who's given Liverpool the lead with court late, and that will be a free kick to the home side on this left hand side,
+[1884.00 - 1889.00] P:1891.36 E:0.100886 |  about ten yards in from the left touch line, one-one, we've been playing for half an hour.
+[1889.00 - 1899.00] P:1620.59 E:0.096728 |  Once again, brilliant distribution from Alisson, Spots-Sala who drifted out to the left hand side, one long ball,
+[1900.00 - 1910.00] P:1605.96 E:0.101879 |  Alisson's hands in, Spots-Sala wins the foul from Wrench, another opportunity for Liverpool from a free kick,
+[1910.00 - 1917.00] P:1730.81 E:0.100944 |  they've been quite good on the money have they so far, Alexander-Arnold and Simicass over the ball.
+[1919.00 - 1928.00] P:1903.17 E:0.089633 |  Half an hour played, one-one, five live and BBC sounds, free kick on this, in from the left touch line, Simicass to take it,
+[1928.00 - 1936.00] P:1717.43 E:0.090206 |  it's an out-swinger, Wrench's Salah plays the ball to Elliott, 30 yards out from goal, tries to get away from Kudas,
+[1936.00 - 1944.00] P:1804.86 E:0.095808 |  runs to the right corner of the area, turns, sends over across, headed out by Bassey only as far as Alexander-Arnold,
+[1944.00 - 1952.00] P:1942.71 E:0.111998 |  that would have been a special goal, a good 30 yards out on the volley right foot it was dipping and it goes narrowly over the crossbar,
+[1952.00 - 1955.00] P:1884.97 E:0.095560 |  goalkeeper will say had it covered, goal kick, one-one.
+[1955.00 - 1963.00] P:1784.24 E:0.096141 |  Here, Bassey, big header, must go 20-25 yards and Alexander-Arnold in a central position, we've seen him strike them before,
+[1964.00 - 1974.00] P:1818.42 E:0.085150 |  one touch to set the ball, one bounce and then he thunders an effort, not sure Pasvir was saving that just over the IX crossbar.
+[1974.00 - 1981.00] P:1872.88 E:0.086694 |  Middles-Brunil, Cardiff City 3 is the latest score in the championship, Stoke City have got a second goal,
+[1981.00 - 1991.00] P:1690.36 E:0.099285 |  whole nil, Stoke City 2, Barnsley-Leed-Portvale 1-0 in league 1 at Oakwell and it's now swindled in 2, certain United 2 in league 2.
+[1991.00 - 1997.00] P:1638.90 E:0.092931 |  We've got about 13 minutes to go to halftime, five lives swore, Bassey,
+[1997.00 - 2003.00] P:1694.43 E:0.103255 |  Bassey's the ball back to his goalkeeper, able to take it onto his right foot, inside his six yard box and clear long,
+[2003.00 - 2009.00] P:1654.73 E:0.106810 |  headed forward by Van Dyke, Fabinho comes under pressure, loses out there in the midfield,
+[2010.00 - 2022.00] P:1831.47 E:0.101032 |  that was a nasty one, Tiago though, getting back to his feet which is a good sign, it was Urian Timber who'd gone in to what was certainly a firm challenge.
+[2022.00 - 2033.00] P:1515.67 E:0.094948 |  There's a very strong challenge, Tiago slightly late, surprised the referee, wave play on but Liverpool in control of the ball.
+[2034.00 - 2043.00] P:1629.03 E:0.085735 |  Forrest Green have equalised at the Valley, Charlton won, Forrest Green won, a lot of those games now will be going into halftime,
+[2043.00 - 2052.00] P:1799.64 E:0.103424 |  such as Swansea against the leaders, Sheffield United as Allyson was almost caught very very late there, he got away with a clearance, Laura Kenyon.
+[2052.00 - 2061.00] P:1703.66 E:0.106952 |  Swansea nil, Sheffield United nil, both sides creating chances but both sides lacking an end product, Sheffield United the highest score is 2,
+[2061.00 - 2064.00] P:1621.90 E:0.116478 |  but being held here on a rainy night in South Wales it's nil nil.
+[2065.00 - 2068.00] P:1799.95 E:0.099232 |  One-one here in the 33rd minute.
+[2068.00 - 2080.00] P:1550.86 E:0.091278 |  What a piece of defending this is from Calvin Bassie, Lewis Diaz looks like he's taken a couple of yards out of him but Bassie is so quick,
+[2080.00 - 2089.00] P:1687.58 E:0.104735 |  so so quick and gets back and makes the challenge when he looked beaten, saw a lot of that at Rangers last season,
+[2089.00 - 2096.00] P:1674.29 E:0.104578 |  he was phenomenal for them in the second half of the season, hence his big move to Ajax.
+[2096.00 - 2105.00] P:1593.67 E:0.088328 |  A runner-up in the Europa League of course with Rangers last season signed for just under £21 million,
+[2105.00 - 2113.00] P:1692.49 E:0.094915 |  as here is Calvin Bassie, Birkhouse quickly closed down by Elliott, out of play it goes for a throw, one a piece it remains,
+[2113.00 - 2115.00] P:1296.42 E:0.087681 |  halftime now at Ewart Park, Lee Blakeman.
+[2115.00 - 2119.00] P:1624.84 E:0.100996 |  Blackburn one, Watford nil, great strike by Ryan Hedges, separates the two teams,
+[2119.00 - 2126.00] P:1767.99 E:0.090851 |  Blackburn have been on top before that creating plenty, Watford without a single shot on target, Blackburn one, Watford nil.
+[2126.00 - 2134.00] P:1772.76 E:0.092744 |  We've got just over 10 minutes to go to halftime, Alexander Arnold brings them all over the halfway line on that far side,
+[2134.00 - 2143.00] P:1616.29 E:0.086213 |  Liverpool all in red playing from right to left, Elliott to Salah, given Liverpool the lead in field to Yago,
+[2143.00 - 2146.00] P:1884.81 E:0.104502 |  oh steps over the ball, nice dummy.
+[2146.00 - 2152.00] P:1823.87 E:0.104375 |  Now it's with Simicast to kill the ball in, only partially headed away by Alvarez, headed back by Luis Diaz,
+[2152.00 - 2156.00] P:1848.81 E:0.089358 |  Blint tucked in, quite a narrow back four, Van Dyke directs his header out to Elliott,
+[2156.00 - 2163.00] P:1892.40 E:0.106402 |  prods it forward now to Salah, right hand side enters the penalty area and will win a corner kick for Liverpool.
+[2164.00 - 2166.00] P:1900.81 E:0.120334 |  Lovely a game by Diaz, wasn't it?
+[2166.00 - 2172.00] P:1778.38 E:0.093468 |  Yeah, he's been so exciting in this first half for Liverpool.
+[2172.00 - 2179.00] P:1657.37 E:0.102114 |  Had something a little bit different as daily bling, he's not happy with this decision for the Liverpool corner,
+[2179.00 - 2187.00] P:1919.65 E:0.079949 |  Mo Salah driving at them inside the box, he thinks there should have been a goal kick for Ajax.
+[2187.00 - 2192.00] P:1970.81 E:0.097496 |  Corner kick to Liverpool, it'll be an out swinger far side the right,
+[2192.00 - 2199.00] P:1893.49 E:0.104324 |  and it comes now, Van Dyke beaten out by the goalkeeper and then it bounces back into his hands, I think it was of Jota.
+[2199.00 - 2210.00] P:1944.58 E:0.099605 |  It was Van Dyke's downward header and Passbier was able to keep it out with just a reflex save and then extremely fortunate to gather it in the second attempt.
+[2210.00 - 2220.00] P:1806.17 E:0.089871 |  Yeah, Alvarez is holding on to Van Dyke and as the ball is coming over, he reads the flight to the ball so well,
+[2220.00 - 2225.00] P:1821.37 E:0.090298 |  Van Dyke says get off to Alvarez and powers ahead of which Passbier does well to save,
+[2225.00 - 2229.00] P:1771.11 E:0.078041 |  maybe fortunate to gather at the second attempt.
+[2229.00 - 2236.00] P:1626.73 E:0.082632 |  Liverpool have created the better opportunities. Here is Fabinho, 30 yards out from goal,
+[2236.00 - 2241.00] P:1666.14 E:0.096396 |  passes the ball out to the right hand side to Alexander-Arnold, now towards Salah, right corner of the box,
+[2241.00 - 2247.00] P:1918.72 E:0.095175 |  goes on the outside of Vassie towards the byline, cuts it back, doesn't go out of play, yes it does.
+[2247.00 - 2253.00] P:1912.17 E:0.100619 |  It will be a corner kick to Liverpool, says the assistant referee over on that far side.
+[2253.00 - 2267.00] P:1836.02 E:0.088030 |  Liverpool looking to finish this half, strongly ideally looking to go back with some sort of an advantage in redness of Jurgen Klopp's team talk, 1-1.
+[2267.00 - 2274.00] P:1915.39 E:0.097116 |  Alexander-Arnold, three large paces back after placing the ball down in the quadrant on that far side.
+[2277.00 - 2284.00] P:1719.92 E:0.087129 |  In it comes now, over everybody's head, he might have even picked up the supporter behind this, what was that?
+[2284.00 - 2287.00] P:1750.86 E:0.077639 |  I know that was you.
+[2287.00 - 2296.00] P:1707.62 E:0.082767 |  It wasn't wrong, what was that from Trent Alexander-Arnold? Very unlike him.
+[2296.00 - 2306.00] P:1586.91 E:0.082135 |  Van Dyke was unlucky the moments before, textbook header back across, Passbier but the keeper,
+[2306.00 - 2310.00] P:1701.37 E:0.078188 |  Alexander is left hand side and saved well.
+[2310.00 - 2319.00] P:1869.51 E:0.098172 |  Lewis Diaz heads the ball out of play for a throw that Wrench will take on this near side for Ajax,
+[2319.00 - 2326.00] P:1617.01 E:0.089751 |  there's a cluster of their support, right in the middle of that bottom tier, the Anfield road end, they're just jumping up and down,
+[2326.00 - 2335.00] P:1822.06 E:0.093798 |  there's Basi prods it out, Elliott half hits the ball forward, Lewis Diaz, Timber clumsily brings him down,
+[2335.00 - 2345.00] P:1761.79 E:0.085393 |  barges him from behind and gives Liverpool a free kick with eight minutes to go to half time, 1-1 on BBC Radio 5 Live.
+[2345.00 - 2350.00] P:1728.05 E:0.078798 |  They take the free kick quickly, two quickly and it's hooked away by Kudos.
+[2350.00 - 2358.00] P:1649.58 E:0.078163 |  I don't mind that though from Thiago, he's been inventive in this first half,
+[2358.00 - 2363.00] P:1714.61 E:0.096929 |  take a quick free kick and catch Ajax, back line off guard.
+[2363.00 - 2370.00] P:1827.29 E:0.103358 |  A sliding Elliott keeps the ball in play on the right hand side, now passes it forward that forced Basi to extend,
+[2370.00 - 2379.00] P:1874.31 E:0.103569 |  they're pilfer handball against Daily Blint, the referee didn't see it, unsighted, so play continues and Berghaus lifts the ball up towards Taylor,
+[2379.00 - 2388.00] P:1828.72 E:0.091245 |  cut out by Massit and Liverpool are back in possession. Thiago, strolling his way forward, always looks at ease with a ball at his feet.
+[2388.00 - 2398.00] P:1843.69 E:0.097002 |  Lewis Diaz enters the penalty area, goes down with an outstretched arm from Wrench and it runs out of play for a goal kick and it remains 1-1.
+[2398.00 - 2410.00] P:1638.98 E:0.084079 |  I don't know that he was looking, the penalty there, Lewis Diaz drives the outside, Wrench challenges him and Diaz goes to ground.
+[2410.00 - 2412.00] P:1599.20 E:0.091148 |  Good battle that.
+[2414.00 - 2420.00] P:1797.93 E:0.101135 |  Jota come out to the left hand side and Diaz likes to go centrally as well.
+[2420.00 - 2430.00] P:1749.27 E:0.081953 |  The referee just telling the Ajax goalkeeper, Pasvier to liven himself up from the kick out.
+[2432.00 - 2442.00] P:1814.69 E:0.098660 |  Clid away by Timber for the Ajax central defenders, Taylor's forward ball tries to come back to him, loses the ball just inside the Liverpool half,
+[2442.00 - 2450.00] P:1805.06 E:0.101847 |  now taken over by Elliott to Thiago, back towards Elliott, forward of the centre circle, runs forward, passes the ball now towards Salah,
+[2450.00 - 2459.00] P:1880.48 E:0.092199 |  enters the box, back heals the ball, Jordan the attack is Alexander-Ranold, he crosses, there was Simicas, only partially cleared, Simicas with his back to goal,
+[2459.00 - 2467.00] P:1849.67 E:0.099966 |  finds Thiago edge of the area, clips it in, stretching to head it away, was Alvarez, still it remains in and around that penalty area for Ajax,
+[2467.00 - 2476.00] P:1889.19 E:0.105907 |  Fabinho tries to get there, here is Salah, Fabinho a judge to have made a foul and it will be a free kick to Ajax with five minutes to go to half time,
+[2476.00 - 2480.00] P:1919.44 E:0.091093 |  Liverpool 1, Ajax 1, you listen to the Champions League on 5 live.
+[2480.00 - 2496.00] P:1652.06 E:0.080599 |  I think it's for a high boot from Fabinho, I think that's a harsh one, Wainlitz have all run across him, Ajax couldn't clear the ball, Liverpool will feel hard done by that decision.
+[2498.00 - 2511.00] P:1826.01 E:0.098310 |  Clearance from Passfield, really good attacking header by Van Dijk, rolling away with Timber, Wrench brings it away, he's done well but quickly closed down by Fabinho.
+[2511.00 - 2519.00] P:1900.34 E:0.089080 |  You think about Ajax in an attacking sense, they've really scored from their only effort at the Liverpool goal.
+[2519.00 - 2533.00] P:1782.30 E:0.085687 |  It surprised me a little bit their approach, they like to dominate the ball but they've defended deep, Liverpool have had some pretty big chances in this game to go two up,
+[2533.00 - 2541.00] P:1811.84 E:0.085610 |  but they haven't played through midfield with the confidence which I expected them to but that's largely down to Liverpool's press.
+[2541.00 - 2552.00] P:1876.91 E:0.101929 |  Here is Wrench, first touch went away from him, came under pressure, ultimately loses the ball but helped out by Basi who wins it back for Ajax and then dug out by the goalkeeper who clears long.
+[2552.00 - 2565.00] P:1866.25 E:0.101485 |  Taddish doesn't get the better of his former teammate Van Dijk, easily held him off there, ball though goes astray, Blint plays it forward, takes the deflection off the knees of Elliot and now Alexander-Arnold plays it forward and finds Elliot on the halfway line.
+[2566.00 - 2577.00] P:1716.65 E:0.086289 |  Taylor right up behind in breathing down his neck, four minutes to go to halftime, Liverpool 1, Ajax 1 is still the latest score here at Anfield.
+[2578.00 - 2592.00] P:1778.52 E:0.079519 |  Now it's with Van Dijk, Jotter comes inside the Liverpool half to collect the ball, Simicast tried to roll away from Wrench the right back, Andrew Robertson out with a knee injury.
+[2592.00 - 2610.00] P:1853.88 E:0.080830 |  He will not be able to return until after the international break, indeed Liverpool don't of course play now with that game against Chelsea being postponed at the weekend but not fit enough to take part in Scotland's forthcoming Nations League matches.
+[2610.00 - 2624.00] P:1937.19 E:0.111581 |  Louis Diaz finds Alexander-Arnold in the penalty area, Alexander-Arnold shoots from Povey, comes back to him and Povey makes another save, turning behind, Pasby for a corner kick, had two bites at it there Alexander-Arnold.
+[2624.00 - 2648.00] P:1966.84 E:0.091076 |  We often see this from Louis Diaz, doesn't stay out on the left hand side, drifts in, side in a central position, feeds the ball to Alexander-Arnold who drives into the box, shapes the shoot with his right foot, sells Bassey and then powers the left foot at shot and Pasby just stands up and hits him in the chest and Ajax scramble the ball behind, Liverpool corner.
+[2649.00 - 2673.00] P:1947.34 E:0.087468 |  Eintracht Frankfurt are leading away in Marseille, that's Tottenham's group, Marseille-Neal, Eintracht Frankfurt won, Liverpool have a corner kick, it's an in-swinger from the right hand side, Alvarez heads it behind and the talented Jesper Lindstrom has scored for Eintracht Frankfurt just before half time.
+[2674.00 - 2681.00] P:1806.26 E:0.082729 |  Tottenham remember losing in our earlier game in Lisbon by two goals to Neal.
+[2682.00 - 2698.00] P:1910.46 E:0.091902 |  So in front of the Anfield road end, new stand that is taking shape, they have a corner kick, Simicaster take it, Van Dijk with a downward head up and just moving very quickly away to his left in the end, not too extended, was Pasby to make the save.
+[2699.00 - 2704.00] P:1792.17 E:0.074692 |  Yeah, it's a left footed out-swinger and Van Dijk on the penalty spot.
+[2705.00 - 2718.00] P:1792.94 E:0.083042 |  I guess Bergwein actually just nudges him as he leaps to head the ball and Van Dijk tries to power the ball across Pasby, a nasty clash of heads there, Taditch and Van Dijk.
+[2719.00 - 2737.00] P:1797.85 E:0.077898 |  Taditch has stayed down, slamming his right hand on the turf, Van Dijk has stayed upright but clearly filling the effects of that clash but Taditch is quite easily the one who's converse off.
+[2737.00 - 2745.00] P:1636.10 E:0.062854 |  That's a really bad one, Van Dijk heads Taditch, form the team mates.
+[2747.00 - 2753.00] P:1789.61 E:0.089546 |  It's good to see him sitting up whether there's any blood or not but just the impact there.
+[2755.00 - 2762.00] P:1722.84 E:0.077456 |  The force which would have gone through Taditch's skull there.
+[2763.00 - 2779.00] P:1838.12 E:0.086340 |  Being tended to, of course to Kellenberg the goalkeeper would have played with Van Dijk at Southampton and Lewis Diass in Conce South, although he's actually not involved, Francisco Conce South today would have been teammates during their time together at Porto.
+[2779.00 - 2787.00] P:1777.22 E:0.090754 |  So there's a number of players in the respective squads that will know each other quite well as we are about to find out how much added on time there will be.
+[2788.00 - 2803.00] P:1776.62 E:0.086313 |  Jürgen Klopp gives Taditch a pat on the back and the former Southampton man with a rubber the back of the head looks like he's able to continue as Liverpool won, Ajax won, will find out how much stoppage time there will be here from the Portuguese officials at Amfield.
+[2804.00 - 2813.00] P:1722.32 E:0.094119 |  That's a chambolic head check though, I mean it really is. Van Dijk clattered into his head into the back of Taditch and barely checked.
+[2815.00 - 2824.00] P:1845.36 E:0.087103 |  A minimum of 60 seconds of additional time which we're now into on five live sport by Munich Neil Barcelona.
+[2824.00 - 2832.00] P:1830.72 E:0.093463 |  Munich Neil Barcelona Neil is a half time scoring group see where earlier into Milan beat the 10 men at Victoria Pilsen by two goals to nil.
+[2835.00 - 2846.00] P:1698.73 E:0.078031 |  Here is Thiago, one-one here at Amfield. In field Jota with his back to goal plays it back to Fabinho. Out it goes to Salah on that right side.
+[2847.00 - 2860.00] P:1691.39 E:0.075091 |  Salah forward to Alexander-Arnold. Salah waits. Ajax are just marshalling Liverpool away from their own penalty area.
+[2861.00 - 2867.00] P:1820.82 E:0.089452 |  A little glance of the watch by the referee, puts his whistle in the mouth and there is indeed the half time whistle.
+[2868.00 - 2876.00] P:1980.05 E:0.098804 |  So Liverpool won, Ajax won, Liverpool taking the lead through Mo Salah, the assist from Jota after 17 minutes.
+[2876.00 - 2884.00] P:1720.87 E:0.105014 |  Lewis Diass and Jota both went close and then Pasvia making saves from Van Dijk and a double save from Alexander-Arnold.
+[2884.00 - 2892.00] P:1738.73 E:0.102792 |  But in between that 10 minutes after Liverpool had taken the lead, Kudos with a fine goal to level. Chris?
+[2892.00 - 2897.00] P:1805.16 E:0.106247 |  Yeah, look there's no doubt Liverpool have been the better side in this first half. They should go in ahead.
+[2897.00 - 2906.00] P:1645.06 E:0.106522 |  They haven't been there, missed opportunities. Salah put them ahead. Heavy first touch, nice finish but then just switched off didn't they?
+[2906.00 - 2914.00] P:1723.36 E:0.099634 |  Liverpool at the back, Berkjews got the run and the cross and Kudos with a devastating finish. One all at the break.
+[2914.00 - 2916.00] P:1752.89 E:0.097262 |  I don't think Liverpool deserve that.
+[2916.00 - 2923.00] P:1722.17 E:0.102728 |  But it remains Liverpool's problem area so half time here at Anfield Kelly, Liverpool won, Ajax won.
+[2923.00 - 2933.00] P:1421.61 E:0.110321 |  Thank you Deno. Chris, the introduction of Thiago, the return of Thiago seems to have balanced Liverpool's midfield a little better and certainly he's had a very good game.
+[2933.00 - 2939.00] P:1326.39 E:0.108795 |  But the issues defensively, the issues up front despite the fact that Liverpool have scored in this game continue.
+[2939.00 - 2943.00] P:1517.66 E:0.092462 |  Yes to some extent. I think you're a good goalkeeper.
+[2943.00 - 2945.00] P:1656.32 E:0.117138 |  But they're not finishing their chances.
+[2945.00 - 2958.00] P:1609.28 E:0.103145 |  Yeah, absolutely. I think Jürgen Klopp will be sort of happy with the first half performance but as you say, they've had opportunities, they haven't taken them and they've been hit with a...
+[2958.00 - 2962.00] P:1566.40 E:0.113889 |  I think that's their only shot on target Ajax in the first half.
+[2962.00 - 2964.00] P:1546.93 E:0.107539 |  And it was a lovely finish as well.
+[2964.00 - 2978.00] P:1602.77 E:0.102910 |  Brilliant finish, devastating finish from Kudos but Ajax haven't threatened enough and Liverpool pretty much dominated that half but they'll be scratching their heads how this is 1-1.
+[2978.00 - 2983.00] P:1470.82 E:0.106462 |  And probably is systematic of Liverpool's season so far.
+[2983.00 - 2985.00] P:1779.90 E:0.104305 |  Performance wise, it's been okay.
+[2985.00 - 2988.00] P:1699.48 E:0.109220 |  I think you're right about Thiago. They've missed his creativity.
+[2988.00 - 2992.00] P:1689.11 E:0.104711 |  He's always looking to play forward and he's been exciting in the first half.
+[2992.00 - 3000.00] P:1671.44 E:0.107922 |  I think Mo Salah, that goal would have done him the world of good but hasn't quite clicked in the final third at times with some of the combinations.
+[3000.00 - 3005.00] P:1688.70 E:0.100553 |  But when you think about the chances they've had, Salah from six yard pass the most.
+[3005.00 - 3013.00] P:1781.84 E:0.099629 |  Alexander-Arnold worked to position beautifully onto his left foot and fired the ball straight at Pazvir when he should have scored.
+[3013.00 - 3018.00] P:1703.82 E:0.095545 |  Lewis Diaz with the effort from 12 yards, pulled the shot wide.
+[3018.00 - 3022.00] P:1590.18 E:0.097034 |  They have opportunities, they haven't been clinical and that's why they're not ahead at half time.
+[3022.00 - 3028.00] P:1458.20 E:0.108198 |  I know you were saying about Ajax in commentary that it wasn't quite their normal game.
+[3028.00 - 3032.00] P:1601.35 E:0.093183 |  It was a bit more defensive, a bit more back foot than we're used to seeing from them.
+[3032.00 - 3042.00] P:1651.21 E:0.091467 |  Given that Liverpool go in at the break at 1-1 and we expect that Ajax will improve and maybe we'll see closer to what we expect from Ajax.
+[3042.00 - 3046.00] P:1673.03 E:0.098801 |  This could be a tricky next 45 for Liverpool.
+[3046.00 - 3050.00] P:1797.30 E:0.089047 |  Yes, it certainly could be.
+[3050.00 - 3055.00] P:1746.88 E:0.090565 |  I think credit to Liverpool. Ajax haven't been good enough to beat Liverpool's press.
+[3055.00 - 3060.00] P:1763.14 E:0.103348 |  I think they've done it once or twice in the first half but Liverpool have been really well organised.
+[3060.00 - 3068.00] P:1790.72 E:0.095074 |  Ajax haven't been brave enough to play through the midfield and in many ways Pazvir's resorted to kicking long balls up
+[3068.00 - 3072.00] P:1786.41 E:0.085839 |  and Van Dijk is always going to win those duels with Kudos.
+[3072.00 - 3077.00] P:1784.70 E:0.090362 |  Liverpool can play better but I think in terms of performance it has been there.
+[3077.00 - 3083.00] P:1746.48 E:0.094232 |  I think Klopp will be encouraged but of course the second half, we do expect more from Ajax
+[3083.00 - 3090.00] P:1742.25 E:0.093441 |  but maybe if they come on to Liverpool then Liverpool have the players to hit them on the counter
+[3090.00 - 3095.00] P:1777.31 E:0.087980 |  and some of Alisson's kickouts have been absolutely on a couple of occasions.
+[3095.00 - 3099.00] P:1698.17 E:0.096825 |  I think one to Jota and one to Mo Salah.
+[3099.00 - 3106.00] P:1671.03 E:0.088053 |  He's so sharp and accurate, Alisson is when the ball is in his hands with those long balls up the pitch for Liverpool.
+[3106.00 - 3111.00] P:1529.15 E:0.112636 |  So Liverpool needed to improve on the performances so far this season and it looks like they've done that.
+[3111.00 - 3114.00] P:1642.54 E:0.103309 |  To a certain extent at Anfield in the Champions League this evening,
+[3114.00 - 3121.00] P:1596.63 E:0.095903 |  they're one all against Ajax, we'll be back with Chris Sutton and with Ian Dennis very, very shortly.
+[3121.00 - 3126.00] P:1826.70 E:0.107309 |  In the meantime we're going to check in on what's happening elsewhere in the Champions League with John Bennett.
+[3126.00 - 3131.00] P:1699.38 E:0.093807 |  Yes, a big game in Group C by Munich, Neal, Barcelona, Neal at half time.
+[3131.00 - 3136.00] P:1525.86 E:0.094419 |  It's the open entertaining game we all expected but what we didn't expect Kelly was for Robert Lewandowski
+[3136.00 - 3139.00] P:1855.66 E:0.086019 |  to miss chances against his old club.
+[3139.00 - 3145.00] P:1707.18 E:0.094485 |  Four good opportunities, his old teammate Manuel Neuer passed to him accidentally in his own box.
+[3145.00 - 3150.00] P:1590.91 E:0.090678 |  He couldn't take advantage, he had a half volley over from eight yards, a header well saved,
+[3150.00 - 3155.00] P:1692.24 E:0.090092 |  Mazraoui also made a last-ditch tackle to prevent him scoring.
+[3155.00 - 3159.00] P:1822.88 E:0.082332 |  Barca have had the best chances by not controlling things but it's still Neal-Neal.
+[3159.00 - 3163.00] P:1641.70 E:0.095020 |  In Group B, Club Bruges have never made it out of the group stage.
+[3163.00 - 3169.00] P:1678.25 E:0.096506 |  Is this their year? They beat Baylor-Vecuz and last week and at half time it's FC Porto-Neal, Club Bruges-1.
+[3169.00 - 3174.00] P:1476.47 E:0.089783 |  A penalty from Jutgler and the former Liverpool keeper Minule made a great save to deny Pepe.
+[3174.00 - 3178.00] P:1586.62 E:0.092173 |  In the same group it's Baylor-Vecuz and Neal, Atletico Madrid-Neal.
+[3178.00 - 3185.00] P:1752.19 E:0.091685 |  And finally in Tottenham's group a late goal just before half time, Jesper Lindstrom with a goal from close range
+[3185.00 - 3191.00] P:1663.00 E:0.084176 |  after a mistake by Marseille's Eric Bayi, it's Marseille-Neal, Eintracht Frankfurt-1.
+[3191.00 - 3196.00] P:1947.95 E:0.079204 |  John Bennett, thank you very much, John's keeping us across all things Champions League this evening.
+[3196.00 - 3202.00] P:1961.44 E:0.099392 |  Busy night as well in the championship, they're into the second half in Swansea City against Sheffield United, Laura Kenyon.
+[3202.00 - 3209.00] P:2006.74 E:0.095018 |  Still goalers and back underway after a lengthy stoppage, Arnal Akmadovic in an attempted overhead kick,
+[3209.00 - 3214.00] P:1991.64 E:0.102195 |  called Carl Norton in the face, a yellow card shown for the Sheffield United player.
+[3214.00 - 3219.00] P:1845.99 E:0.084855 |  Norton back up after receiving treatment and it's Hansi Neal, Sheffield United, Neal.
+[3219.00 - 3222.00] P:1593.74 E:0.104267 |  And it's Ewood Park, it's Blackburn against Watford, Lee Blakeman.
+[3222.00 - 3228.00] P:1904.94 E:0.091575 |  Blackburn leading Watford-1-Neal but it should be 2 or 3 Kelly, it really should because Ben Breert and Diaz had a shot brilliantly saved
+[3228.00 - 3234.00] P:1828.99 E:0.091953 |  early doors in this game and Tyrese Dole then saw an effort from the edge of the penalty area, tipped over as well.
+[3234.00 - 3238.00] P:1654.52 E:0.080369 |  A couple of minutes gone in the second half, Blackburn on top leading Watford-1-Neal.
+[3238.00 - 3244.00] P:1817.85 E:0.100435 |  Most of the game 7-45 this evening, elsewhere in the championship, Huddersfield a 1-Neal down at home to Wigan,
+[3244.00 - 3254.00] P:1976.20 E:0.090279 |  Hull are trailing 2-Neal at home to Stoke, it's Middlesbrough-Neal, Cardiff 3 and it's half time in the only 8 o'clock kickoff for the evening.
+[3254.00 - 3260.00] P:1855.71 E:0.091627 |  Preston 1-Burnley 1-Interleague 1-Barnsley 1-Neal up at home to Port Vale.
+[3260.00 - 3269.00] P:1894.32 E:0.090231 |  Goal is between Burton and Portsmouth, it's Charlton 1-Forest Green 1-Chelton-1-Neal, Cambridge 1-Ipswich 1-Bristal Rovers-Neal,
+[3269.00 - 3275.00] P:1879.10 E:0.093024 |  Lincoln 1-Darby Neal, MK Donnes Neal, Bolton 1-Morcomon Sheffield-Weddon's Day-Golus,
+[3275.00 - 3284.00] P:1855.75 E:0.086856 |  Peterborough 1-Neal down at home to Fleetwood, Plymouth Neal, Oxford Neal, Shrewsbury 2-Exeter 2 and at half time it's Wickham 1-Aquington Neal.
+[3284.00 - 3294.00] P:1853.01 E:0.093859 |  In league 2, Wimbledon 1-Neal down at home to Northampton, Barrow leading Doncaster by Golton Neal, Crawley 2-Stockport 1-Grimsby 1-Jillingham 1,
+[3294.00 - 3303.00] P:1803.97 E:0.094400 |  Harrogate a 0-Neal against Salford, it's Hartlepool 1-Crew Neal, Mansfield Neal-Carlal Neal, Rochdale Neal, Leighton-Orient 1,
+[3303.00 - 3310.00] P:1918.46 E:0.092997 |  Covenage 1-Newport Neal, Swindon 2-Sutton 2, Tranmay have just equalised against Bradford, it's one all in that game now,
+[3310.00 - 3321.00] P:1868.80 E:0.089577 |  Walsall Neal, Colchester 1 and in the National League, Ultrington 1-Neal up against Scunthorpe, Barnett are trailing by a Golton Neal at home to Dawking,
+[3321.00 - 3327.00] P:1957.94 E:0.094128 |  Boreham Wood Neal, Maidenhead Neal, Chesterfield down to 10 men and the trail south end by 2 goals to 1,
+[3327.00 - 3336.00] P:1886.47 E:0.093133 |  Eastley Neal, Yoville 1, Golus between Halifax and Gateshead and Maidstone and Wields, there are no goals either between Knox County and Oldershot,
+[3336.00 - 3345.00] P:1857.80 E:0.082243 |  it's Torquay 1-Sully Hall Mores 2, Woking 2-Oldham Neal, Wrexham 2-Dagonham and Redbridge Neal and York Neal, Bromley 1.
+[3345.00 - 3355.00] P:1862.76 E:0.093403 |  We'll keep you up to date with everything that's happening across the EFL and the National League, it's all over as well in the Women's T20, Emily Windsor has the result.
+[3355.00 - 3367.00] P:1849.44 E:0.081829 |  Yep, unfortunately India have beaten England by 8 wickets, earlier England posted 142 for 6 from their 20 overs including the first international 50 from 17 year old Freyja Kemp.
+[3367.00 - 3373.00] P:1779.97 E:0.086740 |  In reply, India dominated with Smetty Mandana 79 or 53 balls to win by 8 wickets.
+[3373.00 - 3381.00] P:1784.37 E:0.083762 |  The three match series is now level 1-1 with the series decider on Thursday at Bristol at 6.30pm and it's set to be about her.
+[3381.00 - 3387.00] P:1920.85 E:0.097600 |  Emily, thank you very much for that, we will continue with our coverage of the Champions League this evening.
+[3387.00 - 3396.00] P:1721.84 E:0.086786 |  We'll be back at Anfield for the second half of Liverpool against Ajax, it's one all at halftime, second half coming up after the BBC News with Jill McKenzie.
+[3398.00 - 3406.00] P:1481.56 E:0.096754 |  Thank you, good evening. The Queen's Coffin has arrived at Buckingham Palace where the royal family gathered to receive it.
+[3406.00 - 3412.00] P:1506.82 E:0.092325 |  Princess Anne accompanied her mother from Edinburgh to London and said it had been an honour and a privilege to do so.
+[3412.00 - 3419.00] P:1612.88 E:0.092239 |  The coffin will stay at the palace overnight before being moved to Westminster Hall tomorrow afternoon where it will lie in state for four days.
+[3419.00 - 3426.00] P:1586.82 E:0.078533 |  More than a million people are expected in London over the next week, the London Transport Commissioner is Andy Bieford.
+[3426.00 - 3438.00] P:1455.81 E:0.076835 |  This is the biggest challenge that TfL has ever faced, obviously we had the Olympics in 2012 which was itself a huge occasion but there we knew exactly what was happening, when it was happening and how many people were attending.
+[3438.00 - 3441.00] P:1590.20 E:0.060989 |  This is, there are so many variables.
+[3441.00 - 3448.00] P:1724.84 E:0.090852 |  Earlier King Charles III said he'd follow the shining example of his late mother on his first visit to Northern Ireland as monarch.
+[3448.00 - 3458.00] P:1496.19 E:0.087007 |  He and the Queen consort Camilla met politicians and religious leaders as well as people who'd lined the streets to greet the royal couple. Brenda and Frankie arrived at Hillsborough Castle early this morning.
+[3458.00 - 3465.00] P:1719.26 E:0.094429 |  We wanted to show the King and her support and just let him know the people from Northern Ireland's 100% behind him in his new role.
+[3465.00 - 3476.00] P:1682.31 E:0.072030 |  Well I hope for him to be a great monarch for as a King because he has a teacher, his mother was a teacher and has learned him.
+[3477.00 - 3485.00] P:1757.95 E:0.095062 |  Ukrainian forces are continuing their counter offensive in northeastern Ukraine, having driven out Russian troops from large expanses of territory in recent days.
+[3485.00 - 3490.00] P:1609.84 E:0.080027 |  Officials say more than 300 towns and villages have now been liberated.
+[3490.00 - 3499.00] P:1775.67 E:0.083523 |  The family of Chris Carber, who was killed during a police operation in south London last week, say the officer who shot him should have been suspended sooner.
+[3499.00 - 3509.00] P:1558.31 E:0.086794 |  The Independent Office for Police Conduct began a homicide investigation four days after the 24 year old rapper died, but Mr Carber's family say there was no urgency.
+[3509.00 - 3515.00] P:1584.72 E:0.083769 |  The Met Police says the decision was made after careful consideration, including the impact on public confidence.
+[3515.00 - 3527.00] P:1557.85 E:0.089674 |  And Centre Park says it will shut its five UK sites on the day of the Queen's funeral, meaning people will have to leave their lodges for 24 hours in the middle of their holiday or miss a day from the start or end of their break.
+[3527.00 - 3531.00] P:1571.44 E:0.072667 |  Visitors have complained and are asked to be allowed to stay on site.
+[3531.00 - 3535.00] P:1553.07 E:0.083898 |  This is BBC Radio 5 Live.
+[3536.00 - 3543.00] P:1894.06 E:0.085552 |  On 5 Live this evening we're continuing very shortly with the second half commentary of Liverpool against Ajax in the Champions League.
+[3543.00 - 3550.00] P:1919.77 E:0.093246 |  It's match day two and it's one all between those sides, an X45 to come in about five minutes or so.
+[3550.00 - 3556.00] P:1840.16 E:0.094874 |  Earlier Tottenham lost 2-0 away in Lisbon. They conceded both goals in injury time.
+[3556.00 - 3565.00] P:1857.10 E:0.086541 |  We'll hear from Antonio Conte after 10 o'clock and of course there'll be lots more reaction in the Football Daily podcast which you can download from BBC Sounds.
+[3565.00 - 3572.00] P:1886.71 E:0.084324 |  Big boxing news today. Anthony Joshua has accepted Tyson Furious terms for an all British heavyweight fight in December.
+[3572.00 - 3575.00] P:1896.22 E:0.076402 |  We can bring in five live boxing's Steve Bunce.
+[3575.00 - 3579.00] P:1854.10 E:0.090973 |  Bunce, it's on, it's the fight everyone's been waiting for.
+[3579.00 - 3585.00] P:1925.57 E:0.085153 |  Kelly, you know better than to say a fight's on until you get a first bell and the men coming out of opposite corners.
+[3585.00 - 3594.00] P:1836.33 E:0.080532 |  You know what, I heard you on Drive earlier and you used the phrase several times this might be too good to be true.
+[3594.00 - 3600.00] P:2001.29 E:0.071838 |  Only because two weeks ago nobody was even talking about this fight.
+[3600.00 - 3607.00] P:1926.81 E:0.077904 |  Nobody was even thinking about this fight and then Tyson Furious threw it out there as an idea and Anthony Joshua said,
+[3607.00 - 3612.00] P:1846.90 E:0.088441 |  OK, send me the terms. Some terms were sent over and then Furious said, I'll give you 60-40.
+[3612.00 - 3616.00] P:1459.55 E:0.093277 |  So AJ said and AJ's people said OK, we'll have a little think about it.
+[3616.00 - 3625.00] P:1572.92 E:0.080397 |  They've had a little think about it and it turns out that last Friday when negotiations stopped out of respect for the death of the Queen,
+[3625.00 - 3633.00] P:1476.84 E:0.083001 |  during Friday, Saturday and Sunday people talked, people met, people discussed it and lo and behold this morning at about 11 o'clock,
+[3634.00 - 3641.00] P:1689.45 E:0.084715 |  the group behind Anthony Joshua, that's two, five, eight management and Eddie Hearn on behalf of Matt Shrimp said,
+[3641.00 - 3649.00] P:1701.46 E:0.070914 |  we've agreed terms. Frank Warren instantly replied on social media contracts basically on its way.
+[3649.00 - 3655.00] P:1922.23 E:0.056660 |  So that was about 10 hours ago but as far as we know, this fight's made.
+[3656.00 - 3664.00] P:1872.42 E:0.089806 |  But when you said 60-40, what do you think the terms are and could it be a fight in the UK?
+[3664.00 - 3670.00] P:1999.72 E:0.083162 |  Because even if it's 60-40, they'll want 60-40 over a huge pot, won't they?
+[3670.00 - 3678.00] P:1916.68 E:0.079486 |  60-40 over a huge pot. It'll all be down to pay the people's views and what other people pay to watch it in various territories around the world.
+[3678.00 - 3683.00] P:1747.55 E:0.089505 |  And we are told, we are told, my gut feeling is and no one's put me, no one's told me.
+[3687.00 - 3693.00] P:1812.11 E:0.092095 |  Bonsi, you're just coming in and out. Just start again, nobody's told you, what did you say?
+[3693.00 - 3703.00] P:1653.91 E:0.074371 |  Nobody's told me different. People have told me that this fight will be in Wows in Cardiff where Tyson Fury was booked to fight on the 17th of December.
+[3703.00 - 3708.00] P:1469.62 E:0.087952 |  That was in the book, that was going to happen. That stadium's booked, it's been brought forward to the 3rd for whatever reason
+[3708.00 - 3713.00] P:1850.70 E:0.078975 |  and we're told it'll be in Cardiff underneath the roof, 80-odd thousand people.
+[3713.00 - 3718.00] P:1908.39 E:0.090010 |  That's what we're hearing. It is. I'm going to use the expression again. It's too good to be true.
+[3718.00 - 3723.00] P:1947.81 E:0.087144 |  But look, Anthony Joshua obviously wants to make a statement after the defeat by Usik
+[3723.00 - 3728.00] P:1740.38 E:0.095713 |  but Fury was expected to face Usik in that undisputed fight in December.
+[3728.00 - 3733.00] P:1722.29 E:0.074958 |  That doesn't affect this, does it? It might affect his focus.
+[3733.00 - 3740.00] P:2176.04 E:0.072853 |  Well, let's put it this way, if Anthony Joshua were to beat Tyson Fury, it certainly affects Fury's challenge.
+[3740.00 - 3745.00] P:1842.96 E:0.075669 |  Does the fight, he'd Usik in some massive fight next April or May? A couple of things quickly.
+[3745.00 - 3752.00] P:1954.85 E:0.065648 |  No, it doesn't affect it. This is the first fight and hopefully the winner of this has a massive showdown with Usik next year.
+[3753.00 - 3758.00] P:1846.87 E:0.089866 |  Thank you, Steve Bunce. Thank you very much for that. As Bunce said, possibly too good to be true
+[3758.00 - 3764.00] P:1871.75 E:0.087217 |  but as things stand, it is all going forward and it looks like this fight could be on
+[3764.00 - 3769.00] P:1972.40 E:0.081585 |  between Anthony Joshua and Tyson Fury, potentially in Cardiff.
+[3769.00 - 3772.00] P:1867.04 E:0.085775 |  Well, keep an eye on that one and Bunce will be across everything
+[3772.00 - 3776.00] P:1744.28 E:0.080074 |  and of course you can also always listen to the Five Live Boxing Podcast with Steve Bunce.
+[3776.00 - 3781.00] P:1622.13 E:0.100009 |  Meanwhile, Liverpool went 1-0 up against Ajax but it wasn't quite the knock-up blow
+[3781.00 - 3786.00] P:1783.80 E:0.093685 |  they hoped it might be Ajax got back into it with a really good finish from Kudos.
+[3786.00 - 3791.00] P:1825.01 E:0.097919 |  It is one-all at half-time. The Ajax players just making their way out of the tunnel
+[3791.00 - 3794.00] P:1648.29 E:0.097967 |  and Liverpool players waiting for them on the pitch.
+[3794.00 - 3799.00] P:1762.59 E:0.084689 |  So with you for the second half at Anfield. It's Chris Sutton, Enny and Dennis.
+[3799.00 - 3802.00] P:1867.47 E:0.098176 |  Thank you, Kelly. I can tell you that Liverpool haven't made any changes.
+[3803.00 - 3808.00] P:1840.24 E:0.104117 |  Alison Engole, Alexander Arnold, Matip van Dijk and Simacas, Thiago Fabinho and Elliott,
+[3808.00 - 3812.00] P:1861.87 E:0.091870 |  the midfield three, Salah Jota and Lewis Tias.
+[3812.00 - 3817.00] P:1830.67 E:0.090170 |  All in red, second half will be playing from left to right therefore attacking the Cop.
+[3817.00 - 3825.00] P:1964.90 E:0.100081 |  Ajax has lovely ovation for Lenko Passfair as he makes his way to the Cop.
+[3825.00 - 3830.00] P:1950.06 E:0.095707 |  He's all in blue. Ajax in their changed strip.
+[3831.00 - 3840.00] P:1909.37 E:0.094878 |  The cream shirts and the black shorts and they get us back underway playing from right to left.
+[3840.00 - 3843.00] P:1746.08 E:0.089763 |  Attacking the Anfield road end with Passfair in goal.
+[3843.00 - 3849.00] P:1830.96 E:0.090249 |  The back four of Alvarez almost getting caught in possession inside his own penalty area.
+[3849.00 - 3852.00] P:1841.52 E:0.079569 |  Renge, Timberbasi and Blint.
+[3852.00 - 3859.00] P:1837.58 E:0.081435 |  Although just looking at the way they've started the second half, Alvarez almost has dropped back there.
+[3859.00 - 3864.00] P:1850.37 E:0.101303 |  They're playing the three central defenders. Here is Elliott coming forward out now towards Simacas.
+[3864.00 - 3866.00] P:1952.27 E:0.107985 |  Shot takes the reflection.
+[3866.00 - 3872.00] P:1934.85 E:0.102722 |  Then they've got Berghaus, Taylor, Bergwein, Kudas, the goalscorer and Tadej.
+[3872.00 - 3874.00] P:1876.26 E:0.079625 |  So I don't know whether that was...
+[3874.00 - 3876.00] P:1850.44 E:0.112171 |  It's one to watch, isn't it?
+[3876.00 - 3878.00] P:1684.66 E:0.080956 |  It is, yeah.
+[3878.00 - 3883.00] P:1748.68 E:0.098615 |  I mean, he is more than capable, the Mexican international, of either being a central defender
+[3883.00 - 3885.00] P:1873.05 E:0.077843 |  or a defensive midfielder.
+[3885.00 - 3891.00] P:1817.68 E:0.086314 |  Liverpool have a corner far side headed out by Kudas, played back by Lewis Diass.
+[3891.00 - 3894.00] P:1857.33 E:0.098698 |  Out to Simacas level with the area left-hand side.
+[3894.00 - 3901.00] P:1929.71 E:0.083752 |  Now sends in across towards the near post and it's a cushion clearance by Renge.
+[3901.00 - 3909.00] P:1807.00 E:0.106743 |  And then kept in play by Lewis Diass but actually presents Bergwein, the former Tottenham player with an opportunity to scuttle his way forward.
+[3909.00 - 3913.00] P:1897.61 E:0.104555 |  Kudas, who goes to ground, the referee says no penalty.
+[3913.00 - 3918.00] P:1891.88 E:0.113933 |  Arthur Diass, the Portuguese referee, kept up play, superbly there, had an excellent view.
+[3918.00 - 3922.00] P:1912.51 E:0.111890 |  Meanwhile Liverpool are attacking. Jota carries it to the edge of the area.
+[3922.00 - 3926.00] P:1953.26 E:0.109055 |  Jota still going. Jota shoots straight into the goalkeeper.
+[3926.00 - 3931.00] P:1995.09 E:0.108337 |  Chances it. One end to the other and back to the court once more.
+[3931.00 - 3936.00] P:1832.11 E:0.087782 |  Absolutely, but Bergwein runs away.
+[3936.00 - 3942.00] P:1781.11 E:0.101574 |  And the Liverpool back line feeds the ball to Thiago who gets away from feeds the ball to Kudas,
+[3942.00 - 3948.00] P:1772.77 E:0.090634 |  who tries to win a penalty, throws himself to the floor and then the ball straight down the other end
+[3948.00 - 3952.00] P:1832.60 E:0.092354 |  and Jota manoeuvres the ball brilliantly on the edge of the box.
+[3952.00 - 3954.00] P:1739.96 E:0.093071 |  He shoots from 16-17 yards.
+[3954.00 - 3959.00] P:1770.86 E:0.083156 |  If he disappointed with the finish, put it straight to Pazvir.
+[3959.00 - 3963.00] P:1847.56 E:0.096386 |  Porto Niel Bruges too is the latest scorer in the Champions League.
+[3963.00 - 3965.00] P:1793.49 E:0.084507 |  That's in Group B.
+[3965.00 - 3970.00] P:1841.61 E:0.093673 |  Mylaver Kussin and Atlético Madrid still drawing, but Bruges have got a second goal,
+[3970.00 - 3974.00] P:1769.59 E:0.079123 |  so they're looking to make it two wins out of two.
+[3974.00 - 3979.00] P:1772.47 E:0.077499 |  Remember earlier Tottenham Hotspur were beaten 2-0.
+[3979.00 - 3988.00] P:1788.86 E:0.094958 |  The way to Sporting Lisbon will actually have Tottenham's next game against Leicester City on Saturday evening.
+[3988.00 - 3993.00] P:1824.79 E:0.100393 |  It's part of five-life sport with Marc Chapman on air from midday.
+[3993.00 - 3998.00] P:1890.04 E:0.098796 |  Ipswich 2, Bristol Robers Niel is the latest scorer in League One.
+[3998.00 - 4005.00] P:1782.09 E:0.089332 |  Ipswich, leaders of League One, unbeaten still and going very, very well.
+[4005.00 - 4009.00] P:1808.84 E:0.099444 |  Here is Elliott, back to Alisson.
+[4009.00 - 4013.00] P:1646.66 E:0.095798 |  Going back to Kudas throwing himself to the floor.
+[4013.00 - 4017.00] P:1810.60 E:0.091979 |  What an opportunity that would have been, should have taken the shot on.
+[4018.00 - 4022.00] P:1834.42 E:0.101730 |  It's a warning for Liverpool again, it's actually on the break.
+[4022.00 - 4025.00] P:1965.40 E:0.113290 |  Here is Jota.
+[4025.00 - 4028.00] P:1945.40 E:0.092451 |  The referee gives a free kick.
+[4028.00 - 4031.00] P:1814.86 E:0.102476 |  There was a foul coming in from Alvarez.
+[4031.00 - 4034.00] P:1909.02 E:0.097780 |  Thiago's taken it, he finds Salah right corner of the area.
+[4034.00 - 4042.00] P:1815.67 E:0.088798 |  You're listening to BBC Radio 5 Live as Elliott will take a throw on this near side the right.
+[4042.00 - 4046.00] P:1688.34 E:0.074032 |  Three and a half minutes into the second half.
+[4046.00 - 4049.00] P:1725.73 E:0.087721 |  Now he leaves it for Alexander Arnold.
+[4049.00 - 4054.00] P:1737.63 E:0.091020 |  Lewis Diaz right corner of the area, back to Elliott on this touch line.
+[4054.00 - 4057.00] P:1876.62 E:0.100296 |  Dancing around the ball, passing it forward towards the byline towards Salah.
+[4057.00 - 4060.00] P:1805.37 E:0.099296 |  There's well to keep the ball in play, Salah then loses the ball.
+[4060.00 - 4066.00] P:1971.82 E:0.100256 |  Taylor the fair-haired midfielder will win a goal kick off the shins of young Harvey Elliott
+[4066.00 - 4069.00] P:1882.59 E:0.077428 |  and Persvir to take it.
+[4069.00 - 4075.00] P:1786.43 E:0.088107 |  You think about the traditions and the history of these two clubs in European competition.
+[4075.00 - 4083.00] P:1808.83 E:0.092555 |  This is Liverpool's 27th season just in Europe's elite competition.
+[4083.00 - 4091.00] P:1743.01 E:0.097144 |  And for Ajax it's their 39th season either in the European Cup or the Champions League.
+[4094.00 - 4097.00] P:1607.90 E:0.081333 |  Ten times they've won it between them.
+[4097.00 - 4104.00] P:1746.30 E:0.085926 |  Ajax's first success was actually in England against Panathanaeacos back in 1971.
+[4104.00 - 4109.00] P:1616.34 E:0.090686 |  Bayern Munich are leading Barcelona by a goal to nil.
+[4109.00 - 4114.00] P:1679.85 E:0.086958 |  Remember Inter Milan earlier beat Victoria Pilsen 2-0 in the early game.
+[4114.00 - 4117.00] P:1911.14 E:0.083128 |  There's Blint, heads it back to Persvir.
+[4117.00 - 4123.00] P:1798.41 E:0.080811 |  Now in Germany Bayern are leading Barser 1-0.
+[4123.00 - 4126.00] P:1671.71 E:0.090680 |  It was just a temporary thing wasn't it by the way?
+[4126.00 - 4131.00] P:1860.65 E:0.080648 |  Alvarazzi's continued just to sit in front of that back four.
+[4131.00 - 4135.00] P:1968.91 E:0.108386 |  A loose ball and that'll be a free kick.
+[4135.00 - 4138.00] P:1893.62 E:0.101359 |  That was Timber with the foul.
+[4138.00 - 4140.00] P:1825.51 E:0.095737 |  It's a couple of times now isn't it?
+[4140.00 - 4142.00] P:1607.50 E:0.075722 |  It is yeah. He took the words right out of my mouth.
+[4142.00 - 4146.00] P:1552.84 E:0.073503 |  Very fortunate once again.
+[4146.00 - 4150.00] P:1688.12 E:0.086359 |  Not to see a yellow card there.
+[4150.00 - 4156.00] P:1734.81 E:0.093931 |  I've actually been disappointed with Ajax at the back with...
+[4156.00 - 4161.00] P:1723.17 E:0.099647 |  Really careless that some of the passes into midfield.
+[4161.00 - 4165.00] P:1565.66 E:0.092541 |  Not as slick as they normally are.
+[4165.00 - 4170.00] P:1837.43 E:0.107441 |  Well this free kick at 1-1 on BBC Radio 5 Live is for Liverpool and it's midway through the Ajax half.
+[4170.00 - 4172.00] P:1629.07 E:0.095064 |  They're playing from left to right.
+[4172.00 - 4174.00] P:1707.90 E:0.073504 |  Two full backs stand over it.
+[4174.00 - 4180.00] P:1609.13 E:0.084519 |  I'd imagine that it will be Alexander-Arnold to whip it in with his right foot.
+[4180.00 - 4184.00] P:1914.21 E:0.083631 |  Quite a high line from the Ajax players to offer as much protection.
+[4184.00 - 4187.00] P:1811.55 E:0.106371 |  Did it Simicast, who curls it in and Bundyke gets his head on it.
+[4187.00 - 4189.00] P:1865.37 E:0.099656 |  Eight yards out couldn't keep his header down.
+[4189.00 - 4192.00] P:1895.51 E:0.084407 |  Fulled everybody. Goal kick. What one?
+[4192.00 - 4198.00] P:1679.69 E:0.088813 |  Yeah but as soon as you said Alexander-Arnold to take that, I knew Simicast would.
+[4198.00 - 4201.00] P:1781.21 E:0.095628 |  And like wayward with the header.
+[4201.00 - 4211.00] P:1848.50 E:0.086470 |  It's funny on 6-0-6 whenever you say something I know that the truth has been spoken by Robbie Savage.
+[4211.00 - 4213.00] P:1766.38 E:0.090993 |  Works both ways.
+[4213.00 - 4219.00] P:1784.99 E:0.087553 |  City-0 Stoke City 3 is a latest score in the championship.
+[4219.00 - 4224.00] P:1634.00 E:0.077697 |  Liverpool patiently have the ball at the back with Bundyke.
+[4224.00 - 4226.00] P:1860.80 E:0.097775 |  Casually stroked towards Matip.
+[4226.00 - 4231.00] P:1734.66 E:0.091721 |  One of four changes made after that heavy defeat in Naples last week.
+[4231.00 - 4234.00] P:1874.62 E:0.083496 |  Alexander-Arnold finds Jota.
+[4234.00 - 4238.00] P:1946.23 E:0.106847 |  Forces the ball out wide to Salah. Won't keep the ball in play.
+[4238.00 - 4242.00] P:1968.46 E:0.107449 |  What was it? Heaviest defeat in Europe for 56 years for Liverpool?
+[4243.00 - 4248.00] P:1821.11 E:0.085421 |  The impression that a draw wouldn't be good enough for them.
+[4248.00 - 4255.00] P:1747.25 E:0.100463 |  No, in truth from what I've seen of Rangers this season, Bassey's been a big loss for them.
+[4255.00 - 4258.00] P:1519.62 E:0.085426 |  Defensively a re-bo.
+[4258.00 - 4263.00] P:1611.35 E:0.088672 |  But you would expect Liverpool to certainly beat Rangers at Anfield.
+[4263.00 - 4268.00] P:1798.19 E:0.089888 |  Rangers a different proposition at Ibox.
+[4268.00 - 4272.00] P:1816.95 E:0.100552 |  Liverpool have work to do. They really need to win this.
+[4272.00 - 4277.00] P:1689.87 E:0.079367 |  Bruce, you've got a third goal in the Dragow Stadium.
+[4277.00 - 4280.00] P:1830.76 E:0.095741 |  Porto-Neal, Bruce 3.
+[4280.00 - 4286.00] P:1745.26 E:0.087924 |  Liverpool in this second half haven't had that same fluency as they started the first half.
+[4286.00 - 4289.00] P:1764.89 E:0.074990 |  It just seems to be a little bit more disjointed.
+[4289.00 - 4294.00] P:1499.80 E:0.076536 |  Yep, and just not quite coming off as of that in the final third.
+[4294.00 - 4297.00] P:1777.54 E:0.107505 |  That little bit of quality they need.
+[4297.00 - 4302.00] P:1699.12 E:0.093760 |  Not the easiest ball from Matip to Alexander-Arnold.
+[4302.00 - 4308.00] P:1616.53 E:0.081751 |  Just bounces in front of Alexander-Arnold and goes out for a throw into Ajax.
+[4308.00 - 4312.00] P:1703.17 E:0.088808 |  Kudas passes the ball back to Bassey.
+[4312.00 - 4319.00] P:1758.71 E:0.093131 |  Bassey decides to bring it forward and sprays the ball with his left foot out towards Wrench on the halfway line.
+[4319.00 - 4321.00] P:1914.02 E:0.093253 |  Tadic's offside.
+[4321.00 - 4325.00] P:1736.87 E:0.081711 |  Right in front of the assistant referee.
+[4325.00 - 4329.00] P:1813.40 E:0.083109 |  It's a high line from Liverpool.
+[4329.00 - 4336.00] P:1640.00 E:0.084821 |  That high line has been a problem for them this season.
+[4336.00 - 4342.00] P:1686.72 E:0.103049 |  Ajax may feel that there will be opportunities in this second half. What a ball that is.
+[4342.00 - 4347.00] P:1846.52 E:0.110420 |  Right the way forward towards Alexander-Arnold who's the most advanced player right-hand side of the penalty area.
+[4347.00 - 4351.00] P:1935.63 E:0.105011 |  Now backheels the ball to Salah, gets a little touch, finds Elliott outside the area.
+[4351.00 - 4356.00] P:1982.15 E:0.103300 |  Elliott goes with the curler off his left foot but there wasn't really much pace on the ball
+[4356.00 - 4360.00] P:1885.05 E:0.095307 |  and it was a comfortable save for the goalkeeper at head height for Pasfia.
+[4360.00 - 4365.00] P:1801.81 E:0.096389 |  Let's talk about the run from Alexander-Arnold and the pass from Virgil van Dijk.
+[4365.00 - 4370.00] P:1835.71 E:0.100656 |  60-70 yards, Alexander-Arnold making a movement in between.
+[4370.00 - 4372.00] P:1906.37 E:0.088118 |  The left-back blend.
+[4372.00 - 4376.00] P:1886.66 E:0.087314 |  And Bassey, Ajax send a half.
+[4378.00 - 4382.00] P:1869.91 E:0.109857 |  Lincoln City 2, Derby County nearly is the latest scorer in League 1.
+[4382.00 - 4388.00] P:1753.55 E:0.090219 |  I was reading today that that's Derby's 5,000th match in the football league.
+[4388.00 - 4396.00] P:1723.63 E:0.086772 |  And Lincoln at Central Bank have got a second goal as Ajax with Bassey in possession.
+[4397.00 - 4402.00] P:1860.42 E:0.099802 |  Timber goes back to Bassey, edge of his area.
+[4402.00 - 4405.00] P:1904.88 E:0.097165 |  Now towards the goalkeeper in front of the cop tries to beat the press.
+[4405.00 - 4411.00] P:1836.10 E:0.096308 |  Alvarez is the outlet able to turn to Tadich just outside the centre-circle into the centre-circle
+[4411.00 - 4415.00] P:1914.00 E:0.116075 |  and Matt quickly seized upon that. His forward ball though was blocked.
+[4415.00 - 4418.00] P:1861.67 E:0.092683 |  He's actually in a very important block by Alvarez.
+[4418.00 - 4424.00] P:1838.33 E:0.095114 |  And a free kick has been awarded by the Portuguese referee to Ajax.
+[4424.00 - 4428.00] P:1769.42 E:0.090590 |  So 10 minutes into the second half and it's still 1-1.
+[4428.00 - 4433.00] P:1769.16 E:0.082236 |  Liverpool have always got to be mindful of the threat that Ajax possess.
+[4433.00 - 4437.00] P:1799.02 E:0.087999 |  We've seen that with the way that they equalised with such a clinical finish
+[4437.00 - 4439.00] P:1825.18 E:0.100645 |  as now the ball is crossed towards Bergveil.
+[4439.00 - 4443.00] P:1738.54 E:0.083493 |  Brought down on his chest, former Tottenham player left corner of the area,
+[4443.00 - 4446.00] P:1613.29 E:0.070797 |  leaves it now for Daley Blint.
+[4446.00 - 4450.00] P:1634.30 E:0.083679 |  Now to Taylor going away from the penalty area.
+[4450.00 - 4453.00] P:1781.29 E:0.073080 |  Nefredominantly cream shirts.
+[4453.00 - 4456.00] P:1710.65 E:0.086360 |  And now it's with Timber back towards Bassey.
+[4456.00 - 4460.00] P:1761.20 E:0.095803 |  Wimbledon-Nilnorth, Hampton Town 2, a latest score in League 2.
+[4460.00 - 4464.00] P:1906.64 E:0.097528 |  Ajax give the ball away. Alexander-Arnold to Lewis Diaz.
+[4464.00 - 4469.00] P:1903.10 E:0.088841 |  Timber comes across and gets there first and has the ball under control.
+[4472.00 - 4477.00] P:1721.74 E:0.100694 |  And there's Alvarez just done that quite often, hasn't he, in this game?
+[4477.00 - 4484.00] P:1668.83 E:0.082355 |  Just dropping in alongside or in between Timber and Bassey and picking up the ball
+[4484.00 - 4487.00] P:1587.81 E:0.085140 |  and trying to make the play once again.
+[4487.00 - 4490.00] P:1639.75 E:0.107179 |  This after they've struggled to play through Liverpool.
+[4490.00 - 4493.00] P:1614.29 E:0.094272 |  There's that long ball from Pasveert trying to hit the front man.
+[4493.00 - 4495.00] P:1835.15 E:0.097622 |  That's so on this occasion.
+[4495.00 - 4499.00] P:1694.46 E:0.087967 |  Ham ball from Kudos. That'll be a free kick to Liverpool.
+[4499.00 - 4502.00] P:1787.97 E:0.094979 |  Let's get an update from Blackburn Watford in the championship at Ewood Park.
+[4502.00 - 4503.00] P:1592.77 E:0.103560 |  Lee Blateman.
+[4503.00 - 4505.00] P:1700.72 E:0.098503 |  Blackburn won Watford-Nilnorth.
+[4505.00 - 4509.00] P:1750.09 E:0.097655 |  They were level. Christian Camuseli, side foot finish inside the penalty area.
+[4509.00 - 4512.00] P:1737.97 E:0.094547 |  Offside flag up on this near side.
+[4512.00 - 4515.00] P:1623.42 E:0.090481 |  That's the closest Watford have come and we've got 20 minutes to go.
+[4515.00 - 4517.00] P:1665.64 E:0.082095 |  Blackburn won Watford-Nilnorth.
+[4517.00 - 4520.00] P:1901.62 E:0.110360 |  Alvarez caught by Lewis Diaz. That'll be a free kick.
+[4520.00 - 4523.00] P:1825.06 E:0.093541 |  He's gone down. He's been paid inside his own penalty area.
+[4523.00 - 4526.00] P:1869.24 E:0.106023 |  What about the leaders Sheffield United down in South Wales? Laura Kenyon.
+[4526.00 - 4528.00] P:1933.55 E:0.102163 |  Swansea-Nilnorth, Sheffield United-Nilnorth.
+[4528.00 - 4532.00] P:1880.14 E:0.101671 |  Creativity aplenty but neither side able to find the back of the net.
+[4532.00 - 4535.00] P:1834.81 E:0.104337 |  Swansea more than holding their own against the league leaders here.
+[4535.00 - 4537.00] P:1853.41 E:0.099799 |  After 72 minutes it's Nilnil.
+[4537.00 - 4543.00] P:1635.65 E:0.091193 |  As far as league one is concerned, Clemifar Gile are leading by a goal to Nilnorth.
+[4543.00 - 4546.00] P:1855.98 E:0.094115 |  They've just taken the lead at home talks with United.
+[4546.00 - 4551.00] P:1844.34 E:0.094193 |  They were third but Portsmouth who are second are still leading at Burton Albion by a goal to Nilnorth.
+[4551.00 - 4554.00] P:1932.03 E:0.095060 |  And the leaders in Switch Town remain two nil up.
+[4554.00 - 4561.00] P:1699.53 E:0.085808 |  So nothing will change at the top of league one tonight with the results as they are.
+[4561.00 - 4565.00] P:1773.41 E:0.070528 |  This is the Champions League on five live.
+[4565.00 - 4572.00] P:1737.26 E:0.089270 |  Tomorrow Manchester City Borussia Dortmund at the Etihad will have coverage on BBC Radio 5.
+[4572.00 - 4579.00] P:1669.11 E:0.071591 |  Don't forget Rick and Rachel in the morning with breakfast from six through till nine.
+[4579.00 - 4587.00] P:1700.11 E:0.078778 |  And then from around a quarter to two tomorrow the coverage of procession to the lying in state
+[4587.00 - 4593.00] P:1796.54 E:0.086448 |  Queen Elizabeth the second from 145 on BBC Radio 5 live.
+[4593.00 - 4599.00] P:1820.46 E:0.074237 |  And a slightly earlier time following that with drive coming on air at 3.30.
+[4599.00 - 4602.00] P:1747.37 E:0.092199 |  Sheffield Wednesday leading Morkham by a goal to Nil.
+[4602.00 - 4607.00] P:1752.33 E:0.079482 |  That's in league one. Sheffield Wednesday play-ups which at the weekend.
+[4607.00 - 4611.00] P:1684.42 E:0.085313 |  A bit crowd I would think at Hillsborough for that one.
+[4611.00 - 4615.00] P:1765.59 E:0.100879 |  As Elliott tries to get just around the right hand side cleared away by Alvarez.
+[4615.00 - 4619.00] P:1863.76 E:0.088920 |  He's not aggressive in that defensive midfield just shielding from the back four.
+[4619.00 - 4622.00] P:1907.72 E:0.101305 |  Ajax at times in the first half Chris.
+[4622.00 - 4631.00] P:1875.88 E:0.089567 |  You felt they were stretched not necessarily the same levels of anxiety in this second half of the Dutch team.
+[4631.00 - 4638.00] P:1819.36 E:0.090966 |  No, Liverpool with that high press. Can Ajax beat the press?
+[4638.00 - 4642.00] P:1792.67 E:0.087744 |  They've just been a little bit careless once again.
+[4642.00 - 4646.00] P:1799.19 E:0.120141 |  Moving the ball away and Liverpool are on to them and Alvarez has to see yellow.
+[4646.00 - 4651.00] P:1933.30 E:0.102546 |  They does see yellow. Really reckless challenge on Jota.
+[4651.00 - 4659.00] P:1539.65 E:0.082353 |  Ball into Jotu plays the ball round the corner to Elliott and Alvarez follows through takes him out.
+[4659.00 - 4662.00] P:1714.75 E:0.089821 |  Yeah, very, very clumsy from the experience.
+[4662.00 - 4666.00] P:1900.89 E:0.089126 |  Mexican international he is indeed shown a yellow card.
+[4666.00 - 4669.00] P:1800.39 E:0.092115 |  Nearly an hour play to downfield 1-1.
+[4669.00 - 4671.00] P:1910.50 E:0.104202 |  Thiago chips the ball into the penalty area.
+[4671.00 - 4673.00] P:1902.89 E:0.103732 |  Matt it with the downward header. Salah at the far post.
+[4673.00 - 4679.00] P:1914.92 E:0.086872 |  Blint slides back but the referee has already said it will be a goal kick.
+[4679.00 - 4684.00] P:1643.77 E:0.077423 |  Blint does brilliantly. Really spots the danger.
+[4684.00 - 4691.00] P:1713.78 E:0.088507 |  Well Thiago just hangs the ball up to Van Dijk who plants the header back across the six yard line.
+[4691.00 - 4698.00] P:1638.70 E:0.082840 |  Salah looked like he was on to it but using all his experience and clears the ball on to Salah
+[4698.00 - 4700.00] P:1505.06 E:0.061464 |  to safety.
+[4700.00 - 4704.00] P:1689.97 E:0.096723 |  Four seasons he spent at Old Trafford as Iax are attacking.
+[4704.00 - 4710.00] P:1822.16 E:0.103718 |  And Taddux trying to get away from Simicast who had to be alert there to come across and to deal with it.
+[4710.00 - 4712.00] P:1995.07 E:0.110840 |  And he's gone well.
+[4712.00 - 4716.00] P:1839.33 E:0.112075 |  A left back primarily operating in a right back area because Alexander-Arnold was forward.
+[4716.00 - 4722.00] P:1904.81 E:0.104798 |  Simicast was alert. Could be fending. Liverpool now look to attack still at 1-1 in the Champions League.
+[4722.00 - 4724.00] P:1893.08 E:0.098825 |  Lewis Diaz with a searching diagonal ball.
+[4724.00 - 4727.00] P:1826.93 E:0.103805 |  Salah tries to take it in his stride. Bassey holds him off.
+[4727.00 - 4731.00] P:1935.74 E:0.114684 |  Tangled and then Bassey just throws Salah to the ground.
+[4731.00 - 4736.00] P:1837.47 E:0.101281 |  You can't do that. Come on. I mean that has to be a free kick to Liverpool.
+[4736.00 - 4739.00] P:1806.20 E:0.116119 |  It's not awarded. Mo Salah furious.
+[4739.00 - 4745.00] P:1881.15 E:0.099064 |  But here the booze and the cheers within the stadium.
+[4745.00 - 4754.00] P:1818.71 E:0.099699 |  If you haven't seen Calvin Bassey before he's a big burly defender and he just rugs that Salah off with one throw the left arm.
+[4754.00 - 4762.00] P:1662.80 E:0.072347 |  But there's levels of force and that was over Zelis from Bassey.
+[4762.00 - 4766.00] P:1744.06 E:0.083271 |  Simicast on his natural left side now.
+[4766.00 - 4771.00] P:1729.89 E:0.093509 |  Lewis Diaz hopping in front of the referee. Liverpool keep the ball over an hour play.
+[4771.00 - 4778.00] P:1746.06 E:0.090282 |  That's what I was worrying at the other end. You think that it was Taddux who nearly got in off a quick throw in for Iax.
+[4778.00 - 4780.00] P:1685.53 E:0.098066 |  And Simicast did really well didn't he?
+[4780.00 - 4785.00] P:1631.64 E:0.086327 |  He made the ball off Taddux and eventually got the ball to safety.
+[4785.00 - 4789.00] P:1712.09 E:0.093723 |  Liverpool have to be switched on an alert at the back.
+[4789.00 - 4793.00] P:1828.48 E:0.091501 |  Here is Lewis Diaz. He's going to shoot from distance is he?
+[4793.00 - 4796.00] P:1869.34 E:0.104695 |  Steadied himself not once but twice. It was a low right footed effort.
+[4796.00 - 4801.00] P:1824.63 E:0.095847 |  Struck the legs of Timber. Goes out then towards Simicast now on the left hand side level of the area.
+[4801.00 - 4804.00] P:1643.80 E:0.078116 |  And Simicast plays the ball back.
+[4804.00 - 4808.00] P:1812.87 E:0.099159 |  This is Tiago running forward now. Threads it forward.
+[4808.00 - 4813.00] P:1832.73 E:0.091082 |  Lewis Diaz central area to Elliott side onto goal. Gets it out from underneath his feet.
+[4813.00 - 4817.00] P:1774.64 E:0.097461 |  Alexander Arnold on the right. He goes square. Interception from Taylor.
+[4817.00 - 4820.00] P:1822.29 E:0.097330 |  Liverpool try and retrieve it. Burgwein caught by Massit.
+[4820.00 - 4823.00] P:1813.39 E:0.106597 |  He's got to go in the book for that. Massit will get a yellow card.
+[4823.00 - 4830.00] P:1777.91 E:0.081200 |  It's really brilliant from Burgwein. He leaves the pressure for Iax.
+[4830.00 - 4835.00] P:1630.24 E:0.082409 |  It was Taylor who plays a little ten yard pass into him.
+[4835.00 - 4842.00] P:1575.38 E:0.088930 |  Burgwein knows Mattip is going to try and nick the ball in front of him and rolls him.
+[4842.00 - 4848.00] P:1640.25 E:0.084167 |  Wins the free kick. Mattip under a little bit of pressure now.
+[4848.00 - 4856.00] P:1796.06 E:0.093134 |  When they met in the group stages in 2020, Liverpool won both matches by a goal to nil.
+[4856.00 - 4861.00] P:1864.54 E:0.092550 |  The goal here at Anfield was scored by Curtis Jones.
+[4861.00 - 4866.00] P:1841.21 E:0.110373 |  His first goal in European competition. Liverpool are looking to try and retake the lead.
+[4866.00 - 4871.00] P:1936.85 E:0.105027 |  Simicast left hand side. Drills it in low. Massit deals with a threat of Jota.
+[4871.00 - 4876.00] P:1960.75 E:0.099526 |  Up into the air it goes. Lewis Diaz hits it low. Block then Iax.
+[4876.00 - 4880.00] P:1877.78 E:0.115239 |  Funnel out of their penalty area as the ball is back on the halfway line.
+[4880.00 - 4885.00] P:1916.24 E:0.102922 |  The Liverpool crowd respond trying to urge Liverpool forward.
+[4885.00 - 4889.00] P:1739.25 E:0.104950 |  You can hear the response from the Anfield faithful.
+[4889.00 - 4898.00] P:1776.40 E:0.077729 |  Allyson. Now with Van Dijk. Thiago. Still quite a high line from that defence.
+[4898.00 - 4908.00] P:1807.56 E:0.082844 |  Taylor's dropped back now as well because Alexander-Arnold is inverted and he's gone forward into that advanced roll.
+[4908.00 - 4913.00] P:1883.78 E:0.091984 |  Elliott skips out of one challenge by Taylor.
+[4913.00 - 4921.00] P:1920.42 E:0.087205 |  He was combative in the second challenge. Jota slips. Fabinho wins the ball back.
+[4921.00 - 4925.00] P:1978.86 E:0.111972 |  Finds Salah in the area. Salah can't take it but the goalkeeper flags up.
+[4925.00 - 4927.00] P:1895.25 E:0.112838 |  Elliott hits the side, netting anyway.
+[4927.00 - 4932.00] P:1854.49 E:0.090390 |  Well, the flag was sort of up wasn't it? He takes the flag down.
+[4932.00 - 4936.00] P:1862.34 E:0.090015 |  The assistant bit of uncertainty there.
+[4936.00 - 4943.00] P:1897.70 E:0.104544 |  But Pazvir does brilliantly because as the ball eventually comes through to Mo Salah.
+[4943.00 - 4947.00] P:1821.53 E:0.098737 |  It's a very tight one. Mo Salah tries to take it round him.
+[4947.00 - 4951.00] P:1819.26 E:0.079357 |  Pazvir actually pinches the ball off him.
+[4951.00 - 4954.00] P:1752.53 E:0.098236 |  He's left foot but Liverpool look like they're going to make changes.
+[4954.00 - 4957.00] P:1746.85 E:0.068582 |  But Jahn's gone for Liverpool.
+[4957.00 - 4960.00] P:1721.63 E:0.107340 |  The offside had it been for Salah would have been very, very tight.
+[4960.00 - 4968.00] P:1811.45 E:0.090354 |  It would have been one for the semi-automated VAR that's in operation in the group stages this year.
+[4968.00 - 4976.00] P:1765.49 E:0.096591 |  As a double change. Darwin Nunes who actually knocked Ajax out of the Champions League last season
+[4976.00 - 4978.00] P:1763.47 E:0.091230 |  whilst he was playing for Benfica.
+[4978.00 - 4982.00] P:1534.23 E:0.093999 |  He scored the only goal in Amsterdam.
+[4982.00 - 4989.00] P:1779.39 E:0.095879 |  And Firmino are the two players who are going to be coming on as Liverpool get ready to make a double change.
+[4990.00 - 4995.00] P:1790.24 E:0.093380 |  For what is their final game before the international break.
+[4995.00 - 4999.00] P:1792.01 E:0.090843 |  Not playing at the weekend after that match against Chelsea was postponed.
+[4999.00 - 5003.00] P:1778.82 E:0.091818 |  As Ajax attack down that far side there right.
+[5003.00 - 5007.00] P:1822.80 E:0.092365 |  And the ball is put out of play for an Ajax throw down by the corner flag.
+[5007.00 - 5010.00] P:1772.81 E:0.081170 |  65 minutes we've been playing here.
+[5010.00 - 5013.00] P:1718.84 E:0.096379 |  Bradford City are back in front at Prenton Park.
+[5013.00 - 5016.00] P:1731.10 E:0.086628 |  Tramir 1. Bradford City 2.
+[5016.00 - 5020.00] P:1730.08 E:0.096079 |  Ajax have a throw. There are no other goals to tell you about.
+[5020.00 - 5023.00] P:1622.48 E:0.093085 |  As Middlesbrough in fact they've just got a goal back.
+[5023.00 - 5026.00] P:1864.75 E:0.091852 |  In fact Middlesbrough scored twice in the space of two minutes.
+[5026.00 - 5031.00] P:1719.77 E:0.090463 |  So it's now Middlesbrough 2. Cardiff City 3 in the championship.
+[5031.00 - 5036.00] P:1745.59 E:0.090317 |  Firmino and Nunez wait to come on. You're listening to 5 Live.
+[5036.00 - 5040.00] P:1731.37 E:0.093241 |  Here at Anfield as the ball is spread out to Bergvein.
+[5040.00 - 5043.00] P:1843.70 E:0.102841 |  Bergvein off his thighs runs forward.
+[5043.00 - 5046.00] P:1899.83 E:0.109819 |  Doesn't get the better of Alexander-Ile. The referee all in black.
+[5046.00 - 5050.00] P:1834.92 E:0.090401 |  Then even had a little slip on the greasy surface.
+[5050.00 - 5053.00] P:1924.30 E:0.118062 |  Lewis Diaz has done wonderfully well to keep the ball in play.
+[5053.00 - 5056.00] P:1924.03 E:0.109822 |  Left hand side he's round the back. He's into the penalty area.
+[5056.00 - 5058.00] P:1958.67 E:0.108246 |  Lewis Diaz goes for goal himself.
+[5058.00 - 5061.00] P:2032.23 E:0.108432 |  Close down ball goes behind for a corner kick 1-1.
+[5061.00 - 5064.00] P:1986.29 E:0.098408 |  Sensational from Diaz.
+[5064.00 - 5069.00] P:1924.24 E:0.106131 |  The raking diagonal ball from Trent Alexander-Ile Muskers.
+[5069.00 - 5072.00] P:1925.02 E:0.112528 |  Must have gone 60-70 yards. Looks like it's going out for a throw in.
+[5072.00 - 5076.00] P:1997.59 E:0.109042 |  Diaz only keeps the ball in.
+[5076.00 - 5083.00] P:1915.73 E:0.112830 |  The lures at wrenching and then drives into the box and Timber super alert to clear the danger.
+[5083.00 - 5088.00] P:1871.10 E:0.114895 |  The double change then for Nunez and Firmino is Harvey Elliott and Jota.
+[5088.00 - 5094.00] P:1857.04 E:0.119307 |  His first start. Jota only played 38 minutes.
+[5094.00 - 5100.00] P:1848.47 E:0.111088 |  With his two substitute appearances before tonight and Harvey Elliott makes way.
+[5100.00 - 5106.00] P:1791.95 E:0.078093 |  Corner kick to Liverpool. It's an out swinger from the left.
+[5106.00 - 5110.00] P:1867.71 E:0.085556 |  It was Firmino who got half a touch on that.
+[5110.00 - 5115.00] P:1886.47 E:0.092747 |  Salah under pressure from Taylor. Passes the ball back to Alexander-Ile.
+[5115.00 - 5120.00] P:1888.98 E:0.096211 |  Plays it forward. Teed up towards Matip. Matip van Dijk.
+[5120.00 - 5122.00] P:1954.65 E:0.111648 |  Nobody really wanted to have a go.
+[5122.00 - 5124.00] P:2023.19 E:0.106881 |  It was unfortunate. It fell to the two central defenders.
+[5124.00 - 5127.00] P:2043.86 E:0.099881 |  Simicast twisting and turning. Left hand side delivers the cross.
+[5127.00 - 5130.00] P:1931.83 E:0.099695 |  Nunez was there and his head is off target.
+[5130.00 - 5134.00] P:1976.79 E:0.105285 |  It's a goal kick as we approach the midway point in the second half on five live
+[5134.00 - 5136.00] P:1931.41 E:0.095900 |  and still Liverpool 1-1.
+[5136.00 - 5141.00] P:1745.82 E:0.091833 |  A rise smile in his technical area from Jurgen Klopp. Absolutely spot on.
+[5141.00 - 5146.00] P:1745.40 E:0.098229 |  Ian probably wanted to shoot as the ball was popped back to Matip.
+[5146.00 - 5151.00] P:1910.86 E:0.100674 |  He could have got a shot off. What 16 yards out. Didn't take responsibility.
+[5151.00 - 5155.00] P:1883.87 E:0.084318 |  He pops it out to van Dijk who takes a touch and the chance gone.
+[5155.00 - 5161.00] P:1769.66 E:0.077945 |  Now it's a wrench down for Ajax.
+[5161.00 - 5167.00] P:1852.19 E:0.106415 |  A little bit of cramp. Maybe just trying to run the clock down.
+[5167.00 - 5170.00] P:1948.34 E:0.105988 |  Sheffield Wednesday 4th in League One.
+[5170.00 - 5172.00] P:1968.49 E:0.111442 |  The top four in League One are all winning.
+[5172.00 - 5175.00] P:1740.38 E:0.112464 |  Morkham who are next to bottom and yet to win have conceded a second.
+[5175.00 - 5178.00] P:1750.97 E:0.103026 |  So Morkham mills Sheffield Wednesday 2.
+[5178.00 - 5180.00] P:1762.20 E:0.120212 |  Huddersfield Town forward out a win.
+[5180.00 - 5182.00] P:1841.95 E:0.105328 |  Equalised at home to Wigan. That's 1-1.
+[5182.00 - 5187.00] P:1783.22 E:0.096739 |  And Barrow are leading Doncaster by two goals to nil.
+[5187.00 - 5190.00] P:1768.60 E:0.071112 |  And that is in League Two.
+[5190.00 - 5197.00] P:1832.29 E:0.083876 |  Whilst I was reading out those scores, there's been a change made by Alfred Schruder.
+[5197.00 - 5199.00] P:1828.02 E:0.086579 |  49 year old Ajax coach.
+[5199.00 - 5205.00] P:1773.57 E:0.089198 |  He took Bruges to the Belgian title last year after taking over in January.
+[5205.00 - 5210.00] P:1836.86 E:0.075191 |  Previously at number two to Eric Tenhaag.
+[5210.00 - 5218.00] P:1825.22 E:0.075127 |  Ajax in the year that they reached the last four of the Champions League
+[5218.00 - 5220.00] P:1844.78 E:0.067641 |  before Tottenham beat them.
+[5220.00 - 5226.00] P:1851.58 E:0.086068 |  Epic 48 hours after Liverpool's unforgettable victory here against Barcelona.
+[5226.00 - 5230.00] P:1893.64 E:0.086132 |  The previous night, Simacas keeps the ball in play.
+[5230.00 - 5235.00] P:1842.16 E:0.086089 |  Left-hand side of the penalty area, down by the byline, comes back to Núñez.
+[5235.00 - 5237.00] P:1802.18 E:0.089763 |  Liverpool all in red playing from left to right.
+[5237.00 - 5239.00] P:1804.56 E:0.089389 |  Back out to Simacas, it goes.
+[5239.00 - 5242.00] P:1791.19 E:0.071601 |  Holding the width of that left touch line.
+[5242.00 - 5247.00] P:1749.24 E:0.083335 |  Thiago doesn't really break his stride as he runs in field with the ball.
+[5247.00 - 5250.00] P:1822.76 E:0.098613 |  Matip joins the attack edge of the area.
+[5250.00 - 5251.00] P:1897.62 E:0.106871 |  Still going into the deep.
+[5251.00 - 5254.00] P:1772.30 E:0.094236 |  Cleared away then by Alvarez, dropping back once more.
+[5254.00 - 5259.00] P:1858.35 E:0.094500 |  Could have taken a shot on again, Matip, but I guess that was on his weaker left foot.
+[5259.00 - 5261.00] P:1751.74 E:0.073946 |  Elected not to.
+[5261.00 - 5265.00] P:1920.06 E:0.086303 |  Simacas with a cross claimed by...
+[5265.00 - 5268.00] P:1925.05 E:0.092609 |  So it was Sanchez whose command, wasn't it?
+[5268.00 - 5269.00] P:1847.83 E:0.093727 |  Yep, the Mexican.
+[5269.00 - 5273.00] P:1745.06 E:0.096994 |  I think Renchoff, he was the player who went down, whether it was Cranport,
+[5273.00 - 5277.00] P:1686.31 E:0.077111 |  whether there was a muscle injury.
+[5277.00 - 5281.00] P:1604.10 E:0.079091 |  Just Renchoff and Sanchez quite right.
+[5281.00 - 5284.00] P:1731.32 E:0.072888 |  Mexican international on.
+[5284.00 - 5288.00] P:1836.20 E:0.106346 |  Signed in for £4.5 million from Club America in the summer.
+[5288.00 - 5292.00] P:1840.30 E:0.079256 |  Made his debut last month against Utrecht's.
+[5292.00 - 5298.00] P:1944.90 E:0.092706 |  21 caps for Mexico for a 24-year-old.
+[5298.00 - 5300.00] P:1967.74 E:0.120453 |  Just over 20 minutes remaining.
+[5300.00 - 5305.00] P:1751.09 E:0.069375 |  I had him down as 25 caps.
+[5305.00 - 5308.00] P:1478.16 E:0.094727 |  Well, who's going to argue about three caps?
+[5308.00 - 5310.00] P:1759.04 E:0.072647 |  Well, one of us is wrong.
+[5310.00 - 5312.00] P:1671.57 E:0.065602 |  There's four caps.
+[5312.00 - 5314.00] P:1811.59 E:0.116079 |  Told you about basketball.
+[5314.00 - 5319.00] P:1769.55 E:0.075070 |  Matip clears long. Timber heads it away.
+[5319.00 - 5321.00] P:1624.29 E:0.103593 |  Let's get an update from Ewood Park, Lee Blakeman.
+[5321.00 - 5323.00] P:1706.20 E:0.109929 |  Blackburn 2-Wattford 0.
+[5323.00 - 5326.00] P:1766.21 E:0.104752 |  Corner swung in from the right and there was Dom Hyam at the back post.
+[5326.00 - 5328.00] P:1692.74 E:0.115099 |  A double Blackburn's lead.
+[5328.00 - 5329.00] P:1802.82 E:0.108331 |  That could be the match.
+[5329.00 - 5330.00] P:1781.71 E:0.111452 |  Blackburn 2-Wattford 0.
+[5330.00 - 5333.00] P:1835.85 E:0.101220 |  And the girl is Swansea with Laura.
+[5333.00 - 5334.00] P:1983.38 E:0.115180 |  Sheffield United 0.
+[5334.00 - 5337.00] P:1776.71 E:0.115475 |  The league leaders being held in South Wales.
+[5337.00 - 5339.00] P:1761.61 E:0.101429 |  Former Swansea man, Rian Brewster,
+[5339.00 - 5341.00] P:1783.47 E:0.090485 |  close with the header wide for Sheffield United.
+[5341.00 - 5344.00] P:1734.49 E:0.094126 |  But with less than five minutes to go, it's 0-0.
+[5344.00 - 5345.00] P:1760.32 E:0.110525 |  Yeah, I was right.
+[5345.00 - 5348.00] P:1909.58 E:0.093491 |  Says there, 21 caps.
+[5348.00 - 5350.00] P:1829.85 E:0.129041 |  The seller out towards Alexander-Arnold.
+[5350.00 - 5352.00] P:1837.83 E:0.115507 |  The referee, though, has brought play back
+[5352.00 - 5354.00] P:1871.03 E:0.101680 |  and has given a free kick against Liverpool
+[5354.00 - 5356.00] P:1809.81 E:0.089016 |  for a challenge from Fabinho.
+[5356.00 - 5359.00] P:1806.51 E:0.093376 |  Free kick inside the centre circle for Ajax.
+[5361.00 - 5366.00] P:1528.03 E:0.089660 |  I'll have to check that was my own statistician.
+[5366.00 - 5368.00] P:1680.42 E:0.091591 |  Well, don't worry. I trust mine.
+[5368.00 - 5371.00] P:1640.76 E:0.066724 |  Here is Bergwein.
+[5371.00 - 5374.00] P:1835.25 E:0.097404 |  Liverpool facing a big 19 minutes here in the Champions League,
+[5374.00 - 5377.00] P:1773.29 E:0.079181 |  being held at home by Ajax.
+[5378.00 - 5381.00] P:1473.52 E:0.057008 |  As Sanchez.
+[5381.00 - 5383.00] P:1914.00 E:0.120637 |  Caught by Simacas.
+[5383.00 - 5386.00] P:1886.26 E:0.091060 |  Clears, Nunes on the halfway line.
+[5386.00 - 5388.00] P:1892.53 E:0.105395 |  Tries to lay it back.
+[5388.00 - 5390.00] P:1767.95 E:0.090091 |  Berghaus looking for a ball round the middle,
+[5390.00 - 5391.00] P:1809.46 E:0.096783 |  round the back it's got there.
+[5391.00 - 5393.00] P:1945.26 E:0.105927 |  This is Kudos. Sten is himself.
+[5393.00 - 5395.00] P:1981.25 E:0.102585 |  Allyson stands tall in his near post.
+[5395.00 - 5396.00] P:1878.18 E:0.111992 |  It was a late flag.
+[5396.00 - 5398.00] P:1878.26 E:0.100819 |  Wouldn't have counted anyway, maybe.
+[5398.00 - 5399.00] P:1883.82 E:0.104539 |  But Allyson was equal to it.
+[5399.00 - 5402.00] P:1664.68 E:0.084872 |  Frustration from the Liverpool defenders.
+[5402.00 - 5404.00] P:1609.50 E:0.106861 |  Virgil van Dijk not happy.
+[5404.00 - 5407.00] P:1549.10 E:0.079501 |  Kudos is a good yard offside.
+[5407.00 - 5409.00] P:1877.87 E:0.096285 |  Should have been flagged,
+[5409.00 - 5411.00] P:1734.13 E:0.082538 |  but the assistants are told not to flag.
+[5411.00 - 5418.00] P:1739.56 E:0.084052 |  But that all came from Nunes being really careless.
+[5418.00 - 5420.00] P:1712.15 E:0.068359 |  With his first touch.
+[5420.00 - 5423.00] P:1826.60 E:0.091982 |  If in doubt, take two touches.
+[5423.00 - 5426.00] P:1794.25 E:0.101541 |  Needs to hold the ball in better.
+[5426.00 - 5429.00] P:1750.30 E:0.082887 |  I've been a surprise to a few Liverpool fans
+[5429.00 - 5432.00] P:1743.57 E:0.090309 |  that might have seen Jota starting.
+[5432.00 - 5434.00] P:1765.68 E:0.082311 |  The head of Nunes.
+[5434.00 - 5436.00] P:1384.06 E:0.082429 |  Lewis Diass has given the ball away.
+[5436.00 - 5438.00] P:1735.65 E:0.110403 |  From 1.23 it passes to another,
+[5438.00 - 5441.00] P:1773.96 E:0.100695 |  but Berghaus unable to get further forward for Ajax.
+[5441.00 - 5443.00] P:1901.17 E:0.098424 |  Cleared by Allyson.
+[5443.00 - 5445.00] P:1876.33 E:0.086861 |  Walker Mill Sheppield Wednesday 3.
+[5445.00 - 5448.00] P:1920.61 E:0.095493 |  Crew have equalised at Harlec Hall.
+[5448.00 - 5450.00] P:1851.41 E:0.118404 |  It's 1-1 in League 2.
+[5450.00 - 5452.00] P:1857.53 E:0.114347 |  And Wigan are back in front in the championship at Huddersfield.
+[5452.00 - 5454.00] P:1884.62 E:0.109668 |  Huddersfield 1-Wigan 2.
+[5454.00 - 5458.00] P:1887.06 E:0.089589 |  But a free kick goes in favour of Ajax.
+[5458.00 - 5460.00] P:1837.52 E:0.090965 |  Deep inside their own half.
+[5460.00 - 5462.00] P:1925.85 E:0.097803 |  18 minutes remaining.
+[5462.00 - 5466.00] P:1814.86 E:0.085052 |  At times in the first half you felt that Liverpool were creating chances.
+[5466.00 - 5468.00] P:1892.75 E:0.098356 |  There was a threat there.
+[5468.00 - 5472.00] P:1794.53 E:0.088108 |  It's only been sporadic in this second half, hasn't it, from the home team?
+[5472.00 - 5474.00] P:1601.30 E:0.090028 |  It has, then.
+[5474.00 - 5476.00] P:1483.08 E:0.090554 |  You said it.
+[5476.00 - 5481.00] P:1680.57 E:0.101986 |  Big last 20 minutes, down to 17, 18 minutes now.
+[5481.00 - 5484.00] P:1624.16 E:0.101730 |  Liverpool have to find a way to win this game,
+[5484.00 - 5487.00] P:1736.92 E:0.083811 |  but he just sends Ajax.
+[5487.00 - 5490.00] P:1760.03 E:0.098325 |  They've broken out at times.
+[5490.00 - 5492.00] P:1832.20 E:0.101421 |  And they go on and win it.
+[5492.00 - 5495.00] P:1799.77 E:0.093190 |  Alexander-Arnold wins the ball from Taylor, runs forward.
+[5495.00 - 5497.00] P:1978.61 E:0.103899 |  Now towards Salah.
+[5497.00 - 5500.00] P:1940.33 E:0.110442 |  Salah tries to cross the ball with the outside of his left boot,
+[5500.00 - 5502.00] P:1937.40 E:0.105031 |  hits the legs and glint, goes behind for a corner,
+[5502.00 - 5504.00] P:1830.49 E:0.111160 |  kicking in front of the cop.
+[5504.00 - 5506.00] P:1983.37 E:0.086736 |  Port Vale have equalised at Oakwell.
+[5506.00 - 5508.00] P:1835.68 E:0.095991 |  Barnsley 1, Port Vale 1.
+[5508.00 - 5511.00] P:1806.39 E:0.088515 |  And Thiago trying to lift the cop.
+[5511.00 - 5514.00] P:1679.02 E:0.114284 |  Rouse them up.
+[5514.00 - 5517.00] P:1616.75 E:0.096074 |  It's up to the players to do it, isn't it?
+[5517.00 - 5520.00] P:1781.45 E:0.099621 |  It is 17 minutes remaining.
+[5520.00 - 5522.00] P:1760.75 E:0.074566 |  Playing from left to right.
+[5522.00 - 5524.00] P:1754.93 E:0.079647 |  Corner right-hand side.
+[5524.00 - 5526.00] P:1865.98 E:0.108964 |  Swung over by Alexander-Arnold.
+[5526.00 - 5529.00] P:1986.46 E:0.102486 |  And matter if it was, 6 yards out, couldn't keep his header down.
+[5529.00 - 5532.00] P:1900.48 E:0.092552 |  Over the top of the crossbar and out for a goal kick,
+[5532.00 - 5534.00] P:1823.32 E:0.096240 |  and it remains 1-1.
+[5534.00 - 5536.00] P:1877.42 E:0.062187 |  What a chance!
+[5536.00 - 5539.00] P:1813.27 E:0.076224 |  What a chance for Metip.
+[5539.00 - 5542.00] P:1739.04 E:0.084725 |  6 yards out, free header.
+[5542.00 - 5546.00] P:1900.79 E:0.081953 |  And he just powers the ball
+[5546.00 - 5548.00] P:1914.64 E:0.089013 |  over the Iax bar.
+[5550.00 - 5553.00] P:1817.26 E:0.114374 |  Can't play through Iax's batting.
+[5553.00 - 5555.00] P:1894.04 E:0.107289 |  It's a good press from Liverpool.
+[5555.00 - 5557.00] P:1863.38 E:0.086173 |  That's what they have done well.
+[5557.00 - 5559.00] P:1542.14 E:0.092231 |  The Iax have had the ball at the back.
+[5559.00 - 5561.00] P:1623.50 E:0.076312 |  They've really put them under pressure.
+[5561.00 - 5564.00] P:1511.36 E:0.076490 |  Made it very difficult for Iax to play out,
+[5564.00 - 5567.00] P:1697.05 E:0.076572 |  but they've just lacked that quality
+[5567.00 - 5569.00] P:1585.33 E:0.082368 |  in the final third.
+[5569.00 - 5574.00] P:1632.98 E:0.070848 |  Thiago hasn't been as effective in this second half.
+[5574.00 - 5577.00] P:1817.74 E:0.110416 |  That's the familiar voice of Chris Sutton on BBC Radio 5 Live,
+[5577.00 - 5579.00] P:1886.52 E:0.093254 |  with 16 minutes remaining.
+[5579.00 - 5581.00] P:1922.68 E:0.092890 |  Thiago's ball to Salah.
+[5581.00 - 5584.00] P:1815.28 E:0.108152 |  Just trying to tickle it on the inside towards Firmino,
+[5584.00 - 5586.00] P:1857.90 E:0.089516 |  who loses the ball to Iax,
+[5586.00 - 5588.00] P:1754.54 E:0.110761 |  who now maybe will look to break.
+[5588.00 - 5590.00] P:1838.46 E:0.095909 |  Taylor Kudos holding his run.
+[5590.00 - 5592.00] P:1792.74 E:0.100242 |  Kudos now sent away.
+[5592.00 - 5594.00] P:1853.78 E:0.095908 |  Liverpool's back four is extremely narrow and compact.
+[5594.00 - 5597.00] P:1831.15 E:0.104792 |  And stepping out of that back line is Alexander-Arnold.
+[5597.00 - 5598.00] P:1829.21 E:0.073042 |  Runs into Blint.
+[5598.00 - 5600.00] P:1754.16 E:0.090284 |  Headed away then by Alvarez.
+[5600.00 - 5602.00] P:1629.58 E:0.096682 |  Brought down by Thiago.
+[5602.00 - 5604.00] P:1867.71 E:0.097894 |  And it goes on to the left,
+[5604.00 - 5606.00] P:1925.58 E:0.108048 |  but he's still in the lead.
+[5606.00 - 5608.00] P:1959.09 E:0.089919 |  He's been a bit off the line.
+[5608.00 - 5610.00] P:1912.59 E:0.109717 |  He's been a bit of a mess by Bergvein.
+[5610.00 - 5612.00] P:1892.00 E:0.093556 |  Ball played out towards the Iax right,
+[5612.00 - 5614.00] P:1841.09 E:0.096566 |  towards Tadich.
+[5614.00 - 5616.00] P:1810.75 E:0.088110 |  Tadich unmarked right-hand side,
+[5616.00 - 5618.00] P:2038.20 E:0.114048 |  sends over across, and the header is wide.
+[5618.00 - 5620.00] P:1948.74 E:0.106853 |  It was daily Blint.
+[5620.00 - 5623.00] P:1870.53 E:0.093820 |  The left back, who was at the far side of a six-yard box,
+[5623.00 - 5625.00] P:1850.38 E:0.087959 |  free header, really should have hit the target.
+[5625.00 - 5627.00] P:1678.99 E:0.093796 |  He put it wide by about a foot.
+[5627.00 - 5629.00] P:1543.94 E:0.093542 |  Goal kick led off for Liverpool.
+[5629.00 - 5630.00] P:1817.53 E:0.099505 |  That was in.
+[5630.00 - 5632.00] P:1752.02 E:0.106798 |  It's a brilliant pass from Berg,
+[5632.00 - 5634.00] P:1782.15 E:0.094558 |  who's out to the right-hand side.
+[5634.00 - 5636.00] P:1398.02 E:0.084775 |  Tadich gets his head up and picks out daily Blint,
+[5636.00 - 5638.00] P:1447.06 E:0.084612 |  who had drifted in
+[5638.00 - 5640.00] P:946.98 E:0.068399 |  in a far post position,
+[5640.00 - 5642.00] P:1917.09 E:0.110218 |  and he heads it back across Allyson.
+[5642.00 - 5644.00] P:1865.43 E:0.098227 |  Allyson is rooted,
+[5644.00 - 5647.00] P:1897.81 E:0.098916 |  and it goes agonisingly wide for Iax.
+[5647.00 - 5650.00] P:1694.27 E:0.083616 |  Big moment in the game there.
+[5650.00 - 5653.00] P:1772.77 E:0.085591 |  Well, the clearest moment for either side
+[5653.00 - 5655.00] P:1616.65 E:0.087721 |  in this second half.
+[5655.00 - 5657.00] P:2001.06 E:0.100115 |  Kudos coming back from an offside position.
+[5657.00 - 5659.00] P:1909.58 E:0.104095 |  Goal for the ball.
+[5659.00 - 5662.00] P:1886.15 E:0.087704 |  Sivakas deals with a threat of Tadich over on that far side.
+[5662.00 - 5665.00] P:1863.45 E:0.092916 |  But that was a huge lead off for Liverpool.
+[5665.00 - 5667.00] P:2005.70 E:0.082829 |  I mean, Blint,
+[5667.00 - 5670.00] P:2008.24 E:0.100245 |  during his time for Manchester United,
+[5670.00 - 5674.00] P:1849.75 E:0.089138 |  did score once in a 3-1 win at Old Trafford.
+[5674.00 - 5678.00] P:1815.81 E:0.089361 |  But he had a chance here to silence Anfield.
+[5678.00 - 5680.00] P:1753.50 E:0.085662 |  Howie would have loved that.
+[5680.00 - 5683.00] P:1823.86 E:0.083569 |  And he should have scored.
+[5683.00 - 5686.00] P:1811.30 E:0.078656 |  Kelt them two. Cambridge won.
+[5686.00 - 5688.00] P:1689.81 E:0.078509 |  A late goal in League One.
+[5688.00 - 5691.00] P:1833.48 E:0.083951 |  And Burton Nill, Portsmouth 2,
+[5691.00 - 5694.00] P:1838.50 E:0.096110 |  is a latey score in League One.
+[5694.00 - 5697.00] P:1864.66 E:0.098926 |  So Burton, bottom of the table, yet to win,
+[5697.00 - 5700.00] P:1858.41 E:0.081579 |  have conceded another one there.
+[5700.00 - 5703.00] P:1773.39 E:0.096561 |  Alexander-Arnold, out to Salah, 1-1.
+[5703.00 - 5706.00] P:1838.08 E:0.082439 |  And the 14 minutes remain here at Anfield.
+[5706.00 - 5712.00] P:1782.19 E:0.075093 |  It's a scoreline that will certainly suit Iax.
+[5712.00 - 5714.00] P:1634.59 E:0.092277 |  It is.
+[5714.00 - 5718.00] P:1811.47 E:0.087934 |  Will we come back to that moment, to that...
+[5718.00 - 5721.00] P:1643.38 E:0.070556 |  ...daily Blint miss?
+[5721.00 - 5723.00] P:1952.31 E:0.098135 |  We should have scored.
+[5723.00 - 5727.00] P:1908.24 E:0.084637 |  He saw the cross from Tadich all the way onto his head.
+[5727.00 - 5730.00] P:1968.85 E:0.106867 |  Did the right thing going back across, Allison?
+[5730.00 - 5734.00] P:1824.43 E:0.073006 |  Always go back across the goalkeeper.
+[5734.00 - 5737.00] P:1712.14 E:0.075265 |  It was so close.
+[5737.00 - 5739.00] P:1616.74 E:0.088284 |  13 minutes remaining.
+[5739.00 - 5741.00] P:1757.87 E:0.093659 |  Dias picks the ball up left of the centre-circle,
+[5741.00 - 5745.00] P:1814.81 E:0.092255 |  into Firmino's feet, just inside the centre-circle now.
+[5745.00 - 5748.00] P:1807.44 E:0.092262 |  And he passes the ball on a diagonal line
+[5748.00 - 5750.00] P:1811.08 E:0.101635 |  out towards the right corner of the area.
+[5750.00 - 5753.00] P:1859.43 E:0.102661 |  Salah trying to turn away from Bassi.
+[5753.00 - 5755.00] P:1829.43 E:0.106210 |  Bassi holding him off with his strength.
+[5755.00 - 5757.00] P:1925.76 E:0.093828 |  Thou shall not pass,
+[5757.00 - 5760.00] P:1859.45 E:0.094244 |  as the ball then goes on the inside from Massit
+[5760.00 - 5762.00] P:1718.90 E:0.084830 |  to Van Dyke to join the attack.
+[5762.00 - 5764.00] P:1778.63 E:0.084430 |  Iax have everybody back inside their own half.
+[5764.00 - 5767.00] P:1915.24 E:0.086097 |  Under 13 minutes remain.
+[5767.00 - 5769.00] P:1853.74 E:0.094405 |  Shot comes in from Tiago.
+[5769.00 - 5771.00] P:2009.94 E:0.090049 |  But it was from distance,
+[5771.00 - 5774.00] P:1871.37 E:0.092413 |  and it was into the mid-riff, really,
+[5774.00 - 5776.00] P:1822.78 E:0.089931 |  of Kasfea, the Iax goalkeeper.
+[5776.00 - 5779.00] P:1823.28 E:0.098057 |  He worked the situation really well, Tiago.
+[5779.00 - 5781.00] P:1657.87 E:0.058309 |  Just...
+[5781.00 - 5784.00] P:1798.44 E:0.097206 |  ...cutting inside Burgh who's onto his right foot.
+[5784.00 - 5787.00] P:1825.65 E:0.104818 |  But he hasn't been as prominent in this second half.
+[5787.00 - 5790.00] P:1773.00 E:0.066659 |  Hasn't been as sharp and as effective.
+[5790.00 - 5793.00] P:1867.19 E:0.089593 |  Somebody's got to step up for Liverpool
+[5793.00 - 5796.00] P:1761.00 E:0.097177 |  and find that one moment of quality.
+[5799.00 - 5802.00] P:1853.14 E:0.110743 |  Two wins from their last seven in all competitions.
+[5802.00 - 5804.00] P:1859.07 E:0.103840 |  They've got to be wary of the counterattack,
+[5804.00 - 5807.00] P:1878.77 E:0.100078 |  and Tadic now has got an area of space to run into.
+[5807.00 - 5810.00] P:1961.04 E:0.100052 |  Tadic towards Taylor, side onto goal, back towards Tadic.
+[5810.00 - 5812.00] P:1886.57 E:0.096954 |  Tadic though turns, right corner of the area,
+[5812.00 - 5814.00] P:1890.73 E:0.086884 |  passes the ball now to Birkhouse.
+[5814.00 - 5817.00] P:1861.79 E:0.097309 |  Now, towards Blint, joins the attack now with Burgh Vine.
+[5817.00 - 5819.00] P:1921.36 E:0.100127 |  Burgh Van Dyke, who's right foot, goes for a curler,
+[5819.00 - 5821.00] P:1985.83 E:0.110625 |  caught and claimed by Alisson.
+[5821.00 - 5824.00] P:1902.02 E:0.108202 |  Throws the ball out, throws it down into the ground for that zip
+[5824.00 - 5826.00] P:1936.45 E:0.099413 |  to enable Salah to run onto the ball.
+[5826.00 - 5828.00] P:1896.29 E:0.107391 |  Forward towards Nunes,
+[5828.00 - 5831.00] P:1922.14 E:0.100002 |  on the left, on the side, on this near side of the right.
+[5831.00 - 5832.00] P:1898.06 E:0.094488 |  In a foot chase with Bassey.
+[5832.00 - 5836.00] P:1900.72 E:0.095866 |  Bassey comes across, Nunes will win a corner kick
+[5836.00 - 5838.00] P:2000.58 E:0.096876 |  off the legs of Alvarez.
+[5840.00 - 5844.00] P:1793.65 E:0.089399 |  Bristol Rovers, incidentally, are down to ten men,
+[5844.00 - 5847.00] P:1752.07 E:0.096974 |  as they're now training still 2-0 at Portman Road.
+[5847.00 - 5850.00] P:1830.35 E:0.099128 |  Bobby Thomas has been sent off.
+[5850.00 - 5852.00] P:1815.69 E:0.107498 |  This is the Champions League,
+[5852.00 - 5856.00] P:1702.46 E:0.080841 |  and we're just over ten minutes remaining on BBC Radio 5 Live.
+[5857.00 - 5861.00] P:1692.81 E:0.090987 |  Alexander Arnold places the ball down in the quadrant.
+[5861.00 - 5864.00] P:1952.88 E:0.076937 |  This area of the pitch, of course,
+[5864.00 - 5868.00] P:1934.52 E:0.095251 |  that he took that quick corner against Barcelona back in 2019.
+[5868.00 - 5871.00] P:1919.33 E:0.093791 |  This time he waits, right footed.
+[5871.00 - 5873.00] P:1796.49 E:0.101218 |  It's an out swing of Van Dyke's header,
+[5873.00 - 5876.00] P:1865.78 E:0.093535 |  bobbles around, took a couple of ricochets there, cleared away.
+[5876.00 - 5878.00] P:1849.36 E:0.088542 |  Bassey has gone down, play though continues.
+[5878.00 - 5880.00] P:1860.18 E:0.105008 |  Bassey at the moment is holding his head.
+[5880.00 - 5882.00] P:1799.87 E:0.113737 |  The referee will have to stop play out, imagine,
+[5882.00 - 5884.00] P:1766.26 E:0.118032 |  because he's gone down holding his head.
+[5884.00 - 5886.00] P:1881.00 E:0.115456 |  And I think Bassey has won that decision.
+[5886.00 - 5888.00] P:1838.73 E:0.111944 |  I think Bassey could have probably continued,
+[5888.00 - 5890.00] P:1917.40 E:0.110383 |  but there is a stoppage in play.
+[5890.00 - 5891.00] P:1778.18 E:0.112352 |  The referee isn't to know that.
+[5891.00 - 5893.00] P:1899.31 E:0.083293 |  He can't afford to take that chance.
+[5893.00 - 5894.00] P:1884.81 E:0.107705 |  And whilst there's a stoppage in play,
+[5894.00 - 5896.00] P:1747.33 E:0.111931 |  we'll go to the Liberty Stadium, where there's been a goal.
+[5896.00 - 5897.00] P:1979.88 E:0.098138 |  Laura Kenyon.
+[5897.00 - 5900.00] P:2047.28 E:0.106510 |  The League leaders, Sheffield United take the lead.
+[5900.00 - 5903.00] P:1798.44 E:0.109420 |  Red Accadro with the breakthrough, deep in added time,
+[5903.00 - 5906.00] P:1936.67 E:0.096562 |  from a counterattack, heartbreak for Swansea,
+[5906.00 - 5909.00] P:1857.32 E:0.102112 |  right at the end, and booze resound around the ground.
+[5909.00 - 5912.00] P:1984.27 E:0.090604 |  It's Swansea nil, Sheffield United won.
+[5912.00 - 5915.00] P:1875.20 E:0.097233 |  That would take them four points clear of a certain Norwich City,
+[5915.00 - 5918.00] P:1815.74 E:0.081718 |  although Norwich do have a game in hand.
+[5918.00 - 5922.00] P:1828.71 E:0.088777 |  There was no way that Bassey was in such pain.
+[5922.00 - 5923.00] P:1819.35 E:0.082377 |  No.
+[5923.00 - 5925.00] P:1866.62 E:0.111560 |  And you know, I don't like that.
+[5925.00 - 5928.00] P:1908.97 E:0.096638 |  The referee really put in an impossible position,
+[5928.00 - 5931.00] P:1813.26 E:0.098612 |  has to stop the game because it's a head injury.
+[5931.00 - 5933.00] P:1773.72 E:0.089658 |  I think in situations like that,
+[5933.00 - 5938.00] P:1549.50 E:0.098957 |  the player should be booked for that.
+[5938.00 - 5940.00] P:1834.74 E:0.088697 |  Trying to get the game stopped at...
+[5942.00 - 5944.00] P:1750.90 E:0.077049 |  to suit Ajax.
+[5944.00 - 5946.00] P:1812.18 E:0.084228 |  Now it's a drop ball.
+[5946.00 - 5948.00] P:1834.04 E:0.107839 |  Ajax just made another sub, haven't they?
+[5948.00 - 5949.00] P:1682.97 E:0.106380 |  They have.
+[5949.00 - 5952.00] P:1866.61 E:0.089244 |  Florian Grilich has come on to replace Taylor.
+[5952.00 - 5955.00] P:1750.59 E:0.091133 |  Marseille nil, Eintracht Frankfurt, two.
+[5955.00 - 5958.00] P:1834.09 E:0.092409 |  Is a latest score in Tottenham's group.
+[5958.00 - 5960.00] P:1896.86 E:0.077470 |  That's group D.
+[5960.00 - 5965.00] P:1851.05 E:0.099155 |  As Liverpool here still being held with nine minutes remaining.
+[5965.00 - 5967.00] P:1723.99 E:0.073341 |  Here is Firmino.
+[5967.00 - 5971.00] P:1782.60 E:0.103297 |  30 yards out, inside towards Tiago, rolls it forward.
+[5971.00 - 5973.00] P:1920.07 E:0.107891 |  Court, referee says no foul.
+[5973.00 - 5976.00] P:1963.36 E:0.097846 |  Matik, he was checked by Bergwein
+[5976.00 - 5978.00] P:1892.62 E:0.109646 |  and he was clearly hindered there as well.
+[5978.00 - 5981.00] P:1809.72 E:0.092319 |  And quite rightly this time, it is a free kick,
+[5981.00 - 5983.00] P:1774.05 E:0.099309 |  which is awarded by the referee.
+[5983.00 - 5986.00] P:1786.17 E:0.084840 |  Taken quickly, Nunez on the outside to Salah,
+[5986.00 - 5989.00] P:1702.45 E:0.098277 |  right corner of the area, back to Alex Allen and Arnold.
+[5989.00 - 5991.00] P:1948.76 E:0.106019 |  Goes all the way through.
+[5991.00 - 5993.00] P:1864.29 E:0.098779 |  Clearance then strikes an Ajax body
+[5993.00 - 5996.00] P:1822.02 E:0.099175 |  and rebounds back into the penalty area, cleared away.
+[5996.00 - 5998.00] P:1853.00 E:0.083726 |  But Ajax this time managed to get it away
+[5998.00 - 6004.00] P:1809.07 E:0.081343 |  and it is still one apiece here with under nine minutes remaining.
+[6004.00 - 6006.00] P:1805.35 E:0.091567 |  When that ball was crossed into the box,
+[6006.00 - 6012.00] P:1986.82 E:0.090674 |  Liverpool players, five or six in the box, all on the heels.
+[6012.00 - 6017.00] P:1846.44 E:0.083329 |  Have to be proactive and gamble.
+[6017.00 - 6021.00] P:1880.64 E:0.106246 |  Somebody has to step up for Liverpool.
+[6021.00 - 6024.00] P:1852.15 E:0.105684 |  That goal by the way for Eintracht Frankfurt has been disallowed,
+[6024.00 - 6027.00] P:1791.32 E:0.111789 |  so they're still only leading by a goal to Niel in Tottenham's group.
+[6027.00 - 6031.00] P:1851.40 E:0.095098 |  Tottenham currently second still, despite that defeat earlier today
+[6031.00 - 6033.00] P:1706.54 E:0.090562 |  to Sporting Lisbon.
+[6033.00 - 6037.00] P:1779.37 E:0.086850 |  Salford though have got a goal at Harrogate late in injury time.
+[6037.00 - 6040.00] P:1937.11 E:0.099376 |  Harrogate Niel, Salford one is the latest score in League two.
+[6040.00 - 6042.00] P:2005.79 E:0.102860 |  Full time now in the championship,
+[6042.00 - 6043.00] P:1783.39 E:0.105442 |  Lee Blakeman in Inwood Park.
+[6043.00 - 6046.00] P:1811.29 E:0.096788 |  Two wins out of three for Blackburn, they've beaten Watford two Niel.
+[6046.00 - 6048.00] P:1796.01 E:0.101100 |  Well taken goals from Ryan Hedges in the first half
+[6048.00 - 6050.00] P:1713.47 E:0.095031 |  and Dom Hyam in the second.
+[6050.00 - 6054.00] P:1855.37 E:0.090742 |  Watford have now won just one of their last seven in all competitions.
+[6054.00 - 6056.00] P:1779.73 E:0.091125 |  Blackburn two Watford Niel.
+[6056.00 - 6058.00] P:1878.15 E:0.102106 |  And full time at Swansea, Laura.
+[6058.00 - 6060.00] P:1845.11 E:0.100340 |  Swansea Niel, Sheffield United won.
+[6060.00 - 6063.00] P:1833.73 E:0.109893 |  The League leaders extend their lead at the top of the championship.
+[6063.00 - 6065.00] P:1875.03 E:0.104889 |  The breakthrough deep in added time,
+[6065.00 - 6068.00] P:1833.33 E:0.099644 |  Reddacandra with the goal. Swansea well heartbreak,
+[6068.00 - 6071.00] P:1892.82 E:0.099818 |  deserved something out of this, but at full time it's Swansea Niel.
+[6071.00 - 6072.00] P:1810.44 E:0.082995 |  Sheffield United won.
+[6072.00 - 6074.00] P:1830.05 E:0.122433 |  Liverpool are attacking Salah.
+[6074.00 - 6076.00] P:1911.80 E:0.111327 |  Sannouniaz, he's pulled it wide.
+[6076.00 - 6080.00] P:1967.96 E:0.112700 |  He was inside the penalty areas about 13 yards out from goal,
+[6080.00 - 6084.00] P:1961.54 E:0.105493 |  right footed, took it into his stride and he dragged it wide
+[6084.00 - 6087.00] P:1961.90 E:0.106341 |  of the left hand post out for a goal kick, one-one.
+[6087.00 - 6092.00] P:1885.65 E:0.093938 |  And this was the opportunity that Jürgen Klopp would have wanted his team
+[6092.00 - 6095.00] P:1808.06 E:0.090384 |  to carve out clear cut chance.
+[6095.00 - 6100.00] P:1899.66 E:0.084995 |  Really clever from Salah, makes the run right-hand side of the box.
+[6100.00 - 6103.00] P:1927.94 E:0.100327 |  And then he just feeds the ball to Nouniaz,
+[6103.00 - 6105.00] P:1837.29 E:0.088732 |  who doesn't have to break stride.
+[6105.00 - 6108.00] P:1897.25 E:0.085445 |  See, 14 yards out, tries to beat Paswit
+[6108.00 - 6112.00] P:1814.32 E:0.098049 |  and pass the ball into the far corner and he passes the ball past
+[6112.00 - 6115.00] P:1829.94 E:0.072190 |  the far post.
+[6115.00 - 6116.00] P:1824.42 E:0.104356 |  That was the chance.
+[6116.00 - 6121.00] P:1909.30 E:0.090972 |  That was the opportunity that Liverpool have been craving for.
+[6121.00 - 6125.00] P:1929.58 E:0.097812 |  Chance is few and far between in this second period
+[6125.00 - 6131.00] P:1825.83 E:0.082901 |  on what has felt like a frustrating second half for Jürgen Klopp,
+[6131.00 - 6134.00] P:1867.11 E:0.104352 |  who's just been having a word with a fourth official.
+[6134.00 - 6140.00] P:1783.83 E:0.093927 |  A little bit of time wasting now, creeping into the game of the Ajax players
+[6140.00 - 6143.00] P:1880.82 E:0.104473 |  as Basi has mishit that pass, he's overhitted
+[6143.00 - 6146.00] P:1847.34 E:0.093904 |  and it's gone out of play for a Liverpool throw.
+[6146.00 - 6148.00] P:1999.15 E:0.101717 |  We've got six and a half minutes remaining.
+[6148.00 - 6152.00] P:1774.23 E:0.089392 |  There will be a good three, maybe even four minutes of added on time.
+[6152.00 - 6157.00] P:1691.37 E:0.094128 |  One would suspect that the substitutions that have happened
+[6157.00 - 6160.00] P:1772.88 E:0.099770 |  as the full-time scores are coming in in the football league,
+[6160.00 - 6163.00] P:1834.42 E:0.074688 |  but when they're all in, I'll rattle through them.
+[6163.00 - 6166.00] P:1939.50 E:0.103326 |  As Liverpool with Firmino keeps the ball in play
+[6166.00 - 6169.00] P:1960.88 E:0.101775 |  but forces the ball back towards Thiago.
+[6169.00 - 6173.00] P:1792.28 E:0.078549 |  Thiago now to Firmino, to Firmino.
+[6173.00 - 6178.00] P:2014.56 E:0.106966 |  Forward ball, Nunez makes the run in behind, left-hand side of the penalty area.
+[6178.00 - 6181.00] P:1934.36 E:0.110595 |  Oh, and he crosses the ball low and a backpedaling,
+[6181.00 - 6185.00] P:2012.83 E:0.103004 |  Lewis Diaz at the far post couldn't get the touch.
+[6185.00 - 6187.00] P:1941.18 E:0.103462 |  Do you know what I think Nunez?
+[6187.00 - 6189.00] P:1940.08 E:0.112734 |  I felt he was offside when he made the run,
+[6189.00 - 6192.00] P:1935.98 E:0.107519 |  he was actually onside looking at it on the monitor.
+[6192.00 - 6195.00] P:1882.13 E:0.105461 |  He does brilliantly, shapes the cross with his left foot
+[6195.00 - 6197.00] P:1897.70 E:0.119147 |  and fires the ball across with his right foot.
+[6197.00 - 6199.00] P:1925.03 E:0.104807 |  Crucial touch from Pasvir.
+[6199.00 - 6204.00] P:1797.97 E:0.100101 |  In comes the corner kick, downward header,
+[6204.00 - 6207.00] P:1951.96 E:0.101551 |  scramble inside the six-yard area, Matt, it was there,
+[6207.00 - 6210.00] P:1865.29 E:0.092730 |  breaks out towards Lewis Diaz, left-hand side.
+[6210.00 - 6212.00] P:2004.54 E:0.100659 |  It was a vital touch, as you say, Chris, from the goalkeeper
+[6212.00 - 6216.00] P:1868.84 E:0.086143 |  because otherwise Lewis Diaz was looking at a tap in.
+[6216.00 - 6220.00] P:1965.09 E:0.106248 |  Instead it's his cross, that is repelled, Thiago tries to win the ball back
+[6220.00 - 6224.00] P:1854.92 E:0.120119 |  and referee Arthur Diaz penalizes Thiago
+[6224.00 - 6231.00] P:1889.39 E:0.087693 |  and it will be a free kick to Ajax just outside the penalty area.
+[6231.00 - 6236.00] P:1783.36 E:0.094061 |  Bayer-Leverkusen 1, Atletico Madrid 0,
+[6236.00 - 6240.00] P:1896.78 E:0.094174 |  Bruz remember earlier in Group B, leading Porto 3-0.
+[6240.00 - 6245.00] P:1913.70 E:0.093077 |  Robert Andrick has scored late on in Germany for Bayer-Leverkusen,
+[6245.00 - 6249.00] P:1773.82 E:0.088693 |  which will mean that Bruz have six points,
+[6249.00 - 6254.00] P:1707.04 E:0.090922 |  Leverkusen and Atletico 3 and Porto yet to pick up a point.
+[6254.00 - 6263.00] P:1828.81 E:0.076309 |  Under five minutes remaining as Kudos has come off
+[6263.00 - 6267.00] P:1841.91 E:0.076566 |  and Brian Brovie, the young Dutch forward,
+[6267.00 - 6270.00] P:1825.51 E:0.096598 |  who returned to Ajax after a spell from Leipzig,
+[6270.00 - 6275.00] P:1724.75 E:0.072713 |  has come on to replace him through the middle.
+[6275.00 - 6279.00] P:1742.22 E:0.074180 |  Another change as Ajax coming forward,
+[6279.00 - 6286.00] P:1728.22 E:0.070717 |  Bruz out to Blint, left-hand side level of the area,
+[6286.00 - 6291.00] P:1841.77 E:0.086236 |  cross from Bruz, cleared by Leverkusen towards Thiago.
+[6291.00 - 6294.00] P:1888.09 E:0.099600 |  Thiago now over the top, looks towards Nunes,
+[6294.00 - 6299.00] P:1873.39 E:0.104904 |  Basi trying to come back at him, Nunes right-hand side of the penalty area,
+[6299.00 - 6302.00] P:1921.57 E:0.069458 |  has support from Salah just behind him,
+[6302.00 - 6306.00] P:1631.64 E:0.076276 |  runs a little bit away from the Egyptian,
+[6306.00 - 6308.00] P:1778.63 E:0.093724 |  and now he goes back towards Matip.
+[6308.00 - 6310.00] P:1797.87 E:0.093409 |  Liverpool are leaving it late,
+[6310.00 - 6315.00] P:1827.71 E:0.088621 |  1-1 here against Ajax in the Champions League on five-live.
+[6315.00 - 6321.00] P:1790.72 E:0.092599 |  Thiago, forward ball cut out by Basi, Thiago wins it back into the penalty area
+[6321.00 - 6328.00] P:1937.97 E:0.088274 |  and quickly off his goal line, sliding, was past via the 38-year-old Dutch goalkeeper.
+[6328.00 - 6332.00] P:1728.59 E:0.075683 |  Is that a good night?
+[6332.00 - 6335.00] P:1838.47 E:0.091205 |  He has had a good night. He was certainly busier in the first half.
+[6335.00 - 6346.00] P:1753.30 E:0.081432 |  He was, but that little touch from Nunes when he fired the ball across, absolutely crucial.
+[6346.00 - 6350.00] P:1867.99 E:0.103370 |  Bristol Robes have finished that game at Ipswich, down to nine men.
+[6350.00 - 6359.00] P:1853.03 E:0.088667 |  Alfie Kilgore has been sent off, Swindon have got a late goal to lead a certain by three goals to two in league two,
+[6359.00 - 6369.00] P:1651.05 E:0.074479 |  and Charlton have just had a player sent off as they're drawing 1-1 at home to Forrest Green, still playing.
+[6369.00 - 6372.00] P:1629.52 E:0.084128 |  We have under three minutes remaining.
+[6372.00 - 6376.00] P:1712.00 E:0.096573 |  You're listening to five-live, you might be listening to the BBC Sounds app as well.
+[6376.00 - 6381.00] P:1857.87 E:0.092503 |  Tomorrow our coverage is from the Etihad, Manchester City against Dortmund.
+[6381.00 - 6388.00] P:1808.55 E:0.082046 |  Ajax supporters, good 3,000 of them, or just under.
+[6388.00 - 6394.00] P:1717.98 E:0.095727 |  We'll probably be held back by the police here at Anfield,
+[6394.00 - 6404.00] P:1789.29 E:0.084382 |  but they will be very, very happy with this outcome if it stays like this as van Dijk runs forward.
+[6404.00 - 6409.00] P:1833.38 E:0.106309 |  Simicast, left corner of the area with the cross into the air, reaches Salah,
+[6409.00 - 6414.00] P:1989.56 E:0.108734 |  mis-controls the ball, shots into deflection, drops down, brushes the left hand post,
+[6414.00 - 6418.00] P:1937.15 E:0.111449 |  and goes out of play for a corner kick, Liverpool are lucky.
+[6418.00 - 6425.00] P:1874.57 E:0.102580 |  Well, we are right behind this, and Salah, how many times have we seen him whip the ball into that far corner,
+[6425.00 - 6431.00] P:1803.49 E:0.084407 |  actually takes it deflection, with Calvin Bassyshyn and loops up,
+[6431.00 - 6434.00] P:1907.60 E:0.093894 |  and Pesby are rooted off the poster behind.
+[6434.00 - 6440.00] P:1952.47 E:0.113287 |  Corner kick far side, it's an out-swinger from the left, Mattie with a header.
+[6440.00 - 6450.00] P:1984.47 E:0.122571 |  The goal stand, Joe Mattie, with just over 60 seconds remain, with a firm header.
+[6450.00 - 6455.00] P:1986.26 E:0.121335 |  The goal line clearance for the referee, looked at his watch,
+[6455.00 - 6462.00] P:1950.14 E:0.122035 |  and goal line technology, it was all in vain, and Liverpool have left it late,
+[6462.00 - 6472.00] P:1871.63 E:0.118745 |  and Joe Mattie, a firm header, gives Liverpool a 2-1 lead for what could be a morale-boosting win.
+[6472.00 - 6480.00] P:1930.32 E:0.108974 |  Well, he nearly scored earlier in the half with the header, he should have scored with the header earlier in the half,
+[6480.00 - 6485.00] P:1715.77 E:0.113800 |  gets up really well, and goes back across Pazvir.
+[6487.00 - 6489.00] P:1864.34 E:0.122651 |  It was Tadich with the goal line.
+[6489.00 - 6494.00] P:1698.51 E:0.115554 |  He's behind the line, Tadich is clearly over the line, it's a terrific header,
+[6494.00 - 6501.00] P:1670.50 E:0.108110 |  reads the flight to the ball so well, bang, back across, Mattie's the man,
+[6501.00 - 6509.00] P:1904.83 E:0.106542 |  and just how big a goal could that be for Liverpool, the Champions League this season.
+[6509.00 - 6511.00] P:1768.33 E:0.093380 |  Monumental from Mattie.
+[6513.00 - 6519.00] P:1939.08 E:0.118225 |  Liverpool lead by two goals to one, they've struggled to create the opportunities,
+[6519.00 - 6524.00] P:1863.66 E:0.094720 |  as Simacast slips just when he needed to try and keep his balance,
+[6524.00 - 6529.00] P:1935.37 E:0.107919 |  Ajax here threatening a late equaliser, Tadich the Ajax captain,
+[6529.00 - 6534.00] P:1920.08 E:0.118275 |  unable to keep it out at the other end, and Liverpool.
+[6535.00 - 6543.00] P:1877.49 E:0.109705 |  You could argue Salah's effort almost went in, they were unlucky on that occasion,
+[6543.00 - 6548.00] P:1869.51 E:0.095990 |  and then they had a stroke of fortune with the header from Mattie,
+[6548.00 - 6555.00] P:1781.59 E:0.092306 |  Tadich with the header, and Liverpool in the 89th minute leading Ajax by two goals to one.
+[6555.00 - 6558.00] P:1930.59 E:0.114308 |  Porto Niel Bruges four is the latest score,
+[6559.00 - 6567.00] P:1813.98 E:0.125461 |  but you can clearly hear what it means, the relief inside outfield for these Liverpool supporters,
+[6567.00 - 6572.00] P:1900.44 E:0.112712 |  as Vilna is going to be coming on in stoppage time,
+[6572.00 - 6576.00] P:1890.44 E:0.113173 |  and he's going to be replacing Lewis Diaz,
+[6576.00 - 6582.00] P:1956.54 E:0.113517 |  because this is the last time that they will play a game until the first of October.
+[6583.00 - 6587.00] P:1935.14 E:0.119434 |  Huge for them to be going into that break with a win.
+[6587.00 - 6591.00] P:1848.61 E:0.119009 |  Yeah, man, listen to the atmosphere, they needed this,
+[6591.00 - 6598.00] P:1851.89 E:0.108695 |  Jürgen Klopp needed this, performance in the second half had been a bit flat,
+[6598.00 - 6604.00] P:1895.90 E:0.102733 |  they've worked so hard out of possession, they've huffed, and they've puffed, haven't they?
+[6604.00 - 6610.00] P:1806.53 E:0.103592 |  It looks like they've got over the line, James Milner on now, just sure of that midfield.
+[6612.00 - 6616.00] P:1787.72 E:0.100976 |  Four minutes, a minimum of four, which we're now into.
+[6616.00 - 6623.00] P:1824.40 E:0.098478 |  In fact, the first 60 seconds of that have already elapsed, Liverpool lead by two goals to one.
+[6623.00 - 6631.00] P:1851.06 E:0.110383 |  Blink clears, they're in a way. Alexander-Arnold's forward ball, here is Salah,
+[6631.00 - 6635.00] P:1860.27 E:0.107291 |  and he just stands now with his left foot on the ball,
+[6635.00 - 6641.00] P:1759.52 E:0.103464 |  and the time wasting from Ajax, now they'll be desperate to try and get the ball off,
+[6641.00 - 6646.00] P:1780.69 E:0.103866 |  these Liverpool players, as Bergwein under pressure from Thiago,
+[6646.00 - 6654.00] P:1785.99 E:0.097047 |  Alexander-Arnold wins it back, Thiago inside, Simicast, handball there.
+[6654.00 - 6658.00] P:1904.28 E:0.097151 |  These are the full-time scores then in league two, Wimbledon, Neal, Northampton two, Barrow two,
+[6658.00 - 6665.00] P:1881.17 E:0.106615 |  Doncasternil, Crawley three, Stockport two, Grimsby one, Dillingham one, Harrogate-Neal, Salford one,
+[6665.00 - 6670.00] P:1945.66 E:0.114435 |  Hartlepool one, Kru one, Mansfield and Carl-Al finished, Golas, Rochdale, Neal, Leighton-Orian one,
+[6670.00 - 6677.00] P:1779.57 E:0.109065 |  Stephen-I, Newport-Neal, Swindon three, Sutton two, Tramir one, Bradford City two,
+[6677.00 - 6682.00] P:1869.05 E:0.108690 |  two more goals for the prolific Andy Cook, and Walsall one, Colchester United one,
+[6682.00 - 6688.00] P:1839.54 E:0.098466 |  Liverpool are attacking, left-hand side, Nunez over the head of Firmino,
+[6688.00 - 6692.00] P:1848.91 E:0.099145 |  caught by the goalkeeper, and we have 90 seconds remaining.
+[6692.00 - 6699.00] P:1921.40 E:0.095476 |  The full-time scores in league one, Barnsley one, Port Vale one, Burton-Neal,
+[6699.00 - 6704.00] P:2034.42 E:0.101893 |  Portsmouth two, Charlton-Forest Green one, one, Charlton-Two, Cambridge one,
+[6704.00 - 6709.00] P:2022.92 E:0.100610 |  headed away by Van Dyke to Simicast, Ipswich two, Bristol Rovers who finished the game with nine men,
+[6709.00 - 6715.00] P:1906.72 E:0.096339 |  Neal, Lincoln two, Derby-Neal, MK Don's, Neal Bolton two, Sheffield Wednesday beat Morkham,
+[6715.00 - 6719.00] P:1879.91 E:0.097717 |  three-Neal away from home, Peter Brunneal, Fleetwood one, Incomes across from the right-hand side,
+[6719.00 - 6724.00] P:1922.84 E:0.099887 |  headed out by Matip, Plymouth beat Oxford one, Neal, Shrewsbury three, Exeter two,
+[6724.00 - 6730.00] P:2009.37 E:0.104011 |  Wiccan Wanderers one, Akwinshawne-Neal, they're still playing in the 80-clock kickoff in the championship,
+[6730.00 - 6736.00] P:1901.72 E:0.103464 |  Preston one, Burnley one, these are the full-time scores, Blackburn beat Watford two-Neal, Huddersfield one, Wigan two,
+[6736.00 - 6741.00] P:1957.46 E:0.103565 |  five without a win for Huddersfield, whole-neal, Stoke three, Middlesbrough two, Cardiff three,
+[6741.00 - 6746.00] P:1880.83 E:0.107531 |  and the leaders, Sheffield United four points clear after beating Swansea by a goal to Neal.
+[6746.00 - 6753.00] P:1857.14 E:0.119155 |  Liverpool are going to make another change, and it's going to be Tiago coming off,
+[6753.00 - 6756.00] P:1977.47 E:0.110114 |  and no wonder he's getting a standing ovation, Chris.
+[6756.00 - 6762.00] P:1969.02 E:0.105036 |  Yep, I'll say without standing, especially in that first half, faded a little bit in the second half,
+[6762.00 - 6773.00] P:1939.72 E:0.097518 |  these works hard, and part of the team which may have just turned a corner, needed this result this evening.
+[6773.00 - 6780.00] P:1759.16 E:0.094692 |  Replaced by Steppen, by Cetic, who's a 17-year-old, making his European debut for Liverpool,
+[6780.00 - 6785.00] P:1838.15 E:0.090536 |  and only his second appearance for the club after his initial debut against Bournemouth.
+[6785.00 - 6791.00] P:1904.20 E:0.101880 |  Taditch right-hand side, Fabinho comes across, slides into the challenge, by my watch with it,
+[6791.00 - 6797.00] P:1971.31 E:0.103648 |  played the four minutes to be added on, Van Dijk gets a friendly shove in the back,
+[6797.00 - 6804.00] P:1957.70 E:0.090192 |  sorry, Simacast gets a friendly shove in the back from Van Dijk, just to say you did your job well,
+[6804.00 - 6809.00] P:1898.69 E:0.102845 |  because that should be it, on a huge, huge win for Liverpool.
+[6813.00 - 6814.00] P:1810.75 E:0.119054 |  Much needed.
+[6818.00 - 6825.00] P:1909.14 E:0.117820 |  Clearance from Allyson, and the roar from the Anfield base, what we'll tell you,
+[6825.00 - 6830.00] P:2003.42 E:0.113083 |  that Liverpool have got the all-important three points.
+[6830.00 - 6835.00] P:2004.13 E:0.101267 |  They have bounced back after that chastening night in Naples.
+[6835.00 - 6841.00] P:1910.38 E:0.096462 |  Their Champions League campaign is back on track, but they left it late.
+[6841.00 - 6848.00] P:1844.92 E:0.095557 |  Massip with a winning goal in the 89th minute, Liverpool 2, Ajax 1. Chris.
+[6848.00 - 6853.00] P:1905.03 E:0.098819 |  Yep, Liverpool still might have the very best, they had to earn the right this evening,
+[6853.00 - 6860.00] P:1850.00 E:0.090309 |  good response after the defeat against Napoli, weren't at the fluent best in the second half,
+[6860.00 - 6866.00] P:1843.92 E:0.086299 |  but at Massip header, and that's all that matters, I think Jürgen Klopp would have wanted
+[6866.00 - 6871.00] P:1919.42 E:0.089700 |  maybe a better performance, especially when in possession, I thought they worked exceptionally hard,
+[6871.00 - 6876.00] P:1861.21 E:0.094193 |  and they've ground out an important three points in this Champions League group stage,
+[6876.00 - 6879.00] P:1827.16 E:0.100853 |  now onto a double header with Rangers.
+[6879.00 - 6883.00] P:1747.52 E:0.115874 |  Certainly not as fluent in the second half as they were in the first,
+[6883.00 - 6887.00] P:1797.48 E:0.110169 |  but it's all about the results, and for that Jürgen Klopp will be delighted.
+[6887.00 - 6890.00] P:1647.64 E:0.102929 |  Liverpool 2, Ajax 1. Kelly.

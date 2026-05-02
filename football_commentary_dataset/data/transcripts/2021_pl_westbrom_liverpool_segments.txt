@@ -1,0 +1,1492 @@
+[0.00 - 5.24] P:2042.11 E:0.040019 |  The player inside the Hawthorne's ground takes the knee.
+[6.88 - 12.44] P:1837.70 E:0.094457 |  And now the game is under way, and it was played very, very quickly back to Bartley.
+[12.44 - 16.08] P:2000.23 E:0.096077 |  They were lopsided, actually, from kick-off towards this near side,
+[16.08 - 23.20] P:1957.41 E:0.084379 |  the main stand on the right for West Bromwich Albion in their striped white and navy shirts,
+[23.20 - 28.40] P:1719.98 E:0.081752 |  playing from left to right as we look against Liverpool, who in all red.
+[28.52 - 32.68] P:1832.60 E:0.095482 |  Here on BBC Radio 5 Live and the World Service.
+[32.68 - 37.28] P:1908.15 E:0.087213 |  And you look at Liverpool's record, they have struggled against sides who,
+[37.28 - 41.00] P:1937.40 E:0.095104 |  the relegated three this season in the Premier League,
+[41.00 - 47.92] P:1782.70 E:0.074241 |  they've taken just eight points from five games against West Bromwich Albion,
+[47.92 - 50.84] P:1608.77 E:0.079934 |  Fulham and Sheffield United.
+[50.84 - 57.64] P:1802.51 E:0.075392 |  Bartley at the back to Ajay, out to this near side, finds Furlong.
+[59.40 - 65.76] P:1854.79 E:0.093098 |  With Ajay once again, hits it early, offside against Rob St-Khanu.
+[65.76 - 69.96] P:1929.33 E:0.085061 |  Must have been a very frustrating season for Hal Rob St-Khanu,
+[69.96 - 74.12] P:1860.36 E:0.081063 |  all 16 appearances until today as a substitute in the Premier League.
+[74.12 - 78.48] P:1599.72 E:0.087872 |  It's been a tough one for him, watching on the sidelines and what he probably feels
+[78.48 - 82.32] P:1708.39 E:0.071907 |  with something that, a project that he can affect, and when you're not playing as a player,
+[82.32 - 86.84] P:1692.34 E:0.091559 |  you just get that frustration and when your team's not winning, five wins all season,
+[87.60 - 88.96] P:1490.25 E:0.083842 |  give me a chance.
+[88.96 - 93.08] P:1658.20 E:0.095832 |  This isn't working, let me have a go, let it not work for me.
+[94.40 - 97.12] P:1848.84 E:0.099074 |  Rhys Williams with the back pass to Allyson,
+[97.12 - 101.72] P:1886.52 E:0.095388 |  working out to Robinson on the near side, closed down by Phillips,
+[101.72 - 106.04] P:1968.85 E:0.084228 |  who you might well have heard earlier in the afternoon on Five Live Sport
+[106.04 - 110.72] P:2007.86 E:0.084642 |  when he was speaking to Steve and talking about his frustrations for the season.
+[110.72 - 116.36] P:1739.84 E:0.095488 |  He knows all about relegation four times, he's been relegated in his career now,
+[116.40 - 118.80] P:1871.57 E:0.081121 |  twice of course with West Bromwich Albion,
+[118.80 - 121.72] P:1604.62 E:0.091873 |  the Queen's Park Rangers and Blackpool before that.
+[121.72 - 125.12] P:1833.53 E:0.085590 |  So the good thing is from a West Bromwich Albion point of view
+[125.12 - 129.96] P:1925.04 E:0.085021 |  is that when they have been relegated, as the ball is hit long,
+[129.96 - 134.28] P:1909.45 E:0.074519 |  and it actually reaches Robinson, plays it in early, cuts out,
+[134.28 - 137.24] P:1931.55 E:0.110099 |  and then Gallagher coming under pressure on the edge of the area,
+[137.24 - 142.12] P:1966.55 E:0.089731 |  shot driven in by Tiago, takes a deflection and it's a corner kick for Liverpool,
+[142.12 - 144.16] P:1577.98 E:0.080600 |  all of West Brom's own making.
+[144.20 - 148.56] P:1817.53 E:0.089706 |  Just the opportunity to clear it, just take the opportunity, get it away from the goal.
+[148.56 - 150.40] P:1675.79 E:0.095527 |  Sam and I, we'll be raging with that.
+[150.40 - 154.80] P:1618.77 E:0.074383 |  They had the chance, playing out from the back against this Liverpool team,
+[154.80 - 159.08] P:1673.05 E:0.082911 |  who pressed? You know they're going to press, get it away from the goal.
+[159.08 - 163.68] P:1650.11 E:0.087921 |  Corner kick on that far side, Alexander-Arnold to take it on the right,
+[163.68 - 168.20] P:1693.15 E:0.083577 |  there was an out-swinger, turned behind for another corner kick.
+[168.20 - 171.16] P:1647.78 E:0.086096 |  On this occasion, didn't beat the first man,
+[171.20 - 173.60] P:1720.60 E:0.101550 |  but West Bromwich Albion were unable to get it away,
+[173.60 - 176.64] P:1887.81 E:0.088499 |  it was on Furlong's right foot rather than his left,
+[176.64 - 178.92] P:1891.46 E:0.085028 |  so he just couldn't hook it away downfield.
+[178.92 - 183.64] P:1777.77 E:0.091446 |  In comes that successive corner, another out-swinger headed away by Bartley.
+[183.64 - 186.40] P:1849.15 E:0.102939 |  Jones directs the header back out towards the right,
+[186.40 - 191.48] P:1917.58 E:0.092754 |  Alexander-Arnold swings over the other cross and Phillips heads it over the top.
+[191.48 - 196.32] P:1810.63 E:0.086125 |  They've just taken a blow there, Mike Dean very quick to check on the young defender,
+[196.32 - 198.24] P:1786.31 E:0.070901 |  but he's alright, it's a goal kick.
+[198.32 - 201.72] P:1807.65 E:0.092930 |  I was just going to say, it's the fifth relegation from the Premier League
+[201.72 - 204.48] P:2004.07 E:0.075394 |  for West Bromwich Albion, which is the joint most,
+[204.48 - 207.88] P:1736.56 E:0.086379 |  along with your former club Rob Norwich City.
+[207.88 - 212.20] P:1988.90 E:0.084795 |  But in each of the four previous relegations for West Bromwich Albion,
+[212.20 - 214.24] P:1685.97 E:0.070657 |  they've come back within two seasons.
+[214.24 - 218.16] P:1608.92 E:0.094533 |  You look at how they did it last, and they had to shed a lot of players,
+[218.16 - 220.48] P:1774.30 E:0.077451 |  they had to get older players off the books,
+[220.48 - 222.92] P:1734.69 E:0.091081 |  going into the championship where you need that mobility,
+[222.92 - 225.92] P:1739.11 E:0.066733 |  you need to get about the pitch, they didn't have that.
+[226.00 - 229.28] P:1882.28 E:0.104914 |  The argument was, he came back a season too early,
+[229.28 - 231.48] P:1649.44 E:0.077349 |  maybe the squad hadn't developed enough.
+[231.48 - 234.16] P:1632.25 E:0.078309 |  I'd say what, they're in a better position now,
+[234.16 - 237.56] P:1641.14 E:0.075854 |  as I was saying, than they were a few years ago when they went down.
+[237.56 - 239.24] P:1862.79 E:0.097506 |  Contrast that to Sheffield United,
+[239.24 - 241.40] P:1904.54 E:0.102076 |  their two previous relegations from the Premier League,
+[241.40 - 246.04] P:1945.47 E:0.082506 |  it's taken them 12 years on each occasion to come back to the top flight,
+[246.04 - 249.96] P:1881.70 E:0.090664 |  as Fabinho drills the ball downfield, right down the middle of the pitch,
+[249.96 - 255.08] P:1804.11 E:0.088256 |  and all the way through to Sam Johnston, the West Bromwich Albion goalkeeper,
+[255.20 - 260.04] P:1910.39 E:0.089389 |  brings it out of his area and hits it long up towards Phillips,
+[260.04 - 264.40] P:2011.73 E:0.093020 |  but Reese Williams won that aerial duel, Robertson downfield,
+[264.40 - 269.40] P:1851.68 E:0.081219 |  cushion ball forward by Ajay Gallagher to Furlong,
+[269.40 - 271.28] P:2005.73 E:0.076772 |  hits it early, Phillips,
+[271.28 - 273.84] P:1997.87 E:0.097297 |  Flaggers stayed down for the time being,
+[273.84 - 275.32] P:1883.06 E:0.063029 |  Phillips with a cross,
+[275.32 - 278.64] P:1844.62 E:0.076509 |  and that was Matt Phillips cleared by Nathaniel Phillips,
+[278.64 - 281.68] P:1791.11 E:0.072953 |  and Jones caught by Gallagher,
+[281.68 - 285.60] P:1851.61 E:0.097512 |  free kick to Liverpool just outside his own penalty area,
+[285.60 - 288.20] P:1901.47 E:0.082985 |  and it's nearly the only stage he's played.
+[288.20 - 290.48] P:1497.56 E:0.082329 |  West Bromwich are committing bodies forward,
+[290.48 - 294.20] P:1833.35 E:0.081197 |  they've got a plan of 4-4-2 when they're in the defensive shape,
+[294.20 - 296.68] P:1424.67 E:0.072421 |  but they've got Matt Phillips down the right,
+[296.68 - 298.52] P:1661.10 E:0.074894 |  he's been playing central of recent weeks,
+[298.52 - 302.28] P:1527.91 E:0.084381 |  but he's out there on the right, and when Robertson does go forward,
+[302.28 - 305.40] P:1725.62 E:0.073277 |  he's staying up front, he's taking a chance, and they're hitting him early.
+[305.40 - 307.52] P:2037.00 E:0.108247 |  Firmino looking for the ball over the top,
+[307.52 - 311.24] P:1740.50 E:0.066291 |  Salah putting pressure on Carl Barthly,
+[311.28 - 313.32] P:1942.96 E:0.104723 |  who with the Egyptian breathing down his neck,
+[313.32 - 315.44] P:1964.45 E:0.097673 |  had to concede the corner kick,
+[315.44 - 318.28] P:1912.98 E:0.087763 |  and it's a third corner already inside,
+[318.28 - 322.04] P:1892.16 E:0.083646 |  what, five minutes for Liverpool all over on that far side.
+[323.80 - 329.68] P:1645.35 E:0.085428 |  So, nil-nil, and Andrew Robertson is going across to take it,
+[329.68 - 334.24] P:1686.64 E:0.087084 |  so this should be an in-swinging corner from the Liverpool right,
+[334.24 - 337.64] P:1854.62 E:0.092782 |  as they play from right to left here inside the Hawthorns.
+[338.64 - 340.96] P:1619.26 E:0.094203 |  And it comes now from Robertson,
+[340.96 - 343.96] P:1794.77 E:0.075799 |  and Phillips was up once again, Nathaniel Phillips,
+[343.96 - 347.64] P:1730.20 E:0.087804 |  and it was a header off target, he threw himself at it,
+[347.64 - 350.36] P:1834.00 E:0.080108 |  just couldn't get the right connection.
+[350.36 - 354.64] P:1563.64 E:0.072296 |  That's a great ball, fantastic ball, just at the near post,
+[354.64 - 358.64] P:1750.45 E:0.081074 |  six yards out, and Carl Barthly stood on the six-yard line,
+[358.64 - 361.00] P:1808.74 E:0.087049 |  Zonal marking freedom to go and tack the ball,
+[361.00 - 363.20] P:1721.62 E:0.083358 |  the biggest player in this West Brom team,
+[363.20 - 366.32] P:1729.63 E:0.080736 |  and it's that quick, it's that flat, he can't get there.
+[366.32 - 368.32] P:1664.17 E:0.047945 |  It's an it's a chance.
+[369.32 - 375.32] P:1908.41 E:0.096831 |  24-year-old, who along with Reese Williams has done well of late,
+[375.32 - 380.32] P:1847.95 E:0.091369 |  had recovered well with that misfortune for the own goal at Old Trafford,
+[380.32 - 384.32] P:1782.90 E:0.075737 |  and played his part in the goal for Jota,
+[384.32 - 387.32] P:1693.87 E:0.081880 |  but it was that foot injury picked up at Old Trafford,
+[387.32 - 390.32] P:1696.91 E:0.084771 |  that means that Jota doesn't feature today,
+[390.32 - 395.32] P:1489.91 E:0.081533 |  or indeed will not play any part in the games against Burnley away on Wednesday,
+[395.32 - 399.32] P:1651.65 E:0.075741 |  and Crystal Palace at home on Sunday.
+[400.32 - 402.32] P:1928.06 E:0.096836 |  Five-life sport, six and a half minutes played,
+[402.32 - 406.32] P:1741.91 E:0.086481 |  goal is at the Hawthorne's West Brom at Chalbion and Liverpool,
+[406.32 - 409.32] P:1822.45 E:0.100170 |  furlong level with a penalty area in front of the main stand,
+[409.32 - 412.32] P:1858.14 E:0.080816 |  near side the right with a looping throw,
+[412.32 - 415.32] P:1882.28 E:0.094611 |  Jai was the target, headed away by Firmino,
+[415.32 - 419.32] P:1819.81 E:0.091624 |  Gallagher running away from goal, coming under pressure from Thiago,
+[419.32 - 423.32] P:1996.24 E:0.098077 |  Alexander Adel now takes it on, if he keeps the ball in play, it could be promising,
+[423.32 - 426.32] P:1953.53 E:0.097563 |  and he has done exactly that, Alexander-Arnold still going,
+[426.32 - 431.32] P:1893.33 E:0.088906 |  but in the end it was Yoko Shlou, who just came across to take it away from Alexander-Arnold,
+[431.32 - 434.32] P:1858.89 E:0.078566 |  he did well to keep the ball in the first place.
+[434.32 - 440.32] P:1671.08 E:0.082250 |  Very well, showed his attacking acumen there and his attributes of getting forward,
+[440.32 - 443.32] P:1589.94 E:0.061817 |  you look at the two full backs for Liverpool,
+[443.32 - 446.32] P:1514.36 E:0.084788 |  they'd be at home on the wings, wouldn't they really,
+[446.32 - 449.32] P:1717.92 E:0.063380 |  and you're looking at it, and essentially that's how they play,
+[449.32 - 454.32] P:1780.87 E:0.088209 |  that's what they are, they are wingers who do defend occasionally at times,
+[454.32 - 458.32] P:1546.37 E:0.071112 |  and you look at the Liverpool weakness, and the two young lads at the back,
+[458.32 - 461.32] P:1513.73 E:0.075770 |  they do become exposed from that, but what they bring them,
+[461.32 - 465.32] P:1652.04 E:0.076353 |  wow, the calls that they've brought them over the years is incredible.
+[465.32 - 468.32] P:1813.74 E:0.096849 |  That's Rob Green with us here at the Hawthorne's, we're in the eighth minute,
+[468.32 - 473.32] P:1647.05 E:0.090156 |  Liverpool are in possession, Nathaniel Phillips striding his way towards the halfway line,
+[473.32 - 478.32] P:1822.36 E:0.080459 |  it's a right-footed ball that Firlong tucked in the right back clears,
+[478.32 - 484.32] P:1806.63 E:0.076558 |  Williamus finds Robertson, brings it down off the chest, the ball is still,
+[484.32 - 488.32] P:1668.80 E:0.085662 |  and then it's hit it in field, left-footed to Tiago,
+[488.32 - 494.32] P:1695.02 E:0.086832 |  lot of room around Tiago, and his socks already down, slipping towards his ankle,
+[494.32 - 499.32] P:1778.62 E:0.076594 |  strokes it forward towards Salah, gets it back, edging his way forward,
+[499.32 - 505.32] P:1834.52 E:0.086982 |  and now leaves it for Alexander-Arnold, plays the ball forward along the ground to Firmino,
+[505.32 - 511.32] P:1930.29 E:0.082372 |  nudges it back to Firmino, out towards Salah, a bit of space, Salah then with the cross,
+[511.32 - 516.32] P:1697.61 E:0.080090 |  and it's caught by Johnston, the West Bromwich Albion goalkeeper.
+[516.32 - 521.32] P:1662.91 E:0.086957 |  We're in one of these positions here at the Hawthorne's, and I've not actually been to this ground
+[521.32 - 526.32] P:1835.50 E:0.083186 |  during the pandemic, and of course behind closed doors,
+[526.32 - 532.32] P:1706.71 E:0.078838 |  and sometimes, such as Newcastle and Brighton, you can be very low down,
+[532.32 - 540.32] P:1684.56 E:0.083830 |  and with an earshot of the dugouts, we're actually above the dugouts there,
+[540.32 - 545.32] P:1878.29 E:0.095321 |  but because of the headphones, I want to take my headphones off and just listen to the orders that are being
+[545.32 - 550.32] P:1795.66 E:0.078564 |  barked out by either Jurgen Klopp or Sammy Leet, the former Liverpool player, of course,
+[550.32 - 554.32] P:1852.82 E:0.083748 |  who just comes to the edge of the West Bromwich Albion technical area,
+[554.32 - 560.32] P:1751.83 E:0.076885 |  because that's been one of the rare insights that you can get,
+[560.32 - 565.32] P:1712.34 E:0.092567 |  and one of the few benefits of behind me, probably one of the only benefits of no supporters,
+[565.32 - 568.32] P:1716.01 E:0.084770 |  you can actually hear what's being relayed from the benches.
+[568.32 - 572.32] P:1742.80 E:0.077558 |  I'm just pleased you're out of arms reach of the manager, Stenner.
+[572.32 - 577.32] P:1732.38 E:0.092672 |  Here comes the cross for the free kick, and Ajay was up,
+[577.32 - 583.32] P:1691.57 E:0.077487 |  but it was a very faint touch off his head, and it runs out for a goal kick.
+[583.32 - 588.32] P:1610.94 E:0.084337 |  Made a good run, Liverpool line was strong, held a high line,
+[588.32 - 592.32] P:1668.72 E:0.081108 |  and the bonus of that is even if the West Brom player does win the header,
+[592.32 - 596.32] P:1679.88 E:0.072995 |  having to head it in from 12-13 yards out, and you've got Allison in goal,
+[596.32 - 599.32] P:1797.90 E:0.079832 |  you're going to back your goalkeeper to save it.
+[599.32 - 604.32] P:1849.42 E:0.085649 |  Don't worry, within two minutes, either Sammy Leet or Jurgen Klopp would have quickly switched off.
+[604.32 - 607.32] P:1838.44 E:0.068993 |  It's not even two minutes with the wife.
+[607.32 - 610.32] P:1932.51 E:0.083432 |  She switches off after 60 seconds.
+[610.32 - 615.32] P:1686.21 E:0.086632 |  Ten minutes played, 0-0, five-life sport, West Bromwich Albion against Liverpool,
+[615.32 - 619.32] P:1786.60 E:0.092721 |  Crystal Palace 3, Aston Villa 2, Tottenham 2, Wolverhampton, Wanderers 0.
+[619.32 - 623.32] P:1923.90 E:0.086453 |  The two earlier results, Everton-Chef was united from 7,
+[623.32 - 627.32] P:1694.38 E:0.079860 |  will be on five-life sports extra at Goodison Park,
+[627.32 - 631.32] P:1816.95 E:0.092683 |  because at 7.45 we have the women's Champions League final,
+[631.32 - 635.32] P:1926.31 E:0.086163 |  Chelsea against Barcelona on five-life sport.
+[638.32 - 643.32] P:1864.93 E:0.099360 |  Free kick going in favour of the home side for a foul on Dien Garnet,
+[643.32 - 647.32] P:1697.01 E:0.085475 |  who'd been doubled up there with Alexander-Arnold and Thiago.
+[647.32 - 651.32] P:1961.66 E:0.086813 |  So it's another opportunity for Yacosh Lutit to come forward,
+[651.32 - 655.32] P:1835.33 E:0.086352 |  and Shemi Ajay and also Kyle Bartley.
+[656.32 - 659.32] P:1513.78 E:0.083406 |  I was fortunate there, Dien Garnet had lost the ball,
+[659.32 - 662.32] P:1602.36 E:0.086751 |  and Trent Alexander-Arnold won it cleanly,
+[662.32 - 667.32] P:1614.23 E:0.074520 |  and took a tumble in the process, and I'm not sure he made the right decision there.
+[668.32 - 671.32] P:1660.32 E:0.082819 |  Gallagher runs over the ball, comes in from Pereira,
+[671.32 - 674.32] P:2049.62 E:0.106142 |  a little flick there by Furlong, gets a second chance,
+[674.32 - 676.32] P:2127.08 E:0.099641 |  stands over the cross, flags up anyway,
+[676.32 - 679.32] P:1905.47 E:0.095894 |  header was wide at the far post, but the flag was raised,
+[679.32 - 681.32] P:1875.95 E:0.081547 |  and it wouldn't have counted.
+[682.32 - 685.32] P:1809.62 E:0.087470 |  There was certainly concern at the time, wasn't there?
+[685.32 - 688.32] P:1578.90 E:0.071289 |  Yeah, it was a poorly taken initial free kick,
+[688.32 - 692.32] P:1732.63 E:0.074843 |  and Darnel Furlong did a good job by just taking a chance
+[692.32 - 695.32] P:1438.73 E:0.078281 |  and running beyond the line, the Liverpool line.
+[695.32 - 699.32] P:1430.98 E:0.053413 |  He actually got the ball back, and when he turned it back in again...
+[699.32 - 701.32] P:1713.81 E:0.084126 |  Bit of a chance there for Ajay,
+[701.32 - 703.32] P:1503.13 E:0.072561 |  but Liverpool have got their own tool-players.
+[703.32 - 705.32] P:1625.18 E:0.071608 |  Would have been a tough one.
+[705.32 - 708.32] P:1875.40 E:0.085425 |  Playing out from the back, taking the goal kick short,
+[708.32 - 711.32] P:1746.89 E:0.086555 |  a couple of touches for the two central defenders who split.
+[711.32 - 713.32] P:1833.32 E:0.099670 |  They're either side of the penalty area,
+[713.32 - 718.32] P:1868.27 E:0.084335 |  then Allyson hits a flat ball that's headed away by the left-back town's end,
+[718.32 - 722.32] P:1865.97 E:0.100288 |  played forward by Dien Garnet, breaks now to Mane, hits it first time,
+[722.32 - 726.32] P:1767.89 E:0.093289 |  Salah with a run, Darren Cannes the assistant referee on that far side,
+[726.32 - 728.32] P:1799.85 E:0.094039 |  but it was always going away from him,
+[728.32 - 732.32] P:1893.46 E:0.080232 |  and of course with the rain, it's still falling very, very faintly,
+[732.32 - 736.32] P:1955.70 E:0.093305 |  but it's always going to just zip away off the greasy surface
+[736.32 - 738.32] P:1935.30 E:0.096429 |  as a result of the wet conditions.
+[738.32 - 742.32] P:1895.15 E:0.090697 |  There was a push there on Maurice Williams by Rob St-Canu,
+[742.32 - 744.32] P:1820.33 E:0.099781 |  and that will be a free kick to Liverpool.
+[744.32 - 747.32] P:1724.50 E:0.083996 |  12 minutes play, what have you made of it so far, Rob?
+[747.32 - 749.32] P:1517.50 E:0.088872 |  It's been a bright start by West Brom,
+[749.32 - 752.32] P:1712.39 E:0.085774 |  impressed that you feel that those through balls from Liverpool,
+[752.32 - 756.32] P:1581.43 E:0.092096 |  those balls over the top will cause damage to this West Brom side,
+[756.32 - 759.32] P:1641.69 E:0.083651 |  and the runs are there from the Liverpool front line,
+[759.32 - 762.32] P:1629.24 E:0.080927 |  so when they get one right, it could cost them.
+[762.32 - 765.32] P:1553.45 E:0.081082 |  But when you're on the pitch here at the Hawthorns,
+[765.32 - 769.32] P:1670.54 E:0.085693 |  it feels so tight, and there's so little space in the centre of the pitch
+[769.32 - 772.32] P:1656.33 E:0.083968 |  that the inclination is to hit those passes early,
+[772.32 - 775.32] P:1630.77 E:0.068805 |  because you just don't feel like you can keep the ball as well.
+[776.32 - 780.32] P:1780.31 E:0.095477 |  That's Rob Green who is with us watching on,
+[780.32 - 784.32] P:1608.92 E:0.084515 |  and also a position that, of course, he knows so well as a goalkeeper,
+[784.32 - 787.32] P:1871.39 E:0.087433 |  who's just seen Johnston hit a ball straight out of play
+[787.32 - 789.32] P:1815.11 E:0.099106 |  over the head of Furlong.
+[789.32 - 792.32] P:1768.11 E:0.074054 |  There wasn't much pressure on him then, for that, was there?
+[792.32 - 794.32] P:1682.82 E:0.085259 |  Told you the pitch was tight.
+[794.32 - 799.32] P:1792.32 E:0.088092 |  Robertson gets it back from Firmino, who gives the ball away.
+[799.32 - 803.32] P:1773.87 E:0.085563 |  Here is Pereira, a challenge comes in from Firmino,
+[803.32 - 806.32] P:1633.38 E:0.091504 |  right in front of the watching on Jurgen Klopp,
+[806.32 - 810.32] P:1766.53 E:0.081267 |  and that will be a free kick to West Brom and Chalbion.
+[810.32 - 813.32] P:1663.22 E:0.099018 |  13 in the bit minutes played here.
+[813.32 - 816.32] P:1786.98 E:0.082026 |  And Pereira goes down the line.
+[816.32 - 821.32] P:1879.97 E:0.086283 |  Phillips quickly closed down by Jones, turns back to Pereira,
+[821.32 - 825.32] P:1992.34 E:0.089901 |  scoops it, nice little touch up the right thigh by Matt Phillips.
+[825.32 - 828.32] P:2072.70 E:0.093884 |  Jones is still with him. Matt Phillips, though, delivers the cross,
+[828.32 - 830.32] P:1737.61 E:0.073950 |  plucked out of the air by Allison.
+[831.32 - 835.32] P:1767.31 E:0.094118 |  Again, look at Shemi Ajay, he was forward.
+[835.32 - 839.32] P:1718.28 E:0.083386 |  Every opportunity, he's trying to get on the end of those crosses.
+[839.32 - 843.32] P:1705.41 E:0.088439 |  They're gambling, centre-halves are going forwards at times,
+[843.32 - 846.32] P:1839.89 E:0.080184 |  leaving the fallbacks 2v2, because it's an interesting tactic.
+[846.32 - 849.32] P:1821.14 E:0.096316 |  Firmino likes to drop, it's a big, big risk,
+[849.32 - 854.32] P:1696.35 E:0.080240 |  because you've got Mane and Salera, two flying machines on the outside,
+[854.32 - 859.32] P:1648.92 E:0.081103 |  but they're backing the fallbacks to do a job and allowing bodies to go forward.
+[859.32 - 862.32] P:1726.65 E:0.070560 |  But you wouldn't expect, at that point, would you,
+[862.32 - 865.32] P:1743.89 E:0.097459 |  for a normal attack down the right-hand side,
+[865.32 - 868.32] P:1575.30 E:0.081041 |  if you're one of your central defenders to be at that point?
+[868.32 - 871.32] P:1577.96 E:0.098806 |  14 minutes into a game at 0-0 against Liverpool.
+[873.32 - 877.32] P:1924.70 E:0.099153 |  There's going to be a free-kick, which Johnston is going to take for West Bromwich Albion.
+[877.32 - 880.32] P:1793.55 E:0.072714 |  Still goal-less here at the Hawthorns.
+[881.32 - 885.32] P:1679.06 E:0.082481 |  And quite a high line that Liverpool have provided.
+[885.32 - 888.32] P:1883.19 E:0.093105 |  It's hit now by Johnston, again Ajay is the target.
+[889.32 - 895.32] P:1763.50 E:0.087775 |  Firmino will head it away, Salera tries to direct that header down to the path of Curtis Jones.
+[895.32 - 898.32] P:1927.08 E:0.096768 |  Little flick there by Ajay, helped on then.
+[898.32 - 902.32] P:2007.71 E:0.108120 |  And here is Rob Sincona in the penalty area, and how Rob Sincona was scored.
+[902.32 - 905.32] P:2085.31 E:0.102091 |  And West Bromwich Albion take the lead.
+[905.32 - 908.32] P:2012.93 E:0.097091 |  It's his first Premier League start of the season,
+[908.32 - 915.32] P:1823.80 E:0.092175 |  and he has scored his first goal in the Premier League after a run of 28 games without,
+[915.32 - 921.32] P:1836.12 E:0.086471 |  since, well, four years ago, would you believe, West Bromwich Albion lead 1-0.
+[921.32 - 925.32] P:1755.07 E:0.084333 |  Well, this could be a huge goal in the context for the Champions League,
+[925.32 - 931.32] P:1736.92 E:0.075516 |  the race for the top four, and Rob Sincona, who picks up space between the left centre half,
+[931.32 - 935.32] P:1680.54 E:0.085558 |  and Robertson and left back, and it's just a running behind.
+[935.32 - 939.32] P:1637.28 E:0.077462 |  And he's got the work to do, takes a great touch out of his feet,
+[939.32 - 943.32] P:1720.90 E:0.081951 |  and he allows him to open up onto his left foot, his favourite foot.
+[943.32 - 948.32] P:1839.92 E:0.088572 |  You can see what he's trying to do, everybody can see what he wants to do on the angle.
+[948.32 - 952.32] P:1597.75 E:0.081309 |  He's just bending in that far corner, feeling in, and it's so composed,
+[952.32 - 956.32] P:1748.41 E:0.087210 |  and it's so... Such a textbook finish, brilliant.
+[956.32 - 961.32] P:1693.58 E:0.079082 |  I mean, for a man who hasn't started a game all season, it's lucky he's been doing it all his life, almost.
+[961.32 - 963.32] P:1907.88 E:0.096687 |  Yep, he's had a very frustrating time.
+[963.32 - 966.32] P:2117.66 E:0.096690 |  He's scored three goals in the early stages of the season,
+[966.32 - 969.32] P:1859.42 E:0.094234 |  but they were all in the League Cup.
+[969.32 - 974.32] P:1791.34 E:0.086843 |  But his last Premier League start against Arsenal December 2017.
+[974.32 - 979.32] P:1861.75 E:0.092348 |  But his last goal in the Premier League was November 2017 against Newcastle United.
+[979.32 - 985.32] P:1872.52 E:0.091273 |  So that run of 28 games without, but he took it so, so well, did Rob Sincona.
+[985.32 - 991.32] P:1864.52 E:0.089275 |  And as you say, it certainly means it's very interesting in the race for the top four,
+[991.32 - 995.32] P:1757.54 E:0.078837 |  as Liverpool have fallen behind, trailing by a goal to nil.
+[995.32 - 1001.32] P:1864.00 E:0.088248 |  However, Manchester United on Thursday night was the fifth time in the Premier League this season,
+[1001.32 - 1006.32] P:1732.64 E:0.089880 |  when Liverpool have come from behind to win after conceding the first goal.
+[1006.32 - 1010.32] P:1861.21 E:0.086807 |  So Jürgen Klopp will hope that his side are able to do that here today.
+[1010.32 - 1017.32] P:1714.56 E:0.085557 |  Otherwise, they will surrender much valuable ground to Leicester and Chelsea.
+[1017.32 - 1021.32] P:1575.57 E:0.076456 |  Look at... We talked earlier about them committing bodies forward,
+[1021.32 - 1025.32] P:1685.82 E:0.080602 |  and they really have had to in recent weeks, when they've had to win games,
+[1025.32 - 1031.32] P:1691.78 E:0.076780 |  Salah Le Dijs has thrown the tactics that he's known for out the window.
+[1031.32 - 1033.32] P:1505.64 E:0.080846 |  So we've got to go for it.
+[1033.32 - 1036.32] P:1731.54 E:0.079751 |  And that goal stems from them committing bodies forward,
+[1036.32 - 1041.32] P:1684.24 E:0.082131 |  because it really did occupy defenders, it occupied the defenders around them.
+[1041.32 - 1044.32] P:1752.80 E:0.069290 |  They didn't want to commit, but in the end had to.
+[1044.32 - 1047.32] P:1790.57 E:0.090567 |  But also, and it was something that we'd highlighted in commentary,
+[1047.32 - 1050.32] P:1898.87 E:0.095409 |  it came from Shemi Ijaya getting forward.
+[1050.32 - 1057.32] P:1646.20 E:0.086957 |  It was his little flick that was passed on by Pereira to Rob St-Khanu, as at Liverpool.
+[1057.32 - 1061.32] P:1885.59 E:0.096825 |  Forward now with Alexander Adel making good ground in towards Mane,
+[1061.32 - 1066.32] P:1797.73 E:0.082943 |  and Mane losing outs, just eased off the ball by Shemi Ijaya,
+[1066.32 - 1069.32] P:1972.15 E:0.082375 |  and through it goes to Johnston.
+[1071.32 - 1074.32] P:1736.74 E:0.091485 |  It started brightly in the week against Arsenal as well, Westbrough.
+[1074.32 - 1077.32] P:1835.15 E:0.088841 |  I know they could have stayed up that day as well,
+[1077.32 - 1083.32] P:1637.81 E:0.078172 |  but they were in the game, and then when they conceded first, the heads went a bit buff.
+[1083.32 - 1088.32] P:1447.37 E:0.078593 |  They've got the lead now, and what down they think, why not?
+[1088.32 - 1093.32] P:1689.56 E:0.082158 |  We're on the pitch for the next hour and a half, let's just do it anyway, just give it a go.
+[1093.32 - 1098.32] P:1703.31 E:0.084679 |  Well, it makes you wonder if the hierarchy at Westbrough, Michealbion,
+[1098.32 - 1105.32] P:1708.34 E:0.086669 |  if there was any regrets regarding the season, is that they didn't make the change
+[1106.32 - 1108.32] P:1444.44 E:0.079711 |  a little earlier.
+[1108.32 - 1113.32] P:1880.66 E:0.086762 |  You think that Slavin Billich, seven points from 13 games, Sam Alladay since,
+[1113.32 - 1120.32] P:1804.76 E:0.076913 |  19 points from 22, took him a while to try and get to grips with it,
+[1120.32 - 1125.32] P:1906.65 E:0.096235 |  as the ball is forward towards Curtis Jones and over his head through towards Johnston.
+[1128.32 - 1132.32] P:1623.65 E:0.091163 |  You're looking at it, and in the Premier League you say,
+[1132.32 - 1137.32] P:1771.18 E:0.083035 |  people talk about the Magic 40 points, but actually, if you get a point,
+[1137.32 - 1142.32] P:1687.35 E:0.090912 |  you can draw yourself to safety, and if you get a point a game around that,
+[1142.32 - 1144.32] P:1447.81 E:0.073015 |  generally you will be safe.
+[1144.32 - 1147.32] P:1589.79 E:0.096696 |  Sam Alladay says, there are there abouts a bit below,
+[1147.32 - 1150.32] P:1780.77 E:0.089995 |  but he would probably say, you give me a full season and a preseason,
+[1150.32 - 1152.32] P:1747.02 E:0.071206 |  I'll make up those three points.
+[1152.32 - 1156.32] P:1946.06 E:0.103637 |  Ball played out to Alexander-Arnold, seeing a lot of the ball now for Liverpool,
+[1156.32 - 1161.32] P:1786.38 E:0.079532 |  and coming forward, nicks it out towards Salah, just inside the penalty area.
+[1161.32 - 1164.32] P:1893.26 E:0.100243 |  He goes back to Alexander-Arnold once again, right corner of the area,
+[1164.32 - 1167.32] P:1942.76 E:0.099842 |  leaves it for Salah, goes on the inside towards Curtis Jones,
+[1167.32 - 1170.32] P:2064.65 E:0.091555 |  turns, still with the ball glued to his feet, thought about the shot off the left foot,
+[1170.32 - 1173.32] P:1914.83 E:0.090646 |  sticks it back onto the right, outside the area, Jones gets it back,
+[1173.32 - 1176.32] P:1826.35 E:0.101870 |  man over his Alexander-Arnold, in comes the low cross,
+[1176.32 - 1180.32] P:1852.43 E:0.083687 |  stretching forward with Firmino, cleared away, Firmino.
+[1180.32 - 1184.32] P:1674.43 E:0.091193 |  Well, I think he was being held off there by, was it Carrera,
+[1184.32 - 1190.32] P:1755.46 E:0.081983 |  and as he's tried to get past him, he's given away a foul, and it's a free kick.
+[1190.32 - 1194.32] P:1590.76 E:0.080376 |  Well there, Carrera. The ball's just in a dangerous one.
+[1194.32 - 1198.32] P:1744.17 E:0.084348 |  You're looking at it and you're thinking the ball could be recycled,
+[1198.32 - 1202.32] P:1718.44 E:0.085740 |  and he just gets his body in the way enough, he knew he was never going to control the ball,
+[1202.32 - 1205.32] P:1544.43 E:0.065074 |  just getting his body in the way, falling over.
+[1207.32 - 1214.32] P:1591.76 E:0.073515 |  So West Bromwich Albion, leading by a goal to nil, 20 minutes played.
+[1214.32 - 1220.32] P:1651.79 E:0.081183 |  Johnston, downfield, comes off the outstretched leg of Reese Williams,
+[1220.32 - 1224.32] P:2020.70 E:0.090731 |  who has gone down actually, he's holding his right ankle, now back to his feet,
+[1224.32 - 1227.32] P:1849.67 E:0.093750 |  but he's hobbling his the young central defender.
+[1227.32 - 1231.32] P:1886.18 E:0.091936 |  Thiago takes over from a short diagonal ball from Alexander-Arnold,
+[1231.32 - 1235.32] P:1926.54 E:0.079564 |  Curtis Jones inside the centre circle, and across to Robertson,
+[1235.32 - 1240.32] P:1772.20 E:0.075252 |  near side the left, Liverpool playing from right to left as we look here,
+[1240.32 - 1244.32] P:1916.98 E:0.098437 |  20 minutes played at the Hawthorns on five live in the World Service,
+[1244.32 - 1249.32] P:1578.00 E:0.082459 |  and it's West Bromwich Albion who lead by a goal to nil.
+[1249.32 - 1252.32] P:1558.41 E:0.071410 |  Firmino, just over the halfway line.
+[1252.32 - 1256.32] P:1706.06 E:0.081438 |  Thiago hitting the ball forward towards Salah, one bounce,
+[1256.32 - 1260.32] P:1743.93 E:0.078999 |  and through towards Sam Johnston,
+[1260.32 - 1263.32] P:1570.94 E:0.078092 |  and at the minute, Liverpool not really threatening.
+[1263.32 - 1267.32] P:1762.69 E:0.087991 |  No, just looking at your first lose, doing a really good job in there,
+[1267.32 - 1271.32] P:1642.28 E:0.076489 |  because Firmino wants to drop into that hole in the midfield,
+[1271.32 - 1277.32] P:1730.51 E:0.088685 |  and he's so clever in that midfield, and his communication is ideal for the centre halves as well,
+[1277.32 - 1283.32] P:1709.04 E:0.083505 |  because he's standing there going, no, no, I've got him, don't come out, stay as a four, stay narrow.
+[1283.32 - 1288.32] P:1762.03 E:0.083177 |  Here is Firmino, forward ball, but again, it zips away off the wet surface,
+[1288.32 - 1292.32] P:1797.17 E:0.097440 |  and Johnston with his anticipation was outside of his penalty area to clear,
+[1293.32 - 1297.32] P:1806.48 E:0.088183 |  Pereira coming forward, Pereira still has it, plays the ball to Furlong,
+[1297.32 - 1302.32] P:1988.00 E:0.099960 |  man over on this near side is Matt Phillips, the right level of the penalty area,
+[1302.32 - 1306.32] P:1995.28 E:0.086278 |  Matt Phillips with the cross, Allison has to punch under pressure,
+[1306.32 - 1310.32] P:1877.43 E:0.093712 |  Firmino waits for that ball to settle just outside the penalty area,
+[1310.32 - 1315.32] P:1715.01 E:0.086628 |  but has lost the ball, but he helps win it back, Firmino to Fabinho,
+[1315.32 - 1318.32] P:1853.60 E:0.092080 |  and now to Salah, and Liverpool are coming forward, looking for an equaliser,
+[1318.32 - 1322.32] P:1842.09 E:0.096263 |  Mo Salah drifting in, diagonal run off the right touch line,
+[1322.32 - 1327.32] P:1892.58 E:0.092570 |  Tiago now takes over, rolls the ball forward, still going, plays it now towards Firmino,
+[1327.32 - 1333.32] P:1739.15 E:0.093860 |  he's forced out wide, and he won't keep that ball in play, and it goes out for a goal kick, and just not clicking.
+[1333.32 - 1338.32] P:1783.19 E:0.095812 |  No, it is a strange decision from Mo Salah, he gets out wide where we've seen him so often,
+[1338.32 - 1342.32] P:1607.73 E:0.078364 |  you know, five yards in from the touch line, and he's up against Karl Barclay, the centre half,
+[1342.32 - 1346.32] P:1698.25 E:0.071314 |  and you think, just go, just take a touch out your feet, push it past him,
+[1346.32 - 1350.32] P:1679.35 E:0.082386 |  and go, you've got the space, you've got the time, you've got the opportunity,
+[1350.32 - 1354.32] P:1581.32 E:0.084721 |  and he didn't, and he waited, and waited, and waited, and then the opportunity went.
+[1354.32 - 1360.32] P:1939.12 E:0.092303 |  Early today, Crystal Palace beat Aston Villa 3-2, I think I'm right in saying that five more points
+[1360.32 - 1367.32] P:1808.68 E:0.083789 |  from Crystal Palace in their two remaining games, they would, or if there were to beat five points,
+[1367.32 - 1370.32] P:1856.31 E:0.096768 |  of course you're not going to get five points with two games to go, oh yeah, I told him I'm not so bad,
+[1370.32 - 1374.32] P:1882.45 E:0.091149 |  but I rectified my mistake, but if they were to beat the five points,
+[1374.32 - 1381.32] P:1820.58 E:0.092787 |  they would actually beat their points tally for Crystal Palace in the Premier League of 1993 and also 2019.
+[1381.32 - 1389.32] P:1764.66 E:0.088796 |  I hope that the supporters inside Selhurst Park in midweek, I don't know how many they'll actually have,
+[1389.32 - 1393.32] P:1895.67 E:0.092936 |  but I hope that there is some sort of clarity regarding Roy Hodgson's future,
+[1393.32 - 1398.32] P:1810.31 E:0.086333 |  because I think for the supporters there, they would give him such a terrific ovation
+[1398.32 - 1402.32] P:1784.59 E:0.090293 |  for what he's achieved at the club in helping them establish them as a Premier League side,
+[1402.32 - 1408.32] P:1757.96 E:0.093807 |  and that sounded a very entertaining game, and it was a big win for Palace to set them to 13th in the table,
+[1408.32 - 1414.32] P:1893.87 E:0.089388 |  3-2 they lead Aston Villa, Tottenham two-walls-nil, so Tottenham have moved above West Ham United,
+[1414.32 - 1419.32] P:1607.90 E:0.090778 |  imagine that there won't be a great deal of clamour to finish 7th in the Premier League,
+[1419.32 - 1423.32] P:1742.54 E:0.089018 |  and the Europa Conference League next season, I get to see some new sights maybe?
+[1423.32 - 1429.32] P:1695.07 E:0.072878 |  You certainly will, yeah, providing of course you were to get past the playoff round,
+[1429.32 - 1433.32] P:1800.80 E:0.099909 |  as Nathaniel Phillips for Liverpool out towards the far side.
+[1433.32 - 1437.32] P:1766.41 E:0.098074 |  Liverpool were hoping that it was the Champions League rather than the Europa League,
+[1437.32 - 1441.32] P:1905.48 E:0.097433 |  but those aspirations have been dented, a chance though to bring comeback level now here with Mane,
+[1441.32 - 1446.32] P:1957.94 E:0.091927 |  and he just put it wide. Good move from Liverpool, their best of the game so far, 24 minutes played,
+[1446.32 - 1451.32] P:1997.09 E:0.089567 |  it was Thiago who just passed it in towards Mane, and in his 200th start for the club,
+[1451.32 - 1456.32] P:1767.29 E:0.081902 |  his first time right footed shot was off target, and West Brom still lead by Goulton Hill.
+[1456.32 - 1462.32] P:1754.43 E:0.079820 |  That's a big chance, and you look at a man of his prowess, should be hitting the target,
+[1462.32 - 1465.32] P:1701.23 E:0.086787 |  he wants to bend it in that near post, it's a hard one because it's behind him,
+[1465.32 - 1471.32] P:1595.17 E:0.075931 |  it's cut back to him, but excuse it wide, it's good play from Liverpool,
+[1471.32 - 1475.32] P:1624.20 E:0.087100 |  and Thiago who plays a little bit more advanced now that Fabinho's in it,
+[1475.32 - 1480.32] P:1567.43 E:0.079687 |  that deep-lying midfield role, it wasn't the quickest run he's ever made,
+[1480.32 - 1483.32] P:1651.43 E:0.080842 |  but that run off the ball was a clever one, found the space.
+[1483.32 - 1489.32] P:1797.11 E:0.098209 |  There is Thiago playing the ball back, Alexander-Arnold hits it early and hits it long and high,
+[1489.32 - 1493.32] P:1998.79 E:0.097241 |  Johnston with his anticipation comes out of the penalty area to head it away,
+[1493.32 - 1497.32] P:1907.49 E:0.093275 |  and heads it out towards the touch line which is retrieved by Thiago,
+[1497.32 - 1504.32] P:1683.35 E:0.085129 |  over on that far side, the right Thiago now gets it back from Fomino, 25 minutes played,
+[1504.32 - 1508.32] P:1709.82 E:0.090518 |  and it's Liverpool who trail by a Goulton Hill on five-live,
+[1508.32 - 1511.32] P:1703.49 E:0.101024 |  and West Brom and Shelby now have got the ball, and Pereira picks it up,
+[1511.32 - 1515.32] P:1898.48 E:0.086525 |  and the return from Rob Sincano, and Matt Phillips is trying to get on the end of it,
+[1515.32 - 1525.32] P:1545.02 E:0.081855 |  but it was tidied up by Liverpool, and now Allyson back towards Fabinho, Fomino on the halfway line,
+[1525.32 - 1530.32] P:1760.15 E:0.093154 |  literally leaves the ball for Thiago, and he pings it across towards Robertson,
+[1530.32 - 1536.32] P:1870.94 E:0.083502 |  off the chest, drops in front of him, Scottish international inside, Curtis Jones back towards Thiago,
+[1536.32 - 1540.32] P:1811.19 E:0.092375 |  and the Cossillou breaks up the move with a foot into the challenge, but Liverpool get it back,
+[1540.32 - 1544.32] P:1797.73 E:0.093620 |  Curtis Jones coming forward now for Liverpool, Robertson to Mane looking to turn,
+[1544.32 - 1549.32] P:1932.43 E:0.092076 |  looking now to link up with Fomino, and the referee giving a free kick in favour of Liverpool,
+[1549.32 - 1551.32] P:2003.75 E:0.082048 |  and certainly within shooting distance.
+[1551.32 - 1557.32] P:1594.76 E:0.076735 |  Yeah, dangerous area, 25 yards out, Mike Deane deciding to tackle from behind was foul worthy,
+[1557.32 - 1563.32] P:1662.43 E:0.078561 |  and he's looking at it, and it's one that Liverpool this season,
+[1563.32 - 1568.32] P:1749.03 E:0.084113 |  they've struggled against in moments like this where they've gone up against two banks of four,
+[1568.32 - 1572.32] P:1581.93 E:0.082966 |  or four and a five, or whatever it might be, to break these teams down,
+[1572.32 - 1575.32] P:1722.18 E:0.085328 |  this is where they've struggled, and they need to something special,
+[1575.32 - 1581.32] P:1668.40 E:0.073748 |  so perhaps this is Alexander-Arnold territory, and there might be something special.
+[1581.32 - 1588.32] P:1534.66 E:0.071202 |  Well, it must be just under a fraction under 25 yards out from goal,
+[1588.32 - 1594.32] P:1627.78 E:0.092390 |  we're watching from the right of the halfway line, and it's in the end towards our left-hand side,
+[1594.32 - 1599.32] P:1690.94 E:0.094090 |  but it's either going to be the right foot of Alexander-Arnold, or the left foot of Robertson,
+[1599.32 - 1603.32] P:1856.99 E:0.087646 |  and it was the right foot of Alexander-Arnold, took a deflection on its way through off the wall,
+[1603.32 - 1607.32] P:1733.68 E:0.096355 |  and behind for a corner kick, and West Bromwich Albion still lead by a goal to no.
+[1607.32 - 1610.32] P:1687.12 E:0.082287 |  Yeah, good detail from West Bromwich, you expect that from Sam Allard,
+[1610.32 - 1615.32] P:1705.88 E:0.086009 |  I put you to all this man in the way of where the trajectory of the ball is going to go,
+[1615.32 - 1618.32] P:1496.99 E:0.074449 |  off the top of Carl Barclay's head, away for a corner.
+[1619.32 - 1624.32] P:1676.42 E:0.098808 |  So, in swinging corner from this near side, the left for Alexander-Arnold,
+[1624.32 - 1627.32] P:1844.43 E:0.094179 |  both arms are loft, hits it right footed very, very deep,
+[1627.32 - 1631.32] P:1811.22 E:0.095828 |  Nathaniel Phillips has ever so well to head it back into the crowded area,
+[1631.32 - 1636.32] P:1735.03 E:0.082768 |  and cleared by West Bromwich Albion, picked up by Jones,
+[1636.32 - 1640.32] P:1886.84 E:0.093108 |  Tiago now to Curtis Jones, midway through the West Brom half,
+[1640.32 - 1644.32] P:2044.87 E:0.094542 |  Tiago returns the ball to Curtis Jones, sliding in with Gallagher,
+[1644.32 - 1648.32] P:1822.47 E:0.095979 |  referee Mike Dean says he got the ball, West Bromwich Albion though had everybody back,
+[1648.32 - 1652.32] P:1870.89 E:0.091484 |  so when that ball is played out, it's drifted away from Townsend,
+[1652.32 - 1655.32] P:1890.80 E:0.110186 |  Alexander-Arnold now with a ball towards Seller, brings it under control,
+[1655.32 - 1658.32] P:1800.05 E:0.088031 |  and in the end his left footed effort was a little bit weak,
+[1658.32 - 1662.32] P:1835.77 E:0.094002 |  and it frustrated Sam Johnston, but what a delivery from Alexander-Arnold.
+[1662.32 - 1666.32] P:1718.41 E:0.082733 |  Brilliant ball then, and he's just ran out of time and ran out of space,
+[1666.32 - 1670.32] P:1823.27 E:0.094932 |  he got the touch on, and the angle was too tight, the ball was under his feet,
+[1670.32 - 1675.32] P:1598.05 E:0.079486 |  Arne, a little bit disgruntled in the middle that he didn't find him with a cut back.
+[1675.32 - 1678.32] P:1895.59 E:0.097722 |  Robertson heading the ball in field, Yacoshlu heads it forward,
+[1678.32 - 1681.32] P:1963.46 E:0.096020 |  Nathaniel Phillips will head the ball away,
+[1681.32 - 1685.32] P:2009.21 E:0.098395 |  then about four players go for an aerial duel that drops towards Furlong,
+[1685.32 - 1690.32] P:1835.96 E:0.091679 |  hits it forward, Carrera nice first touch, Matt Phillips plays it back for West Bromwich Albion,
+[1690.32 - 1695.32] P:1779.85 E:0.096268 |  28 minutes played, Arne closes down Furlong, out of play it goes for a throw,
+[1695.32 - 1703.32] P:1661.20 E:0.076823 |  West Bromwich Albion still lead through Robertson, Carnoos first Premier League goal
+[1703.32 - 1708.32] P:1582.23 E:0.083406 |  since 2017, scored after a quarter of an hour.
+[1708.32 - 1717.32] P:1560.05 E:0.082051 |  Sam Allagai, I'm sure, is one of those questions where an inspired team selection from Big Sam.
+[1717.32 - 1722.32] P:1687.63 E:0.082689 |  You'll ask him why, and he'll come up with an answer, but sometimes it's just a change,
+[1722.32 - 1726.32] P:1636.17 E:0.082622 |  you just want to have a change, and that's the manager's prerogative.
+[1726.32 - 1731.32] P:1719.04 E:0.081215 |  Of course the key question is, will Sam Allagai's be here next season?
+[1731.32 - 1734.32] P:1720.74 E:0.096674 |  And it's something that he highlighted in his press conference,
+[1734.32 - 1744.32] P:1668.61 E:0.074118 |  and has said that it will be addressed before West Bromwich Albion play Leeds United in the final game next Sunday.
+[1744.32 - 1747.32] P:1780.62 E:0.091990 |  So in that press conference, whether it be Thursday or Friday,
+[1747.32 - 1755.32] P:1578.46 E:0.079927 |  that's when we're likely to find out whether Sam Allagai will remain as West Bromwich Albion's manager.
+[1755.32 - 1757.32] P:1584.58 E:0.097447 |  The most interesting is the challenge.
+[1757.32 - 1760.32] P:1521.02 E:0.088227 |  I'll be interested to see who the decision makers of that are,
+[1760.32 - 1766.32] P:1670.97 E:0.080223 |  because rumours about the ownership as well, so there's bigger questions even more so at the Hall of Thones,
+[1766.32 - 1769.32] P:1603.93 E:0.076417 |  and the future of Sam Allagai as well.
+[1769.32 - 1775.32] P:1783.54 E:0.087527 |  BBC Sport website will of course be able to give you all the answers when they are decided.
+[1776.32 - 1783.32] P:1612.89 E:0.082379 |  And of course you've got the BBC Sport app, so you can peruse at your leisure wherever you may go.
+[1783.32 - 1788.32] P:1587.55 E:0.090317 |  As West Bromwich Albion, approaching the half hour, still lead by a goal to nil.
+[1788.32 - 1796.32] P:1671.91 E:0.087849 |  Liverpool on that far side to the right, deep inside the Albion half, throw aimed towards Mane,
+[1796.32 - 1803.32] P:1709.96 E:0.091861 |  cut out by Gallagher, down it goes for another throw, right down by the corner flag over on that far side.
+[1805.32 - 1809.32] P:1751.36 E:0.096265 |  Not much movement at the minute from the red shirts of Liverpool.
+[1812.32 - 1818.32] P:1633.91 E:0.094714 |  Alexander-Arnold struggling to pick out an option, and eventually it was to Favigno,
+[1818.32 - 1821.32] P:1726.76 E:0.094413 |  but it was easily dealt with by West Bromwich Albion's defence,
+[1821.32 - 1825.32] P:1619.66 E:0.098451 |  but it will be another Liverpool throw, but it's midway through the Albion half.
+[1825.32 - 1827.32] P:1819.13 E:0.081479 |  They try and take it quickly on this occasion.
+[1827.32 - 1832.32] P:1896.27 E:0.084700 |  Curtis Jones leaves it for Alexander-Arnold, Nathaniel Phillips and Favigno.
+[1832.32 - 1835.32] P:1743.73 E:0.093496 |  So he'll hit that little bit back towards Reese Williams,
+[1835.32 - 1839.32] P:1871.82 E:0.089719 |  who had to turn back to the way to face his own goalkeeper, Alison,
+[1839.32 - 1842.32] P:1778.97 E:0.092161 |  and steer it all the way back towards his goalkeeper,
+[1842.32 - 1847.32] P:1815.82 E:0.094291 |  and now Thiago takes over just outside the centre-circle of the Liverpool half to Mane,
+[1847.32 - 1855.32] P:1617.02 E:0.078694 |  lays it off to a trotting Thiago, and then Thiago plays it towards Nathaniel Phillips.
+[1855.32 - 1860.32] P:1709.64 E:0.095498 |  Alexander-Arnold is pushed ahead of him over on that right-hand side, in field to Favigno,
+[1860.32 - 1864.32] P:1776.34 E:0.094127 |  35 yards out from goal. Thiago now strokes it along the ground.
+[1864.32 - 1868.32] P:1864.28 E:0.090139 |  This now is with Robertson left corner of the area, playing in front of West Bromwich Albion,
+[1868.32 - 1872.32] P:1937.95 E:0.095976 |  still trailing by a goal to Niel. Thiago to Alexander-Arnold with his back to goal,
+[1872.32 - 1875.32] P:1974.93 E:0.098156 |  able to turn, gets it out onto his left foot,
+[1875.32 - 1878.32] P:1865.31 E:0.099906 |  but the shot from the edge of the area was always high and wide, and off target,
+[1878.32 - 1880.32] P:1862.91 E:0.087316 |  and it'll be a goal kick to West Brom.
+[1880.32 - 1884.32] P:1578.69 E:0.079765 |  More and more Liverpool come into the game, finding their feet,
+[1884.32 - 1888.32] P:1556.09 E:0.080568 |  but look at this West Brom team, they've got the numbers there, they've got the bodies there,
+[1888.32 - 1893.32] P:1652.93 E:0.083678 |  and it's a snapshot from Trent Alexander-Arnold, 20 yards out on his weaker foot,
+[1893.32 - 1900.32] P:1594.31 E:0.079968 |  thinking, look, Salah had a nice 31 minutes in, that's the sum total of their efforts really,
+[1900.32 - 1907.32] P:1707.92 E:0.077335 |  looking at Mane's missed shot, Salah had a snapshot, a little flick of a shot, that's about it.
+[1907.32 - 1912.32] P:1706.92 E:0.088454 |  He'll be very content, I would imagine, Salah had a nice, who's unbeaten,
+[1912.32 - 1917.32] P:1811.51 E:0.088102 |  in his last five Premier League games against Liverpool.
+[1917.32 - 1923.32] P:1869.31 E:0.087946 |  Tony Puglis once went on a unbeaten run of six, that'll be an uncontested drop ball,
+[1923.32 - 1929.32] P:1969.44 E:0.092930 |  because referee Mike Dean got in the way of Fabinho, he's taken that very, very quickly to Firmino,
+[1929.32 - 1934.32] P:1748.43 E:0.080828 |  looking for an equaliser. Here is Mane now, Mane,
+[1934.32 - 1939.32] P:1780.29 E:0.099520 |  get that quite hard at a short distance from Firmino, and Salah's not on what a goal,
+[1939.32 - 1943.32] P:2012.27 E:0.094758 |  brilliant goal from Salah, just a snapshot, came to never so quickly,
+[1943.32 - 1948.32] P:1962.27 E:0.096226 |  Mane originally had lost the ball, he helped with it back, and Salah instinctively hit it first time,
+[1948.32 - 1954.32] P:1841.26 E:0.091128 |  took everybody by surprise, brilliant goal by Salah, and Liverpool are back level, 1-1.
+[1954.32 - 1961.32] P:1588.72 E:0.070494 |  Something out of nothing, Salah's a little bit, it's gone down injured, in the process of scoring that goal,
+[1961.32 - 1965.32] P:1529.28 E:0.075155 |  but what does well is Mane's work rate, he's willing this to work,
+[1965.32 - 1969.32] P:1795.31 E:0.079056 |  and the ball drops in front of Carl Bartley, and he wants to clear the ball,
+[1969.32 - 1974.32] P:1830.16 E:0.086317 |  he realises that he's going to get in front of him, and so doesn't take this big swipe,
+[1974.32 - 1979.32] P:1724.75 E:0.082219 |  clearing the ball and allows Mane to just get that little toe in, it comes to Salah,
+[1979.32 - 1987.32] P:1717.89 E:0.080591 |  and his shot is perfect, in off the far corner, Sam Johnson, full stretch, full dive, no chance,
+[1987.32 - 1990.32] P:1668.87 E:0.068011 |  and it's something out of nothing from a special player.
+[1990.32 - 1996.32] P:1860.64 E:0.083552 |  A special player, yeah, really was, terrific effort, just hit it first time off that left foot of his,
+[1996.32 - 2002.32] P:1884.60 E:0.096026 |  and just kissing the inside of the left hand post, but originally Mane drilled that ball quite hard at Femina,
+[2002.32 - 2009.32] P:1861.00 E:0.090003 |  that's why Liverpool lost it momentarily, but as Rob quite rightly says, it was Mane's persistence,
+[2009.32 - 2016.32] P:1791.53 E:0.077804 |  they just got that toe in to help win it back, and then Salah, just a first time instinctive effort,
+[2016.32 - 2019.32] P:1792.38 E:0.089991 |  and Johnston didn't have time to see it coming, did he?
+[2019.32 - 2023.32] P:1763.41 E:0.082849 |  You can see all the time you want for those, but it just feels like when you're in the goal,
+[2023.32 - 2027.32] P:1735.15 E:0.089913 |  because it's bending up front with his left foot into your right hand corner,
+[2027.32 - 2033.32] P:1708.30 E:0.084727 |  it feels like it's so far away, and you could have 10ft long arms and still not get there,
+[2033.32 - 2035.32] P:1848.09 E:0.072142 |  and it's just a wonderful finish.
+[2035.32 - 2040.32] P:1851.87 E:0.093694 |  It also means he draws level with Harry Kane in the race for the Golden Boot,
+[2040.32 - 2047.32] P:1783.26 E:0.088745 |  with 22 goals apiece now for the two of them, but Liverpool dusted themselves down,
+[2047.32 - 2052.32] P:1807.47 E:0.095618 |  and now looking to try and go in front with 11 minutes to go to half time here at the Hawthorne's,
+[2052.32 - 2055.32] P:1733.77 E:0.091539 |  and here is Mane, opens up for Mane, holds onto the ball maybe a little bit too long,
+[2055.32 - 2060.32] P:1998.80 E:0.098609 |  the back heel might break towards Femina, off! So unlucky, Femina denied by the post,
+[2060.32 - 2065.32] P:2032.68 E:0.103164 |  comes back towards Robertson, Robertson's cross is charged down, Favino's kept it alive,
+[2065.32 - 2070.32] P:1913.60 E:0.097815 |  Mane at the far post, still the danger remains, Westbrook, Albin eventually get the ball away.
+[2071.32 - 2076.32] P:1741.13 E:0.087043 |  One side of the post and it goes in, the other side of the post it stays out,
+[2076.32 - 2085.32] P:1544.18 E:0.073035 |  a brilliant strike, Femina this time, same post, different angle, 15, 16 yards out,
+[2085.32 - 2091.32] P:1631.53 E:0.080371 |  say it's a brilliant strike, you think he's got the time, unlike Salahas, to pick his spot,
+[2091.32 - 2095.32] P:1443.36 E:0.056407 |  and he just doesn't get it right.
+[2095.32 - 2100.32] P:1556.76 E:0.080843 |  Now they're creating a threat, I think they've upped it, they've upped it a few notches,
+[2100.32 - 2104.32] P:1829.64 E:0.092615 |  they were getting on top, and also interesting that Yucuzlu was doing a great job
+[2104.32 - 2109.32] P:1843.42 E:0.079482 |  picking up, moving around, just getting a little bit tired, 35 minutes in,
+[2109.32 - 2113.32] P:1693.46 E:0.079183 |  he's been doing a lot of tracking around, and he's not picking up the players
+[2113.32 - 2116.32] P:1716.15 E:0.076233 |  as he was in the first 15-20 minutes.
+[2116.32 - 2120.32] P:1807.86 E:0.086480 |  Liverpool, got some work to do here, it goes all the way through to Robson Karno,
+[2120.32 - 2124.32] P:2018.99 E:0.102415 |  who's in a game, he actually looked for a similar finish to when he scored the goal
+[2124.32 - 2129.32] P:1835.47 E:0.093802 |  after 15 minutes, but very good work from Alexander-Arnold to come across the right back
+[2129.32 - 2132.32] P:1835.83 E:0.086672 |  and to get that block in and see it behind for a corner kick.
+[2132.32 - 2136.32] P:1678.21 E:0.080057 |  Now, Filipe's just got horribly wrong, just went for a header,
+[2136.32 - 2140.32] P:1608.12 E:0.084471 |  I don't know what happened, but his legs just buckled underneath him and didn't get any height
+[2140.32 - 2146.32] P:1693.27 E:0.069696 |  into the jump, ball over his top, but Trent Alexander-Arnold, brilliant recovery.
+[2146.32 - 2150.32] P:1675.44 E:0.076720 |  Gonna be a corner kick for West Bromwich Albion.
+[2150.32 - 2156.32] P:1588.13 E:0.069249 |  1-1 then at the Hawthorne's 5-Live in the World Service.
+[2156.32 - 2161.32] P:1725.59 E:0.093561 |  It's Pereira who takes it, almost goes all the way in, it was Allison, watchful goalkeeping
+[2161.32 - 2164.32] P:1765.85 E:0.089079 |  to punch that ball away from the needed crossbar.
+[2164.32 - 2172.32] P:1570.58 E:0.079655 |  Very, very well there, cos he's occupied by three West Brom players and he can get caught out in those.
+[2172.32 - 2177.32] P:1759.95 E:0.093355 |  Pereira once again, in it comes another in-swinger, headed up by Nathaniel Phillips,
+[2177.32 - 2182.32] P:2009.51 E:0.092364 |  Shamir Jai, he heads it, Goldwood's picked up by Allison, if he can get it out to Alexander-Arnold
+[2182.32 - 2186.32] P:1866.55 E:0.099663 |  there could have been a break, in the end he'll roll the ball out towards Nathaniel Phillips.
+[2186.32 - 2192.32] P:1908.69 E:0.099783 |  Alexander-Arnold went through the Liverpool half, nine minutes to go to half-time, 5-Live, 1-1.
+[2192.32 - 2195.32] P:1861.82 E:0.083935 |  Such an important game in the race for the top four.
+[2195.32 - 2204.32] P:1702.65 E:0.073575 |  Fabinho, Nathaniel Phillips first time, Tiago now to Reese Williams, the tall lean young defender.
+[2204.32 - 2211.32] P:1848.56 E:0.091059 |  He's 20 years of age, breakthrough season and you consider that he made his debut against Lincoln City
+[2211.32 - 2216.32] P:1864.04 E:0.084956 |  in the league cup in September, this is his 17th appearance now for Reese Williams
+[2216.32 - 2219.32] P:1807.22 E:0.107387 |  to carry the ball now towards the half-way line.
+[2219.32 - 2224.32] P:1746.69 E:0.082401 |  That's not a bad ball either, if Salah can keep it in play, Salah just couldn't
+[2224.32 - 2229.32] P:1895.60 E:0.095350 |  as he was forced out towards the corner flag, but nevertheless he applauses the idea from the young defender.
+[2229.32 - 2231.32] P:1772.44 E:0.083918 |  Eight minutes to go to the break, 1-1.
+[2231.32 - 2238.32] P:1525.76 E:0.088364 |  He got applauded for one player, he had about six others turn into him, he got calm down, just keep the ball for a minute.
+[2241.32 - 2247.32] P:1473.05 E:0.082213 |  Joltzten to take the gold kick and he goes long.
+[2247.32 - 2261.32] P:1574.61 E:0.078627 |  Tiago wins that duel with D'Angana, Alexander-Arnold coming forward and with him was Firmino,
+[2261.32 - 2266.32] P:1771.44 E:0.094319 |  his attempted cross was blocked, it's won back though by Tiago for Liverpool,
+[2266.32 - 2276.32] P:1672.73 E:0.081723 |  Firmino now has it, Firmino, Liverpool all in red, playing from right to left, Salah through ball was blocked by Gallagher.
+[2276.32 - 2282.32] P:1706.10 E:0.082388 |  Curtis Jones makes sure that it doesn't reach Robson Canu, passes the ball out towards Tiago,
+[2282.32 - 2294.32] P:1642.90 E:0.076132 |  both full backs are high for Liverpool, Tiago to Firmino, Reese Williams just outside the centre-circle of his own half.
+[2294.32 - 2302.32] P:1791.75 E:0.085875 |  Robson drops back near the halfway line and then played out towards Nathaniel Phillips who comes forward now.
+[2302.32 - 2308.32] P:1734.59 E:0.093051 |  The ball inside by Alexander-Arnold, played on the inside by Salah, Firmino back towards Salah,
+[2308.32 - 2313.32] P:1871.62 E:0.095402 |  West Bromwich Albion and Yacoshlu and Gallagher but always under pressure because of the Liverpool press,
+[2313.32 - 2319.32] P:1989.99 E:0.093176 |  Shemi Ajayi from the back, a curling forward ball, Matt Phillips I think had stayed onside,
+[2319.32 - 2325.32] P:1909.72 E:0.097716 |  here he is now against Reese Williams, the cross though, there's nobody in that penalty area to meet it for West Bromwich Albion.
+[2325.32 - 2335.32] P:1582.26 E:0.078559 |  They're tiring West Brom and at the start of the game they were making those runs, they were getting there but after defending the penalty area for 40 minutes
+[2335.32 - 2342.32] P:1673.69 E:0.090544 |  that run seems a long, long way all of a sudden but it's an interesting one, it's a game within a game that West Brom is saying will stay in our shape,
+[2342.32 - 2346.32] P:1698.25 E:0.084187 |  how many bodies are you going to commit forward because we're going to leave one or two up.
+[2346.32 - 2354.32] P:1722.53 E:0.087027 |  Ball forward, Robertson to Mane, picks out Firmino, edge of the area, tried to go centrally for the run of Salah,
+[2354.32 - 2364.32] P:1770.76 E:0.088998 |  Townsend clears for West Bromwich Albion, Nathaniel Phillips will come across and Nathaniel Phillips will go all the way back to Allyson,
+[2364.32 - 2372.32] P:1790.81 E:0.085456 |  five minutes to go at a half time, 1-1 and Liverpool starting to pose many more problems for West Bromwich Albion
+[2372.32 - 2381.32] P:1685.63 E:0.094005 |  than they did in the start of the game. Here is Mane coming deep to collect the ball, Thiago, Alexander-Arnold has gone motoring on that right hand side,
+[2381.32 - 2389.32] P:1809.94 E:0.092530 |  wasn't spotted back with Thiago once again, chips the ball forward, Salah makes the run into the penalty area, tries to play it back to Alexander-Arnold,
+[2389.32 - 2394.32] P:1962.96 E:0.094415 |  it will reach the England international from West Bromwich Albion's clearance all the time in the world to pick out Thiago,
+[2394.32 - 2401.32] P:1951.52 E:0.100228 |  the reverse ball, Firmino with a drill shot that was blocked, Alexander-Arnold now Liverpool are in control but it's 1-1.
+[2401.32 - 2412.32] P:1857.47 E:0.090363 |  Firmino towards Salah, the return ball, Firmino hits it first time and scooped up and gathered just off the surface there inside the six yard area by Johnston.
+[2412.32 - 2421.32] P:1714.68 E:0.079641 |  Good hands there from Sam Johnston because they're dangerous down by your feet but you actually got his hands out in front of his body way out so you can control the ball,
+[2421.32 - 2430.32] P:1673.29 E:0.089074 |  you can feel it in front of you, you know where it is rather than getting stuck under your body or slipping away but Liverpool more and more in control
+[2430.32 - 2442.32] P:1693.57 E:0.078054 |  because West Brommer in this 4-4-2 you're asking Gallagher and Yacoszlou to cover so much ground in the middle of the midfield that now after 40 minutes they just can't do it and they're getting passed around.
+[2442.32 - 2456.32] P:1597.02 E:0.081555 |  Four and a bit minutes to go at a half time, Liverpool have equalised through Salah, now with Udmane to Robertson, Kersis Jones keeping the ball,
+[2456.32 - 2465.32] P:1733.80 E:0.093335 |  West Brommer, Jalbin at the minute have everybody back behind the ball, Reese Williams kills it across, Thiago once again finding the space and now running into it,
+[2465.32 - 2475.32] P:1903.74 E:0.100562 |  little step over as well thrown in by Thiago, 30 yards out from goal, his ball reaches Mane, Mane cuts inside, goes for a curling effort and it's headed over by Kyle Bartley
+[2475.32 - 2482.32] P:1662.22 E:0.089241 |  and it might well have been a telling touch too because that goal bound from our angle instead it's a corner kick at 1-1.
+[2482.32 - 2491.32] P:1680.10 E:0.081921 |  Last tired bodies on the pitch now looking at that Mane just buying himself a yard of space and the West Brom players just can't get tight.
+[2491.32 - 2503.32] P:1690.80 E:0.082120 |  Kyle Bartley coming across, tracking across into the penalty area, last ditch defending, corner kick then 4, Liverpool, Alexander-Arnold to take it, headed away by Bartley,
+[2503.32 - 2515.32] P:1816.92 E:0.095625 |  and they make out towards Alexander-Arnold, Carrera hooks the ball clear for West Brommer, Jalbin but they had every whitened striped Navy shirt back and as a result when Fibinho controls the ball inside the centre circle,
+[2515.32 - 2527.32] P:1711.11 E:0.083473 |  Liverpool have the ball back to Thiago, 3 minutes to go to half time on 5 live, here is Robertson, Mane inside, Fimino have the bit between the teeth now to Liverpool,
+[2527.32 - 2543.32] P:1713.45 E:0.079350 |  here is Fibinho, Curtis Jones right corner of the area, diverted out of play for a Liverpool throw that Alexander-Arnold quickly wants to take to Salah just in from the byline.
+[2543.32 - 2553.32] P:1771.23 E:0.094576 |  Back to Alexander-Arnold, Alexander-Arnold with a cross swept away on the half volley by Kyle Bartley, directed the header back by Curtis Jones to Alexander-Arnold,
+[2553.32 - 2560.32] P:1798.53 E:0.082752 |  foul there, 3 kick to West Brommer, Jalbin and we have just over 2 minutes to go to half time.
+[2560.32 - 2572.32] P:1593.82 E:0.086709 |  West Brommer would be grateful for the break, they've been defending for a long period of time now and just need to get it through to half time and I'm surprised that they haven't dropped how Robson, Carno into midfield or Carrera,
+[2572.32 - 2584.32] P:1722.07 E:0.079353 |  or Carrera, one of the two just to sit, just to come that little bit deeper to help out because with Trent Alexander-Arnold and Robertson pushing up so high, the wing has kind of have to drop into the defence,
+[2584.32 - 2590.32] P:1666.38 E:0.078811 |  they have to track back and that creates even more space for the midfield to have to cover.
+[2590.32 - 2605.32] P:1724.51 E:0.082272 |  1-1, 5-live, Thiago, forward ball cut out by Matt Phillips for West Brommer, Jalbin and there was a foul there on Gallagher by Firmino,
+[2605.32 - 2615.32] P:1825.85 E:0.096739 |  because it looked so promising for West Brommer, Jalbin when they took the lead after 15 minutes, but Albion have lost their last 17 homely games against the reigning champions,
+[2615.32 - 2630.32] P:1798.84 E:0.086496 |  the aggregate score before today certainly wasn't good, conceding 44 and only scoring 9, however their last success against the reigning champion was Liverpool all the way back in the 80-81 campaign.
+[2630.32 - 2632.32] P:1395.38 E:0.074628 |  It was only a...
+[2633.32 - 2636.32] P:1651.63 E:0.118272 |  It was newborn, so worried, whatever you were going to say.
+[2636.32 - 2639.32] P:1664.52 E:0.081269 |  I was a little wheeled myself at the time, I think.
+[2641.32 - 2652.32] P:1727.80 E:0.089120 |  But anyway, it's 1-1 now, Yacoshlou, was he fouled by Firmino? Yes, as the referee, and that'll be a direct free kick for West Brommer, Jalbin.
+[2653.32 - 2661.32] P:1631.28 E:0.076645 |  And just under 30 yards out from goal, and fractionally, it's right of centre.
+[2661.32 - 2671.32] P:1710.12 E:0.089021 |  Now, Yacoshlou, who was fouled, is back on his feet, but the physios are going to come on and tend to Kyle Bartley, who's got a facial injury,
+[2671.32 - 2682.32] P:1712.48 E:0.076427 |  so this might take a little bit of time just to stem the flow of blood from an aerial duel with Nathaniel Phillips.
+[2683.32 - 2695.32] P:1618.36 E:0.072614 |  Now, Phillips got his arms up to try and make the challenge and caught Kyle Bartley there, but, you know, Mike Dean was going to not give the free kick against Firmino for the trip,
+[2695.32 - 2702.32] P:1756.12 E:0.083007 |  but changed his mind and did so rightly, was a foul, and, you know, what they've seen it through to half-time all being equal,
+[2702.32 - 2710.32] P:1663.14 E:0.078583 |  and West Brommer, if they do nick something from the free kick, brilliant, but I think Sam Allardyce will be pleased that they dug in there,
+[2710.32 - 2717.32] P:1697.33 E:0.081915 |  yeah, their heads could have dropped off to concede in that goal, they could have gone two or three down, but they've dug in and seen it through.
+[2717.32 - 2728.32] P:1867.65 E:0.083822 |  Three minutes of stoppage time in this first half, which, of course, will be longer than that, just due to the very nature that the two physios are still tending to Bartley,
+[2728.32 - 2737.32] P:1652.61 E:0.082798 |  the West Brommer, Jalbin defender, and also when play does resume, West Brommer, Jalbin might fancy a little dig at goal from distance.
+[2737.32 - 2749.32] P:1641.92 E:0.075684 |  Pereira scored one earlier in the season against Everton from a similar distance, and it was a wonderful free kick, one of the free kicks of the season, and he looked fancy as chances.
+[2749.32 - 2766.32] P:1465.79 E:0.068043 |  So still Bartley is getting patched up with that facial injury, and that is why there is still the delay.
+[2766.32 - 2779.32] P:1586.18 E:0.070110 |  I've played with Carl Bartley at Leeds United, and I seem to remember him playing with bandages on his head more often than not, so he's not shy to an aerial challenge and clash of heads.
+[2779.32 - 2789.32] P:1751.60 E:0.087140 |  Just having a look at it, it's a cut, which is just above the left eye, and there's a little bit of tape and vaseline, I think, that has been applied to that,
+[2789.32 - 2795.32] P:1931.20 E:0.090842 |  and of course in about three minutes time they'll be able to properly look at that in the half time, but they'll just want him to remain out there.
+[2795.32 - 2808.32] P:1706.11 E:0.077415 |  But when it does resume, he's now back on his feet, it's going to be this free kick, which is right of centre, and it's just under 30 yards out from goal here on five live.
+[2808.32 - 2811.32] P:1748.77 E:0.075145 |  West Brommer, Jalbin one, Liverpool one.
+[2811.32 - 2821.32] P:1510.41 E:0.065919 |  Pereira, or even maybe does Matt Phillips fancy a little pop here as well.
+[2821.32 - 2834.32] P:1726.95 E:0.071370 |  He's poised, Matt Phillips. Bartley is actually still getting treatment off the field of play, temporarily West Brommer, Jalbin it down to ten.
+[2834.32 - 2839.32] P:1844.97 E:0.086184 |  So will it be the right foot of Matt Phillips, or the left foot of Pereira?
+[2840.32 - 2852.32] P:1827.09 E:0.086890 |  Allison has marshaled his wall, it's going to be left to Pereira, and Pereira strikes it and it's over the top, couldn't find the range, off target, goal kick, still West Brommer, Jalbin one, Liverpool one.
+[2852.32 - 2863.32] P:1754.82 E:0.086540 |  Didn't quite get it right, and talking about attention to detail at the other end, and Liverpool's wall is so tall, and they also had Thiago lying on the floor as the draft excluder,
+[2863.32 - 2867.32] P:1801.24 E:0.081821 |  makes it a really tall order in more ways than one.
+[2867.32 - 2877.32] P:1914.39 E:0.087268 |  Bartley, who's back out in the field of play, cutting out a ball that was intended for Salah, his forward ball then deflected out of play for a West Brommer, Jalbin throw,
+[2877.32 - 2885.32] P:1825.60 E:0.089496 |  and when that board was put up three minutes ago, those three minutes now would have elapsed, however due to the length of that injury to Bartley,
+[2885.32 - 2897.32] P:1699.57 E:0.079183 |  that's why Mike Dean is just playing the extra time, his own discretion, until he decides that the half-time whistle has sounded,
+[2897.32 - 2903.32] P:1886.02 E:0.085628 |  but Liverpool will certainly go into the break level pegging, but still work to do in the second half,
+[2903.32 - 2911.32] P:1972.19 E:0.088323 |  because they need ideally the three points to put real pressure on Leicester City and Chelsea, Leicester 66, Chelsea 64,
+[2911.32 - 2919.32] P:1890.67 E:0.090429 |  and Liverpool currently on 61 with the point that they've got here as the header away from Ajay, Mane, leans into Gallagher,
+[2919.32 - 2925.32] P:1911.66 E:0.096769 |  and fairly so says referee Mike Dean, and Gallagher's gone to ground and the referee will have to blow his whistle again,
+[2925.32 - 2934.32] P:1872.01 E:0.084201 |  because that'll be a free kick that West Brom wanted to take quickly, as Jürgen Klopp complains in the direction of the match official,
+[2934.32 - 2937.32] P:1741.86 E:0.065572 |  but he'd spotted that Gallagher was down.
+[2937.32 - 2943.32] P:1635.21 E:0.087671 |  That's a good decision from Gallagher and Jürgen Klopp, he's going absolutely berserk in the technical area,
+[2943.32 - 2950.32] P:1823.79 E:0.080944 |  because it was a really poor free kick to take quickly, poor decision, I mean they're trying to break early,
+[2950.32 - 2954.32] P:1897.91 E:0.081990 |  I had no idea why, there was one against three at the back, but just killing the...
+[2954.32 - 2959.32] P:1895.12 E:0.082474 |  Conagalli did the right thing, trying to kill it through to half-time and just take a knee for a moment.
+[2959.32 - 2965.32] P:2037.27 E:0.084317 |  It's poor old Andrew Madley who's got to try and placate the Liverpool manager, 1-1.
+[2965.32 - 2970.32] P:2007.46 E:0.095368 |  West Brom and Chalbion, down by the corner flag right-hand side, Matt Phillips rolls the ball back,
+[2970.32 - 2976.32] P:1806.85 E:0.087872 |  Furlong hits it first time, delivered deep, missed by Alexander Arnold.
+[2976.32 - 2984.32] P:1828.04 E:0.095145 |  Ajay there, rolls it to D'Angana, D'Angana outside the penalty area, and then the Gallagher with the cross,
+[2984.32 - 2991.32] P:1728.97 E:0.089854 |  ooh, flapping at that was Allison, he says he was impeded, and the referee Mike Dean agrees and blows his whistle.
+[2991.32 - 2997.32] P:1728.14 E:0.088945 |  Good goalkeeping I say, you say flapping, I say good goalkeeping, came out, got made contact with the ball
+[2997.32 - 3003.32] P:1638.91 E:0.074947 |  and won a free kick for his team, not sure it was too much of a free kick, he has a grin himself.
+[3003.32 - 3010.32] P:1803.53 E:0.077925 |  The goalkeeper's union is as strong as ever, when was it that you finished playing?
+[3010.32 - 3014.32] P:1615.89 E:0.073105 |  Two years ago? He's never finished as a goalkeeper.
+[3014.32 - 3018.32] P:1785.19 E:0.093199 |  It certainly hasn't expired, let's put it that way, your membership.
+[3018.32 - 3021.32] P:1869.67 E:0.094428 |  It's 1-1, 5-5 here at the Hall Thorns.
+[3021.32 - 3026.32] P:2050.14 E:0.102954 |  Robbson-Karner is the half-time whistle sound, gave West Brom and Chalbion the lead after 15 minutes,
+[3026.32 - 3035.32] P:2022.74 E:0.088838 |  but Salah equalised after 33 minutes for Liverpool, so at half-time here at the Hall Thorns, West Brom and Chalbion won, Liverpool won.
+[3035.32 - 3039.32] P:1870.04 E:0.090861 |  Two lovely finishes Robb Green, you'd have thought Robbson-Karner was his 21st of the season?
+[3039.32 - 3044.32] P:1910.29 E:0.082117 |  So much confidence on it, and you talk about it as a goalkeeper, you stand there and say,
+[3044.32 - 3048.32] P:1832.51 E:0.087559 |  you're making a beat, you're letting a beat, you don't commit, and Allison did the right thing by standing there and saying,
+[3048.32 - 3051.32] P:1644.49 E:0.084046 |  go on, beat me, beat me on the ankle, and he did, and it was brilliant.
+[3051.32 - 3056.32] P:1905.05 E:0.089317 |  He had a lot of time when you think about it, his touch was so good, he had time to pick his spot
+[3056.32 - 3064.32] P:1927.12 E:0.082007 |  and bend it in that far corner, it was a great finish, and then probably topped by Salah's more instinctive finish,
+[3064.32 - 3071.32] P:1919.97 E:0.074275 |  and one that just fired in that, drilled it and bent it with the pace, with the zip, really two really good finishes, as you say.
+[3071.32 - 3078.32] P:1900.25 E:0.089317 |  Two great goals, but Liverpool need another goal of any sort if they're to keep their top four prospects in their own hands.
+[3078.32 - 3083.32] P:1859.01 E:0.085971 |  We'll have second half commentary to come from the Hall Thorns, we've also got Everton Sheffield united at 7 o'clock
+[3083.32 - 3088.32] P:1981.03 E:0.077860 |  and the Women's Champions League final, Chelsea Barcelona at 8.
+[3088.32 - 3092.32] P:2068.26 E:0.080770 |  Nadal Djokovic is going on right now in the Rho Masters final, Russell Fuller.
+[3092.32 - 3097.32] P:1809.51 E:0.082172 |  And Raphael Nadal from an early breakdown is now serving for the set.
+[3097.32 - 3104.32] P:1868.20 E:0.089864 |  Love 30 down, mind you, but leading Novak Djokovic by six games to five under dark grey skies in Rome.
+[3104.32 - 3109.32] P:1996.56 E:0.080603 |  There's a socially distanced crowd, there was also a nasty tumble for Nadal as he tripped on the line.
+[3109.32 - 3115.32] P:1945.56 E:0.088864 |  Yes, they actually nail the lines to the clay in Rome. He was furious, fearing injury seems to be fine,
+[3115.32 - 3120.32] P:1789.49 E:0.064815 |  but it's the first time I've ever seen a man walking onto a clay court with a hammer in his hand.
+[3120.32 - 3124.32] P:2059.48 E:0.075184 |  It's also the final day of the latest round of county championship matches.
+[3124.32 - 3128.32] P:1720.54 E:0.087163 |  Kevin Houses across all of this has always a record breaking day in Durham, Kevin.
+[3128.32 - 3134.32] P:2124.07 E:0.073933 |  Yeah, well done to Chris Rushworth, brilliant from Rushworth, leading wiki taker in first class cricket for Durham.
+[3134.32 - 3140.32] P:2021.65 E:0.086948 |  Needed 528 to get over the 527 mark when he was equal with Grey Monions,
+[3140.32 - 3146.32] P:2070.94 E:0.090296 |  actually ended with 531 in a victory for Durham over Worcestershire by 258 runs.
+[3146.32 - 3152.32] P:2085.72 E:0.085390 |  Rushworth with nine wickets in that game, Simon Harmer of Essex in the same group,
+[3152.32 - 3157.32] P:2138.62 E:0.084343 |  12 wickets in the match as Essex beat Derbyshire by an innings and 15 runs.
+[3157.32 - 3163.32] P:2073.59 E:0.082701 |  It means that Essex at top of that group, Durham in second, just three points behind, they've played one game fewer.
+[3163.32 - 3169.32] P:2046.09 E:0.088084 |  Yorkshire ended their game with Glamorgan as a draw, it means Yorkshire do go top of their group over Lancashire.
+[3169.32 - 3176.32] P:2151.54 E:0.083891 |  Kieran Carson was on 88-not-out, Glamorgan 164 for four, it was a lead of 83 runs
+[3176.32 - 3182.32] P:2138.11 E:0.079441 |  when eventually handshakes were taken at 10 pass 5, we didn't get on until just after four o'clock because of the rain.
+[3182.32 - 3190.32] P:2087.09 E:0.080589 |  And what else to tell you about just one other story really, Jack Leaning 127-not-out as Kent drew their game with Sussex at Hove.
+[3190.32 - 3197.32] P:1976.57 E:0.073805 |  Kevin, thank you very much. We'll hear from Roy Hodgson and Deli Alley and talk Chelsea Barcelona after the news with Joe Critcher.
+[3197.32 - 3204.32] P:1712.05 E:0.107958 |  Listen on BBC Sounds, this is BBC Radio 5 Live.
+[3204.32 - 3212.32] P:1497.36 E:0.089644 |  The Health Secretary, Matt Hancock says there's a high degree of confidence that coronavirus vaccines will offer protection from the Indian variants.
+[3212.32 - 3218.32] P:1697.08 E:0.079037 |  He says tomorrow's easing of restrictions in England will go ahead, but he's urging people to be cautious.
+[3218.32 - 3226.32] P:1693.48 E:0.075002 |  Surge testing and vaccinations are underway in hotspot areas, so Mark Walport is a former chief scientific advisor to the government.
+[3226.32 - 3233.32] P:1780.98 E:0.072602 |  There's high confidence that it's more transmissible and this realistic possibility that it could be as much as 50% more transmissible,
+[3233.32 - 3241.32] P:1796.26 E:0.080045 |  which if it turns out to be the case will be problematic, which is why we are really in a race between the virus and the vaccine.
+[3241.32 - 3247.32] P:1664.24 E:0.082954 |  The latest figures show another four people have died in the UK within 28 days of a positive Covid test.
+[3247.32 - 3252.32] P:1648.26 E:0.076639 |  More than 36 and a half million people though have now had their first vaccine dose.
+[3252.32 - 3257.32] P:1549.16 E:0.068628 |  Those aged 35 and over in England will be offered a vaccine this week.
+[3257.32 - 3263.32] P:1748.47 E:0.081067 |  A two-year-old boy has died after an explosion destroyed a row of houses in Heisham in Lancashire.
+[3263.32 - 3270.32] P:1711.05 E:0.077789 |  He's been named as George Hines. Two people are critically injured and investigation is underway into the cause.
+[3270.32 - 3281.32] P:1680.91 E:0.082414 |  The UN Secretary-General Antonio Guterres has told a meeting of the Security Council that the hostilities between Israel and the Palestinians are appalling and must stop immediately.
+[3281.32 - 3287.32] P:1585.77 E:0.076452 |  More than 180 Palestinians and at least 10 Israelis have died in seven days of violence.
+[3287.32 - 3295.32] P:1552.97 E:0.082424 |  And police in Glasgow say they expect to make many more arrests following last night's disorder as Rangers fans celebrated their premiership win.
+[3295.32 - 3300.32] P:1613.76 E:0.071010 |  Three police officers were injured and 20 people were detained.
+[3311.32 - 3315.32] P:1523.52 E:0.106188 |  The theories of my podcast and the guests I've got lined up are incredible.
+[3315.32 - 3319.32] P:1500.70 E:0.109322 |  From the legendary Sir Tom Jones to National Treasure Sir Mo Farrah.
+[3319.32 - 3322.32] P:1490.23 E:0.116579 |  Anything is possible in life. If you condition yourself you can get through it.
+[3322.32 - 3325.32] P:1727.20 E:0.108122 |  It's all about sharing ways to help you live a healthier and happier life.
+[3325.32 - 3331.32] P:1755.73 E:0.116812 |  I want people to dream big, to think big. The only thing that stands in our way is ourselves.
+[3331.32 - 3335.32] P:1041.59 E:0.128770 |  The Joe Wicks podcast. Listen now on the BBC Sounds app.
+[3335.32 - 3340.32] P:1859.72 E:0.098253 |  Five Lives Premier League Sunday with Steve Crossman.
+[3340.32 - 3344.32] P:1819.28 E:0.086000 |  West Brom 1, Liverpool 1, second half commentary on the way from the Hawthorns.
+[3344.32 - 3349.32] P:1859.71 E:0.072029 |  Let's get some reaction to the other two games we've already had on the Premier League this afternoon.
+[3349.32 - 3352.32] P:1952.19 E:0.070412 |  Crystal Palace beat Aston Villa 3-2.
+[3352.32 - 3356.32] P:1844.52 E:0.075446 |  Wilfred Zahar amongst the scorers. Here's his manager Roy Hodgson.
+[3356.32 - 3358.32] P:1390.18 E:0.086630 |  We weren't happy at half time.
+[3358.32 - 3366.32] P:1079.77 E:0.091767 |  Although I do think to be honest we'd come into the game a little bit better towards the latter part of the second half.
+[3366.32 - 3369.32] P:1341.19 E:0.100423 |  But of course we could see the goal in that period.
+[3369.32 - 3374.32] P:1103.74 E:0.095460 |  We could see the goal to go 2-1 down after we've done quite well to get back to 1-1.
+[3374.32 - 3378.32] P:1222.15 E:0.094873 |  But certainly in the second half that for me was the Crystal Palace I've loved so much.
+[3378.32 - 3385.32] P:1228.42 E:0.100181 |  In the last four years the desire, the aggression, the never say die-spirit really of the team as well.
+[3385.32 - 3391.32] P:1109.55 E:0.088962 |  We're accepting sometimes that we're not going to be able to go out and roll teams over.
+[3391.32 - 3394.32] P:1132.57 E:0.098837 |  We've got to really work hard and get everything right to get a result.
+[3394.32 - 3399.32] P:1033.25 E:0.096082 |  I thought we did that today and I'm very pleased with the result. I'm very pleased with the performance.
+[3399.32 - 3404.32] P:957.70 E:0.092028 |  And I think the players deserve an awful amount of credit for the way they went about their business today.
+[3404.32 - 3410.32] P:1209.01 E:0.094054 |  An all-round team performance in that second half but Eze and Zahar in particular were almost the heartbeat of your performance.
+[3410.32 - 3411.32] P:1100.21 E:0.096058 |  Would you agree?
+[3411.32 - 3414.32] P:976.34 E:0.096196 |  Yeah they were very good said. I mean they are quality players.
+[3414.32 - 3420.32] P:1296.25 E:0.098600 |  I thought today we saw Wilfred Zahar as he is for the first time fully in a long time.
+[3420.32 - 3424.32] P:1148.25 E:0.100094 |  It was great to see him say that. He was getting upset and the fouls he wasn't being given.
+[3424.32 - 3430.32] P:1257.75 E:0.098083 |  He was chasing everything down. He was very very dangerous when he got on the ball, making a lot of runs.
+[3430.32 - 3435.32] P:1441.46 E:0.099186 |  And of course scoring a goal. This year has been a great goal scoring year for Wilfred Zahar.
+[3435.32 - 3440.32] P:1350.22 E:0.085953 |  And luckily now even for Christian Benteke he's bowed very well for the future.
+[3440.32 - 3447.32] P:1888.43 E:0.066199 |  That's Roy Hodgson just to say Rafa Nadal has now won that first set in the Rho Masters final 7-5 against Novak Djokovic.
+[3447.32 - 3453.32] P:1889.87 E:0.076316 |  Harry Kane and Pierre Emil Hoiber got Tottenham's goals in a 2-0 win over Wolves that moved them back into the top 6.
+[3453.32 - 3456.32] P:1783.33 E:0.081913 |  That would mean a Europa League place as it stands.
+[3456.32 - 3461.32] P:1933.56 E:0.072818 |  Delhi Ali was back playing with a smile on his face after the game he spoke to Manchester the day's Martin Fisher.
+[3461.32 - 3468.32] P:1762.57 E:0.091480 |  On another day to complete an excellent afternoon's work you would have found the net in the Premier League for the first time in over a year.
+[3468.32 - 3470.32] P:1567.42 E:0.087036 |  Talk us through what happened there.
+[3470.32 - 3475.32] P:1445.36 E:0.080373 |  I don't even know it's been that long but yeah, got it myself I should have finished it.
+[3475.32 - 3481.32] P:1398.10 E:0.077158 |  But overall I think it was a good performance from everyone and like I said we don't need to keep improving and finish the season as strong as we can.
+[3481.32 - 3486.32] P:1856.21 E:0.101702 |  Firstly Delhi you're getting a run in the team at the moment. Are you getting stronger and stronger with each outing out there?
+[3486.32 - 3492.32] P:1439.53 E:0.079186 |  Yeah I'm feeling good. The main thing for me obviously this late in the season is not working on my fitness.
+[3492.32 - 3494.32] P:1548.59 E:0.096610 |  Just trying to help the team as much as I can when I'm on the field.
+[3494.32 - 3499.32] P:1256.55 E:0.087203 |  I think I've been working hard all season and training but it's hard to replicate that in games.
+[3499.32 - 3506.32] P:1395.31 E:0.083733 |  There's been a few games so after five minutes you feel a bit tired but you have to keep working hard and keep fighting and that's what I'm trying to do for the team.
+[3506.32 - 3512.32] P:1407.35 E:0.085726 |  So yeah, whether it be scoring, assisting or getting second balls I'm just trying to do all I can for the boys and help as much as I can.
+[3512.32 - 3518.32] P:1507.14 E:0.084966 |  How frustrating have the last two seasons been for you because you were right at the pinnacle weren't you?
+[3518.32 - 3523.32] P:1483.56 E:0.098869 |  And then now it's injuries and comebacks and all that kind of thing. How difficult has it all been for you Delhi?
+[3523.32 - 3537.32] P:1412.35 E:0.081393 |  Yeah it's been tough. I'm still 25, a bit old now but like I say I've still got a long way to go and I'm trying to work as hard as I can to not get back to where I was to push on further than that
+[3537.32 - 3541.32] P:1376.81 E:0.087511 |  and to be the best player I could possibly be and help the team as much as I can.
+[3541.32 - 3552.32] P:1320.15 E:0.085131 |  It's not probably gone the way I probably would have wanted it to but that's football. You can't plan these things and anything I can do is change the position I'm in and keep working as hard as I can and that's what I'm doing.
+[3552.32 - 3561.32] P:2000.10 E:0.070158 |  Interesting interview. Delhi Ali there with Match of the Days, Martin Fisher off the back of commentary at the Hawthorns. It'll be 6-0-6 with Robbie Savage and Chris Sutton afternoon guys.
+[3561.32 - 3574.32] P:1936.22 E:0.083363 |  Afternoon Steve, afternoon Christopher. Christopher let's start with Crystal Palace, Roy Hudson saying as A&Z has performances, boards well for Crystal Palace's future but will that future involve Roy Hudson and Crystal Palace?
+[3574.32 - 3584.32] P:1892.00 E:0.084024 |  Well, look it's a difficult one isn't it Rob? I suppose to Crystal Palace fans is it simply a question? Who can do a better job? Tell us who can do a better job than Roy Hudson?
+[3584.32 - 3596.32] P:1950.95 E:0.084647 |  I always believed that Palace shouldn't get too far ahead of themselves with seeing what happened in the past when they got to boring as manager. Quick change there. Do you want a new manager next season Palace fans? Tell us who?
+[3596.32 - 3602.32] P:1883.57 E:0.081666 |  And what about Spurs fans? Crystal they wouldn't, Ryan Mason or somebody else to lead their side next season.
+[3602.32 - 3616.32] P:1813.51 E:0.082002 |  Would you know what somebody what's happened last night? They do have friend Rob. Beelze for Spurs. I don't believe that that Ryan Mason can get the job if Spurs want to make progress but let's hear from Spurs fans.
+[3616.32 - 3628.32] P:1959.14 E:0.076771 |  Also Delhi Ali we just heard the interview looks a happier man doesn't he? Good to see him back. I think only five Premier League starts this season but does Delhi Ali now have a future at Spurs?
+[3628.32 - 3642.32] P:1723.12 E:0.087966 |  And what's the problem Rob? Was it Delhi Ali or was it Jose? What do you think? Good question Crystal. That's a very good question. 0825, 096, 093. Who's names?
+[3642.32 - 3654.32] P:1730.97 E:0.080925 |  Listen Rob, in this business you have to keep your sources confidential. You're better than that Rob. And Leicester City yesterday, Christopher. Wow, warra, warra when it was.
+[3654.32 - 3666.32] P:1942.00 E:0.090809 |  And there must be some heavy heads in Leicester this morning. Well this afternoon they so bring up. Let's hear from Leicester fans. Were you at the game? I know you were in the stadium Rob. You said the atmosphere was absolutely electric.
+[3666.32 - 3676.32] P:1896.56 E:0.068310 |  Let's hear from Leicester fans who were in the stadium or at home. It was a brilliant performance. Thoroughly deserved the victory. What a job Brendan Rodgers is doing.
+[3676.32 - 3686.32] P:1809.36 E:0.088270 |  And coming on after us Chris is on 6-0-6-9 is the women's Champions League finals. How well as Emma Hayes and Chelsea done this season. Can they win it?
+[3686.32 - 3705.32] P:1821.62 E:0.076463 |  Can they win it? I think they can and I think they'd be on for a quadruple which would be unbelievable Rob wouldn't it? Absolutely fantastic. 0825, 096, 093. And you're in Glasgow Chris so I'm sure we'll talk about Rangers' asterisk in the season.
+[3705.32 - 3721.32] P:1996.35 E:0.074694 |  Absolutely. Yep, Colin. Have to hear from your Rangers fans. Cheers, Steve. Robby Chris, thank you very much. So 6-0-6 right off the back of commentary at the Hawthorns and then as they were saying we've got the women's Champions League final which kicks off at 8 o'clock.
+[3721.32 - 3742.32] P:1958.94 E:0.068969 |  I'd like to say commentator Vicki Sparks is with us afternoon Vicki. Good afternoon Steve. I'm so looking forward to this. Well, I mean it has all of the ingredients doesn't it? It absolutely does. I mean if these two sides both bring their A games then we could be in for an absolutely fabulous final.
+[3742.32 - 3760.32] P:1898.20 E:0.087271 |  I have to say I think it's finally balanced. Barcelona have been utterly irresistible in the Spanish top flight this season. They won the league title last weekend with eight games to spare. They have a hundred percent record in the league and a goal difference of plus 123 which is just ridiculous.
+[3760.32 - 3772.32] P:1910.62 E:0.087324 |  The Spanish league is much less competitive than the women's Super League in England but Barca are a team packed with talent and that's been displayed in their Champions League campaign as well. They eased past Manchester City in the quarterfinals.
+[3772.32 - 3785.32] P:1889.84 E:0.088037 |  They knocked out Paris Saint-Germain who are having a superb season in the semi-finals as well. But Chelsea are aside brimful of brilliance too. That devastating duo of Australia captain Sam Kerr and England's Fran Kirby in particular.
+[3785.32 - 3795.32] P:1975.48 E:0.084596 |  Those two have scored 52 goals between them this season. But Chelsea's success tonight I think Steve is going to depend as much on their defence as their attack.
+[3795.32 - 3807.32] P:1850.60 E:0.088535 |  Ankitrin Berger has pulled off some world class saves in goal for them of late and their captain Magdalena Erickson is a real rock at centre half. But they've got to be at their best tonight Chelsea. If they are then this really could go either way.
+[3807.32 - 3816.32] P:1863.08 E:0.068457 |  We've talked a lot about Emma Hayes, Fran Kirby, Sam Kerr are ready today. So name names from a Barcelona perspective. Who should we be listening out for?
+[3816.32 - 3828.32] P:1892.84 E:0.086837 |  You should definitely be listening out for Lika Martin. She burst onto the scene back in Euro 2017. She was the player of the tournament as the Netherlands won that. She scored twice in their semi-final win over Paris Saint-Germain.
+[3828.32 - 3840.32] P:1770.00 E:0.090479 |  They've got a doubt over one of their big players as well in midfield Alexia Putea. She trained separately yesterday. She's got a bit of a thigh problem. If she misses out that will be a blow for them. But they have the strength and depth Barcelona to cope with that.
+[3840.32 - 3849.32] P:1875.31 E:0.086759 |  They're also missing one of their stalwarts at the back, the centre half Andrea Pereira. She's suspended. She had started every match in the Champions League for them this season.
+[3849.32 - 3862.32] P:1818.08 E:0.090323 |  So a couple of question marks over what team they're going to put out. But certainly Martins from an attacking point of view and Jenny Hamoso as well, the Spain striker. She's actually level at the moment with Fran Kirby on six in the Champions League.
+[3862.32 - 3868.32] P:1798.90 E:0.075601 |  They're going for the Champions League golden boot. But again, there is talent all over the pitch with this Barcelona side.
+[3868.32 - 3878.32] P:1936.31 E:0.080628 |  Vicki, thank you very much. Vicki Sparks will be your commentator. The team also includes Izzy Christensen and Pat Navin. Full commentary on the women's Champions League final to come at 8 o'clock for Everton Sheffield United in the Premier League.
+[3878.32 - 3887.32] P:1908.81 E:0.080537 |  Which starts at 7. You'll be able to hear that one on five live sports extra. But we've got a really important game in the Premier League going on right now as well.
+[3887.32 - 3898.32] P:1937.93 E:0.080332 |  West Brom won Liverpool won. If it stays like this, Liverpool will still be three points behind Chelsea and their top four destiny will no longer be in their own hands.
+[3898.32 - 3904.32] P:2012.38 E:0.085410 |  We are bringing you full commentary, by the way, on Tuesday night of Chelsea vs Leicester, which is going to be a huge game in the Premier League.
+[3904.32 - 3908.32] P:1880.26 E:0.086542 |  But Liverpool need to do their own job too. Rob Greens with Ian Dennis.
+[3908.32 - 3918.32] P:2106.54 E:0.077644 |  Thank you, Steve. This time last year, Liverpool were 21 points clear of Manchester City. They're now 23 points behind Manchester City.
+[3918.32 - 3927.32] P:2257.33 E:0.087727 |  But as you say, the points differential is what they need to try and overcome, to try and get into the top four.
+[3927.32 - 3946.32] P:1817.85 E:0.080398 |  That's what concerns Jurgen Klopp and his side. After getting that equaliser through Mo Salah, when they've been hoping to try and kick on and secure the three points to narrow that gap between Leicester City and Chelsea
+[3946.32 - 3954.32] P:1994.63 E:0.092091 |  to really put pressure on those two when they meet at Stanford Bridge for that 8.15 game, that as you say, you'll be able to listen to on BBC Radio 5 Live.
+[3954.32 - 3962.32] P:1848.93 E:0.086654 |  West Bromwich Albion won. Liverpool won. Now the side has made a change at half time, so a run through the two teams for you.
+[3962.32 - 3969.32] P:1749.42 E:0.081579 |  Johnston in goal for West Bromwich Albion, back four of Furlong, Bartley, Ajay and Townsend.
+[3969.32 - 3977.32] P:1882.95 E:0.091137 |  West Bromwich Albion in this second half in their white and navy blue striped shirts and white shorts.
+[3977.32 - 3984.32] P:1790.90 E:0.095384 |  With Phillips, Gallagher, Yokozshlu, D'Angana, Robinson, Carno, Pereira is their side. Alexander-Arnold is forward.
+[3984.32 - 3990.32] P:1885.19 E:0.090450 |  Alexander-Arnold shot left footed, cleared away by Townsend, picked up by Robertson.
+[3990.32 - 3998.32] P:1876.37 E:0.090137 |  Very much on the front foot, Liverpool at the start of the second half. Gallagher manages to nick it away from Robertson, helped on by Pereira.
+[3998.32 - 4003.32] P:1902.79 E:0.099087 |  Phillips on the far side, the right for West Bromwich Albion. Rhys-Williams is going to cross towards him.
+[4003.32 - 4008.32] P:1717.90 E:0.085121 |  He'll get a corner for his efforts. I'll give you the Liverpool side quickly.
+[4008.32 - 4017.32] P:1745.63 E:0.087475 |  Allison in goal, back four of Alexander-Arnold, Williams, Nathaniel-Philipson, Robertson, Jones, Fabinho and Thiago, Salafimino and Mane.
+[4017.32 - 4018.32] P:1385.65 E:0.061339 |  Rob Green.
+[4018.32 - 4023.32] P:1709.87 E:0.089019 |  Yes, started as it started in the first half with West Brom leaving bodies forward.
+[4023.32 - 4028.32] P:1529.79 E:0.073751 |  And then committing when they go forward, they go forward with pace, commit and they're dangerous on the counter.
+[4028.32 - 4034.32] P:1713.87 E:0.089373 |  And it's a corner kick for West Bromwich Albion. And it's over on that far side, the right.
+[4034.32 - 4041.32] P:1919.51 E:0.096273 |  This will be an in swinging corner and it comes now, delivered towards the far post, off the head of Bartley, who was running away from goal.
+[4041.32 - 4052.32] P:1782.37 E:0.075211 |  And out it goes for a goal kick to Liverpool, who come into this on a run of decent form and beaten in seven
+[4052.32 - 4055.32] P:1886.12 E:0.102958 |  in the Premier League. They've won five, they've drawn two.
+[4055.32 - 4060.32] P:1786.12 E:0.075366 |  Considered they've previously lost six of the seven before that run.
+[4060.32 - 4066.32] P:1627.43 E:0.081166 |  Trying to force their way into the last four.
+[4066.32 - 4071.32] P:1710.80 E:0.091643 |  As Thiago plays a ball from the edge of his own penalty area forward towards Firmino.
+[4071.32 - 4074.32] P:1705.27 E:0.091496 |  Now finds Curtis Jones on the halfway line.
+[4074.32 - 4079.32] P:1723.09 E:0.067871 |  Salah down in front of us. Right-hand side, one-one.
+[4079.32 - 4088.32] P:1749.03 E:0.079734 |  Liverpool need the three points. Alexander-Arnold back to Nathaniel Phillips along the ground, Jones.
+[4088.32 - 4097.32] P:1675.94 E:0.084912 |  Turns, Firmino. Mane comes short. Firmino then plays the ball out to Robertson, level the penalty area just in from the touch line.
+[4097.32 - 4106.32] P:1787.08 E:0.090008 |  Back it goes to Robertson inside to Curtis Jones, coming forward now and attacking the West Brom defenders, running into the penalty area left-hand side.
+[4106.32 - 4112.32] P:1623.33 E:0.082241 |  Plays it back to Robertson, waiting. Mane on the inside, Mane back to Robertson.
+[4112.32 - 4120.32] P:1626.24 E:0.086351 |  Mane's run, not required. Instead, Robertson gets it back from Firmino, waiting on the overlap with Curtis Jones.
+[4120.32 - 4126.32] P:1731.92 E:0.093003 |  Now coming in off that left touch line, challenge was made, rolls out of play very, very gently out for Liverpool throw.
+[4126.32 - 4132.32] P:1664.66 E:0.084982 |  That's well defended by West Brom, but at the start of the attack when they played out, Thiago played through that initial press.
+[4132.32 - 4136.32] P:1756.22 E:0.086615 |  Salah got the ball, the switch was on to Robertson, he's an A because of space and he didn't do it.
+[4136.32 - 4144.32] P:1696.66 E:0.080190 |  And he just allowed that fraction of a second for the West Brom players to get back, and then all of a sudden it's a really tough prospect to get through to Bank of Four.
+[4144.32 - 4149.32] P:1809.16 E:0.093106 |  Thiago picked out Alexander-Arnold who whipped in the cross from the right-hand side.
+[4149.32 - 4156.32] P:1970.46 E:0.100926 |  Again, another devilish delivery, Salah's ball, it goes to Far post, Mane reacting so well, flag is raised.
+[4156.32 - 4164.32] P:1857.66 E:0.089522 |  Late flag, it'll go to BAR, but Mane did ever so well at the far post to put that ball in from Salah's cross.
+[4164.32 - 4169.32] P:1777.57 E:0.092033 |  And judging by the players' reactions, I think they're expecting this one to be ruled out.
+[4169.32 - 4176.32] P:1764.33 E:0.083758 |  Hands went up straight away and it's fortunate for Pereira because he actually tried to clear the ball and cleared it into his own face,
+[4176.32 - 4181.32] P:1674.18 E:0.077046 |  which dropped to Salah and he put a wonderful ball in, but Mane was clearly offside.
+[4181.32 - 4188.32] P:1662.09 E:0.075376 |  He hadn't actually come back from the initial attack and so he did do well to get there, but had a bit of a head start.
+[4188.32 - 4197.32] P:1878.81 E:0.088595 |  And it was quickly dismissed from BAR, I don't think that would have taken too long from Kevin Friend back at Stockley Park to view that one.
+[4197.32 - 4203.32] P:1929.99 E:0.090047 |  So that is further frustration for Liverpool with Mane's goal disallowed.
+[4203.32 - 4208.32] P:1890.13 E:0.098996 |  For Mane, it hit the post just two minutes after Salah had put them ahead, but it equalised.
+[4208.32 - 4215.32] P:1915.24 E:0.091017 |  Here is Salah trying to put Liverpool ahead on this occasion and cleared away and he beats his hands down into the ground in frustration.
+[4215.32 - 4219.32] P:1834.30 E:0.080212 |  Liverpool have made a very positive start, second half, Rob.
+[4219.32 - 4225.32] P:1730.72 E:0.082259 |  Yeah, they've been bright. They've looked to use that attack quickly and when they can play through that press.
+[4225.32 - 4230.32] P:1745.24 E:0.087112 |  And sometimes when you've got that energy as a West-Bron team and you look to press, you leave yourself exposed.
+[4230.32 - 4235.32] P:1829.91 E:0.077816 |  So perhaps I'll just take a moment, recalibrate for this West-Bron side,
+[4235.32 - 4240.32] P:1736.18 E:0.084526 |  just say, OK, we're up against a very, very good side here. Let's just defend for a few minutes.
+[4240.32 - 4249.32] P:1784.15 E:0.083252 |  Jones, Fabinho, Mane, Manova fast side to left is Robertson being patient back inside to Mane.
+[4249.32 - 4255.32] P:2044.11 E:0.087576 |  Here is Fabinho in a forward position, taking off his toes there on that fast side by Matt Phillips.
+[4255.32 - 4258.32] P:1789.33 E:0.100294 |  Didn't run the ball out of play and he clears long.
+[4258.32 - 4262.32] P:1852.32 E:0.085939 |  Reese Williams tries to pen Pereira in, but he de-backed it.
+[4262.32 - 4272.32] P:1890.81 E:0.086086 |  Phillips wriggles free to Pereira. So Pereira now is running clear back on the inside and Pereira's shot off his left foot was saved by, by Allison.
+[4272.32 - 4274.32] P:1816.51 E:0.075389 |  He's almost encroaching onto the pitch.
+[4274.32 - 4281.32] P:1782.93 E:0.083719 |  Samilini's eagerness to point and clap and urge on the West-Bromwich Albion players.
+[4281.32 - 4291.32] P:1618.77 E:0.073709 |  His enthusiasm certainly is as large as ever and remains as Mane forward and diminished.
+[4291.32 - 4295.32] P:1612.40 E:0.084697 |  Mane's lost the ball and West-Bromwich Albion will win a throw.
+[4295.32 - 4297.32] P:1850.32 E:0.103470 |  Six minutes into the second half, 1-1.
+[4297.32 - 4305.32] P:1732.46 E:0.078204 |  Quite an open start to the second half. There are times where West-Broms sit in, but when they commit, they are committed for Rob St-Karno,
+[4305.32 - 4311.32] P:1675.45 E:0.086188 |  doing really well, shrugging off two players and Pereira with the opportunity to shoot and then straight back down the other end.
+[4311.32 - 4318.32] P:1664.42 E:0.077661 |  So you're kind of thinking at times, you're playing into Liverpool's hands if you get into some sort of basketball match.
+[4318.32 - 4324.32] P:1641.14 E:0.077544 |  But, you know what, with these West-Broms side with the tools that they've got to break, they're looking dangerous to themselves.
+[4324.32 - 4334.32] P:1991.92 E:0.090542 |  6-0-6 is coming up on BBC Radio 5 Live with Chris Sutton and Robbie Savage, 0-8-0-5-9-0-9-6-9-3, the usual number.
+[4334.32 - 4337.32] P:1793.38 E:0.088789 |  West-Bromwich Albion are attacking at 1-1.
+[4337.32 - 4343.32] P:1778.54 E:0.090836 |  D'Angana was played into the penalty area, but just going through the gears and taking it away was Alexander Arnold.
+[4343.32 - 4350.32] P:1948.70 E:0.094658 |  He finds Salah, laid off by Firmino. Salah's gone on ahead of him. Mane, if he can find him now, instead he plays it back to Thiago.
+[4350.32 - 4356.32] P:1848.86 E:0.087183 |  Thiago across towards that left-hand side, just forced back a little bit was Curtis Jones.
+[4356.32 - 4361.32] P:1581.17 E:0.071929 |  Here now is Robertson.
+[4361.32 - 4370.32] P:1820.89 E:0.084412 |  Jones almost at a walking pace to Firmino. 5-Live in the World Service, 1-1 at the Hawthorns. Liverpool, though, need to win.
+[4370.32 - 4375.32] P:1864.69 E:0.091387 |  They're trying to keep destiny as far as the top four in their own hands. Mane finds Salah.
+[4375.32 - 4380.32] P:1827.03 E:0.095966 |  Back towards Mane, right-hand side of the penalty area with his back to goal, to Salah.
+[4380.32 - 4385.32] P:1800.44 E:0.079938 |  Liverpool's goal scorer, got that equaliser. He waits, Thiago turns.
+[4385.32 - 4388.32] P:1555.44 E:0.070619 |  Plays in Robertson.
+[4388.32 - 4393.32] P:1890.26 E:0.091239 |  Curtis Jones left corner of the penalty area, back inside towards Thiago.
+[4393.32 - 4399.32] P:1887.93 E:0.099578 |  Thiago tries to get away from Yacoshlu, West-Bromwich Albion are deep inside their own half defending.
+[4399.32 - 4406.32] P:1940.81 E:0.087090 |  They're trying to force away through, it's Curtis Jones twisting and turning, being forced out of the penalty area on that left-hand side.
+[4406.32 - 4413.32] P:1962.41 E:0.098949 |  And now towards Thiago once again, Thiago coming forward, it'll step over edge of the area, tries to hold off Yacoshlu.
+[4413.32 - 4417.32] P:1902.65 E:0.093135 |  Now they break their ranks to West-Bromwich Albion, Gallagher putting pressure on Reese Williams.
+[4417.32 - 4421.32] P:1892.64 E:0.093178 |  Every outfield player is capped inside the West-Bromwich Albion half.
+[4421.32 - 4428.32] P:1927.52 E:0.088568 |  Liverpool are just waiting for that moment. Here is Curtis Jones running away, keeping his balance and turning, and drips back out towards the left.
+[4428.32 - 4432.32] P:1892.67 E:0.089001 |  Thiago now takes over, but they're playing in front of West-Bromwich Albion.
+[4432.32 - 4437.32] P:1737.97 E:0.080633 |  Eight minutes into the second half, here is Fabinho, square along the ground.
+[4437.32 - 4442.32] P:1940.98 E:0.092598 |  Nathaniel Phillips finds Alexander-Arnold, central position, loses out to Yacoshlu.
+[4442.32 - 4447.32] P:1884.76 E:0.092158 |  They try and hunt to win the ball back. Townsend's ball, with a refoul from Nathaniel Phillips,
+[4447.32 - 4454.32] P:1756.76 E:0.084463 |  knows as the referee, no foul on Pereira. Play continues and Liverpool seeing a lot of the ball, Rob.
+[4454.32 - 4457.32] P:1595.50 E:0.078314 |  Yeah, they're doing well, and what they're doing well.
+[4457.32 - 4461.32] P:1951.41 E:0.084264 |  Here is Robinson, left corner of the penalty area, past a flat-footed.
+[4461.32 - 4467.32] P:1953.63 E:0.087585 |  Firmino bypassed him, and as Yacoshlu tries to spread the ball out towards Pereira on this near side,
+[4467.32 - 4470.32] P:1544.12 E:0.078001 |  he couldn't keep the ball in play, it'll be a Liverpool throw.
+[4470.32 - 4475.32] P:1774.11 E:0.093153 |  Just about to say, what they're doing well is the two young centre halves are being brave,
+[4475.32 - 4480.32] P:1520.82 E:0.081789 |  and they're actually pushing up way, way, way into the West-Brom area at half.
+[4480.32 - 4484.32] P:1726.84 E:0.080887 |  And from that, it allows everyone else to play that bit higher up the pitch.
+[4484.32 - 4490.32] P:1979.63 E:0.099997 |  Mane picks it up, drives forward, Mane's still going, he's found Salah inside the penalty area.
+[4490.32 - 4497.32] P:1892.32 E:0.084109 |  Conor Townsend has marshaled that danger, and last touch off Salah, it'll be a goal kick.
+[4497.32 - 4500.32] P:1776.50 E:0.085221 |  Ten minutes into the second half, 1-1.
+[4500.32 - 4505.32] P:1720.63 E:0.080822 |  Did well there, Conor Townsend, just used his body, got in the way, just done it, did enough,
+[4505.32 - 4511.32] P:1679.83 E:0.075873 |  physical presence just to put Salah off, but as I was saying, it allows Liverpool to press
+[4511.32 - 4516.32] P:1751.69 E:0.078845 |  way into the West-Brom half, and from there, you're looking as a West-Brom player,
+[4516.32 - 4519.32] P:1596.99 E:0.087867 |  you win the ball, and you're centre forward, you're out there.
+[4519.32 - 4523.32] P:1675.70 E:0.072777 |  It's 25-30 yards from your own goal, you've got nowhere to go.
+[4523.32 - 4528.32] P:1829.42 E:0.086785 |  Everton Sheffield united on the Premier League, 7 o'clock kick-off at Goodison,
+[4528.32 - 4533.32] P:1817.21 E:0.083866 |  that's on Sports Extra, because after 6-06 on 5-Live,
+[4533.32 - 4538.32] P:1943.17 E:0.090303 |  we will have for you the Women's Champions League final, Chelsea against Barcelona,
+[4538.32 - 4544.32] P:1633.13 E:0.077412 |  Vicki Sparks, Izzy Christensen and Pat Nevin, your commentary team.
+[4544.32 - 4551.32] P:1637.79 E:0.081566 |  There's Liverpool at 1-1 on the attack, Mane to Alexander-Arnold,
+[4551.32 - 4559.32] P:1818.61 E:0.073599 |  hits the ball long, 1 bounce through to Sam Johnston, the West-Brom, it shall be a goalkeeper.
+[4559.32 - 4564.32] P:1744.55 E:0.083676 |  It's a strange choice from Trent Alexander-Arnold, you had West-Brom stretched,
+[4564.32 - 4570.32] P:1606.91 E:0.079797 |  you had options and went for a lofted ball forwards, a fairly harmless ball,
+[4570.32 - 4575.32] P:1553.97 E:0.062593 |  and you're looking at the West-Brom backline with Karl Barley,
+[4575.32 - 4579.32] P:1738.84 E:0.085107 |  the likes at the back, you're just thinking Ajayi with him,
+[4579.32 - 4582.32] P:1843.48 E:0.082412 |  that's the sort of ball they want to defend.
+[4582.32 - 4586.32] P:1856.73 E:0.091334 |  West-Brom, a charb, on the attack, cross coming in from Diengana,
+[4586.32 - 4591.32] P:1831.94 E:0.095168 |  it's turned behind by an outstretched right leg from Rhys Williams,
+[4591.32 - 4597.32] P:1928.17 E:0.083535 |  and Shaqiri is getting his final instructions, so Liverpool are going to be making a change.
+[4597.32 - 4605.32] P:1770.59 E:0.078153 |  The Swiss international, Jürgen Shaqiri, is going to be coming on for Liverpool,
+[4605.32 - 4612.32] P:1787.47 E:0.087314 |  as West-Brom and Chalbion have a corner kick on this near side to take, 1-1,
+[4612.32 - 4616.32] P:1879.29 E:0.098844 |  and it comes now, headed away well by Nathaniel Phillips,
+[4616.32 - 4619.32] P:1884.68 E:0.080338 |  and now the break is on for Liverpool.
+[4619.32 - 4622.32] P:2017.43 E:0.106480 |  Alexander-Arnold, who's got Salah going ahead of him,
+[4622.32 - 4627.32] P:2002.74 E:0.098524 |  Alexander-Arnold will find him, and he has, here is Salah, Salah inside the penalty area,
+[4627.32 - 4631.32] P:1799.71 E:0.069320 |  and saved by Johnston, and then the flag is raised.
+[4631.32 - 4634.32] P:1694.93 E:0.084036 |  I thought it timed his run very, very well.
+[4634.32 - 4639.32] P:1712.95 E:0.093550 |  It was all about timing, the break was on, West-Brom got the corner horribly wrong,
+[4639.32 - 4644.32] P:1693.17 E:0.065539 |  and Salah was onside, I think, he was just putting his flag up to be safe,
+[4644.32 - 4647.32] P:1581.86 E:0.073000 |  but they would have reviewed that had it gone in,
+[4647.32 - 4650.32] P:1761.02 E:0.069207 |  but Sam Johnson did well, stood up, waited to be beaten,
+[4650.32 - 4653.32] P:1570.00 E:0.076043 |  backed himself to block, make a block, and he did that,
+[4653.32 - 4658.32] P:1692.91 E:0.076991 |  he's a sizeable frame in the goal, he's an imposing figure and did it off.
+[4658.32 - 4662.32] P:1857.44 E:0.096135 |  West-Brom and Chalbion started well, they took the lead after 15 minutes,
+[4662.32 - 4664.32] P:1789.23 E:0.093466 |  and it was a well taken goal from Rob St-Khanu,
+[4664.32 - 4668.32] P:2019.99 E:0.088370 |  his first in the Premier League since November 2017,
+[4668.32 - 4673.32] P:1621.52 E:0.075729 |  but since then, the chances have fallen to Liverpool,
+[4673.32 - 4677.32] P:1864.88 E:0.091112 |  obviously Salah with the equaliser, but Mane had gone close before that,
+[4677.32 - 4680.32] P:1927.00 E:0.088895 |  Firmino since hit a post, Mane's had a goal that's allowed,
+[4680.32 - 4684.32] P:1960.06 E:0.096892 |  and then Salah with that other chance there, saved by the goalkeeper, Johnston,
+[4684.32 - 4688.32] P:1961.90 E:0.096889 |  were approaching the hour mark, and Liverpool are just starting to turn the screw,
+[4688.32 - 4691.32] P:1773.57 E:0.093187 |  Mane pulls it back, Robertson coming into the penalty area,
+[4691.32 - 4694.32] P:1923.21 E:0.086221 |  just stopped in his tracks as it looked very, very threatening,
+[4694.32 - 4698.32] P:1838.17 E:0.089072 |  Gallagher to clear, Reese Williams pocks the ball up in the air,
+[4698.32 - 4702.32] P:1897.82 E:0.088594 |  brought under control by Fabinho, seems that it's brightening up now at the Hawthorns
+[4702.32 - 4708.32] P:1911.11 E:0.090526 |  after that deluge of rain earlier on in the afternoon, but it's still 1-1.
+[4708.32 - 4715.32] P:1656.85 E:0.065333 |  Here is Fabinho, out towards Firmino,
+[4715.32 - 4718.32] P:1881.59 E:0.088701 |  Robertson left-hand side looking for the cutback,
+[4718.32 - 4722.32] P:1854.85 E:0.092857 |  denied by a sliding furlong, out it goes for a corner kick to Liverpool,
+[4722.32 - 4727.32] P:1985.56 E:0.080792 |  now the change will be made, and it'll be Curtis Jones who's coming on,
+[4727.32 - 4736.32] P:1667.30 E:0.081711 |  or coming off rather, so the England under-21 international makes way for Shaqiri,
+[4736.32 - 4740.32] P:1650.31 E:0.095979 |  with what, an hour nearly played, 1-1, 5-5, Rob.
+[4740.32 - 4744.32] P:1663.29 E:0.086647 |  It's been quiet today, Curtis Jones, we all know the talent he's got,
+[4744.32 - 4747.32] P:1651.07 E:0.083584 |  the ability he's got on the ball to get on the ball,
+[4747.32 - 4750.32] P:1834.90 E:0.073446 |  when they've come up against this defensive block,
+[4750.32 - 4756.32] P:1753.07 E:0.084980 |  his role there was to take up bodies and allow the likes of Thiago and Fabinho to dictate play,
+[4756.32 - 4760.32] P:1595.82 E:0.074718 |  so more of a supporting role today.
+[4760.32 - 4766.32] P:1812.95 E:0.082782 |  So the rather stocky Shaqiri enters the fray, corner kick for Liverpool,
+[4766.32 - 4771.32] P:1694.86 E:0.088699 |  from that left-hand side, West Bromwich, Alvion player is down and Mike Dean,
+[4771.32 - 4774.32] P:1764.55 E:0.091947 |  the very nature of the fact that he could be a head injury,
+[4774.32 - 4777.32] P:1682.22 E:0.079944 |  will have to stop play.
+[4777.32 - 4781.32] P:1462.26 E:0.073338 |  Cushley, he's a really good header, did very, very well, under pressure,
+[4781.32 - 4786.32] P:1601.39 E:0.073068 |  two players coming in at speed, and he took one for the team up there,
+[4786.32 - 4789.32] P:1732.12 E:0.089736 |  knew he was going to get clattered, did so.
+[4789.32 - 4794.32] P:1418.85 E:0.065260 |  I think he's been impressive since he's come in, he's done a good job for West Brom.
+[4794.32 - 4799.32] P:1825.96 E:0.095398 |  Yeah, it's on the loan from Celta Vigo, do you think that maybe another Premier League club
+[4799.32 - 4803.32] P:1799.23 E:0.066867 |  might look to try and look at his services?
+[4803.32 - 4808.32] P:1877.59 E:0.087040 |  Yeah, I think looking at this role that he's got at the moment doesn't particularly suit him,
+[4808.32 - 4811.32] P:1685.77 E:0.079386 |  he's doing a good job in there in the middle of the two,
+[4811.32 - 4816.32] P:1698.36 E:0.075797 |  I think he'd rather be sat behind another two, and I think if you're looking as a team,
+[4816.32 - 4819.32] P:1670.14 E:0.072555 |  you're saying, well, that's the only role he can play,
+[4819.32 - 4825.32] P:1571.94 E:0.075654 |  then it's kind of a one-tag into one hole, and that's all it goes,
+[4825.32 - 4830.32] P:1669.88 E:0.071774 |  so he's impressed, but I think that's the only position he can really play in the Premier League.
+[4830.32 - 4839.32] P:1717.77 E:0.074936 |  Turkish international, 27 years of age, and fit enough to resume after that little bang,
+[4839.32 - 4843.32] P:1710.87 E:0.097255 |  and plays back under way with an hour played on BBC Radio 5 Live.
+[4843.32 - 4849.32] P:1708.83 E:0.089490 |  Liverpool still being held here by West Bromwich Albion,
+[4849.32 - 4857.32] P:1743.38 E:0.081356 |  so it's still very much advantage, Leicester City and Chelsea in the race for the top four.
+[4857.32 - 4864.32] P:1759.53 E:0.091157 |  Kashper Schmeichel, who was interviewed post-match after their FA Cup success yesterday,
+[4864.32 - 4869.32] P:1833.47 E:0.080234 |  he said the back training today in redness for that vital game at Stamford Bridge,
+[4869.32 - 4875.32] P:1680.61 E:0.090635 |  he gave a terrific in-depth interview with Dion Dublin ahead of the Cup final,
+[4875.32 - 4880.32] P:1771.35 E:0.089297 |  where he basically charted his entire journey at Leicester City,
+[4880.32 - 4884.32] P:1616.99 E:0.076300 |  offered real insight as to what it's been like,
+[4884.32 - 4889.32] P:1788.20 E:0.083826 |  and made such an important role in their success yesterday as the free kick comes in,
+[4889.32 - 4892.32] P:1676.69 E:0.091443 |  headed up and behind by Thiago.
+[4892.32 - 4898.32] P:1808.40 E:0.072385 |  It's a goalkeeper you'd have definitely admired, those two key saves that he made, wouldn't he?
+[4898.32 - 4903.32] P:1607.63 E:0.082704 |  Yeah, fantastic saves, and it makes a lot of saves in that side,
+[4903.32 - 4908.32] P:1655.20 E:0.080952 |  and they relied on him more and more, and like I said before, the game refined that skill,
+[4908.32 - 4912.32] P:1660.48 E:0.080012 |  refined his technique over years, it's just been so impressive.
+[4912.32 - 4917.32] P:1768.37 E:0.088437 |  In comes the cross from West Bromwich Albion, the Liverpool goalkeeper, Alison,
+[4917.32 - 4922.32] P:1807.12 E:0.099558 |  I think he thought that was going out for a goal kick as it was played towards the far post,
+[4922.32 - 4928.32] P:1837.57 E:0.088425 |  towards Schemeicha'i, but instead it's going to be a corner kick for West Bromwich Albion,
+[4928.32 - 4932.32] P:1924.94 E:0.097639 |  so we're in the 62nd minute at the Hawthorns, you're listening to the World Service,
+[4932.32 - 4936.32] P:1926.67 E:0.092265 |  but also of course BBC Radio 5 Live from the BBC,
+[4936.32 - 4942.32] P:1582.94 E:0.082710 |  and West Bromwich Albion, way that end towards the left-hand side, have a corner kick,
+[4942.32 - 4952.32] P:1637.68 E:0.077984 |  and the near post was Furlong, leaping and heading it off target, and out for a goal kick for Alison to take.
+[4952.32 - 4957.32] P:1660.36 E:0.084829 |  There's out swinging corners that Furrier has taken from this side, the West Brom left,
+[4957.32 - 4962.32] P:1719.30 E:0.080645 |  not nearly as threatening, I think they might just be missing a trick because the in swinging ones
+[4962.32 - 4965.32] P:1524.61 E:0.078100 |  have chosen a real problem for Liverpool.
+[4965.32 - 4972.32] P:1787.32 E:0.098572 |  20 years ago today was the day that Liverpool defeated Alivez, 5-4 in Dortmund to win the UEFA Cup.
+[4972.32 - 4977.32] P:1788.72 E:0.084369 |  If they're unable to get victory here today, they may be playing in that competition,
+[4977.32 - 4986.32] P:1750.13 E:0.083859 |  of course, now under the guise of the Europa League, because it will be a serious setback for their top four ambitions.
+[4986.32 - 4994.32] P:1684.27 E:0.076892 |  Here is Fabinho to Robertson, 27 minutes of normal time remain,
+[4994.32 - 5000.32] P:1810.73 E:0.086741 |  and the goalie to Thiago finds Salah, the little flick doesn't quite come off, but still reaches Firmino,
+[5000.32 - 5006.32] P:1903.65 E:0.094068 |  Mane back inside to Salah, the return ball to Mane goes down under a half-hearted challenge,
+[5006.32 - 5011.32] P:1822.42 E:0.086349 |  and it was more in hope than anything else, there was not really many protests from the Liverpool players,
+[5011.32 - 5016.32] P:1715.26 E:0.099092 |  as Mane lost his footing inside the penalty area, play continues with Liverpool,
+[5016.32 - 5022.32] P:1890.54 E:0.092312 |  1-1 at the Hawthorne, Firmino to Thiago, still had a little glance over his right shoulder,
+[5022.32 - 5027.32] P:2001.83 E:0.093436 |  looking towards Robertson, 6 yards in from the left touch line, looking towards Mane in the penalty area,
+[5027.32 - 5032.32] P:1790.76 E:0.085223 |  turned behind by Furlong, corner kick, Liverpool still applying pressure Rob.
+[5032.32 - 5037.32] P:1682.94 E:0.081582 |  Still pushing, coming up against this West Brom block, and it was better from Mane,
+[5037.32 - 5041.32] P:1628.81 E:0.089590 |  he just got the ball and gave it go and made a run, and just trying to make something happen,
+[5041.32 - 5045.32] P:1577.58 E:0.065945 |  something different, and took a tumble, didn't really appeal for it, got up and got on with it.
+[5045.32 - 5051.32] P:1751.60 E:0.088930 |  Corner kick for Liverpool, far side to left, it's an out-swinger, headed away by Matt Phillips,
+[5051.32 - 5056.32] P:1934.57 E:0.098845 |  might come to Alexander-Arnold, he heads the ball forward, Johnston quickly off his goal line,
+[5056.32 - 5062.32] P:1874.02 E:0.079365 |  catches that ball around chest height, holds on to the ball, and waits for the players to break ahead of him,
+[5062.32 - 5071.32] P:1583.90 E:0.084255 |  it's an over-armed throw-out to the blonde-haired Conor Gallagher, and a season-long loan from Chelsea,
+[5071.32 - 5077.32] P:1728.16 E:0.088579 |  he'll be trying to serve his parent club very very well by frustrating Liverpool here today,
+[5077.32 - 5085.32] P:1834.66 E:0.081857 |  as Pereira running forward, and gets a corner kick, Shaqiri thought that he'd overrun the ball,
+[5085.32 - 5087.32] P:1816.13 E:0.099504 |  but it will be a corner-rewarded by Mike Dean.
+[5087.32 - 5093.32] P:1751.06 E:0.083963 |  It really will, because he had overrun it, and just managed to drag his foot across the top of the ball,
+[5093.32 - 5099.32] P:1748.55 E:0.090285 |  and onto Shaqiri's foot, he knew that he wasn't going to do anything other than just try and poke it onto his foot,
+[5099.32 - 5102.32] P:1618.77 E:0.058395 |  and he's won a good set-piece.
+[5102.32 - 5107.32] P:1813.64 E:0.089517 |  So corner kick for West Bromwich Albion, near side the left, towards the far post,
+[5107.32 - 5112.32] P:1795.76 E:0.095735 |  punched away by Alisson, who was fouled, and that'll be a free kick to Liverpool,
+[5112.32 - 5118.32] P:1755.95 E:0.090136 |  but Alexander-Arnold has taken it a good six yards further than where the foul was committed,
+[5118.32 - 5126.32] P:1740.11 E:0.084127 |  and Mike Dean quite rightly has said that play has got to come all the way back for the Brazilian goalkeeper to take that free kick.
+[5127.32 - 5132.32] P:1756.66 E:0.093192 |  25 minutes remaining, 25 minutes for Liverpool to find a goal that they need.
+[5132.32 - 5138.32] P:1593.66 E:0.077184 |  They've not really had the opportunities this half, they've had the ball, not managed to break West Brom down.
+[5138.32 - 5146.32] P:1820.04 E:0.088277 |  Here is Salah, looked offside for Mane, in fact he stopped and looked towards the flag, and now the flag is raised.
+[5146.32 - 5152.32] P:1635.28 E:0.086404 |  I mean, it makes a fuss of it doesn't it really, because he's yards offside, he knows he's offside,
+[5152.32 - 5157.32] P:1639.93 E:0.083478 |  he's running through just for the hell of it, and we've all got to go through the process of kicking the ball away,
+[5157.32 - 5165.32] P:1576.15 E:0.078942 |  getting it back, and realistically if there was 25,000 fans in here, you'd have all seen it and said the same thing.
+[5165.32 - 5170.32] P:1634.87 E:0.088750 |  I'm just frustrate everybody that, I've heard so many people complain about the late flag.
+[5170.32 - 5179.32] P:1741.53 E:0.081286 |  Well, I was at a game at Molineux when Patricio got what looked like a serious head injury from an offside,
+[5179.32 - 5186.32] P:1723.18 E:0.086430 |  and he took a knee to the head, and while it wouldn't have been avoided, that sort of situation is the one that you're thinking could happen.
+[5186.32 - 5193.32] P:1894.34 E:0.100761 |  Good advantage played by referee Mike Dean, Salah helps it out towards Mane, Liverpool are attacking now, Mane held up well by Furlong,
+[5193.32 - 5198.32] P:1953.82 E:0.092617 |  picked back up by Mane, drags the ball back towards Thiago.
+[5198.32 - 5207.32] P:1760.40 E:0.083826 |  The referee's played another advantage there for Fowler, Mane, Shakiri, Alexander-Arnold, first time cross is very deep,
+[5207.32 - 5212.32] P:1615.53 E:0.088001 |  and hard hit from Alexander-Arnold, and it goes out of play for a throw.
+[5212.32 - 5218.32] P:1898.53 E:0.091227 |  But credit to Mike Dean twice there, he let the game flow, because Thiago initially had been fouled by Gallagher,
+[5218.32 - 5224.32] P:1715.86 E:0.088862 |  and then there was another foul, but it'll be a throw instead to West Bromwich Albion, far side.
+[5224.32 - 5236.32] P:1738.95 E:0.082748 |  We're almost midway through the second half, and still West Bromwich Albion won, Liverpool won, and Liverpool will still be three points away from Chelsea,
+[5236.32 - 5243.32] P:1747.19 E:0.089725 |  and there'll be five away from Leicester City, ahead of those two sides who meet on Tuesday night.
+[5243.32 - 5247.32] P:2002.48 E:0.093549 |  We'll actually have Manchester United fulling for you from our first commentary on Tuesday.
+[5247.32 - 5257.32] P:1841.74 E:0.084235 |  Here is Firmino, who shoots, Texas Reflection goes behind for a corner kick, so Mane United full them at six, Chelsea Leicester City at 8.15.
+[5258.32 - 5263.32] P:1831.11 E:0.098179 |  So Hampton Leeds is on Sports Extra, and then Wednesday Everton Wolves is on Sports Extra,
+[5263.32 - 5270.32] P:1792.84 E:0.079137 |  West Bromwich Albion against West Ham United will be on BBC Radio 5 live at a quarter past eight.
+[5270.32 - 5278.32] P:1749.16 E:0.077780 |  But with a quarter of this game remaining, still 1-1, Liverpool take the short corner on the left-hand side.
+[5278.32 - 5283.32] P:1827.86 E:0.095186 |  In comes the cross, Alexander-Arnold, off the head of Barley, headed away by Townsend,
+[5283.32 - 5288.32] P:1770.90 E:0.081882 |  going to run out for Liverpool throw. Liverpool trying to keep up the pressure,
+[5288.32 - 5294.32] P:1906.39 E:0.088043 |  going to be a Shaquiri throw, level with a penalty area on this near side, all in red, playing from left to right.
+[5295.32 - 5302.32] P:1753.88 E:0.093949 |  And bringing the reaction as well, if we can, into 6-06, which is coming up with Chris Sutton and Robbie Savage,
+[5302.32 - 5308.32] P:1868.00 E:0.092221 |  and that'll be another Liverpool throw, the back heel from Alexander-Arnold coming off the shins of D'Angana.
+[5309.32 - 5315.32] P:1663.92 E:0.074965 |  Alexander-Arnold ready to take the throw now.
+[5318.32 - 5325.32] P:1759.47 E:0.099732 |  He finds Tiago, goes actually through his legs, rebounds off the body of Rob Sincarno back in favour of Tiago.
+[5325.32 - 5331.32] P:1878.64 E:0.090620 |  In comes the cross from Alexander-Arnold to the feet of Mane, goes away from him, Matt Phillips plays it back,
+[5331.32 - 5337.32] P:1834.76 E:0.083977 |  and Furlong has got time to look up and hit the ball long for West Bromwich Albion.
+[5339.32 - 5344.32] P:1676.80 E:0.087575 |  Reese Williams gets it back, and Liverpool will come again.
+[5344.32 - 5350.32] P:1713.50 E:0.079586 |  Firmino, here is Shaquiri, quickly passes the ball to Alexander-Arnold,
+[5350.32 - 5356.32] P:1886.42 E:0.089677 |  he's been an outlet on this right-hand side. Shaquiri now with a lazy strike on the left leg,
+[5356.32 - 5361.32] P:1795.66 E:0.086255 |  picks out Robertson left-hand side just in from the touch line, back towards Fabinho,
+[5361.32 - 5366.32] P:1925.86 E:0.098962 |  infield towards Shaquiri, forward towards Salah, inside the penalty area, surrounded Salah,
+[5366.32 - 5370.32] P:1907.40 E:0.087923 |  battling for the ball, and in the end it was Yikoshlou, who takes the ball away,
+[5370.32 - 5375.32] P:1693.81 E:0.087236 |  and he looks for the run of Pereira, there's around four Albion players there around Salah.
+[5375.32 - 5382.32] P:1832.56 E:0.091143 |  Pereira, good control, inside to Yikoshlou, forward ball now to Gallagher, Manova,
+[5382.32 - 5387.32] P:1787.09 E:0.089387 |  that was late on Gallagher by Fabinho, Matt Phillips now running forward,
+[5387.32 - 5392.32] P:1869.82 E:0.094887 |  for West Bromwich Albion, cross takes a deflection, and game very, very open behind for a corner kick,
+[5392.32 - 5394.32] P:1590.25 E:0.084106 |  20 minutes remaining.
+[5394.32 - 5399.32] P:1462.13 E:0.075725 |  20 minutes to go, and you have to say, questioned it before the game, West Bromwich has been brilliant today.
+[5399.32 - 5404.32] P:1604.61 E:0.082375 |  Having been relegated, they could have any opportunity, any reason they could have given,
+[5404.32 - 5409.32] P:1590.97 E:0.075980 |  not to have turned up today, but whatever happens between now and the end of the game,
+[5409.32 - 5414.32] P:1790.37 E:0.084545 |  if they tire and get beaten, they've really put a shift in, and just as you say in there,
+[5414.32 - 5419.32] P:1507.86 E:0.078315 |  four of them around Salah defending, really manned up, got on with the game,
+[5419.32 - 5422.32] P:1658.78 E:0.087044 |  and looking at it there, they're putting the bodies on the line on the brakes,
+[5422.32 - 5424.32] P:1443.32 E:0.082580 |  they're really trying for the team.
+[5424.32 - 5430.32] P:1644.29 E:0.091779 |  Yes they are, and with 20 minutes remaining, never thought they're going to have some hard work to do,
+[5430.32 - 5433.32] P:1834.87 E:0.083697 |  to try and get the three points, they've got some defending to do here,
+[5433.32 - 5437.32] P:1939.58 E:0.102436 |  Gallagher with a corner kick from the right hand side, and the downward header,
+[5437.32 - 5443.32] P:1933.96 E:0.094227 |  and West Bromwich Albion have taken the lead, and it's not going to count because the flag is up on the far side,
+[5443.32 - 5448.32] P:1817.57 E:0.094016 |  it was Kyle Bartley who got the final touch, but this will go to VAR,
+[5448.32 - 5453.32] P:1668.88 E:0.078404 |  but judging by the flag, Darren Kant in consultation at the moment,
+[5453.32 - 5460.32] P:1709.34 E:0.082666 |  and it might well be that VAR has the say, and it's offside against Bartley.
+[5460.32 - 5466.32] P:1594.40 E:0.068100 |  It's a goal, it's a goal, he's given offside to Matt Phillips, who's on the goalkeeper,
+[5466.32 - 5474.32] P:1629.71 E:0.073267 |  and he's not touched the ball, and Kyle Bartley's running through as the header is, the contact is made.
+[5474.32 - 5481.32] P:1672.40 E:0.084370 |  But is the West Bromwich Albion player then not interfering in the eye line of Allison?
+[5481.32 - 5487.32] P:1696.03 E:0.078572 |  Well I can't see because that's not the shot, he's interfering with the eye line, but that's a pass.
+[5487.32 - 5494.32] P:1713.60 E:0.095458 |  Well the goal has been disallowed, and it remains West Bromwich Albion won, Liverpool won,
+[5494.32 - 5498.32] P:1760.46 E:0.081956 |  and West Bromwich's goal disallowed through VAR.
+[5499.32 - 5505.32] P:1694.08 E:0.076427 |  Here is Mane, Shaqiri will be getting the team news from Goodison Park very very soon,
+[5505.32 - 5511.32] P:1665.64 E:0.081327 |  but here is Alexander Arnold, back now with Thiago.
+[5511.32 - 5515.32] P:1845.27 E:0.096166 |  That was a let-off for Liverpool because to lose this game would be a real blow for them.
+[5515.32 - 5520.32] P:1732.87 E:0.075512 |  Inside to Mane, just couldn't turn and cleared away.
+[5520.32 - 5524.32] P:1889.68 E:0.093348 |  Let's get the team news then from Goodison Park, Colin McNamara.
+[5524.32 - 5528.32] P:1583.84 E:0.087871 |  It's actually Tom Gale-Deno, but Carlo Ancelotti makes one Everton change,
+[5528.32 - 5532.32] P:1635.05 E:0.097577 |  James Rodriguez returns from injury as Guilfee Sigurdsson drops to the bench.
+[5532.32 - 5536.32] P:1605.28 E:0.094066 |  Three Sheffield United changes, Paul Heckenbottom brings in Robinson, Osborne,
+[5536.32 - 5539.32] P:1706.81 E:0.095874 |  and a first Premier League start for 17-year-old Canadian Daniel Jeperson.
+[5539.32 - 5542.32] P:1547.16 E:0.092727 |  Outgo Bryant, Berger and Birk to join the subs.
+[5542.32 - 5547.32] P:1884.06 E:0.090218 |  Apologies Tom, it's Connor who's providing the commentary on five live sports extra
+[5547.32 - 5550.32] P:1814.54 E:0.084477 |  with Michael Brown for that seven o'clock kickoff.
+[5550.32 - 5554.32] P:1951.67 E:0.091239 |  Matt Phillips, though, just looking at it again, was directly in front of Alisson.
+[5554.32 - 5558.32] P:1745.29 E:0.089924 |  You're right, and he is offside and he is interfering with the eye line,
+[5558.32 - 5563.32] P:1657.92 E:0.077914 |  but my question is, is the interference in the eye line only on the shot?
+[5563.32 - 5566.32] P:1692.63 E:0.085854 |  If it's on a pass, because it comes off Karl Barthley's knee,
+[5566.32 - 5571.32] P:1756.17 E:0.084316 |  he's the last man, so that constitutes a shot rather than the header from Ajay.
+[5571.32 - 5574.32] P:1787.68 E:0.069430 |  So I don't know, that would be my question.
+[5574.32 - 5579.32] P:1853.52 E:0.098355 |  Well, you might want to have your say regarding that on 6-0-6 with Chris Sutton and Robbie Savage.
+[5579.32 - 5584.32] P:1745.22 E:0.090371 |  Meanwhile, Maitland Niles has come on and Dian Garner has gone off,
+[5584.32 - 5588.32] P:1883.95 E:0.081475 |  as Alisson quickly goes to the feet of Robinson Karnu.
+[5588.32 - 5591.32] P:1633.78 E:0.080525 |  Tell you what, though, Westbrock and Chalbini are giving it a go, aren't they?
+[5591.32 - 5596.32] P:1731.92 E:0.089038 |  They're causing problems, and it's on, the opportunity's on, and I think they're sensing it,
+[5596.32 - 5599.32] P:1815.55 E:0.085314 |  and Liverpool are getting more and more anxious, they're getting the ball,
+[5599.32 - 5602.32] P:1754.74 E:0.089801 |  they're rushing the free kicks, rushing the restarts,
+[5602.32 - 5605.32] P:1496.24 E:0.066229 |  and you know what, the opportunity's there for Westbrock.
+[5606.32 - 5610.32] P:1894.64 E:0.095318 |  73 minutes played, Alexander-Arnold keeps it alive,
+[5610.32 - 5615.32] P:1913.20 E:0.091891 |  and Karl Barthley has to make the quick and hurried clearance inside his six-yard area.
+[5615.32 - 5618.32] P:1833.90 E:0.086137 |  Westbrock, Chalbini won, Liverpool won.
+[5618.32 - 5625.32] P:1722.05 E:0.081724 |  Mike Dean just not allowing this throw to be taken quickly on this near side the right.
+[5625.32 - 5628.32] P:1664.07 E:0.084936 |  So what's VAR, I presume, looking at now?
+[5628.32 - 5631.32] P:1664.03 E:0.092197 |  I'm assuming it was a potential handball against Townsend,
+[5631.32 - 5634.32] P:1663.99 E:0.088102 |  but he did well actually, just to avoid it.
+[5634.32 - 5638.32] P:1793.80 E:0.098245 |  Alexander-Arnold with the cross, punched away by a tumbling Johnston,
+[5638.32 - 5644.32] P:1883.53 E:0.091554 |  comes back out towards Robinson on that far side, now towards Thiago.
+[5644.32 - 5649.32] P:1913.02 E:0.084739 |  In the weak evening sunshine, Thiago now tries to thread it through.
+[5649.32 - 5651.32] P:2139.98 E:0.109001 |  Firmino, can he get the shot away?
+[5651.32 - 5655.32] P:2069.34 E:0.094020 |  Just wide left footed, slams into the advertising, hoardings off target,
+[5655.32 - 5658.32] P:2023.24 E:0.082474 |  goal kick, 11-16 minutes to go.
+[5658.32 - 5662.32] P:1785.97 E:0.088738 |  Quick feet, just trying to get himself half a yard, good from Thiago, into the feet.
+[5662.32 - 5666.32] P:1554.69 E:0.078511 |  Firmino found himself just the tiniest bit of room,
+[5666.32 - 5668.32] P:1613.28 E:0.096490 |  and did really well to create that bit of space,
+[5668.32 - 5671.32] P:1641.25 E:0.075530 |  but the angle against him couldn't get his foot around it.
+[5672.32 - 5675.32] P:1924.80 E:0.095202 |  Westbrock and Chalbini are going to make a change.
+[5675.32 - 5679.32] P:1822.94 E:0.089660 |  Okayekoslu, the Turkish international, is coming off,
+[5679.32 - 5683.32] P:1681.68 E:0.078698 |  and Jake Livermore is coming on.
+[5683.32 - 5687.32] P:1888.10 E:0.090154 |  He only had two substitute appearances in his last 13,
+[5687.32 - 5692.32] P:1878.16 E:0.076875 |  matches Jake Livermore, but some fresh legs for the 15 minutes
+[5692.32 - 5697.32] P:1849.83 E:0.093045 |  that remain of this contest of Westbrock, Chalbini won, Liverpool won.
+[5699.32 - 5704.32] P:1744.14 E:0.093397 |  The ball goes long, headed on, referee Mike Dean though blows his whistle,
+[5704.32 - 5707.32] P:1799.93 E:0.079231 |  and Liverpool want to take the free kick quickly.
+[5707.32 - 5711.32] P:1714.64 E:0.081701 |  Shaqiri to Alexander-Arnold, back towards Thiago,
+[5711.32 - 5715.32] P:1775.25 E:0.081977 |  Nathaniel Phillips now, but at the heart of that Liverpool defence.
+[5716.32 - 5720.32] P:1796.46 E:0.100350 |  Reese Williams back towards Nathaniel Phillips, time is running out for Liverpool.
+[5720.32 - 5722.32] P:1765.36 E:0.091840 |  Draw not really good enough.
+[5722.32 - 5726.32] P:1906.39 E:0.088612 |  A draw though, wood suit Leicester City and Chelsea in the race for the top four.
+[5726.32 - 5729.32] P:1993.21 E:0.107270 |  Ball over the top, taken one on the chest by Robertson, inside!
+[5729.32 - 5733.32] P:2038.47 E:0.091724 |  And it just goes wide, Chemie Achi running in at the near post,
+[5733.32 - 5736.32] P:2013.12 E:0.093292 |  sliding, stares it behind for a corner kick.
+[5736.32 - 5741.32] P:1690.13 E:0.079215 |  It's a wonderful switch to the play from Thiago and Robertson.
+[5741.32 - 5744.32] P:1754.12 E:0.071990 |  It's time and time again, we've seen him do it,
+[5744.32 - 5747.32] P:1758.96 E:0.084201 |  touch cross into that horrible area for a centre half,
+[5747.32 - 5751.32] P:1771.09 E:0.084603 |  and Ajayi did brilliantly, because any less of a touch and it's an own goal.
+[5751.32 - 5755.32] P:1983.61 E:0.079661 |  Corner kick for Liverpool, far side to left, it's an out-swinger,
+[5755.32 - 5760.32] P:1797.58 E:0.092723 |  Firmino was there, headed away by Maitland-Niles, picked up by Fabinho.
+[5760.32 - 5765.32] P:1561.13 E:0.065289 |  Westbrock, Chalbini, have some defending to do,
+[5765.32 - 5768.32] P:1840.07 E:0.096467 |  headed away by Furlong, unchallenged, out of play,
+[5768.32 - 5771.32] P:1959.58 E:0.096882 |  and it goes for a throw on that far side, the Liverpool left.
+[5771.32 - 5773.32] P:1612.03 E:0.078393 |  14 minutes of normal time remain.
+[5773.32 - 5778.32] P:1631.21 E:0.072969 |  Liverpool really did need the three points to keep up the pressure,
+[5778.32 - 5782.32] P:1821.85 E:0.085483 |  with games to come, Burnley away and Crystal Palace at home.
+[5782.32 - 5786.32] P:1881.71 E:0.093079 |  Here is Mane, Mane now to Salah, just showed a little bit too much to Townsend,
+[5786.32 - 5791.32] P:1635.72 E:0.074578 |  the left back was tucked in, cleared, head to his own penalty area.
+[5791.32 - 5796.32] P:1841.01 E:0.093198 |  Thiago on the stretch, keeps it with Liverpool, Firmino just in from that left touch line.
+[5796.32 - 5799.32] P:2012.53 E:0.088638 |  Challenge made by Gallagher, breaks towards Shakiri.
+[5799.32 - 5804.32] P:1801.86 E:0.082174 |  Fabinho is going to shoot from distance, and he's pulled that from what,
+[5804.32 - 5808.32] P:1849.67 E:0.092184 |  35 yards out, right footed, well off target, goal kick, 1-1, Rob Green.
+[5808.32 - 5812.32] P:1507.34 E:0.069927 |  Well, let's off for Westbrom, that, no real need to take the shot,
+[5812.32 - 5818.32] P:1568.35 E:0.063239 |  you're in good position, keep the ball, recycle it, keep probing,
+[5818.32 - 5822.32] P:1510.26 E:0.083628 |  takes a wild punt from 30-odd yards.
+[5822.32 - 5826.32] P:1558.07 E:0.073139 |  Westbrom will be happy with that for the remaining 15 minutes.
+[5826.32 - 5832.32] P:1706.01 E:0.078486 |  Yes, they will, might even try and fashion a chance themselves.
+[5832.32 - 5836.32] P:1846.68 E:0.094152 |  At the other end, as Pereira plays it back to Townsend,
+[5836.32 - 5842.32] P:1787.40 E:0.064876 |  here is Matt Phillips to Livermore, Furlong the right back,
+[5842.32 - 5849.32] P:1788.30 E:0.084995 |  six yards inside, the Liverpool half back then to Ajay, hits it downfield.
+[5849.32 - 5852.32] P:1863.39 E:0.083606 |  Could come in here, this could be an opportunity.
+[5852.32 - 5857.32] P:1863.95 E:0.086576 |  And in the end, it was to Rob Sinchanu, and the goalkeeper, Alisson, stood tall,
+[5857.32 - 5860.32] P:1951.41 E:0.089597 |  got the block in with his left leg behind for a corner kick.
+[5860.32 - 5864.32] P:1829.22 E:0.088525 |  Huge chance for Rob Sinchanu, and again, it's that opportunity,
+[5864.32 - 5868.32] P:1689.59 E:0.085101 |  just playing on the shoulder, and everybody misses it.
+[5868.32 - 5872.32] P:1794.30 E:0.087743 |  Just his first touch was a little bit too far away from him,
+[5872.32 - 5876.32] P:1615.91 E:0.078734 |  ended up being a bit of a poke towards goal, but Alisson, as he does so often,
+[5876.32 - 5880.32] P:1584.43 E:0.061663 |  so quick out of his line, makes the block.
+[5880.32 - 5885.32] P:1442.62 E:0.065929 |  And a good block as well from Alisson.
+[5885.32 - 5889.32] P:1659.86 E:0.101701 |  Corner kick then for Westbrom at Chalbion, still 1-1,
+[5889.32 - 5892.32] P:1573.89 E:0.072642 |  and 12 minutes of normal time remaining.
+[5892.32 - 5896.32] P:1705.43 E:0.087236 |  Gallagher, far side the right, comes off the back of the head for Mino,
+[5896.32 - 5900.32] P:1820.53 E:0.091360 |  Maitland Niles will go back, Townsend inside the centre-circle,
+[5900.32 - 5905.32] P:1747.85 E:0.073670 |  along the ground, a diagonal ball, Gallagher forward,
+[5905.32 - 5911.32] P:1674.02 E:0.090276 |  it's towards Cross, which is played in from that right-hand side by Furlong.
+[5911.32 - 5914.32] P:1837.64 E:0.097309 |  Gallagher's overrun that, lifted up into the air by Fabinho,
+[5914.32 - 5919.32] P:1836.62 E:0.090882 |  brought down now by Thiago, and his forward ball touched out towards that far side,
+[5919.32 - 5923.32] P:2001.36 E:0.094659 |  Shaquiri left-hand side, now in the sunshine here at the Hawthorne's.
+[5923.32 - 5928.32] P:1775.19 E:0.086605 |  Thiago, Shaquiri lays the ball off, Robertson's over the halfway line.
+[5928.32 - 5930.32] P:1935.26 E:0.102898 |  Firmino's just ahead of him, wanting the ball to feed,
+[5930.32 - 5933.32] P:1894.47 E:0.089230 |  inside it's short and square towards Shaquiri,
+[5933.32 - 5936.32] P:1943.04 E:0.085466 |  helps it on edge of the centre-circle, Fabinho.
+[5936.32 - 5939.32] P:1836.50 E:0.100913 |  Salah now takes it over, Alexander-Arnold on this near side,
+[5939.32 - 5943.32] P:1913.01 E:0.091571 |  11 minutes of normal time remain, and Liverpool are still being held here,
+[5943.32 - 5945.32] P:1902.75 E:0.091052 |  and they're pursuit of a top-four finish.
+[5945.32 - 5949.32] P:1939.30 E:0.096726 |  Thiago coming forward for Liverpool, just outside the penalty area.
+[5949.32 - 5953.32] P:1956.88 E:0.081178 |  Thiago shoots, and just wide right-footed, goal-kick 1-1.
+[5953.32 - 5958.32] P:1709.33 E:0.079029 |  Did well, did well, just to commit the bodies, get them going backwards.
+[5958.32 - 5963.32] P:1796.39 E:0.083454 |  He drives at the defence, and they worked it across 35 yards out,
+[5963.32 - 5968.32] P:1730.43 E:0.068939 |  just gets enough of a yard on it, that space just to get the strike away.
+[5968.32 - 5973.32] P:1676.44 E:0.069110 |  Liverpool backing off, Johnson is watching it, hopefully,
+[5973.32 - 5976.32] P:1748.57 E:0.081811 |  I think he's more confident than hopeful, isn't he?
+[5976.32 - 5978.32] P:1408.50 E:0.069275 |  He knows it's going wide.
+[5979.32 - 5984.32] P:1631.23 E:0.081178 |  As it stands, as far as the top-four is concerned,
+[5984.32 - 5988.32] P:1749.64 E:0.095318 |  this is the Liverpool game in hand that they have on Leicester City and Chelsea.
+[5988.32 - 5995.32] P:1758.67 E:0.088735 |  Leicester would have 66 points, Chelsea would 64, and Liverpool would have 61.
+[5997.32 - 6000.32] P:1844.03 E:0.090718 |  Here is Robertson forward now for Liverpool,
+[6000.32 - 6005.32] P:1805.67 E:0.086049 |  Fabinho bursting through the middle, Robertson holds on to the ball and finds Mane.
+[6005.32 - 6009.32] P:1644.69 E:0.088052 |  Mane about 10 yards in from the touch-line, level with the penalty area,
+[6009.32 - 6013.32] P:1729.47 E:0.090975 |  curls the ball in field, Thiago goes back towards Shaquiri,
+[6013.32 - 6018.32] P:1827.83 E:0.086567 |  passes the ball, but forces Robertson out wide on that far side to the left.
+[6018.32 - 6022.32] P:1790.61 E:0.091072 |  Back now to Firmino, left corner of the penalty area,
+[6022.32 - 6025.32] P:1588.18 E:0.073607 |  10 minutes of normal time remaining.
+[6026.32 - 6031.32] P:1732.58 E:0.080157 |  Back with Firmino, still 1-1, 5-5, here is Shaquiri,
+[6031.32 - 6037.32] P:1776.82 E:0.085419 |  patiently passes the ball towards Robertson, Firmino runs forward, Firmino with a cutback,
+[6037.32 - 6041.32] P:1910.18 E:0.092668 |  cleared away by Jai, and then Furlong helps it further away,
+[6041.32 - 6046.32] P:1665.34 E:0.085706 |  as far as West Bromwichalbyn are concerned, and it will be a Liverpool throw.
+[6048.32 - 6051.32] P:1785.75 E:0.106201 |  You would think West Bromwichalbyn would make another change,
+[6051.32 - 6061.32] P:1577.38 E:0.090967 |  and the player who is going to be going off is Hal Robson-Khanu.
+[6061.32 - 6065.32] P:1826.72 E:0.087485 |  You would think Liverpool with their quality would fashion one more opportunity, wouldn't you?
+[6065.32 - 6070.32] P:1698.41 E:0.075577 |  At least, but we've said that this season and this is the games they've struggled in.
+[6070.32 - 6073.32] P:1695.57 E:0.087374 |  You had the stats earlier about playing against the bottom three,
+[6073.32 - 6077.32] P:1617.85 E:0.078784 |  the three relegated teams this season, and they've struggled,
+[6077.32 - 6082.32] P:1653.27 E:0.082553 |  and it's these two blocks of four or four, five, one, whatever, whichever shape it is.
+[6082.32 - 6085.32] P:1749.72 E:0.084718 |  This low defensive block, they struggle to create chances,
+[6085.32 - 6089.32] P:1532.28 E:0.075979 |  and when they went on that horrible run, particularly at home,
+[6089.32 - 6093.32] P:1669.20 E:0.073594 |  that's team after team, just came to Anfield and did the same,
+[6093.32 - 6096.32] P:1543.58 E:0.074878 |  and West Bromwichalbyn are going to do the same now.
+[6096.32 - 6100.32] P:1629.10 E:0.095083 |  Robson-Khanu has come off the field of play, and it's Colin Grant
+[6100.32 - 6105.32] P:1884.13 E:0.093087 |  who's come on to replace him, and no wonder that there was plenty of back-slapping there for Robson-Khanu.
+[6105.32 - 6109.32] P:1922.02 E:0.086148 |  He, of course, gave West Bromwichalbyn the lead after 15 minutes,
+[6109.32 - 6112.32] P:1591.13 E:0.073164 |  as West Brom now with Gallagher.
+[6112.32 - 6116.32] P:1780.78 E:0.093995 |  Forward ball, Pereira just drifted out towards the left,
+[6116.32 - 6118.32] P:1894.99 E:0.086741 |  it was cut out by Nathaniel Phillips,
+[6118.32 - 6122.32] P:1800.47 E:0.092797 |  eight minutes of normal time remain, still at 1-1, here at the Hall Thorns.
+[6122.32 - 6129.32] P:1663.95 E:0.071916 |  Mane leaves it for Thiago, Fabinho running forward now for the red of Liverpool,
+[6129.32 - 6137.32] P:1763.96 E:0.083394 |  looking for that run of Robertson, hits it in first time, cleared away by Ajay Chakiri to Fabinho,
+[6137.32 - 6144.32] P:1772.70 E:0.073884 |  waiting, passing the ball back, Rhys Williams, just outside the centre-circle.
+[6144.32 - 6148.32] P:1662.15 E:0.084118 |  The encouragement from the Liverpool base to try and keep the momentum,
+[6148.32 - 6153.32] P:1812.79 E:0.093386 |  looking to try and carve out at least one more opportunity in these eight remaining minutes.
+[6153.32 - 6157.32] P:2056.57 E:0.097849 |  For Mane, to Chakiri, missed control, Townsend able to slide to clear,
+[6157.32 - 6163.32] P:1747.01 E:0.080080 |  ball hit then by Livermore, and giving chase for that was Colin Grant,
+[6163.32 - 6170.32] P:1693.79 E:0.077592 |  and then the ball is tidied up by Rhys Williams, and back to Allyson.
+[6170.32 - 6172.32] P:1652.14 E:0.099351 |  Some tired legs out there now, Rob.
+[6172.32 - 6175.32] P:1686.36 E:0.089163 |  Tired bodies and tired minds in this West Brom side,
+[6175.32 - 6178.32] P:1535.11 E:0.075933 |  his back line for West Brom have been fantastic.
+[6178.32 - 6183.32] P:1729.67 E:0.081711 |  For a side that let in so many goals this season, just the small movements,
+[6183.32 - 6187.32] P:1854.90 E:0.087739 |  the communication between each of them, they've seen this through so far,
+[6187.32 - 6189.32] P:1724.65 E:0.081009 |  and they're desperate to carry on.
+[6189.32 - 6192.32] P:2160.84 E:0.109302 |  Alexander-Arnold, Alexander-Arnold into the penalty area,
+[6192.32 - 6195.32] P:1869.56 E:0.084179 |  Alexander-Arnold off his left foot and over the top.
+[6195.32 - 6200.32] P:1590.17 E:0.081003 |  That was a chance for Liverpool with seven minutes remaining, but it's 1-1 still.
+[6200.32 - 6205.32] P:1885.83 E:0.083943 |  You said there was going to be another chance, and that's a huge chance for Alexander-Arnold.
+[6205.32 - 6209.32] P:1714.43 E:0.087571 |  They've got narrow and narrow West Brom, Matt Phillips trying to get back,
+[6209.32 - 6214.32] P:1680.16 E:0.065937 |  just over-commits, and Alexander-Arnold can cut back onto his left foot,
+[6214.32 - 6216.32] P:1806.59 E:0.077396 |  and everyone just sits and waits and waits.
+[6216.32 - 6218.32] P:1740.75 E:0.072883 |  Is he going to hit the target?
+[6218.32 - 6224.32] P:1540.77 E:0.061919 |  No, over the bar, but he's comfortably over the bar.
+[6224.32 - 6227.32] P:1491.45 E:0.088542 |  Vinaldo has just come on, hasn't he?
+[6227.32 - 6233.32] P:1452.87 E:0.096372 |  And it was Reese Williams who's come off.
+[6233.32 - 6237.32] P:1748.53 E:0.078754 |  I just thought before that when he dealt with one of the...
+[6237.32 - 6241.32] P:1834.03 E:0.098356 |  He looked very, very tired, looked like he might have just been feeling the back of his hamstrings,
+[6241.32 - 6244.32] P:1845.53 E:0.100265 |  taking no chances with that, so Vinaldo is on,
+[6244.32 - 6250.32] P:1730.87 E:0.085766 |  and it means that Fabinho drops back to partner Nathaniel Phillips for the closing stages.
+[6250.32 - 6255.32] P:1745.66 E:0.075830 |  Six minutes of normal time remaining, but there's going to be...
+[6255.32 - 6260.32] P:1774.65 E:0.081926 |  I wouldn't be surprised if we had another five minutes of added-on time,
+[6260.32 - 6264.32] P:1772.77 E:0.085688 |  at least with the amount of substitutions and the stoppages that we've had.
+[6264.32 - 6268.32] P:1552.92 E:0.079618 |  I won't ask you to add it up, Dan Oaks.
+[6268.32 - 6272.32] P:1678.36 E:0.086766 |  It's going to be a free kick for West Bromwich Albion.
+[6272.32 - 6279.32] P:1568.94 E:0.073731 |  Eighty-four minutes of tick-by at the Hawthorns.
+[6279.32 - 6286.32] P:1536.55 E:0.083269 |  And Johnston in no real hurry to take this free kick for West Bromwich Albion.
+[6286.32 - 6290.32] P:1689.78 E:0.095053 |  Right-footed, Nathaniel Phillips heads it away, further helped on by Firmino.
+[6290.32 - 6294.32] P:1796.10 E:0.082006 |  Mane latches onto it, Liverpool now on the attack.
+[6294.32 - 6299.32] P:1867.18 E:0.097573 |  Ball played diagonal towards Salah, Salah towards Firmino, just outside the penalty area.
+[6299.32 - 6301.32] P:1830.87 E:0.091572 |  Firmino turns.
+[6301.32 - 6304.32] P:1759.69 E:0.082931 |  Was he fouled there by Furlong? There are three, says no.
+[6304.32 - 6308.32] P:1872.99 E:0.095325 |  West Bromwich Albion give the ball away, Vinaldo towards Tiago.
+[6308.32 - 6313.32] P:1976.88 E:0.098415 |  Tiago now towards Salah. Salah plays the ball forward, headed away by Shemi Ajay,
+[6313.32 - 6317.32] P:1962.81 E:0.092199 |  help further away by Liverpool. Nathaniel Phillips...
+[6317.32 - 6322.32] P:1853.58 E:0.101194 |  Oh, referee Mike Dean says he was fouled as Pereira just pulled away from him.
+[6322.32 - 6325.32] P:1727.58 E:0.078129 |  The break was on there for West Bromwich Albion.
+[6325.32 - 6327.32] P:1729.90 E:0.084220 |  Five minutes remain.
+[6327.32 - 6331.32] P:1795.69 E:0.096045 |  Pereira was away, they're fortunate there, it wasn't much of a foul if it was won.
+[6331.32 - 6334.32] P:1427.39 E:0.055733 |  The break was on.
+[6334.32 - 6338.32] P:1601.40 E:0.079122 |  Here is Robertson to Shaqiri.
+[6338.32 - 6341.32] P:1690.01 E:0.084454 |  Shaqiri looking to turn.
+[6341.32 - 6348.32] P:1660.68 E:0.078446 |  Tiago switches play, Mane deliberately stayed out wide, left-hand side.
+[6348.32 - 6353.32] P:1828.96 E:0.097966 |  Mane now comes into the penalty area towards Shaqiri to Robertson outside the area.
+[6353.32 - 6357.32] P:1877.08 E:0.092783 |  Robertson's forward ball takes a deflection behind it goes for a corner kick,
+[6357.32 - 6359.32] P:1795.36 E:0.082535 |  Liverpool are knocking at the door.
+[6359.32 - 6362.32] P:1687.85 E:0.079472 |  Last throws, they need this goal.
+[6362.32 - 6366.32] P:1709.76 E:0.080430 |  It's just a small difference in West Brom having already been relegated.
+[6366.32 - 6369.32] P:1697.43 E:0.085792 |  They took that free kick earlier and left 2v2 at the back,
+[6369.32 - 6374.32] P:1670.93 E:0.078000 |  which with five minutes to go against Liverpool, if they still had a chance of staying up,
+[6374.32 - 6376.32] P:1574.35 E:0.091810 |  they'd be having six at the back, maybe more.
+[6376.32 - 6383.32] P:1764.92 E:0.079509 |  Corner kick for Liverpool, far side to the left, it's an out-swinger headed away by Bartley.
+[6383.32 - 6388.32] P:1743.57 E:0.090569 |  Fabinho guided on by little flick there by Shaqiri to Robertson left-hand side,
+[6388.32 - 6394.32] P:1651.48 E:0.077287 |  plays it back to Shaqiri, in comes the cross, headed away by Ajay.
+[6394.32 - 6399.32] P:1710.80 E:0.080937 |  Fabinho playing the ball forward, Vinaldo the substitute latches onto it.
+[6399.32 - 6404.32] P:1700.14 E:0.080953 |  Coming forward now, Vinaldo, Shaqiri midway through the West Brom,
+[6404.32 - 6409.32] P:2058.28 E:0.090123 |  it's Alvion half, passes the ball to Firmino, Tiago's going to shoot!
+[6409.32 - 6413.32] P:2022.54 E:0.093717 |  Johnston with a save, moving away towards his left-hand side, corner kick
+[6413.32 - 6417.32] P:1732.41 E:0.084795 |  and Liverpool still putting the pressure on West Brom.
+[6417.32 - 6425.32] P:1601.75 E:0.083408 |  So, Sam Johnson, only a couple in the game so far, but was set, gets set very, very well.
+[6425.32 - 6430.32] P:1643.95 E:0.072637 |  He's always in position, gets into the dive well, strong save.
+[6430.32 - 6435.32] P:1704.21 E:0.090989 |  Alexander-Arnold with the corner kick from the right-hand side,
+[6435.32 - 6439.32] P:1965.41 E:0.092849 |  and that Phillips was up there from the back, it'll come out to Shaqiri, edge of the area.
+[6439.32 - 6443.32] P:1866.20 E:0.101886 |  Three minutes of normal time remain in a game that Liverpool really do have to win.
+[6443.32 - 6446.32] P:1877.02 E:0.090241 |  They're being held by West Brom at Shaqiri.
+[6446.32 - 6452.32] P:1626.78 E:0.081797 |  Going the long way around, and then under pressure, passing the ball out towards Tiago.
+[6452.32 - 6459.32] P:1601.60 E:0.086883 |  No wonder that Jurgen Klopp reached for his head with his hands on that baseball cap down below.
+[6459.32 - 6463.32] P:1666.64 E:0.079272 |  You could see what was happening in Shaqiri, a little bit disappointingly,
+[6463.32 - 6467.32] P:1567.31 E:0.083065 |  as it will be a West Brom at Shaqiri and Throw.
+[6467.32 - 6472.32] P:1595.13 E:0.081378 |  If you said, however many games it was ago that Liverpool went on this run,
+[6472.32 - 6476.32] P:1618.84 E:0.084470 |  ended their horrible run, you said to Liverpool fans, you've got to beat the win.
+[6476.32 - 6483.32] P:1723.61 E:0.079836 |  The last three games against the opposition, they've got West Brom, Burnley and Pallis to get a Champions League spot.
+[6483.32 - 6487.32] P:1495.85 E:0.068043 |  They had to snap your hands off, but they're not doing it today.
+[6487.32 - 6489.32] P:1707.97 E:0.051411 |  No, they're not.
+[6489.32 - 6495.32] P:1673.00 E:0.088083 |  Here is Nathaniel Phillips carrying the ball a long way,
+[6495.32 - 6500.32] P:1877.12 E:0.095758 |  and then he's sending over the cross that is too deep, and the distribution found wanting,
+[6500.32 - 6504.32] P:1950.97 E:0.093641 |  and it drifts aimlessly out of play and out towards that far side.
+[6504.32 - 6508.32] P:1931.24 E:0.082521 |  Now as the rain has returned, it'll be a goal kick,
+[6508.32 - 6515.32] P:1699.73 E:0.079776 |  but West Brom and Chalbion, their commitment and their attitude for a team that has already been relegated,
+[6515.32 - 6517.32] P:1806.81 E:0.077068 |  can't fault them in that respect, Rob.
+[6517.32 - 6520.32] P:1622.42 E:0.085330 |  They've been brilliant. They've been really, really good to watch,
+[6520.32 - 6523.32] P:1793.99 E:0.092035 |  and you know what, the concentration that they've shown,
+[6523.32 - 6529.32] P:1625.29 E:0.083966 |  and yes, at times Liverpool have been a little bit more hopeful than cutting edge, should we say,
+[6529.32 - 6532.32] P:1732.27 E:0.076286 |  you've got a credit West Brom for that. They've forced them into it.
+[6532.32 - 6535.32] P:1725.54 E:0.082741 |  They've not given them the chances. They've not just handed over opportunities.
+[6535.32 - 6538.32] P:1858.82 E:0.063512 |  So, you know, full credit to them.
+[6538.32 - 6542.32] P:1938.52 E:0.104217 |  They're still battling away for the ball there midway through the Liverpool half.
+[6542.32 - 6545.32] P:1916.01 E:0.090508 |  All eyes on the fourth official, Andrew Maddley,
+[6545.32 - 6550.32] P:1892.95 E:0.100108 |  because by my watch we're about to enter the last 60 seconds of the regulation 90.
+[6550.32 - 6553.32] P:1834.65 E:0.092281 |  Alexander-Arnold scampers forward, right-hand side.
+[6553.32 - 6555.32] P:1984.15 E:0.098286 |  Alexander-Arnold with the delivery over the head.
+[6555.32 - 6560.32] P:1863.49 E:0.098698 |  Mane will have to go out of the penalty area towards that far side to keep the ball in play.
+[6560.32 - 6562.32] P:1817.45 E:0.090881 |  Passes the ball back to Robertson.
+[6562.32 - 6566.32] P:1789.42 E:0.090384 |  Liverpool are leaving it late, 1-1, five-live in the World Service.
+[6566.32 - 6570.32] P:2133.35 E:0.096130 |  Here is Shaqiri. Shaqiri slides it through, blocked by Barclay.
+[6570.32 - 6573.32] P:1901.44 E:0.092835 |  Robertson can't get there. Gallagher slides into the challenge.
+[6573.32 - 6575.32] P:2124.97 E:0.099005 |  Tiago tries to win it back. He got the ball well.
+[6575.32 - 6578.32] P:1959.69 E:0.103526 |  Tiago forward towards Robertson.
+[6578.32 - 6581.32] P:1974.80 E:0.093360 |  Robertson with the cross. Salah, good control.
+[6581.32 - 6583.32] P:1949.21 E:0.075901 |  Fine Aldham just puts it wide.
+[6583.32 - 6586.32] P:1941.13 E:0.095889 |  Another chance for Liverpool. Couldn't hit the target.
+[6586.32 - 6588.32] P:1894.33 E:0.078668 |  What a touch by Salah.
+[6588.32 - 6592.32] P:1929.44 E:0.088246 |  And Fine Aldham's right-footed effort off-target goal kick 1-1.
+[6592.32 - 6595.32] P:1850.70 E:0.080893 |  Well, that's the chance. That's the opportunity.
+[6595.32 - 6599.32] P:1847.09 E:0.080972 |  And it's the one ball into the box that West Brom have not been able to defend.
+[6599.32 - 6602.32] P:1764.10 E:0.079399 |  And Salah does wonderfully well with his touch and his layoff.
+[6602.32 - 6605.32] P:1682.59 E:0.080219 |  It's set up perfectly for Wine Aldham.
+[6605.32 - 6609.32] P:1685.09 E:0.075763 |  Just to feel it into the far corner, bend it in.
+[6609.32 - 6612.32] P:1676.07 E:0.090475 |  I think if it was the other way round, if it was Wine Aldham to Salah,
+[6612.32 - 6615.32] P:1753.74 E:0.046618 |  it would have been a goal.
+[6615.32 - 6618.32] P:1863.40 E:0.103519 |  Jürgen Klopp, I think, is inquiring with the fourth official, Andrew Maddley,
+[6618.32 - 6623.32] P:1695.35 E:0.086835 |  as to how many minutes will be shown here on this board.
+[6623.32 - 6625.32] P:1678.84 E:0.091298 |  But a short time ago, I said to you,
+[6625.32 - 6629.32] P:1793.12 E:0.088785 |  will they be able to carve out one opportunity they've carved out two?
+[6629.32 - 6633.32] P:1893.16 E:0.086866 |  You think for those chances, it's not the five that we maybe thought.
+[6633.32 - 6636.32] P:1898.72 E:0.079465 |  It is four minutes that we're now into.
+[6636.32 - 6639.32] P:1793.48 E:0.097457 |  But you had that Johnston save from Thiago.
+[6639.32 - 6642.32] P:1961.24 E:0.090965 |  In fact, in the space of six minutes, Liverpool have created three chances.
+[6642.32 - 6646.32] P:1616.74 E:0.066491 |  Here is Thiago to Wine Aldham.
+[6646.32 - 6649.32] P:1809.90 E:0.086734 |  Still 1-1. Robertson cuts the ball back.
+[6649.32 - 6652.32] P:2006.84 E:0.094689 |  Wine Aldham shoots, charged down by Gallagher.
+[6652.32 - 6655.32] P:1698.44 E:0.086376 |  West Brom are throwing bodies that won't go behind,
+[6655.32 - 6659.32] P:1615.80 E:0.064642 |  kept from behind by Maitland Niles.
+[6659.32 - 6662.32] P:1918.72 E:0.109133 |  Instead, it'll be a Liverpool throw on that far side.
+[6662.32 - 6667.32] P:1794.29 E:0.086511 |  So four minutes, a minimum of four, which we're now into, in the pouring rain,
+[6667.32 - 6669.32] P:2030.49 E:0.084434 |  despite the fact that the sun is still shining.
+[6669.32 - 6675.32] P:1662.25 E:0.065608 |  Fabinho, Phillips, Shaquiri for Liverpool.
+[6675.32 - 6678.32] P:1668.83 E:0.078414 |  Diagonal ball along the ground for Mino.
+[6678.32 - 6681.32] P:1547.52 E:0.075981 |  Hariden, hustled by Gallagher.
+[6681.32 - 6684.32] P:1980.07 E:0.090130 |  Shaquiri then wants more to Thiago on the inside.
+[6684.32 - 6687.32] P:1946.87 E:0.105943 |  Fabinho now playing as a central defender to Mane,
+[6687.32 - 6689.32] P:2061.90 E:0.097110 |  looking to try and swivel away from his mark.
+[6689.32 - 6693.32] P:1933.38 E:0.084034 |  It goes out of play. It'll be a Liverpool corner kick.
+[6693.32 - 6695.32] P:1582.95 E:0.078463 |  Still at 1-1.
+[6695.32 - 6699.32] P:1849.20 E:0.082884 |  And still we could have late drama here at the Hawthorns.
+[6699.32 - 6702.32] P:1687.12 E:0.065951 |  Robertson wants to take it quickly.
+[6702.32 - 6705.32] P:1904.33 E:0.104130 |  Far side the left. This will be an out swinging corner.
+[6705.32 - 6707.32] P:1959.98 E:0.084315 |  In it comes now from Robertson.
+[6707.32 - 6709.32] P:2118.81 E:0.099728 |  Nat Phillips was up off the head of Barclay.
+[6709.32 - 6711.32] P:1936.89 E:0.087646 |  Shaquiri plays it by Niles.
+[6711.32 - 6713.32] P:2134.39 E:0.108822 |  Pulls the ball back. Thiago strikes it low.
+[6713.32 - 6715.32] P:1710.62 E:0.090006 |  Not very powerfully.
+[6715.32 - 6717.32] P:2032.28 E:0.094197 |  Pleared away by West Bromwich Albion's defence.
+[6717.32 - 6719.32] P:2188.31 E:0.105980 |  Alexander-Reynolds delivers the ball deep.
+[6719.32 - 6722.32] P:1902.53 E:0.091360 |  And headed at that far post over by Mane and Wide.
+[6722.32 - 6725.32] P:1838.12 E:0.094038 |  And that'll be a goal kick to West Bromwich Albion.
+[6725.32 - 6728.32] P:1939.94 E:0.080860 |  And just over two minutes of stoppage time remains.
+[6728.32 - 6731.32] P:1432.19 E:0.069993 |  Trying to Alexander's it's a wonderful delivery.
+[6731.32 - 6736.32] P:1515.68 E:0.069071 |  And time after time today, he's overhitting.
+[6736.32 - 6739.32] P:1765.89 E:0.085092 |  You're saying it's a tight pitch and you know,
+[6739.32 - 6742.32] P:1570.00 E:0.076983 |  can seem a lot smaller than other grounds
+[6742.32 - 6745.32] P:1841.62 E:0.085481 |  because of the stance, because of the tight-knit nature of it.
+[6745.32 - 6748.32] P:1610.64 E:0.082485 |  I just wonder whether today's radar's that off,
+[6748.32 - 6749.32] P:1692.29 E:0.077888 |  whether that's had an effect.
+[6749.32 - 6751.32] P:1710.98 E:0.090816 |  I don't know because he's normally so good at it.
+[6751.32 - 6753.32] P:1881.28 E:0.073368 |  606 is on its way.
+[6753.32 - 6755.32] P:1782.47 E:0.100027 |  We will bring you or try to bring you at least
+[6755.32 - 6759.32] P:2004.35 E:0.087257 |  live reaction from the Hawthorns into 606.
+[6759.32 - 6763.32] P:1875.19 E:0.086812 |  0-8, 0-8-5, 9-0-9, 6-9-3.
+[6763.32 - 6766.32] P:1402.75 E:0.078598 |  But Liverpool are, what,
+[6766.32 - 6771.32] P:1716.93 E:0.080426 |  90 seconds away from dropping points here at the Hawthorns.
+[6771.32 - 6773.32] P:1854.68 E:0.093192 |  Robertson holding off the challenge
+[6773.32 - 6775.32] P:1925.77 E:0.095242 |  of Maitland Niles on that far side.
+[6775.32 - 6778.32] P:1919.48 E:0.094070 |  Firmino manages to get away from Maitland Niles,
+[6778.32 - 6780.32] P:2013.62 E:0.103723 |  sends over the cross, edge of the area.
+[6780.32 - 6782.32] P:2257.54 E:0.107583 |  Alexander-Arnold looking towards Salah,
+[6782.32 - 6784.32] P:2067.88 E:0.080320 |  but held off well with the strength of Barclay
+[6784.32 - 6787.32] P:1773.86 E:0.078307 |  and dived at the feet there by the goalkeeper, Johnston.
+[6787.32 - 6789.32] P:1943.47 E:0.096076 |  Sharp, good concentration from Johnston.
+[6789.32 - 6791.32] P:1872.82 E:0.085811 |  He's looked assured all game,
+[6791.32 - 6793.32] P:1783.76 E:0.075026 |  not had spectacular saves,
+[6793.32 - 6795.32] P:1704.09 E:0.091569 |  not had a lot to do, but what he's had to do,
+[6795.32 - 6799.32] P:1743.22 E:0.077928 |  just looked assured and you know what,
+[6799.32 - 6802.32] P:1761.25 E:0.085391 |  fans at Leicester and Chelsea will be
+[6802.32 - 6806.32] P:1761.01 E:0.085755 |  pleading these West Bromplest to see out these last few seconds.
+[6806.32 - 6811.32] P:1645.60 E:0.080918 |  What is it about Sam Allardyce and Jurgen Klopp?
+[6811.32 - 6814.32] P:1721.44 E:0.092661 |  He's failed to win any of his last five games
+[6814.32 - 6816.32] P:1936.36 E:0.100196 |  against Sam Allardyce, whether he's been the manager
+[6816.32 - 6819.32] P:1841.85 E:0.087669 |  of Sunderland, Crystal Palace, Everton,
+[6819.32 - 6825.32] P:1763.40 E:0.083514 |  or West Bromwich Albion, four draws and a defeat during that time.
+[6825.32 - 6827.32] P:1785.68 E:0.074730 |  This will feel like a defeat,
+[6827.32 - 6830.32] P:1814.50 E:0.081612 |  even though that it's not, but the consequences of it
+[6830.32 - 6833.32] P:1809.43 E:0.095452 |  will mean that Liverpool have lost ground
+[6833.32 - 6838.32] P:1703.04 E:0.078160 |  in the race for the Champions League qualification for next season.
+[6840.32 - 6843.32] P:1880.97 E:0.096074 |  We're inside the last 30 seconds
+[6843.32 - 6845.32] P:1844.11 E:0.100218 |  of the minimum of four minutes that are added on,
+[6845.32 - 6848.32] P:1789.66 E:0.074552 |  and still it's 1-1 to Iago.
+[6848.32 - 6851.32] P:1852.70 E:0.088439 |  This will be the last chance for Liverpool.
+[6851.32 - 6855.32] P:1759.37 E:0.087869 |  Shaqiri to Robertson, forward towards Mane,
+[6855.32 - 6859.32] P:1939.46 E:0.097111 |  left-hand side, everybody is in and around the penalty area,
+[6859.32 - 6863.32] P:1861.11 E:0.087695 |  and Mane's cross goes behind for a corner kick,
+[6863.32 - 6867.32] P:1990.17 E:0.098633 |  and Shaqiri urges Alexander-Arnold to hurriedly run across
+[6867.32 - 6869.32] P:1950.47 E:0.083983 |  that far side to take it.
+[6869.32 - 6871.32] P:1756.94 E:0.091060 |  This will be it then.
+[6871.32 - 6874.32] P:1694.12 E:0.050080 |  Allerson is coming up from the back.
+[6874.32 - 6876.32] P:1931.89 E:0.098976 |  The four minutes have elapsed.
+[6876.32 - 6879.32] P:1777.91 E:0.058278 |  It's a corner kick far side to left.
+[6879.32 - 6883.32] P:1906.00 E:0.098545 |  Robertson stays back just to keep an eye on any breakaway.
+[6883.32 - 6885.32] P:2110.57 E:0.107818 |  Allerson is up from the back and it comes!
+[6885.32 - 6888.32] P:1705.32 E:0.104105 |  Allerson! Oh, what you believe it!
+[6888.32 - 6893.32] P:1799.98 E:0.104876 |  Liverpool goalkeeper in injury time has won it for Liverpool.
+[6893.32 - 6898.32] P:1826.34 E:0.103807 |  What a dramatic and remarkable finish here in the Hawthorns.
+[6898.32 - 6901.32] P:1868.12 E:0.104299 |  Liverpool close the gap on the top four,
+[6901.32 - 6904.32] P:1841.08 E:0.098888 |  Leicester and Chelsea under Real Breccia,
+[6904.32 - 6908.32] P:1702.02 E:0.108105 |  and a dramatic finale, and Liverpool celebrate.
+[6908.32 - 6910.32] P:2020.22 E:0.091501 |  They've snatched it right to the death.
+[6910.32 - 6912.32] P:1380.25 E:0.069619 |  2-1.
+[6913.32 - 6916.32] P:1154.10 E:0.063053 |  Unbelievable.
+[6916.32 - 6919.32] P:1731.39 E:0.084179 |  Sturred and watched for 90 minutes,
+[6919.32 - 6924.32] P:1675.78 E:0.086785 |  Waste chance after chance to Liverpool comes up.
+[6924.32 - 6927.32] P:1645.69 E:0.083988 |  Here are boys, I'll show you how to do it.
+[6927.32 - 6929.32] P:1674.43 E:0.088811 |  Unsurprisingly, he's unmarked.
+[6929.32 - 6932.32] P:1749.19 E:0.081897 |  He's unmarked on the penalty spot
+[6932.32 - 6935.32] P:1622.94 E:0.080987 |  and just makes a run across the front of the goal.
+[6935.32 - 6938.32] P:1522.43 E:0.088759 |  It's a free head of six yards out,
+[6938.32 - 6940.32] P:1776.95 E:0.101257 |  he's got a chance in the far corner,
+[6940.32 - 6942.32] P:1605.63 E:0.081623 |  he's not the side netting.
+[6942.32 - 6946.32] P:1667.05 E:0.081324 |  All the hard work, all the effort that West Brom have done.
+[6946.32 - 6948.32] P:1700.01 E:0.079592 |  And there's no more men left.
+[6948.32 - 6950.32] P:1834.50 E:0.097242 |  They haven't got any more men to mark anybody,
+[6950.32 - 6952.32] P:1791.02 E:0.082333 |  and it's just a free header,
+[6952.32 - 6955.32] P:1566.94 E:0.080317 |  and it's the perfect one from the keeper.
+[6955.32 - 6960.32] P:1810.26 E:0.068042 |  Well, that is absolutely staggering.
+[6960.32 - 6962.32] P:1800.19 E:0.079822 |  Great header, mind you.
+[6962.32 - 6964.32] P:1952.84 E:0.099067 |  Everybody be proud of that,
+[6964.32 - 6967.32] P:1918.22 E:0.081702 |  and there is the final, no, not the final whistle.
+[6967.32 - 6970.32] P:2031.39 E:0.090467 |  I'll tell you what as well, great thinking by Salah.
+[6970.32 - 6973.32] P:1869.07 E:0.077338 |  Jurgen Klopp was desperate for him to get back,
+[6973.32 - 6976.32] P:2026.22 E:0.091474 |  and Mo Salah was waiting for Alisson
+[6976.32 - 6978.32] P:2026.42 E:0.093126 |  to get back into his penalty area.
+[6978.32 - 6981.32] P:2012.80 E:0.097750 |  So Salah was deliberately walking slowly back
+[6981.32 - 6984.32] P:1936.64 E:0.091078 |  towards the halfway line, until the goal scorer,
+[6984.32 - 6987.32] P:1714.53 E:0.077494 |  Alisson, was back in position.
+[6987.32 - 6990.32] P:1882.96 E:0.090579 |  Liverpool lead by two goals to one.
+[6990.32 - 6994.32] P:1821.65 E:0.079325 |  West Bromwich Albion forward, cleared by Robertson.
+[6994.32 - 6997.32] P:1926.69 E:0.084550 |  And then the final whistle goes,
+[6997.32 - 7001.32] P:1924.23 E:0.102387 |  and Liverpool, in one of the most dramatic finishes
+[7001.32 - 7003.32] P:1793.26 E:0.087784 |  to a Premier League game,
+[7003.32 - 7006.32] P:1975.26 E:0.091685 |  have kept the three points that keep alive
+[7006.32 - 7008.32] P:1968.13 E:0.090613 |  their top four aspirations,
+[7008.32 - 7011.32] P:1967.38 E:0.101185 |  and Alisson the goalkeeper is the hero
+[7011.32 - 7014.32] P:1962.30 E:0.099316 |  with a winning goal in injury time.
+[7014.32 - 7019.32] P:1831.89 E:0.082148 |  West Bromwich Albion won, Liverpool two, Steve.
+[7019.32 - 7022.32] P:1563.25 E:0.074323 |  That is ridiculous, Rob.
+[7022.32 - 7024.32] P:1684.56 E:0.060654 |  Ridiculous.
+[7024.32 - 7027.32] P:1921.22 E:0.086700 |  We've seen three great finishes today,
+[7027.32 - 7029.32] P:1749.88 E:0.076821 |  and that was the best.
+[7029.32 - 7032.32] P:1825.67 E:0.084724 |  I mean, he's just a wonderful header,
+[7032.32 - 7035.32] P:1836.50 E:0.080234 |  and he's just planted it in the far corner,
+[7035.32 - 7038.32] P:1756.01 E:0.085144 |  and the Westbourne players are walking off this straw.
+[7038.32 - 7040.32] P:1898.24 E:0.091893 |  The Liverpool players,
+[7040.32 - 7043.32] P:1915.86 E:0.084476 |  I think they feel like they won the Champions League after that.
+[7043.32 - 7046.32] P:1627.87 E:0.093424 |  It's the most incredible of finishes,
+[7046.32 - 7050.32] P:1807.31 E:0.075286 |  and just a brilliant, brilliant way to finish
+[7050.32 - 7053.32] P:1727.73 E:0.083063 |  a really good game of football.
+[7053.32 - 7055.32] P:1825.14 E:0.072680 |  They're mobbing him now, Ian.
+[7055.32 - 7057.32] P:1723.83 E:0.073284 |  I'm not surprised.
+[7057.32 - 7060.32] P:1838.35 E:0.081827 |  He's getting hooked from everybody.
+[7060.32 - 7063.32] P:1761.65 E:0.064468 |  I mean, you've seen many a time
+[7063.32 - 7066.32] P:2026.15 E:0.099291 |  when a goalkeeper has gone forward.
+[7066.32 - 7069.32] P:2093.66 E:0.090327 |  I think Paul Robinson scored two goals
+[7069.32 - 7072.32] P:2039.37 E:0.085173 |  during his time for Leeds United,
+[7072.32 - 7075.32] P:1985.47 E:0.088986 |  one against Swindon in a league cup tie,
+[7075.32 - 7077.32] P:2028.01 E:0.101857 |  another one from a long plunt downfield.
+[7077.32 - 7079.32] P:1903.07 E:0.094591 |  But the manner of the header as well,
+[7079.32 - 7081.32] P:1950.11 E:0.076164 |  it was a great header.
+[7081.32 - 7083.32] P:2009.87 E:0.080510 |  Bullet, bullet-esque, and it just took...
+[7083.32 - 7085.32] P:1865.25 E:0.084727 |  It was a wonderful cross.
+[7085.32 - 7087.32] P:1984.41 E:0.084325 |  I mean, he's only trained Alexander early
+[7087.32 - 7089.32] P:1941.68 E:0.090835 |  for his poor quality of balls in,
+[7089.32 - 7092.32] P:1811.23 E:0.082152 |  and it was a wonderful ball, and he just used the pace of that.
+[7092.32 - 7095.32] P:1762.67 E:0.079987 |  And we're talking about how Robson Karni,
+[7095.32 - 7098.32] P:1835.06 E:0.077559 |  who's got clinical finishes for a player out of practice,
+[7098.32 - 7101.32] P:1655.19 E:0.082283 |  well, I doubt Alison practices that many a very times.
+[7101.32 - 7103.32] P:2005.84 E:0.095554 |  The biggest hug of all, though, Steve,
+[7103.32 - 7106.32] P:2040.97 E:0.096675 |  was from Jurgen Klopp to Alison.
+[7106.32 - 7109.32] P:1746.77 E:0.087043 |  And Liverpool, everybody coming off the pitch,
+[7109.32 - 7111.32] P:1961.76 E:0.066865 |  he's beaming.
+[7111.32 - 7115.32] P:1922.67 E:0.096594 |  The white teeth are there for all to see of Jurgen Klopp.
+[7115.32 - 7117.32] P:1908.21 E:0.079360 |  He is absolutely beaming,
+[7117.32 - 7120.32] P:2075.78 E:0.098554 |  and you'll struggle to wipe that smile off his face this evening,
+[7120.32 - 7124.32] P:2053.52 E:0.088164 |  because Liverpool taken right to the wire by West Bromwich Albion,
+[7124.32 - 7128.32] P:1763.67 E:0.079608 |  but incredibly have won it 2-1.
+[7128.32 - 7130.32] P:1672.42 E:0.076642 |  Ever got close to doing that, Rob?
+[7131.32 - 7133.32] P:1987.01 E:0.096332 |  I've actually done it at this end at the same end,
+[7133.32 - 7137.32] P:1824.63 E:0.090872 |  and I got brought down, yeah, peeled for a penalty, no penalty.
+[7137.32 - 7140.32] P:1920.03 E:0.084358 |  I was always too knackered to make a good run like that
+[7140.32 - 7144.32] P:1868.34 E:0.071438 |  to get up in the last minute, but, you know, it was...
+[7144.32 - 7146.32] P:1951.47 E:0.093775 |  If that was Firmino, you'd be saying,
+[7146.32 - 7148.32] P:1807.31 E:0.083275 |  what a wonderful header. It wasn't.
+[7148.32 - 7150.32] P:1831.90 E:0.039222 |  It was Alison.
+[7150.32 - 7154.32] P:1976.06 E:0.083034 |  And also, you know, like, he looks borderline in tears.
+[7154.32 - 7156.32] P:2081.90 E:0.083494 |  He's had hugs from absolutely everybody.
+[7156.32 - 7159.32] P:1904.62 E:0.083015 |  He's now also getting a handshake from Sammy Lee, of course,
+[7159.32 - 7161.32] P:2070.44 E:0.094663 |  who's a legend at Liverpool.
+[7161.32 - 7163.32] P:1713.16 E:0.090030 |  But, you know, he's had injuries earlier in the season.
+[7163.32 - 7166.32] P:2018.37 E:0.097082 |  If you could wish one moment on a goalkeeper, it's that.
+[7166.32 - 7169.32] P:1632.86 E:0.079840 |  Well, he had a little moment to point to the sky as well,
+[7169.32 - 7172.32] P:1967.97 E:0.086393 |  and it's the death of his father not so long ago
+[7172.32 - 7176.32] P:1727.98 E:0.079279 |  that I'm sure would have been fresh in his mind after scoring as well.
+[7176.32 - 7179.32] P:1925.76 E:0.081587 |  So, yeah, a really special moment for him.
+[7179.32 - 7181.32] P:1930.57 E:0.085017 |  And also, let's not forget, he made a very important save
+[7181.32 - 7183.32] P:2064.34 E:0.098257 |  from Rob Sincano after 77 minutes,
+[7183.32 - 7186.32] P:2176.70 E:0.085634 |  because if Albion then had gone 2-1 up,
+[7186.32 - 7189.32] P:1907.24 E:0.086312 |  there's no way that Liverpool would have come back from that.
+[7189.32 - 7193.32] P:1954.00 E:0.076645 |  So, in more ways than one,
+[7193.32 - 7197.32] P:2092.25 E:0.083940 |  he's kept Liverpool's hopes alive for a top-4 finish.
+[7197.32 - 7200.32] P:2130.34 E:0.078546 |  But what a finish. What a finish!
+[7200.32 - 7203.32] P:1975.53 E:0.062434 |  Absolutely incredible.
+[7203.32 - 7205.32] P:1728.73 E:0.092402 |  Rob, Ian, thank you very much.
