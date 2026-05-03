@@ -28,13 +28,16 @@ MAX_TARGET_TOKENS = 256
 
 
 class LEDDataset(Dataset):
-    """Pre-tokenises full transcripts; samples a random `window` of tokens at __getitem__."""
+    """Pre-tokenises full transcripts; training samples a random window per epoch,
+    validation always returns the first `window` tokens so eval is deterministic
+    (otherwise early-stopping on noisy val ROUGE is unreliable)."""
     def __init__(self, full_input_ids: List[torch.Tensor], label_ids: torch.Tensor,
-                 window: int, pad_token_id: int):
+                 window: int, pad_token_id: int, train: bool = True):
         self.full_input_ids = full_input_ids
         self.label_ids = label_ids
         self.window = window
         self.pad_token_id = pad_token_id
+        self.train = train
 
     def __len__(self):
         return len(self.full_input_ids)
@@ -43,7 +46,7 @@ class LEDDataset(Dataset):
         ids = self.full_input_ids[idx]
         n = ids.shape[0]
         if n > self.window:
-            start = random.randint(0, n - self.window)
+            start = random.randint(0, n - self.window) if self.train else 0
             ids = ids[start:start + self.window]
         elif n < self.window:
             pad_len = self.window - n
@@ -65,6 +68,7 @@ def prepare_led_dataset(
     tokenizer,
     max_input: int = MAX_INPUT_TOKENS,
     max_target: int = MAX_TARGET_TOKENS,
+    train: bool = True,
 ) -> LEDDataset:
     # Tokenise each transcript at its FULL length (no truncation here — sampler picks a window per epoch).
     full_input_ids = [
@@ -82,7 +86,8 @@ def prepare_led_dataset(
     label_ids = label_enc["input_ids"]
     label_ids[label_ids == tokenizer.pad_token_id] = -100
 
-    return LEDDataset(full_input_ids, label_ids, window=max_input, pad_token_id=tokenizer.pad_token_id)
+    return LEDDataset(full_input_ids, label_ids, window=max_input,
+                      pad_token_id=tokenizer.pad_token_id, train=train)
 
 
 def finetune_led(
@@ -105,8 +110,8 @@ def finetune_led(
     model.gradient_checkpointing_enable()
     model = model.to(device)
 
-    train_ds = prepare_led_dataset(train_transcripts, train_summaries, tokenizer)
-    val_ds = prepare_led_dataset(val_transcripts, val_summaries, tokenizer)
+    train_ds = prepare_led_dataset(train_transcripts, train_summaries, tokenizer, train=True)
+    val_ds = prepare_led_dataset(val_transcripts, val_summaries, tokenizer, train=False)
 
     train_model(
         model=model,
@@ -118,8 +123,17 @@ def finetune_led(
             "learning_rate": 5e-5,
             "fp16": device == "cuda",
             "gradient_checkpointing": True,
+            # eval at 8k context with beam search is ~5+ min per match. Eval every
+            # 2 epochs to keep total runtime within Kaggle's session limit.
+            "eval_strategy": "epoch",
+            "save_strategy": "epoch",
+            "per_device_eval_batch_size": 1,
+            "eval_accumulation_steps": 1,
+            # Shorter generation during eval keeps it tractable; final inference still uses 256.
+            "generation_max_length": 192,
+            "generation_num_beams": 1,
         },
-        early_stopping_patience=3,
+        early_stopping_patience=2,
     )
 
     return model, tokenizer
