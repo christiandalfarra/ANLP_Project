@@ -124,6 +124,25 @@ def run_single_condition(model_name, strategy, prompt_type, checkpoint=None, spl
         from src.models.prompting.led_prompter import LEDPrompter
         prompter = LEDPrompter()
         tokenizer = prompter.tokenizer
+    elif model_name == "bart":
+        # Pretrained BART-Large-CNN baseline (no fine-tuning), chunk+aggregate.
+        from transformers import BartTokenizer, BartForConditionalGeneration
+        import torch
+        BART_MODEL = "facebook/bart-large-cnn"
+        tokenizer = BartTokenizer.from_pretrained(BART_MODEL)
+        model = BartForConditionalGeneration.from_pretrained(BART_MODEL)
+        device = "cuda" if torch.cuda.is_available() else "cpu"
+        model = model.to(device).eval()
+
+        class _SimplePrompter:
+            def __init__(self, model, tokenizer, device):
+                self.model, self.tokenizer, self.device = model, tokenizer, device
+            def generate(self, prompt, max_new_tokens=256):
+                inputs = self.tokenizer(prompt, return_tensors="pt", truncation=True, max_length=1024).to(self.device)
+                with torch.no_grad():
+                    ids = self.model.generate(**inputs, max_new_tokens=max_new_tokens, num_beams=4)
+                return self.tokenizer.decode(ids[0], skip_special_tokens=True).strip()
+        prompter = _SimplePrompter(model, tokenizer, device)
     else:
         raise ValueError(f"Unknown model: {model_name}")
 
@@ -196,6 +215,9 @@ def main():
 
     if args.all:
         conditions = [
+            ("bart", "chunk", "zero"),
+            ("bart", "chunk", "few"),
+            ("bart", "chunk", "cot"),
             ("flan", "chunk", "zero"),
             ("flan", "chunk", "few"),
             ("flan", "chunk", "cot"),
