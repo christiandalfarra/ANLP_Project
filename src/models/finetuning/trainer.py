@@ -25,6 +25,12 @@ def compute_rouge_metrics(tokenizer):
 
         # Replace -100 (padding label) with pad token id
         labels = np.where(labels != -100, labels, tokenizer.pad_token_id)
+        # `preds` from Seq2SeqTrainer can contain -100 for unfilled beam positions
+        # or out-of-vocab sentinels; the fast tokenizer's batch_decode rejects them
+        # with `OverflowError: out of range integral type conversion attempted`.
+        # Clip to valid token-id range before decoding.
+        vocab_size = getattr(tokenizer, "vocab_size", None) or len(tokenizer)
+        preds = np.where((preds < 0) | (preds >= vocab_size), tokenizer.pad_token_id, preds)
 
         decoded_preds = tokenizer.batch_decode(preds, skip_special_tokens=True)
         decoded_labels = tokenizer.batch_decode(labels, skip_special_tokens=True)
