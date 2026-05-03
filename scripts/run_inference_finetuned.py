@@ -84,10 +84,32 @@ def main():
     test_ids = splits["test"]
 
     device = "cuda" if torch.cuda.is_available() else "cpu"
-    print(f"Loading checkpoint from {args.checkpoint} on {device}...")
-    tokenizer = AutoTokenizer.from_pretrained(args.checkpoint)
+
+    # Fallback: if --checkpoint is missing the model file (training crashed
+    # before final save_model()), pick the most recent checkpoint-N subdir.
+    ckpt_dir = args.checkpoint
+    has_model = any(
+        os.path.exists(os.path.join(ckpt_dir, f))
+        for f in ("model.safetensors", "pytorch_model.bin")
+    )
+    if not has_model:
+        subs = [
+            d for d in os.listdir(ckpt_dir)
+            if d.startswith("checkpoint-") and os.path.isdir(os.path.join(ckpt_dir, d))
+        ]
+        if subs:
+            latest = max(subs, key=lambda d: int(d.split("-")[1]))
+            ckpt_dir = os.path.join(args.checkpoint, latest)
+            print(f"No model file in {args.checkpoint}; falling back to {ckpt_dir}")
+        else:
+            raise FileNotFoundError(
+                f"No model file or checkpoint-N subdir under {args.checkpoint}"
+            )
+
+    print(f"Loading checkpoint from {ckpt_dir} on {device}...")
+    tokenizer = AutoTokenizer.from_pretrained(ckpt_dir)
     model = AutoModelForSeq2SeqLM.from_pretrained(
-        args.checkpoint,
+        ckpt_dir,
         torch_dtype=torch.float16 if device == "cuda" else torch.float32,
     ).to(device)
     model.eval()

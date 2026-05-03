@@ -136,10 +136,10 @@ def finetune_led(
             "eval_strategy": "epoch",
             "save_strategy": "epoch",
             "per_device_eval_batch_size": 1,
-            "eval_accumulation_steps": 1,
-            # Force eval generation to produce >= 80 tokens. Without this the
-            # decoder collapsed to <s></s> and ROUGE silently went to 0 even
-            # while eval_loss kept improving (teacher-forced loss != generation).
+            # Don't set eval_accumulation_steps: with predict_with_generate=True
+            # it triggers `OverflowError: out of range integral type conversion`
+            # in transformers' CPU accumulation buffers when sequences contain
+            # -100 label padding. Default (None = keep on GPU) is fine at bs=1.
             "generation_max_length": 192,
             "generation_num_beams": 2,
         },
