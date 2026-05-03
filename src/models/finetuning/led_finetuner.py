@@ -106,6 +106,12 @@ def finetune_led(
     tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
     model = AutoModelForSeq2SeqLM.from_pretrained(MODEL_NAME)
 
+    # Force eval generation to emit >= 80 tokens. Seq2SeqTrainingArguments has no
+    # generation_min_length kwarg; we set it on the model's generation_config so
+    # Trainer.generate() picks it up during predict_with_generate eval.
+    model.generation_config.min_length = 80
+    model.generation_config.no_repeat_ngram_size = 3
+
     # Enable gradient checkpointing before moving to device
     model.gradient_checkpointing_enable()
     model = model.to(device)
@@ -120,20 +126,21 @@ def finetune_led(
         val_dataset=val_ds,
         output_dir=output_dir,
         training_args_kwargs={
-            # 5e-5 caused divergence (loss 91, grad_norm 209, eval ROUGE collapsed to 0
-            # at epoch 3). 2e-5 is gentler and standard for LED fine-tuning.
             "learning_rate": 2e-5,
-            # Label smoothing combined with greedy eval pushed the decoder toward
-            # immediate <eos> emission ("collapse to empty"). Disable for LED.
             "label_smoothing_factor": 0.0,
+            # Longer warmup: previous runs spiked grad_norm to 200-577 in early
+            # epochs. 100 steps over ~150 total = 2/3 warmup but stops the spike.
+            "warmup_steps": 100,
             "fp16": device == "cuda",
             "gradient_checkpointing": True,
             "eval_strategy": "epoch",
             "save_strategy": "epoch",
             "per_device_eval_batch_size": 1,
             "eval_accumulation_steps": 1,
+            # Force eval generation to produce >= 80 tokens. Without this the
+            # decoder collapsed to <s></s> and ROUGE silently went to 0 even
+            # while eval_loss kept improving (teacher-forced loss != generation).
             "generation_max_length": 192,
-            # beams=2 catches the empty-output failure mode that beams=1 produced.
             "generation_num_beams": 2,
         },
         early_stopping_patience=2,

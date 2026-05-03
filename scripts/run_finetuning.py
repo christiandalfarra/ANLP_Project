@@ -60,17 +60,13 @@ def main():
         )
 
     elif args.model == "led":
-        from transformers import AutoTokenizer
-        from src.models.finetuning.led_finetuner import finetune_led, MODEL_NAME, MAX_INPUT_TOKENS
+        from src.models.finetuning.led_finetuner import finetune_led
 
-        tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
+        # Pass FULL (untruncated) transcripts. LEDDataset samples a random 8k
+        # window per epoch; pre-truncating would defeat that.
         print(f"Loading {len(train_ids)} train / {len(val_ids)} val matches...")
-        train_t, train_s = load_transcripts_and_summaries(
-            train_ids, truncate_tokens=MAX_INPUT_TOKENS, tokenizer=tokenizer
-        )
-        val_t, val_s = load_transcripts_and_summaries(
-            val_ids, truncate_tokens=MAX_INPUT_TOKENS, tokenizer=tokenizer
-        )
+        train_t, train_s = load_transcripts_and_summaries(train_ids)
+        val_t, val_s = load_transcripts_and_summaries(val_ids)
         finetune_led(train_t, train_s, val_t, val_s, output_dir=args.output_dir)
 
     print(f"\nDone. Checkpoint saved to {args.output_dir}")

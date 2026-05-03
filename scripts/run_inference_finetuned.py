@@ -42,8 +42,10 @@ def make_generate_fn(model, tokenizer, device, max_input=1024, max_new_tokens=25
     return fn
 
 
-def make_led_generate_fn(model, tokenizer, device, max_input=16384, max_new_tokens=256, num_beams=2):
-    """LED inference. num_beams=2 keeps VRAM in budget for 16k input on a single T4."""
+def make_led_generate_fn(model, tokenizer, device, max_input=16384, max_new_tokens=256,
+                         min_new_tokens=80, num_beams=2):
+    """LED inference. num_beams=2 keeps VRAM in budget for 16k input on T4.
+    min_new_tokens floor prevents the decoder from collapsing to empty output."""
     def fn(text):
         inputs = tokenizer(
             text,
@@ -58,6 +60,7 @@ def make_led_generate_fn(model, tokenizer, device, max_input=16384, max_new_toke
                 **inputs,
                 global_attention_mask=global_attention_mask,
                 max_new_tokens=max_new_tokens,
+                min_new_tokens=min_new_tokens,
                 num_beams=num_beams,
                 no_repeat_ngram_size=3,
             )
