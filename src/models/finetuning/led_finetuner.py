@@ -120,18 +120,21 @@ def finetune_led(
         val_dataset=val_ds,
         output_dir=output_dir,
         training_args_kwargs={
-            "learning_rate": 5e-5,
+            # 5e-5 caused divergence (loss 91, grad_norm 209, eval ROUGE collapsed to 0
+            # at epoch 3). 2e-5 is gentler and standard for LED fine-tuning.
+            "learning_rate": 2e-5,
+            # Label smoothing combined with greedy eval pushed the decoder toward
+            # immediate <eos> emission ("collapse to empty"). Disable for LED.
+            "label_smoothing_factor": 0.0,
             "fp16": device == "cuda",
             "gradient_checkpointing": True,
-            # eval at 8k context with beam search is ~5+ min per match. Eval every
-            # 2 epochs to keep total runtime within Kaggle's session limit.
             "eval_strategy": "epoch",
             "save_strategy": "epoch",
             "per_device_eval_batch_size": 1,
             "eval_accumulation_steps": 1,
-            # Shorter generation during eval keeps it tractable; final inference still uses 256.
             "generation_max_length": 192,
-            "generation_num_beams": 1,
+            # beams=2 catches the empty-output failure mode that beams=1 produced.
+            "generation_num_beams": 2,
         },
         early_stopping_patience=2,
     )
