@@ -1,0 +1,18 @@
+\begin{table}[h]
+\centering
+\begin{tabular}{lcccc}
+\hline
+\textbf{Condition} & \textbf{ROUGE-1} & \textbf{ROUGE-2} & \textbf{ROUGE-L} & \textbf{BERTScore F1} \\
+\hline
+finetuned bart & 0.2295 & 0.0767 & 0.1274 & - \\
+flan chunk cot & 0.0468 & 0.0093 & 0.0329 & - \\
+flan chunk few & 0.0377 & 0.0020 & 0.0278 & - \\
+flan chunk zero & 0.0646 & 0.0154 & 0.0413 & - \\
+led long cot & 0.1427 & 0.0262 & 0.0846 & - \\
+led long few & 0.1377 & 0.0236 & 0.0825 & - \\
+led long zero & 0.1377 & 0.0236 & 0.0825 & - \\
+\hline
+\end{tabular}
+\caption{Comparison of summarization approaches on the test set.}
+\label{tab:results}
+\end{table}

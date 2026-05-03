@@ -1,0 +1,517 @@
+[{"stream_name":"stderr","time":6.337333863,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":6.337455728,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":6.337463288,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":6.337467825,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stderr","time":6.9558121889999995,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":6.955854039,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":6.955860675,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":6.95586479,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stdout","time":10.501781158,"data":"/kaggle/working/ANLP_Project\n"}
+,{"stream_name":"stdout","time":13.41323203,"data":"\u001b[?25l   \u001b[90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\u001b[0m \u001b[32m0.0/61.1 kB\u001b[0m \u001b[31m?\u001b[0m eta \u001b[36m-:--:--\u001b[0m\r\u001b[2K   \u001b[90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\u001b[0m \u001b[32m61.1/61.1 kB\u001b[0m \u001b[31m2.7 MB/s\u001b[0m eta \u001b[36m0:00:00\u001b[0m\r\n"}
+,{"stream_name":"stdout","time":20.148043632,"data":"\u001b[?25hCUDA: True\n"}
+,{"stream_name":"stdout","time":20.148091154,"data":"Device: Tesla T4\n"}
+,{"stream_name":"stdout","time":43.937496984,"data":"Loading facebook/bart-large-cnn...\r\n"}
+,{"stream_name":"stdout","time":44.140947025,"data":"Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.\r\n"}
+,{"stream_name":"stdout","time":54.188017986,"data":"Pre-generating chunk summaries for 80 train matches (cached to checkpoints/_chunk_summary_cache, one-time cost)...\r\n"}
+,{"stream_name":"stdout","time":54.188087788,"data":"  [1/80] 2022_wc_morocco_spain\r\n"}
+,{"stream_name":"stdout","time":54.846811271,"data":"/usr/local/lib/python3.12/dist-packages/transformers/generation/utils.py:1695: UserWarning: Unfeasible length constraints: `min_length` (56) is larger than the maximum possible length (33). Generation will stop at the defined maximum length. You should decrease the minimum length and/or increase the maximum length. Note that `max_length` is set to 33, its default value.\r\n"}
+,{"stream_name":"stdout","time":54.846849054,"data":"  warnings.warn(\r\n"}
+,{"stream_name":"stdout","time":84.998049818,"data":"  [2/80] 2024_euro_serbia_england\r\n"}
+,{"stream_name":"stdout","time":110.063655993,"data":"  [3/80] 2023_ucl_rangers_liverpool\r\n"}
+,{"stream_name":"stdout","time":127.197078632,"data":"  [4/80] 2010_wc_germany_england\r\n"}
+,{"stream_name":"stdout","time":142.157757154,"data":"  [5/80] 2024_euro_denmark_england\r\n"}
+,{"stream_name":"stdout","time":163.796608391,"data":"  [6/80] 2025_ueclfinal_realbetis_chelsea\r\n"}
+,{"stream_name":"stdout","time":187.779517045,"data":"  [7/80] 2010_wc_england_algeria\r\n"}
+,{"stream_name":"stdout","time":204.004630272,"data":"  [8/80] 2004_euro_portugal_england\r\n"}
+,{"stream_name":"stdout","time":235.561537897,"data":"  [9/80] 2023_ucl_liverpool_ajax\r\n"}
+,{"stream_name":"stdout","time":251.67351849,"data":"  [10/80] 2022_wc_belgium_canada\r\n"}
+,{"stream_name":"stdout","time":269.410782294,"data":"  [11/80] 2016_euro_england_iceland\r\n"}
+,{"stream_name":"stdout","time":284.852715926,"data":"  [12/80] 2026_pl_everton_astonvilla\r\n"}
+,{"stream_name":"stdout","time":303.508077163,"data":"  [13/80] 2010_wcqual_england_andorra\r\n"}
+,{"stream_name":"stdout","time":322.903821691,"data":"  [14/80] 2024_euro_spain_germany\r\n"}
+,{"stream_name":"stdout","time":349.127295296,"data":"  [15/80] 2024_ucl_manchesterunited_galatasaray\r\n"}
+,{"stream_name":"stdout","time":368.638157283,"data":"  [16/80] 2022_wc_japan_spain\r\n"}
+,{"stream_name":"stdout","time":386.36838654,"data":"  [17/80] 2020_euro_england_germany\r\n"}
+,{"stream_name":"stdout","time":426.804428113,"data":"  [18/80] 2022_nl_italy_england\r\n"}
+,{"stream_name":"stdout","time":444.16943818,"data":"  [19/80] 2018_wc_england_panama\r\n"}
+,{"stream_name":"stdout","time":459.803548035,"data":"  [20/80] 2021_euro_croatia_england\r\n"}
+,{"stream_name":"stdout","time":473.597210313,"data":"  [21/80] 2022_uclfinal_realmadrid_liverpool\r\n"}
+,{"stream_name":"stdout","time":512.186382891,"data":"  [22/80] 2026_wcqual_serbia_england\r\n"}
+,{"stream_name":"stdout","time":531.940415593,"data":"  [23/80] 2024_euro_netherlands_england\r\n"}
+,{"stream_name":"stdout","time":555.915983924,"data":"  [24/80] 2019_ucl_ajax_tottenham\r\n"}
+,{"stream_name":"stdout","time":572.913002706,"data":"  [25/80] 2022_wc_england_iran\r\n"}
+,{"stream_name":"stdout","time":592.005124835,"data":"  [26/80] 2004_euro_croatia_england\r\n"}
+,{"stream_name":"stdout","time":618.505058663,"data":"  [27/80] 2025_ucl_juventus_manchestercity\r\n"}
+,{"stream_name":"stdout","time":636.667662739,"data":"  [28/80] 2022_wc_brazil_serbia\r\n"}
+,{"stream_name":"stdout","time":655.439464744,"data":"  [29/80] 2026_pl_fulham_arsenal\r\n"}
+,{"stream_name":"stdout","time":676.106355639,"data":"  [30/80] 2022_wcfinal_argentina_france\r\n"}
+,{"stream_name":"stdout","time":706.928135615,"data":"  [31/80] 2025_pl_liverpool_tottenham\r\n"}
+,{"stream_name":"stdout","time":725.596021162,"data":"  [32/80] 2014_wc_uruguay_england\r\n"}
+,{"stream_name":"stdout","time":746.612719498,"data":"  [33/80] 2023_pl_liverpool_bournemouth\r\n"}
+,{"stream_name":"stdout","time":764.895732797,"data":"  [34/80] 2022_wc_brazil_southkorea\r\n"}
+,{"stream_name":"stdout","time":780.237382733,"data":"  [35/80] 2021_pl_liverpool_manchestercity\r\n"}
+,{"stream_name":"stdout","time":801.715628649,"data":"  [36/80] 2022_wc_france_denmark\r\n"}
+,{"stream_name":"stdout","time":820.495022078,"data":"  [37/80] 2025_ucl_arsenal_realmadrid\r\n"}
+,{"stream_name":"stdout","time":839.14380314,"data":"  [38/80] 2026_wcqual_scotland_belarus\r\n"}
+,{"stream_name":"stdout","time":856.217345325,"data":"  [39/80] 2026_pl_manchesterunited_sunderland\r\n"}
+,{"stream_name":"stdout","time":859.043009321,"data":"  [40/80] 2022_wc_netherlands_argentina\r\n"}
+,{"stream_name":"stdout","time":879.422852144,"data":"  [41/80] 2011_pl_chelsea_manchestercity\r\n"}
+,{"stream_name":"stdout","time":898.64275351,"data":"  [42/80] 2022_wc_spain_costarica\r\n"}
+,{"stream_name":"stdout","time":916.263177013,"data":"  [43/80] 2012_pl_manchesterunited_arsenal\r\n"}
+,{"stream_name":"stdout","time":934.488630236,"data":"  [44/80] 2022_wc_england_usa\r\n"}
+,{"stream_name":"stdout","time":951.672724889,"data":"  [45/80] 2026_pl_burnley_sunderland\r\n"}
+,{"stream_name":"stdout","time":972.668823857,"data":"  [46/80] 2022_wc_france_morocco\r\n"}
+,{"stream_name":"stdout","time":994.298389558,"data":"  [47/80] 2023_ucl_tottenham_acmilan\r\n"}
+,{"stream_name":"stdout","time":1011.971996152,"data":"  [48/80] 2022_wc_wales_england\r\n"}
+,{"stream_name":"stdout","time":1031.855100077,"data":"  [49/80] 2018_uclfinal_realmadrid_liverpool\r\n"}
+,{"stream_name":"stdout","time":1046.163879778,"data":"  [50/80] 2018_wc_england_sweden\r\n"}
+,{"stream_name":"stdout","time":1062.045157231,"data":"  [51/80] 2012_uclfinal_bayernmunich_chelsea\r\n"}
+,{"stream_name":"stdout","time":1094.520713623,"data":"  [52/80] 2022_wc_germany_japan\r\n"}
+,{"stream_name":"stdout","time":1109.808673986,"data":"  [53/80] 2019_ucl_liverpool_barcelona\r\n"}
+,{"stream_name":"stdout","time":1124.039078364,"data":"  [54/80] 2022_wc_england_france\r\n"}
+,{"stream_name":"stdout","time":1148.47914299,"data":"  [55/80] 2025_ucl_atalanta_arsenal\r\n"}
+,{"stream_name":"stdout","time":1165.673432409,"data":"  [56/80] 2022_wc_spain_germany\r\n"}
+,{"stream_name":"stdout","time":1183.34826931,"data":"  [57/80] 2021_pl_westbrom_liverpool\r\n"}
+,{"stream_name":"stdout","time":1200.945158276,"data":"  [58/80] 2018_wc_belgium_england\r\n"}
+,{"stream_name":"stdout","time":1216.795281204,"data":"  [59/80] 2023_ucl_manchestercity_bayernmunich\r\n"}
+,{"stream_name":"stdout","time":1234.321560032,"data":"  [60/80] 2018_wc_tunisia_england\r\n"}
+,{"stream_name":"stdout","time":1250.15482846,"data":"  [61/80] 2019_uelfinal_chelsea_arsenal\r\n"}
+,{"stream_name":"stdout","time":1269.500794981,"data":"  [62/80] 2014_wc_england_italy\r\n"}
+,{"stream_name":"stdout","time":1289.471548311,"data":"  [63/80] 2005_uclfinal_acmilan_liverpool\r\n"}
+,{"stream_name":"stdout","time":1332.284969219,"data":"  [64/80] 2026_wcqual_latvia_england\r\n"}
+,{"stream_name":"stdout","time":1352.215544684,"data":"  [65/80] 2023_pl_brentford_manchesterunited\r\n"}
+,{"stream_name":"stdout","time":1368.765127988,"data":"  [66/80] 2014_wc_costarica_england\r\n"}
+,{"stream_name":"stdout","time":1387.693808674,"data":"  [67/80] 2025_pl_tottenham_southampton\r\n"}
+,{"stream_name":"stdout","time":1407.604973397,"data":"  [68/80] 2022_wc_croatia_canada\r\n"}
+,{"stream_name":"stdout","time":1424.054142941,"data":"  [69/80] 2026_ucl_manchestercity_napoli\r\n"}
+,{"stream_name":"stdout","time":1439.480891321,"data":"  [70/80] 2022_wc_argentina_croatia\r\n"}
+,{"stream_name":"stdout","time":1458.364573703,"data":"  [71/80] 2025_pl_liverpool_southampton\r\n"}
+,{"stream_name":"stdout","time":1476.637681889,"data":"  [72/80] 2010_wcqual_belarus_england\r\n"}
+,{"stream_name":"stdout","time":1491.375458421,"data":"  [73/80] 2025_ucl_psg_arsenal\r\n"}
+,{"stream_name":"stdout","time":1510.146023406,"data":"  [74/80] 2014_wc_brazil_germany\r\n"}
+,{"stream_name":"stdout","time":1533.084330113,"data":"  [75/80] 2021_pl_manchesterunited_liverpool\r\n"}
+,{"stream_name":"stdout","time":1549.431953878,"data":"  [76/80] 2025_uclfinal_psg_intermilan\r\n"}
+,{"stream_name":"stdout","time":1584.032200855,"data":"  [77/80] 2008_uclfinal_manchesterunited_chelsea\r\n"}
+,{"stream_name":"stdout","time":1613.910670093,"data":"  [78/80] 2026_pl_chelsea_liverpool\r\n"}
+,{"stream_name":"stdout","time":1632.894851202,"data":"  [79/80] 2025_ucl_intermilan_arsenal\r\n"}
+,{"stream_name":"stdout","time":1650.461386411,"data":"  [80/80] 2022_nl_england_germany\r\n"}
+,{"stream_name":"stdout","time":1665.740974034,"data":"Pre-generating chunk summaries for 10 val matches...\r\n"}
+,{"stream_name":"stdout","time":1665.741005418,"data":"  [1/10] 2023_ucl_celtic_realmadrid\r\n"}
+,{"stream_name":"stdout","time":1685.017641315,"data":"  [2/10] 2022_wc_argentina_australia\r\n"}
+,{"stream_name":"stdout","time":1703.927489988,"data":"  [3/10] 2021_euro_england_italy\r\n"}
+,{"stream_name":"stdout","time":1724.465204779,"data":"  [4/10] 2023_ucl_liverpool_realmadrid\r\n"}
+,{"stream_name":"stdout","time":1740.404022079,"data":"  [5/10] 2018_wc_colombia_england\r\n"}
+,{"stream_name":"stdout","time":1762.457403784,"data":"  [6/10] 2024_eurofinal_spain_england\r\n"}
+,{"stream_name":"stdout","time":1802.985141318,"data":"  [7/10] 2025_ucl_arsenal_psg\r\n"}
+,{"stream_name":"stdout","time":1820.600070535,"data":"  [8/10] 2022_wc_ecuador_senegal\r\n"}
+,{"stream_name":"stdout","time":1836.550811195,"data":"  [9/10] 2024_euro_england_slovenia\r\n"}
+,{"stream_name":"stdout","time":1859.870123444,"data":"  [10/10] 2017_uclfinal_juventus_realmadrid\r\n"}
+,{"stream_name":"stdout","time":1874.616576124,"data":"Tokenizing datasets...\r\n"}
+,{"stream_name":"stdout","time":1874.801937546,"data":"Phase 1: Training with frozen encoder for 3 epochs...\r\n"}
+,{"stream_name":"stdout","time":1875.10627821,"data":"/usr/local/lib/python3.12/dist-packages/transformers/data/data_collator.py:600: UserWarning: Creating a tensor from a list of numpy.ndarrays is extremely slow. Please consider converting the list to a single numpy.ndarray with numpy.array() before converting to a tensor. (Triggered internally at /pytorch/torch/csrc/utils/tensor_new.cpp:253.)\r\n"}
+,{"stream_name":"stdout","time":1875.106318272,"data":"  batch[\"labels\"] = torch.tensor(batch[\"labels\"], dtype=torch.int64)\r\n"}
+,{"stream_name":"stdout","time":1914.049958235,"data":"/usr/local/lib/python3.12/dist-packages/torch/autograd/function.py:583: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.\r\n"}
+,{"stream_name":"stdout","time":1914.050002925,"data":"  return super().apply(*args, **kwargs)  # type: ignore[misc]\r\n"}
+,{"stream_name":"stdout","time":1914.145755369,"data":"{'eval_loss': '4.483', 'eval_rouge1': '0.1966', 'eval_rouge2': '0.05628', 'eval_rougeL': '0.1186', 'eval_runtime': '12.96', 'eval_samples_per_second': '0.772', 'eval_steps_per_second': '0.077', 'epoch': '1'}\r\n"}
+,{"stream_name":"stdout","time":1942.521958275,"data":"{'loss': '77.58', 'grad_norm': '692.4', 'learning_rate': '5.4e-06', 'epoch': '2'}\r\n"}
+,{"stream_name":"stdout","time":1954.00820469,"data":"{'eval_loss': '4.232', 'eval_rouge1': '0.188', 'eval_rouge2': '0.05121', 'eval_rougeL': '0.111', 'eval_runtime': '11.51', 'eval_samples_per_second': '0.868', 'eval_steps_per_second': '0.087', 'epoch': '2'}\r\n"}
+,{"stream_name":"stdout","time":1995.258350337,"data":"{'eval_loss': '3.948', 'eval_rouge1': '0.208', 'eval_rouge2': '0.06194', 'eval_rougeL': '0.1239', 'eval_runtime': '12.84', 'eval_samples_per_second': '0.779', 'eval_steps_per_second': '0.078', 'epoch': '3'}\r\n"}
+,{"stream_name":"stdout","time":1998.592026023,"data":"{'train_runtime': '123.5', 'train_samples_per_second': '1.944', 'train_steps_per_second': '0.121', 'train_loss': '74.62', 'epoch': '3'}\r\n"}
+,{"stream_name":"stdout","time":2001.945248329,"data":"Model saved to checkpoints/bart/phase1\r\n"}
+,{"stream_name":"stdout","time":2002.502409937,"data":"Removed checkpoints/bart/phase1 to free disk for phase 2.\r\n"}
+,{"stream_name":"stdout","time":2002.502457331,"data":"Phase 2: Training with unfrozen encoder for up to 12 more epochs...\r\n"}
+,{"stream_name":"stdout","time":2051.57838332,"data":"/usr/local/lib/python3.12/dist-packages/torch/autograd/function.py:583: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.\r\n"}
+,{"stream_name":"stdout","time":2051.578441981,"data":"  return super().apply(*args, **kwargs)  # type: ignore[misc]\r\n"}
+,{"stream_name":"stdout","time":2052.075433046,"data":"{'eval_loss': '3.906', 'eval_rouge1': '0.2115', 'eval_rouge2': '0.0683', 'eval_rougeL': '0.1266', 'eval_runtime': '11.82', 'eval_samples_per_second': '0.846', 'eval_steps_per_second': '0.085', 'epoch': '1'}\r\n"}
+,{"stream_name":"stdout","time":2092.159339445,"data":"{'loss': '64.57', 'grad_norm': '496.3', 'learning_rate': '5.4e-06', 'epoch': '2'}\r\n"}
+,{"stream_name":"stdout","time":2104.899044015,"data":"{'eval_loss': '3.773', 'eval_rouge1': '0.2061', 'eval_rouge2': '0.068', 'eval_rougeL': '0.1224', 'eval_runtime': '12.76', 'eval_samples_per_second': '0.784', 'eval_steps_per_second': '0.078', 'epoch': '2'}\r\n"}
+,{"stream_name":"stdout","time":2162.546602596,"data":"{'eval_loss': '3.586', 'eval_rouge1': '0.2432', 'eval_rouge2': '0.08469', 'eval_rougeL': '0.1555', 'eval_runtime': '17.51', 'eval_samples_per_second': '0.571', 'eval_steps_per_second': '0.057', 'epoch': '3'}\r\n"}
+,{"stream_name":"stdout","time":2203.239472457,"data":"{'loss': '56.25', 'grad_norm': '194.7', 'learning_rate': '1.14e-05', 'epoch': '4'}\r\n"}
+,{"stream_name":"stdout","time":2235.364512571,"data":"{'eval_loss': '3.406', 'eval_rouge1': '0.27', 'eval_rouge2': '0.09768', 'eval_rougeL': '0.1618', 'eval_runtime': '32.1', 'eval_samples_per_second': '0.311', 'eval_steps_per_second': '0.031', 'epoch': '4'}\r\n"}
+,{"stream_name":"stdout","time":2303.44315963,"data":"{'eval_loss': '3.239', 'eval_rouge1': '0.3223', 'eval_rouge2': '0.1271', 'eval_rougeL': '0.1929', 'eval_runtime': '27.76', 'eval_samples_per_second': '0.36', 'eval_steps_per_second': '0.036', 'epoch': '5'}\r\n"}
+,{"stream_name":"stdout","time":2343.794611875,"data":"{'loss': '48.48', 'grad_norm': '1061', 'learning_rate': '1.74e-05', 'epoch': '6'}\r\n"}
+,{"stream_name":"stdout","time":2377.037288612,"data":"{'eval_loss': '3.164', 'eval_rouge1': '0.3483', 'eval_rouge2': '0.135', 'eval_rougeL': '0.2035', 'eval_runtime': '33.27', 'eval_samples_per_second': '0.301', 'eval_steps_per_second': '0.03', 'epoch': '6'}\r\n"}
+,{"stream_name":"stdout","time":2451.309962552,"data":"{'eval_loss': '3.102', 'eval_rouge1': '0.349', 'eval_rouge2': '0.1473', 'eval_rougeL': '0.2131', 'eval_runtime': '33.74', 'eval_samples_per_second': '0.296', 'eval_steps_per_second': '0.03', 'epoch': '7'}\r\n"}
+,{"stream_name":"stdout","time":2491.756901357,"data":"{'loss': '44.74', 'grad_norm': '172.8', 'learning_rate': '2.34e-05', 'epoch': '8'}\r\n"}
+,{"stream_name":"stdout","time":2525.378676771,"data":"{'eval_loss': '3.044', 'eval_rouge1': '0.3609', 'eval_rouge2': '0.1459', 'eval_rougeL': '0.2085', 'eval_runtime': '33.62', 'eval_samples_per_second': '0.297', 'eval_steps_per_second': '0.03', 'epoch': '8'}\r\n"}
+,{"stream_name":"stdout","time":2599.207515854,"data":"{'eval_loss': '3.018', 'eval_rouge1': '0.3459', 'eval_rouge2': '0.1378', 'eval_rougeL': '0.2035', 'eval_runtime': '33.76', 'eval_samples_per_second': '0.296', 'eval_steps_per_second': '0.03', 'epoch': '9'}\r\n"}
+,{"stream_name":"stdout","time":2639.86817886,"data":"{'loss': '41.04', 'grad_norm': '117.7', 'learning_rate': '2.94e-05', 'epoch': '10'}\r\n"}
+,{"stream_name":"stdout","time":2673.577887148,"data":"{'eval_loss': '3', 'eval_rouge1': '0.357', 'eval_rouge2': '0.1438', 'eval_rougeL': '0.2065', 'eval_runtime': '33.75', 'eval_samples_per_second': '0.296', 'eval_steps_per_second': '0.03', 'epoch': '10'}\r\n"}
+,{"stream_name":"stdout","time":2677.223189662,"data":"{'train_runtime': '674', 'train_samples_per_second': '1.424', 'train_steps_per_second': '0.089', 'train_loss': '51.02', 'epoch': '10'}\r\n"}
+,{"stream_name":"stdout","time":2680.522387713,"data":"Model saved to checkpoints/bart\r\n"}
+,{"stream_name":"stdout","time":2680.522428475,"data":"\r\n"}
+,{"stream_name":"stdout","time":2680.522432791,"data":"Done. Checkpoint saved to checkpoints/bart\r\n"}
+,{"stream_name":"stdout","time":2690.98262078,"data":"Loading checkpoint from checkpoints/bart on cuda...\r\n"}
+,{"stream_name":"stdout","time":2692.872222471,"data":"\r\n"}
+,{"stream_name":"stdout","time":2692.872256493,"data":"Match: 2001_facup_arsenal_liverpool\r\n"}
+,{"stream_name":"stdout","time":2693.024516701,"data":"  Chunk 1/30 (0s - 240s, ~663 words)\r\n"}
+,{"stream_name":"stdout","time":2697.694568404,"data":"  Chunk 2/30 (234s - 450s, ~704 words)\r\n"}
+,{"stream_name":"stdout","time":2699.467111871,"data":"  Chunk 3/30 (446s - 659s, ~724 words)\r\n"}
+,{"stream_name":"stdout","time":2701.244872637,"data":"  Chunk 4/30 (653s - 866s, ~725 words)\r\n"}
+,{"stream_name":"stdout","time":2703.333001903,"data":"  Chunk 5/30 (863s - 1071s, ~712 words)\r\n"}
+,{"stream_name":"stdout","time":2705.460297017,"data":"  Chunk 6/30 (1067s - 1267s, ~709 words)\r\n"}
+,{"stream_name":"stdout","time":2707.330454186,"data":"  Chunk 7/30 (1264s - 1483s, ~707 words)\r\n"}
+,{"stream_name":"stdout","time":2710.820071255,"data":"  Chunk 8/30 (1478s - 1689s, ~726 words)\r\n"}
+,{"stream_name":"stdout","time":2712.185602309,"data":"  Chunk 9/30 (1684s - 1876s, ~699 words)\r\n"}
+,{"stream_name":"stdout","time":2714.92453646,"data":"  Chunk 10/30 (1872s - 2072s, ~701 words)\r\n"}
+,{"stream_name":"stdout","time":2718.816083385,"data":"  Chunk 11/30 (2067s - 2269s, ~725 words)\r\n"}
+,{"stream_name":"stdout","time":2720.387738637,"data":"  Chunk 12/30 (2264s - 2470s, ~691 words)\r\n"}
+,{"stream_name":"stdout","time":2721.706171086,"data":"  Chunk 13/30 (2466s - 2678s, ~724 words)\r\n"}
+,{"stream_name":"stdout","time":2723.026310804,"data":"  Chunk 14/30 (2672s - 2862s, ~725 words)\r\n"}
+,{"stream_name":"stdout","time":2724.499758101,"data":"  Chunk 15/30 (2856s - 3084s, ~754 words)\r\n"}
+,{"stream_name":"stdout","time":2727.037943727,"data":"  Chunk 16/30 (3078s - 3291s, ~719 words)\r\n"}
+,{"stream_name":"stdout","time":2729.476704126,"data":"  Chunk 17/30 (3286s - 3501s, ~707 words)\r\n"}
+,{"stream_name":"stdout","time":2730.89898524,"data":"  Chunk 18/30 (3494s - 3714s, ~694 words)\r\n"}
+,{"stream_name":"stdout","time":2734.354537276,"data":"  Chunk 19/30 (3709s - 3930s, ~729 words)\r\n"}
+,{"stream_name":"stdout","time":2736.993610249,"data":"  Chunk 20/30 (3925s - 4136s, ~722 words)\r\n"}
+,{"stream_name":"stdout","time":2738.975985165,"data":"  Chunk 21/30 (4131s - 4339s, ~722 words)\r\n"}
+,{"stream_name":"stdout","time":2740.549717772,"data":"  Chunk 22/30 (4332s - 4548s, ~738 words)\r\n"}
+,{"stream_name":"stdout","time":2742.531505077,"data":"  Chunk 23/30 (4542s - 4763s, ~748 words)\r\n"}
+,{"stream_name":"stdout","time":2744.566884686,"data":"  Chunk 24/30 (4759s - 4994s, ~798 words)\r\n"}
+,{"stream_name":"stdout","time":2745.946921494,"data":"  Chunk 25/30 (4990s - 5191s, ~711 words)\r\n"}
+,{"stream_name":"stdout","time":2748.684599542,"data":"  Chunk 26/30 (5184s - 5398s, ~728 words)\r\n"}
+,{"stream_name":"stdout","time":2750.314204594,"data":"  Chunk 27/30 (5393s - 5641s, ~819 words)\r\n"}
+,{"stream_name":"stdout","time":2752.090903384,"data":"  Chunk 28/30 (5635s - 5867s, ~814 words)\r\n"}
+,{"stream_name":"stdout","time":2756.209149151,"data":"  Chunk 29/30 (5862s - 6102s, ~817 words)\r\n"}
+,{"stream_name":"stdout","time":2758.345888899,"data":"  Chunk 30/30 (6096s - 6206s, ~288 words)\r\n"}
+,{"stream_name":"stdout","time":2759.619758519,"data":"  Merging 30 chunk summaries...\r\n"}
+,{"stream_name":"stdout","time":2761.093218282,"data":"  Generated: Liverpool 1–1 Arsenal (Liverpool win 2–3 on penalties) 20 May 2014 – Emirates Stadium, London, London. The match was con...\r\n"}
+,{"stream_name":"stdout","time":2761.093251024,"data":"\r\n"}
+,{"stream_name":"stdout","time":2761.09325719,"data":"Match: 2021_euro_england_ukraine\r\n"}
+,{"stream_name":"stdout","time":2761.194821171,"data":"  Chunk 1/24 (0s - 257s, ~698 words)\r\n"}
+,{"stream_name":"stdout","time":2763.621642383,"data":"  Chunk 2/24 (255s - 537s, ~759 words)\r\n"}
+,{"stream_name":"stdout","time":2765.041474459,"data":"  Chunk 3/24 (533s - 771s, ~751 words)\r\n"}
+,{"stream_name":"stdout","time":2766.765706991,"data":"  Chunk 4/24 (770s - 1038s, ~815 words)\r\n"}
+,{"stream_name":"stdout","time":2770.716136238,"data":"  Chunk 5/24 (1034s - 1282s, ~808 words)\r\n"}
+,{"stream_name":"stdout","time":2773.353609276,"data":"  Chunk 6/24 (1277s - 1512s, ~771 words)\r\n"}
+,{"stream_name":"stdout","time":2776.304394851,"data":"  Chunk 7/24 (1507s - 1763s, ~740 words)\r\n"}
+,{"stream_name":"stdout","time":2780.252465189,"data":"  Chunk 8/24 (1758s - 1997s, ~778 words)\r\n"}
+,{"stream_name":"stdout","time":2783.90672347,"data":"  Chunk 9/24 (1992s - 2233s, ~772 words)\r\n"}
+,{"stream_name":"stdout","time":2785.684369045,"data":"  Chunk 10/24 (2228s - 2478s, ~762 words)\r\n"}
+,{"stream_name":"stdout","time":2787.052699956,"data":"  Chunk 11/24 (2473s - 2723s, ~780 words)\r\n"}
+,{"stream_name":"stdout","time":2791.012206002,"data":"  Chunk 12/24 (2718s - 2959s, ~762 words)\r\n"}
+,{"stream_name":"stdout","time":2795.014572146,"data":"  Chunk 13/24 (2954s - 3231s, ~751 words)\r\n"}
+,{"stream_name":"stdout","time":2798.355354869,"data":"  Chunk 14/24 (3224s - 3481s, ~748 words)\r\n"}
+,{"stream_name":"stdout","time":2801.039382345,"data":"  Chunk 15/24 (3477s - 3726s, ~771 words)\r\n"}
+,{"stream_name":"stdout","time":2804.077152774,"data":"  Chunk 16/24 (3720s - 3977s, ~757 words)\r\n"}
+,{"stream_name":"stdout","time":2807.577763094,"data":"  Chunk 17/24 (3971s - 4251s, ~759 words)\r\n"}
+,{"stream_name":"stdout","time":2811.518263028,"data":"  Chunk 18/24 (4245s - 4511s, ~786 words)\r\n"}
+,{"stream_name":"stdout","time":2815.419342519,"data":"  Chunk 19/24 (4507s - 4760s, ~757 words)\r\n"}
+,{"stream_name":"stdout","time":2818.35528293,"data":"  Chunk 20/24 (4754s - 5001s, ~769 words)\r\n"}
+,{"stream_name":"stdout","time":2821.895805983,"data":"  Chunk 21/24 (4996s - 5240s, ~753 words)\r\n"}
+,{"stream_name":"stdout","time":2824.683667413,"data":"  Chunk 22/24 (5235s - 5507s, ~752 words)\r\n"}
+,{"stream_name":"stdout","time":2828.321351009,"data":"  Chunk 23/24 (5499s - 5770s, ~761 words)\r\n"}
+,{"stream_name":"stdout","time":2832.277058527,"data":"  Chunk 24/24 (5761s - 5782s, ~43 words)\r\n"}
+,{"stream_name":"stdout","time":2833.189205166,"data":"  Merging 24 chunk summaries...\r\n"}
+,{"stream_name":"stdout","time":2835.976871202,"data":"  Generated: England 2–1 Ukraine (4–3 on penalties) – UEFA Euro 2020 semi-final, Stadio Olimpico, Rome – 22 February 2020 England sec...\r\n"}
+,{"stream_name":"stdout","time":2835.976913155,"data":"\r\n"}
+,{"stream_name":"stdout","time":2835.976920406,"data":"Match: 2019_uclfinal_liverpool_tottenham\r\n"}
+,{"stream_name":"stdout","time":2836.078149141,"data":"  Chunk 1/38 (0s - 292s, ~697 words)\r\n"}
+,{"stream_name":"stdout","time":2838.314804002,"data":"  Chunk 2/38 (286s - 519s, ~739 words)\r\n"}
+,{"stream_name":"stdout","time":2840.634752289,"data":"  Chunk 3/38 (515s - 730s, ~713 words)\r\n"}
+,{"stream_name":"stdout","time":2842.66398421,"data":"  Chunk 4/38 (727s - 953s, ~695 words)\r\n"}
+,{"stream_name":"stdout","time":2844.382796735,"data":"  Chunk 5/38 (949s - 1161s, ~686 words)\r\n"}
+,{"stream_name":"stdout","time":2846.056164961,"data":"  Chunk 6/38 (1158s - 1377s, ~676 words)\r\n"}
+,{"stream_name":"stdout","time":2848.540857331,"data":"  Chunk 7/38 (1374s - 1589s, ~681 words)\r\n"}
+,{"stream_name":"stdout","time":2850.007029939,"data":"  Chunk 8/38 (1584s - 1807s, ~669 words)\r\n"}
+,{"stream_name":"stdout","time":2852.336814687,"data":"  Chunk 9/38 (1803s - 2024s, ~678 words)\r\n"}
+,{"stream_name":"stdout","time":2854.011838255,"data":"  Chunk 10/38 (2021s - 2242s, ~667 words)\r\n"}
+,{"stream_name":"stdout","time":2856.340642895,"data":"  Chunk 11/38 (2240s - 2453s, ~676 words)\r\n"}
+,{"stream_name":"stdout","time":2857.862261112,"data":"  Chunk 12/38 (2451s - 2685s, ~678 words)\r\n"}
+,{"stream_name":"stdout","time":2860.137221919,"data":"  Chunk 13/38 (2682s - 2888s, ~661 words)\r\n"}
+,{"stream_name":"stdout","time":2862.715872411,"data":"  Chunk 14/38 (2884s - 3110s, ~670 words)\r\n"}
+,{"stream_name":"stdout","time":2864.991451421,"data":"  Chunk 15/38 (3106s - 3300s, ~703 words)\r\n"}
+,{"stream_name":"stdout","time":2866.96671535,"data":"  Chunk 16/38 (3296s - 3502s, ~732 words)\r\n"}
+,{"stream_name":"stdout","time":2868.544192867,"data":"  Chunk 17/38 (3499s - 3739s, ~683 words)\r\n"}
+,{"stream_name":"stdout","time":2870.606904815,"data":"  Chunk 18/38 (3735s - 3928s, ~662 words)\r\n"}
+,{"stream_name":"stdout","time":2871.770375063,"data":"  Chunk 19/38 (3926s - 4114s, ~662 words)\r\n"}
+,{"stream_name":"stdout","time":2873.084213974,"data":"  Chunk 20/38 (4111s - 4327s, ~669 words)\r\n"}
+,{"stream_name":"stdout","time":2875.160332298,"data":"  Chunk 21/38 (4323s - 4527s, ~662 words)\r\n"}
+,{"stream_name":"stdout","time":2876.931542413,"data":"  Chunk 22/38 (4522s - 4750s, ~650 words)\r\n"}
+,{"stream_name":"stdout","time":2879.16016751,"data":"  Chunk 23/38 (4743s - 4957s, ~673 words)\r\n"}
+,{"stream_name":"stdout","time":2881.039222414,"data":"  Chunk 24/38 (4953s - 5169s, ~690 words)\r\n"}
+,{"stream_name":"stdout","time":2883.669140487,"data":"  Chunk 25/38 (5161s - 5379s, ~671 words)\r\n"}
+,{"stream_name":"stdout","time":2885.994892744,"data":"  Chunk 26/38 (5376s - 5590s, ~671 words)\r\n"}
+,{"stream_name":"stdout","time":2887.819682361,"data":"  Chunk 27/38 (5586s - 5804s, ~662 words)\r\n"}
+,{"stream_name":"stdout","time":2889.438221128,"data":"  Chunk 28/38 (5800s - 6010s, ~658 words)\r\n"}
+,{"stream_name":"stdout","time":2891.664749693,"data":"  Chunk 29/38 (6003s - 6216s, ~640 words)\r\n"}
+,{"stream_name":"stdout","time":2893.3885135,"data":"  Chunk 30/38 (6209s - 6433s, ~690 words)\r\n"}
+,{"stream_name":"stdout","time":2894.804181319,"data":"  Chunk 31/38 (6429s - 6705s, ~722 words)\r\n"}
+,{"stream_name":"stdout","time":2896.475569308,"data":"  Chunk 32/38 (6700s - 6952s, ~715 words)\r\n"}
+,{"stream_name":"stdout","time":2899.521721009,"data":"  Chunk 33/38 (6941s - 7177s, ~669 words)\r\n"}
+,{"stream_name":"stdout","time":2901.384710966,"data":"  Chunk 34/38 (7175s - 7384s, ~696 words)\r\n"}
+,{"stream_name":"stdout","time":2903.105189794,"data":"  Chunk 35/38 (7379s - 7581s, ~692 words)\r\n"}
+,{"stream_name":"stdout","time":2905.179620312,"data":"  Chunk 36/38 (7576s - 7767s, ~690 words)\r\n"}
+,{"stream_name":"stdout","time":2906.749048,"data":"  Chunk 37/38 (7764s - 8039s, ~711 words)\r\n"}
+,{"stream_name":"stdout","time":2908.012481246,"data":"  Chunk 38/38 (8032s - 8207s, ~473 words)\r\n"}
+,{"stream_name":"stdout","time":2909.584680219,"data":"  Merging 38 chunk summaries...\r\n"}
+,{"stream_name":"stdout","time":2912.371724179,"data":"  Generated: Liverpool 1–1 Tottenham Hotspur (Tottenham win 4–3 on penalties) Mohamed Salah opened the scoring in the second minute w...\r\n"}
+,{"stream_name":"stdout","time":2912.371787199,"data":"\r\n"}
+,{"stream_name":"stdout","time":2912.37179566,"data":"Match: 2022_wc_poland_argentina\r\n"}
+,{"stream_name":"stdout","time":2912.523493096,"data":"  Chunk 1/33 (0s - 221s, ~667 words)\r\n"}
+,{"stream_name":"stdout","time":2914.195497377,"data":"  Chunk 2/33 (220s - 428s, ~652 words)\r\n"}
+,{"stream_name":"stdout","time":2918.143456025,"data":"  Chunk 3/33 (425s - 644s, ~675 words)\r\n"}
+,{"stream_name":"stdout","time":2922.136330785,"data":"  Chunk 4/33 (643s - 864s, ~652 words)\r\n"}
+,{"stream_name":"stdout","time":2924.36276009,"data":"  Chunk 5/33 (862s - 1082s, ~669 words)\r\n"}
+,{"stream_name":"stdout","time":2926.034098849,"data":"  Chunk 6/33 (1080s - 1303s, ~661 words)\r\n"}
+,{"stream_name":"stdout","time":2927.503200882,"data":"  Chunk 7/33 (1300s - 1515s, ~668 words)\r\n"}
+,{"stream_name":"stdout","time":2929.691038106,"data":"  Chunk 8/33 (1514s - 1735s, ~666 words)\r\n"}
+,{"stream_name":"stdout","time":2932.467499096,"data":"  Chunk 9/33 (1731s - 1944s, ~650 words)\r\n"}
+,{"stream_name":"stdout","time":2934.293372781,"data":"  Chunk 10/33 (1943s - 2166s, ~674 words)\r\n"}
+,{"stream_name":"stdout","time":2936.415139309,"data":"  Chunk 11/33 (2162s - 2389s, ~659 words)\r\n"}
+,{"stream_name":"stdout","time":2938.034427948,"data":"  Chunk 12/33 (2388s - 2596s, ~673 words)\r\n"}
+,{"stream_name":"stdout","time":2939.602954366,"data":"  Chunk 13/33 (2593s - 2812s, ~668 words)\r\n"}
+,{"stream_name":"stdout","time":2941.629985251,"data":"  Chunk 14/33 (2811s - 3026s, ~695 words)\r\n"}
+,{"stream_name":"stdout","time":2943.399474706,"data":"  Chunk 15/33 (3020s - 3256s, ~686 words)\r\n"}
+,{"stream_name":"stdout","time":2945.528675026,"data":"  Chunk 16/33 (3252s - 3501s, ~722 words)\r\n"}
+,{"stream_name":"stdout","time":2946.949397258,"data":"  Chunk 17/33 (3496s - 3751s, ~718 words)\r\n"}
+,{"stream_name":"stdout","time":2948.671127053,"data":"  Chunk 18/33 (3749s - 3996s, ~706 words)\r\n"}
+,{"stream_name":"stdout","time":2949.986211601,"data":"  Chunk 19/33 (3994s - 4226s, ~706 words)\r\n"}
+,{"stream_name":"stdout","time":2951.300346591,"data":"  Chunk 20/33 (4223s - 4444s, ~636 words)\r\n"}
+,{"stream_name":"stdout","time":2952.970645351,"data":"  Chunk 21/33 (4443s - 4657s, ~663 words)\r\n"}
+,{"stream_name":"stdout","time":2954.791729319,"data":"  Chunk 22/33 (4656s - 4860s, ~653 words)\r\n"}
+,{"stream_name":"stdout","time":2957.27159983,"data":"  Chunk 23/33 (4858s - 5077s, ~650 words)\r\n"}
+,{"stream_name":"stdout","time":2959.655134851,"data":"  Chunk 24/33 (5076s - 5298s, ~648 words)\r\n"}
+,{"stream_name":"stdout","time":2961.187090452,"data":"  Chunk 25/33 (5294s - 5505s, ~666 words)\r\n"}
+,{"stream_name":"stdout","time":2963.803348241,"data":"  Chunk 26/33 (5503s - 5742s, ~666 words)\r\n"}
+,{"stream_name":"stdout","time":2965.730555064,"data":"  Chunk 27/33 (5739s - 5964s, ~648 words)\r\n"}
+,{"stream_name":"stdout","time":2968.312191717,"data":"  Chunk 28/33 (5961s - 6195s, ~667 words)\r\n"}
+,{"stream_name":"stdout","time":2970.333082476,"data":"  Chunk 29/33 (6188s - 6432s, ~722 words)\r\n"}
+,{"stream_name":"stdout","time":2971.344672944,"data":"  Chunk 30/33 (6423s - 6665s, ~674 words)\r\n"}
+,{"stream_name":"stdout","time":2973.974618341,"data":"  Chunk 31/33 (6660s - 6886s, ~678 words)\r\n"}
+,{"stream_name":"stdout","time":2976.154156174,"data":"  Chunk 32/33 (6879s - 7123s, ~700 words)\r\n"}
+,{"stream_name":"stdout","time":2977.973212583,"data":"  Chunk 33/33 (7117s - 7267s, ~430 words)\r\n"}
+,{"stream_name":"stdout","time":2979.236574834,"data":"  Merging 33 chunk summaries...\r\n"}
+,{"stream_name":"stdout","time":2981.820040576,"data":"  Generated: Argentina 1–1 Saudi Arabia (Saudi Arabia win 3–1 on penalties) Argentina and Poland played out a goalless draw in their ...\r\n"}
+,{"stream_name":"stdout","time":2981.820096262,"data":"\r\n"}
+,{"stream_name":"stdout","time":2981.820103225,"data":"Match: 1983_facup_final_brighton_manchesterunited\r\n"}
+,{"stream_name":"stdout","time":2981.921962629,"data":"  Chunk 1/38 (0s - 212s, ~743 words)\r\n"}
+,{"stream_name":"stdout","time":2983.544675878,"data":"  Chunk 2/38 (209s - 409s, ~680 words)\r\n"}
+,{"stream_name":"stdout","time":2985.01468458,"data":"  Chunk 3/38 (403s - 602s, ~677 words)\r\n"}
+,{"stream_name":"stdout","time":2988.154682574,"data":"  Chunk 4/38 (597s - 807s, ~670 words)\r\n"}
+,{"stream_name":"stdout","time":2989.269791615,"data":"  Chunk 5/38 (802s - 1022s, ~725 words)\r\n"}
+,{"stream_name":"stdout","time":2991.145470958,"data":"  Chunk 6/38 (1017s - 1219s, ~690 words)\r\n"}
+,{"stream_name":"stdout","time":2992.379496716,"data":"  Chunk 7/38 (1215s - 1427s, ~720 words)\r\n"}
+,{"stream_name":"stdout","time":2994.081127987,"data":"  Chunk 8/38 (1423s - 1617s, ~682 words)\r\n"}
+,{"stream_name":"stdout","time":2995.499143831,"data":"  Chunk 9/38 (1613s - 1813s, ~697 words)\r\n"}
+,{"stream_name":"stdout","time":2997.118811133,"data":"  Chunk 10/38 (1809s - 2022s, ~731 words)\r\n"}
+,{"stream_name":"stdout","time":2998.738753386,"data":"  Chunk 11/38 (2015s - 2211s, ~696 words)\r\n"}
+,{"stream_name":"stdout","time":3000.308317131,"data":"  Chunk 12/38 (2207s - 2401s, ~676 words)\r\n"}
+,{"stream_name":"stdout","time":3001.827803009,"data":"  Chunk 13/38 (2396s - 2596s, ~705 words)\r\n"}
+,{"stream_name":"stdout","time":3003.396842794,"data":"  Chunk 14/38 (2591s - 2810s, ~720 words)\r\n"}
+,{"stream_name":"stdout","time":3005.775038674,"data":"  Chunk 15/38 (2804s - 3016s, ~706 words)\r\n"}
+,{"stream_name":"stdout","time":3007.492343114,"data":"  Chunk 16/38 (3013s - 3212s, ~695 words)\r\n"}
+,{"stream_name":"stdout","time":3008.553782018,"data":"  Chunk 17/38 (3203s - 3424s, ~760 words)\r\n"}
+,{"stream_name":"stdout","time":3010.121906123,"data":"  Chunk 18/38 (3406s - 3629s, ~744 words)\r\n"}
+,{"stream_name":"stdout","time":3011.995790877,"data":"  Chunk 19/38 (3625s - 3818s, ~663 words)\r\n"}
+,{"stream_name":"stdout","time":3013.464711099,"data":"  Chunk 20/38 (3803s - 4009s, ~686 words)\r\n"}
+,{"stream_name":"stdout","time":3014.478909187,"data":"  Chunk 21/38 (3991s - 4180s, ~650 words)\r\n"}
+,{"stream_name":"stdout","time":3015.99808355,"data":"  Chunk 22/38 (4160s - 4373s, ~671 words)\r\n"}
+,{"stream_name":"stdout","time":3018.37362717,"data":"  Chunk 23/38 (4355s - 4566s, ~728 words)\r\n"}
+,{"stream_name":"stdout","time":3020.245588191,"data":"  Chunk 24/38 (4556s - 4767s, ~679 words)\r\n"}
+,{"stream_name":"stdout","time":3021.711901397,"data":"  Chunk 25/38 (4756s - 4951s, ~674 words)\r\n"}
+,{"stream_name":"stdout","time":3024.505205006,"data":"  Chunk 26/38 (4942s - 5146s, ~700 words)\r\n"}
+,{"stream_name":"stdout","time":3027.431521004,"data":"  Chunk 27/38 (5134s - 5348s, ~701 words)\r\n"}
+,{"stream_name":"stdout","time":3028.749202022,"data":"  Chunk 28/38 (5338s - 5561s, ~710 words)\r\n"}
+,{"stream_name":"stdout","time":3030.366302454,"data":"  Chunk 29/38 (5556s - 5766s, ~723 words)\r\n"}
+,{"stream_name":"stdout","time":3031.98637037,"data":"  Chunk 30/38 (5759s - 5973s, ~690 words)\r\n"}
+,{"stream_name":"stdout","time":3033.349800952,"data":"  Chunk 31/38 (5969s - 6163s, ~653 words)\r\n"}
+,{"stream_name":"stdout","time":3034.970085333,"data":"  Chunk 32/38 (6159s - 6343s, ~692 words)\r\n"}
+,{"stream_name":"stdout","time":3036.437342673,"data":"  Chunk 33/38 (6340s - 6538s, ~688 words)\r\n"}
+,{"stream_name":"stdout","time":3038.258947085,"data":"  Chunk 34/38 (6534s - 6749s, ~683 words)\r\n"}
+,{"stream_name":"stdout","time":3041.196561199,"data":"  Chunk 35/38 (6742s - 6967s, ~714 words)\r\n"}
+,{"stream_name":"stdout","time":3043.115854295,"data":"  Chunk 36/38 (6962s - 7196s, ~691 words)\r\n"}
+,{"stream_name":"stdout","time":3044.53303716,"data":"  Chunk 37/38 (7190s - 7419s, ~703 words)\r\n"}
+,{"stream_name":"stdout","time":3046.964465768,"data":"  Chunk 38/38 (7417s - 8632s, ~129 words)\r\n"}
+,{"stream_name":"stdout","time":3048.231300148,"data":"  Merging 38 chunk summaries...\r\n"}
+,{"stream_name":"stdout","time":3049.648660729,"data":"  Generated: Brighton \u0026 Hove Albion 1–0 Manchester United (FA Cup, 1983–84) Brighton opened the scoring in the 13th minute when Gordo...\r\n"}
+,{"stream_name":"stdout","time":3049.648722509,"data":"\r\n"}
+,{"stream_name":"stdout","time":3049.648731818,"data":"Match: 2024_euro_england_slovakia\r\n"}
+,{"stream_name":"stdout","time":3049.800629224,"data":"  Chunk 1/44 (0s - 217s, ~688 words)\r\n"}
+,{"stream_name":"stdout","time":3051.421220787,"data":"  Chunk 2/44 (215s - 412s, ~657 words)\r\n"}
+,{"stream_name":"stdout","time":3053.397299326,"data":"  Chunk 3/44 (408s - 623s, ~654 words)\r\n"}
+,{"stream_name":"stdout","time":3054.928341661,"data":"  Chunk 4/44 (617s - 821s, ~672 words)\r\n"}
+,{"stream_name":"stdout","time":3056.788496855,"data":"  Chunk 5/44 (816s - 1025s, ~671 words)\r\n"}
+,{"stream_name":"stdout","time":3060.583827402,"data":"  Chunk 6/44 (1023s - 1233s, ~652 words)\r\n"}
+,{"stream_name":"stdout","time":3062.304745438,"data":"  Chunk 7/44 (1229s - 1434s, ~656 words)\r\n"}
+,{"stream_name":"stdout","time":3064.129172515,"data":"  Chunk 8/44 (1433s - 1648s, ~688 words)\r\n"}
+,{"stream_name":"stdout","time":3066.66027874,"data":"  Chunk 9/44 (1645s - 1872s, ~662 words)\r\n"}
+,{"stream_name":"stdout","time":3068.182041428,"data":"  Chunk 10/44 (1865s - 2095s, ~687 words)\r\n"}
+,{"stream_name":"stdout","time":3070.057479336,"data":"  Chunk 11/44 (2090s - 2317s, ~721 words)\r\n"}
+,{"stream_name":"stdout","time":3071.577848363,"data":"  Chunk 12/44 (2312s - 2530s, ~724 words)\r\n"}
+,{"stream_name":"stdout","time":3073.145031925,"data":"  Chunk 13/44 (2524s - 2757s, ~698 words)\r\n"}
+,{"stream_name":"stdout","time":3074.763536836,"data":"  Chunk 14/44 (2753s - 2948s, ~668 words)\r\n"}
+,{"stream_name":"stdout","time":3076.33267591,"data":"  Chunk 15/44 (2942s - 3157s, ~760 words)\r\n"}
+,{"stream_name":"stdout","time":3078.506598283,"data":"  Chunk 16/44 (3152s - 3370s, ~781 words)\r\n"}
+,{"stream_name":"stdout","time":3080.376628248,"data":"  Chunk 17/44 (3365s - 3643s, ~742 words)\r\n"}
+,{"stream_name":"stdout","time":3082.807339469,"data":"  Chunk 18/44 (3640s - 3855s, ~719 words)\r\n"}
+,{"stream_name":"stdout","time":3083.869202856,"data":"  Chunk 19/44 (3852s - 4066s, ~695 words)\r\n"}
+,{"stream_name":"stdout","time":3086.055837156,"data":"  Chunk 20/44 (4063s - 4296s, ~682 words)\r\n"}
+,{"stream_name":"stdout","time":3087.709765702,"data":"  Chunk 21/44 (4292s - 4497s, ~723 words)\r\n"}
+,{"stream_name":"stdout","time":3088.975031547,"data":"  Chunk 22/44 (4494s - 4703s, ~697 words)\r\n"}
+,{"stream_name":"stdout","time":3090.799058293,"data":"  Chunk 23/44 (4698s - 4929s, ~748 words)\r\n"}
+,{"stream_name":"stdout","time":3094.487297614,"data":"  Chunk 24/44 (4923s - 5146s, ~762 words)\r\n"}
+,{"stream_name":"stdout","time":3096.464129932,"data":"  Chunk 25/44 (5139s - 5367s, ~776 words)\r\n"}
+,{"stream_name":"stdout","time":3100.357961535,"data":"  Chunk 26/44 (5361s - 5597s, ~771 words)\r\n"}
+,{"stream_name":"stdout","time":3102.536758316,"data":"  Chunk 27/44 (5591s - 5828s, ~797 words)\r\n"}
+,{"stream_name":"stdout","time":3106.448253418,"data":"  Chunk 28/44 (5822s - 6074s, ~798 words)\r\n"}
+,{"stream_name":"stdout","time":3109.087409655,"data":"  Chunk 29/44 (6066s - 6336s, ~792 words)\r\n"}
+,{"stream_name":"stdout","time":3111.373500606,"data":"  Chunk 30/44 (6331s - 6584s, ~772 words)\r\n"}
+,{"stream_name":"stdout","time":3113.204753883,"data":"  Chunk 31/44 (6577s - 6849s, ~800 words)\r\n"}
+,{"stream_name":"stdout","time":3115.187672748,"data":"  Chunk 32/44 (6844s - 7128s, ~811 words)\r\n"}
+,{"stream_name":"stdout","time":3117.031376635,"data":"  Chunk 33/44 (7122s - 7391s, ~821 words)\r\n"}
+,{"stream_name":"stdout","time":3119.150793172,"data":"  Chunk 34/44 (7385s - 7653s, ~829 words)\r\n"}
+,{"stream_name":"stdout","time":3121.336866443,"data":"  Chunk 35/44 (7649s - 7904s, ~798 words)\r\n"}
+,{"stream_name":"stdout","time":3123.563784328,"data":"  Chunk 36/44 (7898s - 8144s, ~796 words)\r\n"}
+,{"stream_name":"stdout","time":3125.283517801,"data":"  Chunk 37/44 (8139s - 8385s, ~811 words)\r\n"}
+,{"stream_name":"stdout","time":3127.055213695,"data":"  Chunk 38/44 (8380s - 8620s, ~793 words)\r\n"}
+,{"stream_name":"stdout","time":3129.382744602,"data":"  Chunk 39/44 (8614s - 8871s, ~763 words)\r\n"}
+,{"stream_name":"stdout","time":3132.670265115,"data":"  Chunk 40/44 (8866s - 9126s, ~805 words)\r\n"}
+,{"stream_name":"stdout","time":3136.562984606,"data":"  Chunk 41/44 (9120s - 9372s, ~807 words)\r\n"}
+,{"stream_name":"stdout","time":3138.593360722,"data":"  Chunk 42/44 (9366s - 9635s, ~789 words)\r\n"}
+,{"stream_name":"stdout","time":3140.263638136,"data":"  Chunk 43/44 (9629s - 9869s, ~816 words)\r\n"}
+,{"stream_name":"stdout","time":3141.780568682,"data":"  Chunk 44/44 (9864s - 10001s, ~486 words)\r\n"}
+,{"stream_name":"stdout","time":3143.756374461,"data":"  Merging 44 chunk summaries...\r\n"}
+,{"stream_name":"stdout","time":3145.93568309,"data":"  Generated: Slovakia 1–1 England (2022 FIFA World Cup – Round of 16, Allianz Arena, Berlin) Slovakia’s Pukaj O Saka opened the scori...\r\n"}
+,{"stream_name":"stdout","time":3145.935744987,"data":"\r\n"}
+,{"stream_name":"stdout","time":3145.93575312,"data":"Match: 2026_ucl_athleticclub_arsenal\r\n"}
+,{"stream_name":"stdout","time":3146.087582822,"data":"  Chunk 1/38 (0s - 217s, ~696 words)\r\n"}
+,{"stream_name":"stdout","time":3147.419764363,"data":"  Chunk 2/38 (215s - 428s, ~676 words)\r\n"}
+,{"stream_name":"stdout","time":3149.280882313,"data":"  Chunk 3/38 (425s - 628s, ~683 words)\r\n"}
+,{"stream_name":"stdout","time":3152.321331208,"data":"  Chunk 4/38 (624s - 831s, ~688 words)\r\n"}
+,{"stream_name":"stdout","time":3153.183592186,"data":"  Chunk 5/38 (829s - 1013s, ~633 words)\r\n"}
+,{"stream_name":"stdout","time":3154.801855969,"data":"  Chunk 6/38 (1010s - 1190s, ~659 words)\r\n"}
+,{"stream_name":"stdout","time":3156.827225043,"data":"  Chunk 7/38 (1186s - 1363s, ~686 words)\r\n"}
+,{"stream_name":"stdout","time":3158.903094391,"data":"  Chunk 8/38 (1361s - 1553s, ~668 words)\r\n"}
+,{"stream_name":"stdout","time":3160.62563012,"data":"  Chunk 9/38 (1549s - 1741s, ~660 words)\r\n"}
+,{"stream_name":"stdout","time":3163.157204998,"data":"  Chunk 10/38 (1737s - 1934s, ~658 words)\r\n"}
+,{"stream_name":"stdout","time":3164.678730658,"data":"  Chunk 11/38 (1932s - 2134s, ~680 words)\r\n"}
+,{"stream_name":"stdout","time":3166.858061869,"data":"  Chunk 12/38 (2132s - 2323s, ~697 words)\r\n"}
+,{"stream_name":"stdout","time":3168.275641145,"data":"  Chunk 13/38 (2320s - 2534s, ~682 words)\r\n"}
+,{"stream_name":"stdout","time":3169.998601346,"data":"  Chunk 14/38 (2533s - 2709s, ~675 words)\r\n"}
+,{"stream_name":"stdout","time":3172.125784425,"data":"  Chunk 15/38 (2706s - 2898s, ~663 words)\r\n"}
+,{"stream_name":"stdout","time":3174.147452763,"data":"  Chunk 16/38 (2896s - 3088s, ~669 words)\r\n"}
+,{"stream_name":"stdout","time":3178.064973497,"data":"  Chunk 17/38 (3085s - 3294s, ~716 words)\r\n"}
+,{"stream_name":"stdout","time":3179.9681275,"data":"  Chunk 18/38 (3292s - 3510s, ~708 words)\r\n"}
+,{"stream_name":"stdout","time":3181.995091036,"data":"  Chunk 19/38 (3508s - 3729s, ~678 words)\r\n"}
+,{"stream_name":"stdout","time":3185.79874083,"data":"  Chunk 20/38 (3725s - 3924s, ~648 words)\r\n"}
+,{"stream_name":"stdout","time":3187.673475076,"data":"  Chunk 21/38 (3922s - 4118s, ~693 words)\r\n"}
+,{"stream_name":"stdout","time":3189.444796723,"data":"  Chunk 22/38 (4114s - 4315s, ~644 words)\r\n"}
+,{"stream_name":"stdout","time":3192.025277441,"data":"  Chunk 23/38 (4314s - 4510s, ~645 words)\r\n"}
+,{"stream_name":"stdout","time":3193.744617079,"data":"  Chunk 24/38 (4509s - 4691s, ~645 words)\r\n"}
+,{"stream_name":"stdout","time":3195.36674233,"data":"  Chunk 25/38 (4690s - 4883s, ~649 words)\r\n"}
+,{"stream_name":"stdout","time":3196.579087147,"data":"  Chunk 26/38 (4879s - 5076s, ~653 words)\r\n"}
+,{"stream_name":"stdout","time":3197.949003076,"data":"  Chunk 27/38 (5073s - 5290s, ~635 words)\r\n"}
+,{"stream_name":"stdout","time":3199.465583772,"data":"  Chunk 28/38 (5288s - 5478s, ~640 words)\r\n"}
+,{"stream_name":"stdout","time":3201.133009314,"data":"  Chunk 29/38 (5474s - 5683s, ~681 words)\r\n"}
+,{"stream_name":"stdout","time":3202.497051927,"data":"  Chunk 30/38 (5682s - 5873s, ~677 words)\r\n"}
+,{"stream_name":"stdout","time":3203.917217946,"data":"  Chunk 31/38 (5872s - 6068s, ~718 words)\r\n"}
+,{"stream_name":"stdout","time":3205.996644812,"data":"  Chunk 32/38 (6067s - 6261s, ~658 words)\r\n"}
+,{"stream_name":"stdout","time":3207.919642938,"data":"  Chunk 33/38 (6258s - 6466s, ~645 words)\r\n"}
+,{"stream_name":"stdout","time":3208.947031045,"data":"  Chunk 34/38 (6463s - 6648s, ~670 words)\r\n"}
+,{"stream_name":"stdout","time":3210.449087339,"data":"  Chunk 35/38 (6645s - 6831s, ~681 words)\r\n"}
+,{"stream_name":"stdout","time":3212.472491727,"data":"  Chunk 36/38 (6829s - 7051s, ~669 words)\r\n"}
+,{"stream_name":"stdout","time":3214.239401619,"data":"  Chunk 37/38 (7048s - 7239s, ~680 words)\r\n"}
+,{"stream_name":"stdout","time":3215.856230932,"data":"  Chunk 38/38 (7236s - 7306s, ~268 words)\r\n"}
+,{"stream_name":"stdout","time":3217.322969026,"data":"  Merging 38 chunk summaries...\r\n"}
+,{"stream_name":"stdout","time":3219.503140625,"data":"  Generated: Arsenal 1–0 Athletic Bilbao UEFA Champions League – Round of 16, Old Sandman Estadium, Bournemouth – 22 May 2014 Arsenal...\r\n"}
+,{"stream_name":"stdout","time":3219.503185294,"data":"\r\n"}
+,{"stream_name":"stdout","time":3219.503190179,"data":"Match: 2022_wc_england_senegal\r\n"}
+,{"stream_name":"stdout","time":3219.604581496,"data":"  Chunk 1/40 (0s - 230s, ~737 words)\r\n"}
+,{"stream_name":"stdout","time":3221.782993695,"data":"  Chunk 2/40 (223s - 436s, ~725 words)\r\n"}
+,{"stream_name":"stdout","time":3223.854052813,"data":"  Chunk 3/40 (430s - 650s, ~724 words)\r\n"}
+,{"stream_name":"stdout","time":3225.571149315,"data":"  Chunk 4/40 (645s - 853s, ~718 words)\r\n"}
+,{"stream_name":"stdout","time":3227.392013931,"data":"  Chunk 5/40 (847s - 1086s, ~730 words)\r\n"}
+,{"stream_name":"stdout","time":3229.264459799,"data":"  Chunk 6/40 (1084s - 1309s, ~709 words)\r\n"}
+,{"stream_name":"stdout","time":3232.505870255,"data":"  Chunk 7/40 (1305s - 1520s, ~706 words)\r\n"}
+,{"stream_name":"stdout","time":3234.17956057,"data":"  Chunk 8/40 (1517s - 1748s, ~725 words)\r\n"}
+,{"stream_name":"stdout","time":3235.753472718,"data":"  Chunk 9/40 (1746s - 1968s, ~704 words)\r\n"}
+,{"stream_name":"stdout","time":3238.439583758,"data":"  Chunk 10/40 (1965s - 2200s, ~724 words)\r\n"}
+,{"stream_name":"stdout","time":3241.758643141,"data":"  Chunk 11/40 (2193s - 2430s, ~703 words)\r\n"}
+,{"stream_name":"stdout","time":3243.458108837,"data":"  Chunk 12/40 (2422s - 2627s, ~693 words)\r\n"}
+,{"stream_name":"stdout","time":3244.87461452,"data":"  Chunk 13/40 (2618s - 2841s, ~700 words)\r\n"}
+,{"stream_name":"stdout","time":3247.555796781,"data":"  Chunk 14/40 (2830s - 3068s, ~691 words)\r\n"}
+,{"stream_name":"stdout","time":3249.935550298,"data":"  Chunk 15/40 (3059s - 3291s, ~729 words)\r\n"}
+,{"stream_name":"stdout","time":3250.948777652,"data":"  Chunk 16/40 (3285s - 3543s, ~712 words)\r\n"}
+,{"stream_name":"stdout","time":3252.670962324,"data":"  Chunk 17/40 (3540s - 3789s, ~714 words)\r\n"}
+,{"stream_name":"stdout","time":3253.988170412,"data":"  Chunk 18/40 (3787s - 4028s, ~686 words)\r\n"}
+,{"stream_name":"stdout","time":3257.183612343,"data":"  Chunk 19/40 (4025s - 4236s, ~683 words)\r\n"}
+,{"stream_name":"stdout","time":3259.006534156,"data":"  Chunk 20/40 (4235s - 4453s, ~702 words)\r\n"}
+,{"stream_name":"stdout","time":3261.085386918,"data":"  Chunk 21/40 (4447s - 4680s, ~698 words)\r\n"}
+,{"stream_name":"stdout","time":3264.271195681,"data":"  Chunk 22/40 (4678s - 4906s, ~695 words)\r\n"}
+,{"stream_name":"stdout","time":3265.941190878,"data":"  Chunk 23/40 (4902s - 5121s, ~696 words)\r\n"}
+,{"stream_name":"stdout","time":3270.002213051,"data":"  Chunk 24/40 (5119s - 5356s, ~714 words)\r\n"}
+,{"stream_name":"stdout","time":3273.320560863,"data":"  Chunk 25/40 (5351s - 5582s, ~719 words)\r\n"}
+,{"stream_name":"stdout","time":3274.319599263,"data":"  Chunk 26/40 (5577s - 5804s, ~690 words)\r\n"}
+,{"stream_name":"stdout","time":3275.792331395,"data":"  Chunk 27/40 (5802s - 6033s, ~731 words)\r\n"}
+,{"stream_name":"stdout","time":3277.215055263,"data":"  Chunk 28/40 (6029s - 6261s, ~716 words)\r\n"}
+,{"stream_name":"stdout","time":3279.096465926,"data":"  Chunk 29/40 (6259s - 6473s, ~665 words)\r\n"}
+,{"stream_name":"stdout","time":3280.98027981,"data":"  Chunk 30/40 (6470s - 6690s, ~678 words)\r\n"}
+,{"stream_name":"stdout","time":3283.26812665,"data":"  Chunk 31/40 (6684s - 6920s, ~687 words)\r\n"}
+,{"stream_name":"stdout","time":3284.894602819,"data":"  Chunk 32/40 (6916s - 7154s, ~701 words)\r\n"}
+,{"stream_name":"stdout","time":3286.675345474,"data":"  Chunk 33/40 (7145s - 7391s, ~707 words)\r\n"}
+,{"stream_name":"stdout","time":3288.404562039,"data":"  Chunk 34/40 (7382s - 7623s, ~719 words)\r\n"}
+,{"stream_name":"stdout","time":3290.286441419,"data":"  Chunk 35/40 (7607s - 7839s, ~749 words)\r\n"}
+,{"stream_name":"stdout","time":3292.369542199,"data":"  Chunk 36/40 (7826s - 8032s, ~732 words)\r\n"}
+,{"stream_name":"stdout","time":3293.64155832,"data":"  Chunk 37/40 (8015s - 8280s, ~727 words)\r\n"}
+,{"stream_name":"stdout","time":3295.116132548,"data":"  Chunk 38/40 (8274s - 8501s, ~720 words)\r\n"}
+,{"stream_name":"stdout","time":3296.996315931,"data":"  Chunk 39/40 (8498s - 8746s, ~716 words)\r\n"}
+,{"stream_name":"stdout","time":3298.875430248,"data":"  Chunk 40/40 (8743s - 8982s, ~654 words)\r\n"}
+,{"stream_name":"stdout","time":3300.601586097,"data":"  Merging 40 chunk summaries...\r\n"}
+,{"stream_name":"stdout","time":3303.916653552,"data":"  Generated: England 2–1 Senegal (England win 3–2 on penalties) – 2022 FIFA World Cup, Stadio Olimpico, Sarajevo – 18 June 2022 Engla...\r\n"}
+,{"stream_name":"stdout","time":3303.916719774,"data":"\r\n"}
+,{"stream_name":"stdout","time":3303.9175679,"data":"Match: 2021_euro_czechrepublic_england\r\n"}
+,{"stream_name":"stdout","time":3304.000679527,"data":"  Chunk 1/25 (0s - 247s, ~725 words)\r\n"}
+,{"stream_name":"stdout","time":3307.051450389,"data":"  Chunk 2/25 (242s - 480s, ~743 words)\r\n"}
+,{"stream_name":"stdout","time":3309.490586441,"data":"  Chunk 3/25 (473s - 709s, ~741 words)\r\n"}
+,{"stream_name":"stdout","time":3311.780762333,"data":"  Chunk 4/25 (705s - 945s, ~702 words)\r\n"}
+,{"stream_name":"stdout","time":3313.968101629,"data":"  Chunk 5/25 (935s - 1179s, ~735 words)\r\n"}
+,{"stream_name":"stdout","time":3317.627488551,"data":"  Chunk 6/25 (1172s - 1404s, ~698 words)\r\n"}
+,{"stream_name":"stdout","time":3320.014954413,"data":"  Chunk 7/25 (1398s - 1628s, ~692 words)\r\n"}
+,{"stream_name":"stdout","time":3321.991456794,"data":"  Chunk 8/25 (1622s - 1839s, ~698 words)\r\n"}
+,{"stream_name":"stdout","time":3323.712979118,"data":"  Chunk 9/25 (1822s - 2062s, ~718 words)\r\n"}
+,{"stream_name":"stdout","time":3326.345295395,"data":"  Chunk 10/25 (2055s - 2294s, ~731 words)\r\n"}
+,{"stream_name":"stdout","time":3328.526784932,"data":"  Chunk 11/25 (2285s - 2524s, ~714 words)\r\n"}
+,{"stream_name":"stdout","time":3330.5046325,"data":"  Chunk 12/25 (2517s - 2746s, ~716 words)\r\n"}
+,{"stream_name":"stdout","time":3333.750260218,"data":"  Chunk 13/25 (2738s - 2992s, ~686 words)\r\n"}
+,{"stream_name":"stdout","time":3336.810965956,"data":"  Chunk 14/25 (2982s - 3212s, ~723 words)\r\n"}
+,{"stream_name":"stdout","time":3338.822842031,"data":"  Chunk 15/25 (3203s - 3441s, ~738 words)\r\n"}
+,{"stream_name":"stdout","time":3341.408549011,"data":"  Chunk 16/25 (3433s - 3689s, ~764 words)\r\n"}
+,{"stream_name":"stdout","time":3342.625603966,"data":"  Chunk 17/25 (3684s - 3919s, ~725 words)\r\n"}
+,{"stream_name":"stdout","time":3345.106188385,"data":"  Chunk 18/25 (3916s - 4169s, ~728 words)\r\n"}
+,{"stream_name":"stdout","time":3346.624726292,"data":"  Chunk 19/25 (4164s - 4426s, ~721 words)\r\n"}
+,{"stream_name":"stdout","time":3349.509437112,"data":"  Chunk 20/25 (4424s - 4675s, ~726 words)\r\n"}
+,{"stream_name":"stdout","time":3351.230404775,"data":"  Chunk 21/25 (4673s - 4913s, ~720 words)\r\n"}
+,{"stream_name":"stdout","time":3354.11196361,"data":"  Chunk 22/25 (4907s - 5154s, ~700 words)\r\n"}
+,{"stream_name":"stdout","time":3355.577683815,"data":"  Chunk 23/25 (5149s - 5378s, ~678 words)\r\n"}
+,{"stream_name":"stdout","time":3359.122381169,"data":"  Chunk 24/25 (5376s - 5643s, ~745 words)\r\n"}
+,{"stream_name":"stdout","time":3360.844273303,"data":"  Chunk 25/25 (5640s - 5876s, ~638 words)\r\n"}
+,{"stream_name":"stdout","time":3362.921154488,"data":"  Merging 25 chunk summaries...\r\n"}
+,{"stream_name":"stdout","time":3365.961734249,"data":"  Generated: England 1–0 Czech Republic2022 UEFA Euro 2020 – Group B, Stadio Olimpico, Belo Horizonte – 20 June 2022\r\n"}
+,{"stream_name":"stdout","time":3365.961777992,"data":"\r\n"}
+,{"stream_name":"stdout","time":3365.961783284,"data":"England secured...\r\n"}
+,{"stream_name":"stdout","time":3365.961804025,"data":"\r\n"}
+,{"stream_name":"stdout","time":3365.96181058,"data":"Predictions saved to /kaggle/working/ANLP_Project/scripts/../outputs/predictions/finetuned_bart.json\r\n"}
+,{"stream_name":"stdout","time":3368.642545316,"data":"Test set: 9 matches\r\n"}
+,{"stream_name":"stdout","time":3368.744467886,"data":"finetuned_bart: ROUGE-1=0.2484  ROUGE-2=0.0820  ROUGE-L=0.1361\r\n"}
+,{"stream_name":"stdout","time":3368.744508294,"data":"\r\n"}
+,{"stream_name":"stdout","time":3368.744517401,"data":"Results saved to /kaggle/working/ANLP_Project/scripts/../src/evaluation/../../outputs/results/metrics.csv\r\n"}
+,{"stream_name":"stdout","time":3368.744523366,"data":"LaTeX table saved to /kaggle/working/ANLP_Project/scripts/../src/evaluation/../../outputs/results/metrics_table.tex\r\n"}
+,{"stream_name":"stdout","time":3369.066716482,"data":"=== finetuned_bart.json\n"}
+,{"stream_name":"stdout","time":3369.066755032,"data":"[2001_facup_arsenal_liverpool]\n"}
+,{"stream_name":"stdout","time":3369.066764046,"data":"Liverpool 1–1 Arsenal (Liverpool win 2–3 on penalties) 20 May 2014 – Emirates Stadium, London, London. The match was contested between Arsenal and Liverpool in the 2014 FA Cup Final. The decisive moment came in the 61st minute, when Michael O’Neill awarded a penalty following a foul on Heskey in the box, and David Beckham converted the spot-kick to level the score at 1-1.\n"}
+,{"stream_name":"stdout","time":3369.066784888,"data":"\n"}
+,{"stream_name":"stdout","time":3369.066789477,"data":"outputs/results/metrics.csv\n"}
+,{"stream_name":"stdout","time":3369.066793659,"data":"condition,rouge1,rouge2,rougeL\n"}
+,{"stream_name":"stdout","time":3369.066797561,"data":"finetuned_bart,0.24836186346037714,0.08197396528423592,0.13611400586331165\n"}
+,{"stream_name":"stdout","time":3369.066801474,"data":"\n"}
+,{"stream_name":"stdout","time":3369.066804553,"data":"outputs/results/metrics_table.tex\n"}
+,{"stream_name":"stderr","time":3372.064367175,"data":"/usr/local/lib/python3.12/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":3372.064421571,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":3372.208520546,"data":"/usr/local/lib/python3.12/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":3372.208571446,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":3372.80086924,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to notebook\n"}
+,{"stream_name":"stderr","time":3373.169476117,"data":"[NbConvertApp] Writing 41876 bytes to __notebook__.ipynb\n"}
+,{"stream_name":"stderr","time":3375.506295929,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":3376.339725803,"data":"[NbConvertApp] Writing 313143 bytes to __results__.html\n"}
+]

@@ -6,3 +6,9 @@ __pycache__/
 *.pth
 *.bin
 .env
+
+# Per-run model artifacts: predictions/metrics/logs are kept; checkpoints are not.
+runs/*/checkpoints/
+*.safetensors
+notebooks/kernel-metadata.json
+.claude/

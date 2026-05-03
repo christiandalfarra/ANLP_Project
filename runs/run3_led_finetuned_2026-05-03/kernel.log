@@ -1,0 +1,93 @@
+[{"stream_name":"stderr","time":7.090507014,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":7.090575218,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":7.090580245,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":7.090582931,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stderr","time":7.694732907,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":7.694784261,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":7.69479034,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":7.694794731,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stdout","time":11.296151465,"data":"/kaggle/working/ANLP_Project\n"}
+,{"stream_name":"stdout","time":14.276200094,"data":"\u001b[?25l   \u001b[90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\u001b[0m \u001b[32m0.0/61.1 kB\u001b[0m \u001b[31m?\u001b[0m eta \u001b[36m-:--:--\u001b[0m\r\u001b[2K   \u001b[90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\u001b[0m \u001b[32m61.1/61.1 kB\u001b[0m \u001b[31m2.6 MB/s\u001b[0m eta \u001b[36m0:00:00\u001b[0m\r\n"}
+,{"stream_name":"stdout","time":20.92758546,"data":"\u001b[?25hCUDA: True\n"}
+,{"stream_name":"stdout","time":20.92762648,"data":"Device: Tesla T4\n"}
+,{"stream_name":"stdout","time":20.927633524,"data":"VRAM: 15.6 GB\n"}
+,{"stream_name":"stdout","time":43.963325604,"data":"Loading 80 train / 10 val matches...\r\n"}
+,{"stream_name":"stdout","time":44.469341323,"data":"Loading allenai/led-base-16384...\r\n"}
+,{"stream_name":"stdout","time":44.975743856,"data":"Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.\r\n"}
+,{"stream_name":"stdout","time":61.289456523,"data":"/usr/local/lib/python3.12/dist-packages/transformers/data/data_collator.py:600: UserWarning: Creating a tensor from a list of numpy.ndarrays is extremely slow. Please consider converting the list to a single numpy.ndarray with numpy.array() before converting to a tensor. (Triggered internally at /pytorch/torch/csrc/utils/tensor_new.cpp:253.)\r\n"}
+,{"stream_name":"stdout","time":61.289501699,"data":"  batch[\"labels\"] = torch.tensor(batch[\"labels\"], dtype=torch.int64)\r\n"}
+,{"stream_name":"stdout","time":64.024103894,"data":"/usr/local/lib/python3.12/dist-packages/torch/autograd/function.py:583: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.\r\n"}
+,{"stream_name":"stdout","time":64.024156542,"data":"  return super().apply(*args, **kwargs)  # type: ignore[misc]\r\n"}
+,{"stream_name":"stdout","time":248.155463518,"data":"{'eval_loss': '4.829', 'eval_rouge1': '0.194', 'eval_rouge2': '0.03121', 'eval_rougeL': '0.1066', 'eval_runtime': '36.98', 'eval_samples_per_second': '0.27', 'eval_steps_per_second': '0.135', 'epoch': '1'}\r\n"}
+,{"stream_name":"stdout","time":401.929297787,"data":"{'loss': '79.92', 'grad_norm': '741.2', 'learning_rate': '1.8e-06', 'epoch': '2'}\r\n"}
+,{"stream_name":"stdout","time":438.912490766,"data":"{'eval_loss': '4.333', 'eval_rouge1': '0.2012', 'eval_rouge2': '0.03434', 'eval_rougeL': '0.1105', 'eval_runtime': '36.99', 'eval_samples_per_second': '0.27', 'eval_steps_per_second': '0.135', 'epoch': '2'}\r\n"}
+,{"stream_name":"stdout","time":629.765610939,"data":"{'eval_loss': '3.588', 'eval_rouge1': '0.2036', 'eval_rouge2': '0.03729', 'eval_rougeL': '0.1135', 'eval_runtime': '36.84', 'eval_samples_per_second': '0.271', 'eval_steps_per_second': '0.136', 'epoch': '3'}\r\n"}
+,{"stream_name":"stdout","time":784.143269705,"data":"{'loss': '58.92', 'grad_norm': '484.2', 'learning_rate': '3.8e-06', 'epoch': '4'}\r\n"}
+,{"stream_name":"stdout","time":820.971854649,"data":"{'eval_loss': '2.707', 'eval_rouge1': '0.2134', 'eval_rouge2': '0.04501', 'eval_rougeL': '0.1113', 'eval_runtime': '36.82', 'eval_samples_per_second': '0.272', 'eval_steps_per_second': '0.136', 'epoch': '4'}\r\n"}
+,{"stream_name":"stdout","time":1012.035490686,"data":"{'eval_loss': '2.472', 'eval_rouge1': '0.2367', 'eval_rouge2': '0.0489', 'eval_rougeL': '0.1251', 'eval_runtime': '36.83', 'eval_samples_per_second': '0.272', 'eval_steps_per_second': '0.136', 'epoch': '5'}\r\n"}
+,{"stream_name":"stdout","time":1166.361281057,"data":"{'loss': '40.23', 'grad_norm': '51.27', 'learning_rate': '5.8e-06', 'epoch': '6'}\r\n"}
+,{"stream_name":"stdout","time":1202.932739271,"data":"{'eval_loss': '2.32', 'eval_rouge1': '0.238', 'eval_rouge2': '0.05275', 'eval_rougeL': '0.1298', 'eval_runtime': '36.54', 'eval_samples_per_second': '0.274', 'eval_steps_per_second': '0.137', 'epoch': '6'}\r\n"}
+,{"stream_name":"stdout","time":1394.216700757,"data":"{'eval_loss': '2.157', 'eval_rouge1': '0.286', 'eval_rouge2': '0.08794', 'eval_rougeL': '0.1587', 'eval_runtime': '36.96', 'eval_samples_per_second': '0.271', 'eval_steps_per_second': '0.135', 'epoch': '7'}\r\n"}
+,{"stream_name":"stdout","time":1548.508966927,"data":"{'loss': '34.16', 'grad_norm': '44.05', 'learning_rate': '7.8e-06', 'epoch': '8'}\r\n"}
+,{"stream_name":"stdout","time":1585.429997187,"data":"{'eval_loss': '1.999', 'eval_rouge1': '0.289', 'eval_rouge2': '0.09285', 'eval_rougeL': '0.1604', 'eval_runtime': '36.95', 'eval_samples_per_second': '0.271', 'eval_steps_per_second': '0.135', 'epoch': '8'}\r\n"}
+,{"stream_name":"stdout","time":1776.754246724,"data":"{'eval_loss': '1.851', 'eval_rouge1': '0.296', 'eval_rouge2': '0.09402', 'eval_rougeL': '0.1718', 'eval_runtime': '36.9', 'eval_samples_per_second': '0.271', 'eval_steps_per_second': '0.136', 'epoch': '9'}\r\n"}
+,{"stream_name":"stdout","time":1930.534229172,"data":"{'loss': '29.18', 'grad_norm': '45.96', 'learning_rate': '9.8e-06', 'epoch': '10'}\r\n"}
+,{"stream_name":"stdout","time":1967.360840687,"data":"{'eval_loss': '1.737', 'eval_rouge1': '0.3026', 'eval_rouge2': '0.1032', 'eval_rougeL': '0.1707', 'eval_runtime': '36.83', 'eval_samples_per_second': '0.272', 'eval_steps_per_second': '0.136', 'epoch': '10'}\r\n"}
+,{"stream_name":"stdout","time":2157.269834767,"data":"{'eval_loss': '1.631', 'eval_rouge1': '0.289', 'eval_rouge2': '0.09531', 'eval_rougeL': '0.1621', 'eval_runtime': '36.86', 'eval_samples_per_second': '0.271', 'eval_steps_per_second': '0.136', 'epoch': '11'}\r\n"}
+,{"stream_name":"stdout","time":2159.999292197,"data":"{'train_runtime': '2099', 'train_samples_per_second': '0.572', 'train_steps_per_second': '0.036', 'train_loss': '46.43', 'epoch': '11'}\r\n"}
+,{"stream_name":"stdout","time":2162.532641983,"data":"Model saved to checkpoints/led\r\n"}
+,{"stream_name":"stdout","time":2162.532687081,"data":"\r\n"}
+,{"stream_name":"stdout","time":2162.532696584,"data":"Done. Checkpoint saved to checkpoints/led\r\n"}
+,{"stream_name":"stdout","time":2173.182983681,"data":"Loading checkpoint from checkpoints/led on cuda...\r\n"}
+,{"stream_name":"stdout","time":2174.659668891,"data":"\r\n"}
+,{"stream_name":"stdout","time":2174.659709648,"data":"Match: 2001_facup_arsenal_liverpool\r\n"}
+,{"stream_name":"stdout","time":2180.979800698,"data":"  Generated: Liverpool 1–0 Arsenal, Premier League, 20 May 2001 – Anfield, Anfield, Emirates Stadium, Anfield – Anfield – 19 May 2001...\r\n"}
+,{"stream_name":"stdout","time":2180.979861836,"data":"\r\n"}
+,{"stream_name":"stdout","time":2180.979866642,"data":"Match: 2021_euro_england_ukraine\r\n"}
+,{"stream_name":"stdout","time":2186.592213458,"data":"  Generated: England 1–0 Ukraine in the UEFA Euro 2020 final in Rome, 7 June 2020. The match was decided by a penalty shootout after ...\r\n"}
+,{"stream_name":"stdout","time":2186.592253656,"data":"\r\n"}
+,{"stream_name":"stdout","time":2186.592258605,"data":"Match: 2019_uclfinal_liverpool_tottenham\r\n"}
+,{"stream_name":"stdout","time":2192.304137388,"data":"  Generated: Liverpool 1–0 Tottenham Hotspur (Clasico Stadium, Anfield) – UEFA Champions League Final, 7.30pm (AEST) – Anfield, Anfie...\r\n"}
+,{"stream_name":"stdout","time":2192.3042192,"data":"\r\n"}
+,{"stream_name":"stdout","time":2192.305340527,"data":"Match: 2022_wc_poland_argentina\r\n"}
+,{"stream_name":"stdout","time":2198.115588792,"data":"  Generated: - Argentina 1–0 Saudi Arabia, World Cup Group D, 7 June 2018. Argentina 3–0 Poland, Group D – Match Report, 7 July 2018....\r\n"}
+,{"stream_name":"stdout","time":2198.115623721,"data":"\r\n"}
+,{"stream_name":"stdout","time":2198.115629679,"data":"Match: 1983_facup_final_brighton_manchesterunited\r\n"}
+,{"stream_name":"stdout","time":2204.029157354,"data":"  Generated: Manchester United 1–2 Brighton and Hove Albion (Manchester United) 22 May 2017. Manchester United 2–1 Brighton and the H...\r\n"}
+,{"stream_name":"stdout","time":2204.029205016,"data":"\r\n"}
+,{"stream_name":"stdout","time":2204.029209975,"data":"Match: 2024_euro_england_slovakia\r\n"}
+,{"stream_name":"stdout","time":2209.991493174,"data":"  Generated: England 1–0 Slovakia – Match Report, 7 June 2018 – 20:00 BST (AEST)England dominated possession in the opening half of t...\r\n"}
+,{"stream_name":"stdout","time":2209.991539258,"data":"\r\n"}
+,{"stream_name":"stdout","time":2209.991542879,"data":"Match: 2026_ucl_athleticclub_arsenal\r\n"}
+,{"stream_name":"stdout","time":2215.951279888,"data":"  Generated: Arsenal 1–0 Manchester City (Champions League) UEFA Europa League First Round – Group D – Emirates Stadium, Emirates Sta...\r\n"}
+,{"stream_name":"stdout","time":2215.95132898,"data":"\r\n"}
+,{"stream_name":"stdout","time":2215.951334197,"data":"Match: 2022_wc_england_senegal\r\n"}
+,{"stream_name":"stdout","time":2221.811848182,"data":"  Generated: England 1-0 Senegal (Group D) – Match Report, Group D – Wembley Stadium, London, 7 June 2018. England’s Harry Kane (Engl...\r\n"}
+,{"stream_name":"stdout","time":2221.811901401,"data":"\r\n"}
+,{"stream_name":"stdout","time":2221.811908994,"data":"Match: 2021_euro_czechrepublic_england\r\n"}
+,{"stream_name":"stdout","time":2227.576277125,"data":"  Generated: England 1–0 Czech Republic, 7 June 2018 – Wembley Stadium, Wembley, London, UK – 7 May 2018 – 7:30pm (AEST)England’s fir...\r\n"}
+,{"stream_name":"stdout","time":2227.57631616,"data":"\r\n"}
+,{"stream_name":"stdout","time":2227.576322123,"data":"Predictions saved to /kaggle/working/ANLP_Project/scripts/../outputs/predictions/finetuned_led.json\r\n"}
+,{"stream_name":"stdout","time":2230.01686556,"data":"Test set: 9 matches\r\n"}
+,{"stream_name":"stdout","time":2230.168853861,"data":"finetuned_led: ROUGE-1=0.2317  ROUGE-2=0.0693  ROUGE-L=0.1216\r\n"}
+,{"stream_name":"stdout","time":2230.168907265,"data":"\r\n"}
+,{"stream_name":"stdout","time":2230.168914926,"data":"Results saved to /kaggle/working/ANLP_Project/scripts/../src/evaluation/../../outputs/results/metrics.csv\r\n"}
+,{"stream_name":"stdout","time":2230.168920694,"data":"LaTeX table saved to /kaggle/working/ANLP_Project/scripts/../src/evaluation/../../outputs/results/metrics_table.tex\r\n"}
+,{"stream_name":"stdout","time":2230.416052765,"data":"=== finetuned_led.json\n"}
+,{"stream_name":"stdout","time":2230.416088963,"data":"[2001_facup_arsenal_liverpool]\n"}
+,{"stream_name":"stdout","time":2230.416099871,"data":"Liverpool 1–0 Arsenal, Premier League, 20 May 2001 – Anfield, Anfield, Emirates Stadium, Anfield – Anfield – 19 May 2001. Liverpool dominated the first half, dominating possession and controlling the game. The first half was dominated by Liverpool’s attacking play, with Aaron Ramsey providing the finishing touch, but Arsenal responded with a clinical finish in the second half. Liverpool took the lead in the 55th minute when Daryl Murphy headed home from close range after a long-range effort from John Stones. Liverpool responded in the 62nd minute when John Stones headed in from close-range aft\n"}
+,{"stream_name":"stdout","time":2230.416110509,"data":"\n"}
+,{"stream_name":"stdout","time":2230.41611408,"data":"outputs/results/metrics.csv\n"}
+,{"stream_name":"stdout","time":2230.416117619,"data":"condition,rouge1,rouge2,rougeL\n"}
+,{"stream_name":"stdout","time":2230.416121244,"data":"finetuned_led,0.2316817008429911,0.06931250142286564,0.12161999361999361\n"}
+,{"stream_name":"stdout","time":2230.41612549,"data":"\n"}
+,{"stream_name":"stdout","time":2230.41612933,"data":"outputs/results/metrics_table.tex\n"}
+,{"stream_name":"stderr","time":2233.279631134,"data":"/usr/local/lib/python3.12/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":2233.279671147,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":2233.436541963,"data":"/usr/local/lib/python3.12/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":2233.436575793,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":2234.032283306,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to notebook\n"}
+,{"stream_name":"stderr","time":2234.329799343,"data":"[NbConvertApp] Writing 19423 bytes to __notebook__.ipynb\n"}
+,{"stream_name":"stderr","time":2236.643113887,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":2237.444634901,"data":"[NbConvertApp] Writing 296021 bytes to __results__.html\n"}
+]
