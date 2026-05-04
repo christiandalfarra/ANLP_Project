@@ -12,3 +12,6 @@ runs/*/checkpoints/
 *.safetensors
 notebooks/kernel-metadata.json
 .claude/
+
+# 19 GB of source audio; only transcripts/summaries are needed at runtime.
+football_commentary_dataset/data/raw_audio/
