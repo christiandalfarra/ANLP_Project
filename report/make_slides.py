@@ -148,7 +148,8 @@ bullets(s, [
     [("Transcription: ", {"bold": True}),
      ("Whisper-small; full transcript + time-aligned segments with pitch/energy prosodic features.", {})],
     [("References: ", {"bold": True}),
-     ("GPT-4 prompted per match identifier to produce a fixed-template report (~300 words). "
+     ("GPT-4 (ChatGPT web, search enabled) prompted per match identifier; facts grounded in "
+      "web-retrieved match reports, BBC sourcing verified for every match; fixed template, ~300 words. "
       "A pragmatic, disclosed compromise — no human summaries exist for radio commentary.", {})],
     [("Split: ", {"bold": True}),
      ("80 train / 10 val / 9 test, stratified, committed to the repo for reproducibility.", {})],
@@ -309,7 +310,8 @@ bullets(s, [
       "Faithfulness evaluation is the natural next step.", {})],
     "",
     [("Limitations we state openly:", {"bold": True, "color": RED})],
-    [("GPT-4-generated references → scores measure agreement with GPT-4 style, not a human gold standard.",
+    [("Search-grounded GPT-4 references → facts anchored in web reports, but still ungrounded in the "
+      "transcript, stylistically homogeneous, and not exactly reproducible (search results drift).",
       {"level": 1})],
     [("n = 9 test matches → differences within ±0.02 ROUGE-L are noise; no significance testing.",
       {"level": 1})],
