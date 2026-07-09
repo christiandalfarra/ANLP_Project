@@ -266,15 +266,19 @@ quote_box(s, Inches(6.85), Inches(1.6), Inches(6.0), Inches(2.2),
           "Emirates Stadium, Anfield… Liverpool dominated the first half…”")
 bullets(s, [
     [("Quantified over all 9 test matches: ", {"bold": True, "color": RED}),
-     ("the ROUGE-best model (fine-tuned BART) states the correct final score in ", {}),
+     ("the ROUGE- and BERTScore-best model (fine-tuned BART) states the correct final score in ", {}),
      ("0 of 9 matches", {"bold": True, "color": RED}),
-     (" and recalls only 30% of gold scorers. Fine-tuned LED: 1/9 scores, 15% scorers.", {})],
-    [("Perfect surface form — score line, date line, report prose — with the facts invented. "
-      "ROUGE rewards it anyway: the overlapping n-grams (team names, date formats, “in the Xth "
-      "minute”) are exactly what the models do reproduce; wrong facts cost nothing.", {})],
-    [("Prompted baselines fail earlier: FLAN and BART few-shot don’t even name both teams "
-      "(they copy the in-context example’s teams).", {})],
-], y=Inches(4.1), size=16)
+     (", recalls 30% of reference scorers, and has ", {}),
+     ("0% of sentences NLI-entailed by the transcript", {"bold": True, "color": RED}),
+     (". Fine-tuned LED: 1/9 scores, 15% scorers, 3% entailed.", {})],
+    [("The rankings invert: ", {"bold": True}),
+     ("prompted long-context LED — bottom of every reference-based metric — is the best-grounded "
+      "condition (34% of sentences entailed), because it copies the commentary it reads. "
+      "Fine-tuning optimises agreement with the references at the expense of grounding in the input.", {})],
+    [("ROUGE and BERTScore reward the hallucination: overlapping n-grams and semantics "
+      "(team names, date formats, report style) are exactly what the models reproduce; "
+      "wrong facts cost nothing.", {})],
+], y=Inches(4.1), size=15)
 footer(s, 8)
 
 # ------------------------------ 9 · Data-quality incident + LED curve
@@ -320,8 +324,8 @@ bullets(s, [
       "BART vs LED (+0.029 [−0.014, +0.070]).", {"level": 1})],
     [("N = 80 training pairs → both fine-tuned models overfit (val 0.31 → test 0.25 for BART).",
       {"level": 1})],
-    [("Faithfulness probes are recall-oriented: entity precision (invented names, dates, stadiums) "
-      "is still unmeasured. LED was trained pre-fix (evaluation is clean; training data was not).",
+    [("NLI support rates are conservative lower bounds (ASR-noisy premises, register gap); "
+      "entity precision is still unmeasured. LED was trained pre-fix (evaluation clean, training not).",
       {"level": 1})],
 ], size=17)
 footer(s, 10)
