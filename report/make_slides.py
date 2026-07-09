@@ -196,14 +196,15 @@ footer(s, 4)
 
 # ------------------------------------------------------------- 5 · Results
 s = add_slide()
-title_bar(s, "Results: fine-tuning wins by a wide margin",
-          "Test ROUGE-L, clean 9-match test set (run 4)")
-s.shapes.add_picture("figures/leaderboard.png", Inches(1.1), Inches(1.45), width=Inches(11.1))
-tf = textbox(s, Inches(0.7), Inches(6.75), Inches(12.0), Inches(0.6))
+title_bar(s, "Results: fine-tuning wins, and the gap is significant",
+          "Test ROUGE-L on the clean 9-match test set, bootstrap 95% CIs (10,000 resamples)")
+s.shapes.add_picture("figures/leaderboard.png", Inches(1.35), Inches(1.4), width=Inches(10.6))
+tf = textbox(s, Inches(0.7), Inches(6.62), Inches(12.0), Inches(0.75))
 p = tf.paragraphs[0]
 set_run(p.add_run(),
-        "* Fine-tuned LED trained before the dataset fix; scored on the 5 valid-reference test matches "
-        "— close, but not strictly comparable to the 9-match protocol of the other rows.",
+        "Every prompting condition is significantly below fine-tuned BART (paired bootstrap; 95% CI of the "
+        "difference excludes 0). The BART−LED gap (+0.029 [−0.014, +0.070]) is NOT significant.  "
+        "* LED trained before the dataset fix; re-scored post-hoc on the same clean 9-match protocol.",
         12, GREY, italic=True)
 footer(s, 5)
 
@@ -264,14 +265,16 @@ quote_box(s, Inches(6.85), Inches(1.6), Inches(6.0), Inches(2.2),
           "“Liverpool 1–0 Arsenal, Premier League, 20 May 2001 — Anfield, Anfield, "
           "Emirates Stadium, Anfield… Liverpool dominated the first half…”")
 bullets(s, [
-    [("Perfect surface form — score line, date line, report prose — with the year, stadium, "
-      "competition and result all invented.", {"bold": True})],
-    [("ROUGE rewards it anyway: ", {"bold": True, "color": RED}),
-     ("the n-grams that overlap with the reference (team names, date formats, “in the Xth minute”) "
-      "are exactly what the models do reproduce; hallucinated facts cost nothing.", {})],
-    [("Prompted baselines fail differently: FLAN emits template fragments; "
-      "LED continues the commentary instead of summarising it.", {})],
-], y=Inches(4.15), size=17)
+    [("Quantified over all 9 test matches: ", {"bold": True, "color": RED}),
+     ("the ROUGE-best model (fine-tuned BART) states the correct final score in ", {}),
+     ("0 of 9 matches", {"bold": True, "color": RED}),
+     (" and recalls only 30% of gold scorers. Fine-tuned LED: 1/9 scores, 15% scorers.", {})],
+    [("Perfect surface form — score line, date line, report prose — with the facts invented. "
+      "ROUGE rewards it anyway: the overlapping n-grams (team names, date formats, “in the Xth "
+      "minute”) are exactly what the models do reproduce; wrong facts cost nothing.", {})],
+    [("Prompted baselines fail earlier: FLAN and BART few-shot don’t even name both teams "
+      "(they copy the in-context example’s teams).", {})],
+], y=Inches(4.1), size=16)
 footer(s, 8)
 
 # ------------------------------ 9 · Data-quality incident + LED curve
@@ -305,19 +308,20 @@ bullets(s, [
      ("— +69% over the same pre-trained model, +55% over the best prompting baseline.", {})],
     [("2.  Context length is not a substitute for supervision ", {"bold": True}),
      ("— long-context wins only when no fine-tuning is possible.", {})],
-    [("3.  Surface metrics cannot see the failure that matters ", {"bold": True}),
-     ("— fluent, confidently wrong match reports score well on ROUGE. "
-      "Faithfulness evaluation is the natural next step.", {})],
+    [("3.  ROUGE and factual accuracy fully decouple at the top ", {"bold": True}),
+     ("— the ROUGE-best model never states the correct score (0/9). Optimising a faithfulness "
+      "signal, not just measuring one, is the natural next step.", {})],
     "",
     [("Limitations we state openly:", {"bold": True, "color": RED})],
     [("Search-grounded GPT-4 references → facts anchored in web reports, but still ungrounded in the "
       "transcript, stylistically homogeneous, and not exactly reproducible (search results drift).",
       {"level": 1})],
-    [("n = 9 test matches → differences within ±0.02 ROUGE-L are noise; no significance testing.",
-      {"level": 1})],
+    [("n = 9 test matches → bootstrap CIs resolve fine-tuning vs prompting (significant) but not "
+      "BART vs LED (+0.029 [−0.014, +0.070]).", {"level": 1})],
     [("N = 80 training pairs → both fine-tuned models overfit (val 0.31 → test 0.25 for BART).",
       {"level": 1})],
-    [("Fine-tuned LED not re-trained after the dataset fix → its 0.219 is a valid-only re-evaluation.",
+    [("Faithfulness probes are recall-oriented: entity precision (invented names, dates, stadiums) "
+      "is still unmeasured. LED was trained pre-fix (evaluation is clean; training data was not).",
       {"level": 1})],
 ], size=17)
 footer(s, 10)

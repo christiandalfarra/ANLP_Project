@@ -1,42 +1,61 @@
 #!/usr/bin/env python3
-"""Horizontal bar chart of test ROUGE-L for all conditions (run4 clean;
-finetuned_led from run3 valid-only re-eval, shown hatched)."""
+"""Horizontal bar chart of test ROUGE-L for all conditions, with bootstrap
+95% CIs. Data: results/percondition_cis.csv (from compute_analysis.py).
+All rows are clean 9-match evaluations; finetuned_led (hatched) was trained
+on the pre-fix dataset but re-scored on the same protocol."""
+import csv
+import os
+
 import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 from matplotlib.patches import Patch
 
-# (label, rougeL, family)  — run4/metrics.csv except finetuned_led (run3 valid-only)
-rows = [
-    ("FLAN chunk CoT",        0.0481, "flan"),
-    ("FLAN chunk few",        0.0551, "flan"),
-    ("FLAN chunk zero",       0.0700, "flan"),
-    ("BART chunk few",        0.1030, "bart"),
-    ("BART chunk CoT",        0.1230, "bart"),
-    ("BART chunk zero",       0.1467, "bart"),
-    ("LED long CoT",          0.1548, "led"),
-    ("LED long zero",         0.1599, "led"),
-    ("LED long few",          0.1599, "led"),
-    ("Fine-tuned LED*",       0.2190, "ft"),
-    ("Fine-tuned BART",       0.2476, "ft"),
-]
+HERE = os.path.dirname(os.path.abspath(__file__))
 
+LABELS = {
+    "flan_chunk_cot": ("FLAN chunk CoT", "flan"),
+    "flan_chunk_few": ("FLAN chunk few", "flan"),
+    "flan_chunk_zero": ("FLAN chunk zero", "flan"),
+    "bart_chunk_few": ("BART chunk few", "bart"),
+    "bart_chunk_cot": ("BART chunk CoT", "bart"),
+    "bart_chunk_zero": ("BART chunk zero", "bart"),
+    "led_long_cot": ("LED long CoT", "led"),
+    "led_long_zero": ("LED long zero", "led"),
+    "led_long_few": ("LED long few", "led"),
+    "finetuned_led": ("Fine-tuned LED*", "ft"),
+    "finetuned_bart": ("Fine-tuned BART", "ft"),
+}
 colors = {"flan": "#c8c8c8", "bart": "#9db8d9", "led": "#5d8ac4", "ft": "#0a3d7a"}
 
-fig, ax = plt.subplots(figsize=(8.4, 4.4))
-labels = [r[0] for r in rows]
-vals = [r[1] for r in rows]
-cols = [colors[r[2]] for r in rows]
-bars = ax.barh(labels, vals, color=cols, height=0.68)
-bars[9].set_hatch("//")
-bars[9].set_edgecolor("white")
+rows = []
+with open(os.path.join(HERE, "results", "percondition_cis.csv")) as fh:
+    for r in csv.DictReader(fh):
+        label, fam = LABELS[r["condition"]]
+        rows.append((label, fam, float(r["rougeL"]),
+                     float(r["rougeL_lo"]), float(r["rougeL_hi"])))
+rows.sort(key=lambda x: x[2])          # ascending so best ends up on top
 
-for b, v in zip(bars, vals):
-    ax.text(v + 0.003, b.get_y() + b.get_height() / 2, f"{v:.3f}",
+fig, ax = plt.subplots(figsize=(8.4, 4.6))
+labels = [r[0] for r in rows]
+vals = [r[2] for r in rows]
+cols = [colors[r[1]] for r in rows]
+err_lo = [r[2] - r[3] for r in rows]
+err_hi = [r[4] - r[2] for r in rows]
+
+bars = ax.barh(labels, vals, color=cols, height=0.68,
+               xerr=[err_lo, err_hi], error_kw=dict(lw=1.1, capsize=3,
+                                                    ecolor="#444444"))
+led_i = labels.index("Fine-tuned LED*")
+bars[led_i].set_hatch("//")
+bars[led_i].set_edgecolor("white")
+
+for b, (_, _, v, _, hi) in zip(bars, rows):
+    ax.text(hi + 0.006, b.get_y() + b.get_height() / 2, f"{v:.3f}",
             va="center", fontsize=9)
 
-ax.set_xlabel("Test ROUGE-L")
-ax.set_xlim(0, 0.29)
+ax.set_xlabel("Test ROUGE-L (whiskers: bootstrap 95% CI, 10,000 resamples)")
+ax.set_xlim(0, 0.31)
 ax.spines[["top", "right"]].set_visible(False)
 ax.legend(handles=[
     Patch(color=colors["ft"], label="Fine-tuned"),
@@ -46,6 +65,8 @@ ax.legend(handles=[
 ], loc="lower right", fontsize=8.5, frameon=False)
 
 fig.tight_layout()
-fig.savefig("figures/leaderboard.png", dpi=170, bbox_inches="tight")
-fig.savefig("figures/leaderboard.pdf", bbox_inches="tight")
+fig.savefig(os.path.join(HERE, "figures", "leaderboard.png"), dpi=170,
+            bbox_inches="tight")
+fig.savefig(os.path.join(HERE, "figures", "leaderboard.pdf"),
+            bbox_inches="tight")
 print("wrote figures/leaderboard.{png,pdf}")
