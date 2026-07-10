@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build the 10-slide project deck (report/slides/ANLP_slides.pptx).
+"""Build the 11-slide project deck (report/slides/ANLP_slides.pptx).
 
 All numbers come from runs/run4_full_clean_2026-05-04/results/metrics.csv,
 runs/run3_led_finetuned_2026-05-03/kernel.log and runs/reeval_valid.txt.
@@ -187,11 +187,12 @@ for i, row in enumerate(rows):
                     WHITE if hdr else DARK, bold=hdr)
 bullets(s, [
     [("Chunk + aggregate: ", {"bold": True}),
-     ("segment-aligned chunks with 1-segment overlap → per-chunk summary → merge → BoW-cosine dedup.", {})],
-    [("Long-context: ", {"bold": True}),
-     ("whole transcript in one LED forward pass; global attention on BOS; gradient checkpointing on a T4.", {})],
-    [("All experiments on free-tier Kaggle (1× T4, 15.6 GB); seeds fixed; every prediction saved to disk.", {})],
-], y=Inches(5.0), size=16)
+     ("segment-aligned chunks → per-chunk summary → merge + dedup.   ", {}),
+     ("Long-context: ", {"bold": True}),
+     ("whole transcript in one LED pass.", {})],
+    [("All experiments on free-tier Kaggle (1× T4); seeds fixed; every prediction saved to disk, "
+      "so all metrics are recomputable post-hoc.", {})],
+], y=Inches(5.1), size=16)
 footer(s, 4)
 
 # ------------------------------------------------------------- 5 · Results
@@ -232,15 +233,18 @@ footer(s, 6)
 
 # ---------------------------------- 7 · Finding 2: ranking inversion
 s = add_slide()
-title_bar(s, "Finding 2 — Long context wins at prompting, loses at fine-tuning")
+title_bar(s, "Finding 2 — Long context wins at prompting, ties at fine-tuning")
 bullets(s, [
     [("Prompting: ", {"bold": True}),
      ("LED long-context (avg 0.158) beats BART chunk (0.124) and FLAN chunk (0.058) — "
       "the 16k window preserves cross-segment information that chunking discards.", {})],
     [("Fine-tuning: ", {"bold": True}),
-     ("the ranking inverts — BART chunk-merger 0.248 vs fine-tuned LED 0.219.", {})],
+     ("BART chunk-merger is nominally ahead (0.248 vs 0.219) but the paired difference is not "
+      "significant at n = 9 — the two fine-tuned pipelines cannot be separated. LED is more "
+      "consistent (narrow CI); BART has the higher ceiling (wide CI).", {})],
     "",
-    [("Why: sample efficiency at N = 80.", {"bold": True, "color": NAVY})],
+    [("Why chunk-merger might really be ahead: sample efficiency at N = 80.",
+      {"bold": True, "color": NAVY})],
     [("BART learns from a ~960-token pre-distilled intermediate whose features are already informative.",
       {"level": 1})],
     [("LED must learn what matters inside raw 8,192-token windows from scratch — "
@@ -266,22 +270,34 @@ quote_box(s, Inches(6.85), Inches(1.6), Inches(6.0), Inches(2.2),
           "Emirates Stadium, Anfield… Liverpool dominated the first half…”")
 bullets(s, [
     [("Quantified over all 9 test matches: ", {"bold": True, "color": RED}),
-     ("the ROUGE- and BERTScore-best model (fine-tuned BART) states the correct final score in ", {}),
+     ("the ROUGE-best model (fine-tuned BART) states the correct final score in ", {}),
      ("0 of 9 matches", {"bold": True, "color": RED}),
-     (", recalls 30% of reference scorers, and has ", {}),
-     ("0% of sentences NLI-entailed by the transcript", {"bold": True, "color": RED}),
-     (". Fine-tuned LED: 1/9 scores, 15% scorers, 3% entailed.", {})],
-    [("The rankings invert: ", {"bold": True}),
-     ("prompted long-context LED — bottom of every reference-based metric — is the best-grounded "
-      "condition (34% of sentences entailed), because it copies the commentary it reads. "
-      "Fine-tuning optimises agreement with the references at the expense of grounding in the input.", {})],
-    [("ROUGE and BERTScore reward the hallucination: overlapping n-grams and semantics "
-      "(team names, date formats, report style) are exactly what the models reproduce; "
-      "wrong facts cost nothing.", {})],
-], y=Inches(4.1), size=15)
+     (" and recalls only 30% of reference scorers. Fine-tuned LED: 1/9 scores, 15% scorers. "
+      "Its scorelines are decorative — 1–1, 2–2, 1–0 regardless of the real 0–4, 3–0…", {})],
+    [("ROUGE rewards the hallucination: ", {"bold": True}),
+     ("the overlapping n-grams (team names, date formats, report style) are exactly what the "
+      "models reproduce; wrong facts cost nothing.", {})],
+], y=Inches(4.15), size=16)
 footer(s, 8)
 
-# ------------------------------ 9 · Data-quality incident + LED curve
+# --------------------------- 9 · Finding 4: the inversion
+s = add_slide()
+title_bar(s, "Finding 4 — Models optimise the reference, not the source",
+          "BERTScore vs reference · NLI entailment vs transcript (DeBERTa-MNLI, TF-IDF-retrieved windows)")
+s.shapes.add_picture("figures/inversion.png", Inches(1.5), Inches(1.5), width=Inches(10.3))
+bullets(s, [
+    [("The rankings invert: ", {"bold": True, "color": RED}),
+     ("fine-tuned BART — best on every reference-based metric — has 0% of sentences entailed by "
+      "the transcript; prompted long-context LED, worst on ROUGE, is best-grounded (34%) because "
+      "it copies the commentary it reads.", {})],
+    [("Fine-tuning on GPT-4 references optimises agreement with the references at the expense of "
+      "grounding in the input. ", {"bold": True}),
+     ("(NLI rates are conservative lower bounds — register gap, ASR noise — so compare across "
+      "conditions, not absolutely.)", {"size": 13, "color": GREY})],
+], y=Inches(5.35), size=15)
+footer(s, 9)
+
+# ------------------------------ 10 · Data-quality incident + LED curve
 s = add_slide()
 title_bar(s, "The biggest improvement was not a model change",
           "Five silent LED training failures + one dataset bug")
@@ -302,9 +318,9 @@ tf = textbox(s, Inches(7.15), Inches(5.65), Inches(5.7), Inches(0.5))
 p = tf.paragraphs[0]
 set_run(p.add_run(), "LED fine-tuning after the fixes: val ROUGE-L peaks at 0.172 (epoch 9).",
         12, GREY, italic=True)
-footer(s, 9)
+footer(s, 10)
 
-# ---------------------------------------------- 10 · Conclusions
+# ---------------------------------------------- 11 · Conclusions
 s = add_slide()
 title_bar(s, "Conclusions & limitations")
 bullets(s, [
@@ -312,9 +328,10 @@ bullets(s, [
      ("— +69% over the same pre-trained model, +55% over the best prompting baseline.", {})],
     [("2.  Context length is not a substitute for supervision ", {"bold": True}),
      ("— long-context wins only when no fine-tuning is possible.", {})],
-    [("3.  ROUGE and factual accuracy fully decouple at the top ", {"bold": True}),
-     ("— the ROUGE-best model never states the correct score (0/9). Optimising a faithfulness "
-      "signal, not just measuring one, is the natural next step.", {})],
+    [("3.  Reference similarity and source grounding fully decouple ", {"bold": True}),
+     ("— the ROUGE- and BERTScore-best model never states the correct score (0/9) and has 0% of "
+      "sentences entailed by the transcript. Optimising a faithfulness signal, not just measuring "
+      "one, is the natural next step.", {})],
     "",
     [("Limitations we state openly:", {"bold": True, "color": RED})],
     [("Search-grounded GPT-4 references → facts anchored in web reports, but still ungrounded in the "
@@ -328,7 +345,7 @@ bullets(s, [
       "entity precision is still unmeasured. LED was trained pre-fix (evaluation clean, training not).",
       {"level": 1})],
 ], size=17)
-footer(s, 10)
+footer(s, 11)
 
 import os
 os.makedirs("slides", exist_ok=True)
