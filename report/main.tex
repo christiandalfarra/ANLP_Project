@@ -236,7 +236,7 @@ Two further metrics were computed locally, post-hoc, on the saved predictions (c
 
 \paragraph{Compute.} All experiments ran on free-tier Kaggle Notebooks with a single NVIDIA Tesla T4 (15.6~GB VRAM). The 12-hour-per-session and $\sim$30-GPU-hour-per-week limits dictated the experimental cadence: prompting baselines and BART fine-tuning together fit in one $\sim$2.5-hour session; LED fine-tuning is a separate $\sim$50-minute session.
 
-\paragraph{Reproducibility.} Random seeds are fixed to 42; the train/val/test split is committed; intermediate predictions are saved to disk so the evaluation step can re-run without regenerating outputs. The full data, code, and trained models are versioned at branch \texttt{setup/local-run} of the project repository.
+\paragraph{Reproducibility.} Random seeds are fixed to 42; the train/val/test split is committed; intermediate predictions are saved to disk so the evaluation step can re-run without regenerating outputs. The dataset (excluding raw audio), code, per-run predictions, and analysis scripts are versioned at branch \texttt{setup/local-run} of the project repository; trained checkpoints are not committed but every reported metric is recomputable from the saved predictions.
 
 \paragraph{Models.} Table~\ref{tab:models} summarises the architectures used.
 
