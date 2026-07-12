@@ -14,7 +14,7 @@ Each approach is evaluated with two strategies for handling long inputs:
 
 ## Dataset
 
-The dataset lives in `../football_commentary_dataset/` (sibling directory of this repo). It contains **99 football matches** (World Cup, Euro, FA Cup, Premier League — 1983–2018), each with:
+The dataset is bundled in `football_commentary_dataset/` inside this repo (transcripts, segments, and summaries; the 19 GB of raw audio is excluded). The loader also falls back to a sibling `../football_commentary_dataset/` directory if the in-repo copy is missing. It contains **99 football matches** (World Cup, Euro, FA Cup, Premier League — 1983–2018), each with:
 
 | File | Description |
 |---|---|
@@ -28,7 +28,7 @@ The dataset lives in `../football_commentary_dataset/` (sibling directory of thi
 ## Project Structure
 
 ```
-progetto chri/
+ANLP_Project/
 ├── src/
 │   ├── data/
 │   │   ├── dataset_loader.py      # Load transcripts, segments, summaries
@@ -64,6 +64,11 @@ progetto chri/
 │   ├── predictions/               # Generated summaries per condition (gitignored)
 │   └── results/                   # metrics.csv + metrics_table.tex (gitignored)
 ├── checkpoints/                   # Fine-tuned model weights (gitignored)
+├── football_commentary_dataset/   # Bundled dataset (transcripts, segments, summaries)
+├── notebooks/                     # Kaggle/Colab runner notebooks
+├── runs/                          # Per-run predictions, metrics, logs + RESULTS.md
+├── report/                        # LaTeX report, figures, results CSVs, slides
+├── reports/                       # Session notes and engineering history (markdown)
 ├── requirements.txt
 └── README.md
 ```
