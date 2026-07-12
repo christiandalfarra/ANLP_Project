@@ -1,4 +1,4 @@
-\documentclass[11pt,a4paper]{article}
+\documentclass[10pt,a4paper]{article}
 
 % ---------- Packages ----------
 \usepackage[utf8]{inputenc}
@@ -138,13 +138,7 @@ Lines 3+: 2--4 paragraph report covering result, key events, and a brief tactica
 Final block: bullet list of key events (e.g.\ ``27' -- Gordon Smith goal'').
 \end{quote}
 
-Mean reference length is $\sim$1.2~KB ($\sim$300 words). One representative reference:
-
-\begin{quote}\small\itshape
-Brighton \& Hove Albion 2--2 Manchester United (after extra time)\\
-1983 FA Cup Final, Wembley Stadium, London -- 21 May 1983\\
-The 1983 FA Cup Final between Brighton \& Hove Albion and Manchester United ended in a dramatic 2--2 draw, forcing a replay\dots\ Brighton took the lead in the 27th minute when Gordon Smith finished clinically\dots
-\end{quote}
+Mean reference length is $\sim$1.2~KB ($\sim$300 words).
 
 \paragraph{Methodological note.}
 Using a large language model to generate references introduces an evaluation bias even with retrieval: the references reflect web-sourced match reports as filtered and rewritten by GPT-4 at generation time, and they remain \emph{ungrounded in the transcript} our models actually read --- events a radio commentator dwells on may be absent from a written report and vice versa. Retrieval also weakens reproducibility: search results change over time, so regenerating the references would not yield byte-identical targets. We discuss this candidly in Section~\ref{sec:limitations}. The alternative --- human-written summaries for 99 matches --- was outside the scope of a course project. References were spot-checked manually and accepted as a working approximation.
@@ -229,7 +223,7 @@ Because $n=9$, we attach uncertainty to every aggregate: for each condition we b
 ROUGE cannot detect confidently-stated wrong facts, so we add two rule-based factual checks that exploit the fixed reference format (Section~\ref{sec:gpt_targets}). \emph{Score accuracy}: the reference scoreline is parsed from the reference's first line; a prediction is credited when it states the same scoreline with the correct team orientation (team-adjacent patterns such as ``\emph{Arsenal 1--2 Liverpool}'', winner-verb patterns such as ``\emph{England beat Senegal 3--0}'', and draws, which are orientation-free). \emph{Scorer recall}: scorer names are parsed from the reference's key-events block; we measure the fraction mentioned in the prediction, matching surnames case- and accent-insensitively with a fuzzy threshold (\texttt{SequenceMatcher} ratio $\ge 0.85$) to tolerate Whisper misspellings. We also report a weaker sanity check, whether \emph{both team names} appear at all. Extraction code is \texttt{report/compute\_analysis.py}; per-match extractions were audited manually.
 
 \paragraph{Semantic metrics.}
-Two further metrics were computed locally, post-hoc, on the saved predictions (code \texttt{report/compute\_semantic.py}). \emph{BERTScore} \citep{zhang2020bertscore} F1 (RoBERTa-large, raw scores) against the reference measures semantic similarity to the target beyond n-gram overlap. \emph{NLI support rate} measures grounding in the \emph{source}: each prediction is split into sentences (long run-ons chunked at 50 words), the three most similar 60-word transcript windows are retrieved by TF-IDF, and a DeBERTa-base MNLI cross-encoder scores entailment; a sentence counts as supported when max $P(\text{entailment}) \ge 0.5$, and we report the macro-averaged supported fraction. An earlier Kaggle attempt at BERTScore failed with an \texttt{OverflowError} from the platform's transformers/bert\_score build; the local run avoids it.
+Two further metrics were computed locally, post-hoc, on the saved predictions (code \texttt{report/compute\_semantic.py}). \emph{BERTScore} \citep{zhang2020bertscore} F1 (RoBERTa-large, raw scores) against the reference measures semantic similarity to the target beyond n-gram overlap. \emph{NLI support rate} measures grounding in the \emph{source}: each prediction is split into sentences (long run-ons chunked at 50 words), the three most similar 60-word transcript windows are retrieved by TF-IDF, and a DeBERTa-base MNLI cross-encoder scores entailment; a sentence counts as supported when max $P(\text{entailment}) \ge 0.5$, and we report the macro-averaged supported fraction.
 
 % ============================================================
 \section{Experimental Setup}
@@ -281,7 +275,7 @@ Table~\ref{tab:main} reports ROUGE F-measures on the clean 9-match test set, wit
 11 & flan\_chunk\_cot$^{*}$                          & 0.0733 & 0.0148 & 0.0481 & [0.033, 0.063] \\
 \bottomrule
 \end{tabular}
-\caption{Main results: ROUGE F-measures (stemmed) on the clean 9-match test set, with bootstrap 95\% CIs on ROUGE-L (10\,000 resamples). $^{*}$~significantly below \texttt{finetuned\_bart} (paired bootstrap; 95\% CI of the per-match ROUGE-L difference excludes zero). \texttt{finetuned\_led} is \emph{not} significantly below ($\Delta = +0.029$, CI $[-0.014, +0.070]$). $^{\dagger}$~\texttt{finetuned\_led} (run~3) was \emph{trained} before the empty-reference fix (33\% empty training targets) and was not re-trained; its row is a post-hoc re-scoring of the saved run-3 predictions on the same clean 9-match protocol as every other row, so the \emph{evaluation} is directly comparable while the training conditions are strictly worse. See Section~\ref{sec:engineering}.}
+\caption{Main results: ROUGE F-measures (stemmed) on the clean 9-match test set, with bootstrap 95\% CIs on ROUGE-L (10\,000 resamples). $^{*}$~significantly below \texttt{finetuned\_bart} (paired bootstrap CI of the difference excludes zero); \texttt{finetuned\_led} is \emph{not} ($\Delta = +0.029$, CI $[-0.014, +0.070]$). $^{\dagger}$~trained before the empty-reference fix but re-scored on the same clean 9-match protocol: the evaluation is directly comparable, the training conditions strictly worse (Section~\ref{sec:engineering}).}
 \label{tab:main}
 \end{table}
 
@@ -291,7 +285,7 @@ Table~\ref{tab:main} reports ROUGE F-measures on the clean 9-match test set, wit
 Fine-tuned BART (0.248) versus LED few-shot, the best prompting condition (0.160), is a $+55\%$ relative gap, and the paired bootstrap CI of the difference ($+0.088$, $[+0.041, +0.130]$) excludes zero --- as it does for \emph{every} prompting condition (Table~\ref{tab:main}). The same-model comparison --- pre-trained BART under the identical chunk-aggregate pipeline (0.147) --- gives an even cleaner $+69\%$, isolating the contribution of fine-tuning from the choice of model and pipeline. Both fine-tuned architectures (BART, LED) reach the top of the leaderboard, occupying positions 1 and 2.
 
 \paragraph{(2)~Long-context dominates among prompting baselines; among fine-tuned models the two pipelines are statistically indistinguishable.}
-Across the nine prompting cells, LED long-context averages ROUGE-L 0.158 versus 0.124 for BART chunk-aggregate and 0.058 for FLAN chunk-aggregate. The 16\,384-token window preserves cross-segment information that chunking discards. Among fine-tuned models, BART chunk-merger is nominally ahead (0.248 vs.\ 0.219, both on the clean 9-match protocol), but the paired bootstrap difference ($+0.029$, CI $[-0.014, +0.070]$) does not exclude zero: at $n=9$ the two fine-tuned pipelines cannot be separated. The intervals add nuance rather than a verdict. LED's narrow CI ($[0.210, 0.226]$) shows highly consistent per-match performance; BART's wide CI ($[0.208, 0.283]$) reflects higher variance with a higher ceiling. LED, moreover, reached its number despite training on the pre-fix dataset (33\% empty targets; Section~\ref{sec:engineering}), so a clean retrain could plausibly close the nominal gap --- while on the faithfulness probes of Section~\ref{sec:faith} BART leads on scorer recall. If a real gap exists, the likely mechanism is sample efficiency: with only 80 training pairs, BART operates on a $\sim$960-token pre-distilled intermediate whose features are already informative, while LED must learn to attend across raw 8192-token windows from scratch.
+Across the nine prompting cells, LED long-context averages ROUGE-L 0.158 versus 0.124 for BART chunk-aggregate and 0.058 for FLAN chunk-aggregate. The 16\,384-token window preserves cross-segment information that chunking discards. Among fine-tuned models, BART chunk-merger is nominally ahead (0.248 vs.\ 0.219, both on the clean 9-match protocol), but the paired bootstrap difference ($+0.029$, CI $[-0.014, +0.070]$) does not exclude zero: at $n=9$ the two fine-tuned pipelines cannot be separated. The intervals add nuance rather than a verdict --- LED's narrow CI ($[0.210, 0.226]$) shows highly consistent per-match performance, while BART's wide CI ($[0.208, 0.283]$) reflects higher variance with a higher ceiling. If a real gap exists, the likely mechanism is sample efficiency: with only 80 training pairs, BART operates on a $\sim$960-token pre-distilled intermediate whose features are already informative, while LED must learn to attend across raw 8192-token windows from scratch.
 
 \paragraph{(3)~Zero-shot beats few-shot and CoT across every model family.}
 This is a robust secondary finding (Table~\ref{tab:prompts}). In the chunk-aggregate pipeline, few-shot examples consume 200--400 tokens of the input budget, leaving less room for the actual transcript; CoT prompts further push generation toward verbose intermediate reasoning that the merge step must subsequently compress. In LED long-context, all three prompt styles converge to similar (poor) outputs because LED-base is not pre-trained on summarisation --- the prompt simply does not reach the language model in a useful way.
@@ -403,7 +397,7 @@ The faithfulness probes of Section~\ref{sec:faith} quantify \emph{that} models h
 \item \textbf{Fine-tuned LED} similarly produces fluent match-report prose. It \emph{recovers} the correct year (2001) but repeats ``Anfield'' four times, reports the wrong score (1--0 actually 1--2), and switches competitions (Premier League actually FA Cup).
 \end{itemize}
 
-Both fine-tuned models have learned the \emph{format} of a match report. Neither has learned \emph{factual fidelity}. ROUGE rewards them anyway because the surface n-grams that match the reference (team names, ``in the X-th minute'', stadium types, date formats) are exactly the part the models do reproduce. The hallucinated facts contribute to length but not to overlap, so they impose no metric penalty.
+In short: both fine-tuned models have learned the \emph{format} of a match report, and neither has learned \emph{factual fidelity} --- the mechanism behind the metric decoupling quantified in Sections~\ref{sec:faith} and~\ref{sec:semantic}.
 
 % ============================================================
 \section{Engineering History}
@@ -412,17 +406,26 @@ Both fine-tuned models have learned the \emph{format} of a match report. Neither
 The path to the results in Section~\ref{sec:results} included several costly silent failures. We document them because each has independent reproducibility value and because the engineering choices behind the final numbers are not visible in the metrics.
 
 \subsection{LED fine-tuning: five silent failures}
-The first three attempts to fine-tune LED collapsed: evaluation ROUGE-L dropped to zero by epoch~3 even as evaluation \emph{loss} continued to decrease.
+The first three attempts to fine-tune LED collapsed: evaluation ROUGE-L dropped to zero by epoch~3 even as evaluation \emph{loss} continued to decrease. Table~\ref{tab:bugs} summarises the five defects that had to be found and fixed --- three hyperparameter changes were tried and failed first, because none of the failures was a modelling problem.
 
-\begin{itemize}[leftmargin=*,itemsep=2pt,topsep=2pt]
-\item \textbf{Bug 1 -- defeated random-window sampler.} \texttt{scripts/run\_finetuning.py} pre-truncated each transcript to 8192 tokens \emph{before} handing it to the dataset's random-window sampler. The sampler then ran on inputs of length 8192 with window size 8192, so the random offset was always zero. The model saw the first $\sim$8 minutes of every match, every epoch.
-\item \textbf{Bug 2 -- collapse-to-EOS under cross-entropy.} With the truncation bug active, the model found that emitting \texttt{<s></s>} immediately was an entropy-minimal local optimum. Greedy decoding then produced empty strings, giving ROUGE-L $= 0$ while \texttt{eval\_loss} continued to improve. Adding \texttt{generation\_config.min\_length=80} forced the decoder to produce content and exposed the collapse.
-\item \textbf{Bug 3 -- \texttt{OverflowError} in metric computation.} The trainer's prediction tensors occasionally contained $-100$ sentinels in \emph{predictions} (in addition to labels). \texttt{tokenizer.batch\_decode} (fast tokenizer, Rust backend) interprets negative indices as \texttt{u32} and overflows. Fix: \texttt{np.where(preds<0, pad\_id, preds)} applied to predictions, mirroring the existing fix on labels.
-\item \textbf{Bug 4 -- missing checkpoint on crash.} The \texttt{OverflowError} occurred mid-evaluation, before \texttt{trainer.save\_model()} ran. Inference then 404'd looking for \texttt{model.safetensors}. Fix: \texttt{run\_inference\_finetuned.py} falls back to the most recent \texttt{checkpoint-N/} subdirectory if the parent dir lacks a model file.
-\item \textbf{Bug 5 -- Kaggle CLI silent download truncation.} On Windows, \texttt{kaggle kernels output} silently truncates filenames containing non-ASCII bytes and re-paginates listings such that duplicate downloads overwrite earlier good files with 0-byte placeholders. Fix: invoke the Python API with \texttt{PYTHONIOENCODING=utf-8} and paginate manually via \texttt{ApiListKernelSession}\allowbreak\texttt{OutputRequest}.
-\end{itemize}
+\begin{table}[h]
+\centering\small
+\begin{tabular}{p{0.30\linewidth}p{0.28\linewidth}p{0.32\linewidth}}
+\toprule
+\textbf{Bug} & \textbf{Symptom} & \textbf{Fix} \\
+\midrule
+Transcripts pre-truncated to 8192 tokens \emph{before} the random-window sampler & Random offset always 0: model saw only the first $\sim$8 min of every match & Truncate inside the sampler, after the offset is drawn \\
+Collapse to immediate \texttt{<s></s>} under cross-entropy & ROUGE-L $=0$ while \texttt{eval\_loss} kept improving & \texttt{min\_length=80} at evaluation exposes (not masks) the collapse \\
+$-100$ sentinels in \emph{prediction} tensors & \texttt{OverflowError} in \texttt{batch\_decode} (negative $\to$ \texttt{u32}) & Clip negatives to \texttt{pad\_id} before decoding \\
+Crash before \texttt{save\_model()} & Inference 404 on \texttt{model.safetensors} & Fall back to latest \texttt{checkpoint-N/} \\
+Kaggle CLI truncates non-ASCII filenames on Windows & Good files silently overwritten by 0-byte placeholders & Python API + \texttt{PYTHONIOENCODING=utf-8}, manual pagination \\
+\bottomrule
+\end{tabular}
+\caption{The five silent failures encountered during LED fine-tuning.}
+\label{tab:bugs}
+\end{table}
 
-After all five fixes, LED training ran cleanly through 11 epochs (Figure~\ref{fig:led_curve}): evaluation loss falls monotonically while validation ROUGE-L rises from 0.107 to a peak of 0.172 at epoch~9, at which point early stopping fired at patience~2. Because the run-3 predictions for all 9 test matches are saved to disk, we later re-scored them post-hoc against the repaired references, giving the clean 9-match test ROUGE-L of 0.219 reported in Table~\ref{tab:main} --- the model was trained on the pre-fix data, but its evaluation is on the same protocol as every other condition. The clean, monotone curve is the clearest single piece of evidence that the earlier collapses were data and code defects rather than a modelling limit: nothing about the architecture or hyperparameters changed between the collapsing runs and this one --- only the five bugs were removed.
+After all five fixes, LED training ran cleanly through 11 epochs (Figure~\ref{fig:led_curve}): evaluation loss falls monotonically while validation ROUGE-L rises from 0.107 to a peak of 0.172 at epoch~9, where early stopping fired. Because the run-3 predictions are saved to disk, we later re-scored them against the repaired references, giving the clean 9-match test ROUGE-L of 0.219 in Table~\ref{tab:main}.
 
 \begin{figure}[h]
 \centering
@@ -432,15 +435,7 @@ After all five fixes, LED training ran cleanly through 11 epochs (Figure~\ref{fi
 \end{figure}
 
 \subsection{Empty-reference dataset incident}
-The single most impactful fix in the project came from \emph{inspecting the raw inputs}.
-
-\begin{itemize}[leftmargin=*,itemsep=2pt,topsep=2pt]
-\item Generated summaries on Day~2 were hallucinating obvious facts despite ROUGE-L $\sim 0.14$. Opening \texttt{2001\_facup\_arsenal\_liverpool.txt} revealed it was 0~bytes.
-\item Audit: 33\% of training references (26/80), 30\% of validation references (3/10), and \textbf{44\% of test references} (4/9) were empty.
-\item ROUGE on an empty reference is exactly 0. The reported test ROUGE-L was therefore $\sum_{\text{valid}} / 9$ instead of $\sum_{\text{valid}} / 5$, deflating every condition by a factor of $\sim$1.8$\times$. More damagingly: 33\% of training pairs were $(\text{transcript},\, \text{""})$, teaching the model to emit nothing on a third of inputs --- the actual root cause of LED's collapse-to-EOS that no hyperparameter change had fixed.
-\item Fix: pull the upstream dataset 1.0 commit, which has all 99 references populated; re-run.
-\item Result: predicted versus measured improvement after re-run (Table~\ref{tab:empty}). The measured ratios (1.7--1.9$\times$ across conditions) closely bracket the predicted $\sim$1.8$\times$, confirming the empty-target problem accounted for nearly all of the previous underperformance.
-\end{itemize}
+The single most impactful fix in the project came from \emph{inspecting the raw inputs}. Investigating why generated summaries hallucinated obvious facts despite ROUGE-L $\sim$0.14, we opened a reference file and found it was 0~bytes; an audit showed 33\% of training references (26/80), 30\% of validation references (3/10), and 44\% of test references (4/9) were empty --- a stale local dataset copy. The damage was twofold: ROUGE against an empty reference is exactly 0, deflating every test average by $\sim$1.8$\times$; and a third of training pairs were $(\text{transcript}, \text{``''})$, teaching the models to emit nothing --- the actual root cause of LED's collapse-to-EOS that no hyperparameter change had touched. After pulling the repaired dataset and re-running, the measured improvements (1.7--1.9$\times$ across conditions, Table~\ref{tab:empty}) closely bracket the predicted 1.8$\times$, confirming the empty targets accounted for nearly all of the previous underperformance.
 
 \begin{table}[h]
 \centering\small
@@ -466,7 +461,7 @@ The first BART fine-tune trained on \texttt{(transcript[:1024], reference)} pair
 
 \paragraph{Small test set.} With $n = 9$ matches, only large differences are resolvable. The bootstrap analysis (Table~\ref{tab:main}) makes this concrete: fine-tuning vs.\ every prompting condition is significant, but the fine-tuned BART--LED gap ($+0.029$) is not, and BART's own CI spans $[0.208, 0.283]$. Rankings within $\pm 0.03$ ROUGE-L of each other should not be over-read.
 
-\paragraph{Faithfulness is measured only coarsely.} Section~\ref{sec:faith} quantifies hallucination for scorelines and scorer names, but the probes are recall-oriented and rule-based: they do not measure the \emph{precision} of named entities (a prediction that names ten players, one of them correct, scores 1.0 on that scorer), and facts outside the score/scorer schema --- dates, stadiums, competitions --- remain unmeasured. An NER-based precision measure or NLI-based entailment against the transcript would complete the picture.
+\paragraph{Faithfulness is measured only coarsely.} Section~\ref{sec:faith} quantifies hallucination for scorelines and scorer names, but the probes are recall-oriented and rule-based: they do not measure the \emph{precision} of named entities (a prediction that names ten players, one of them correct, scores 1.0 on that scorer), and facts outside the score/scorer schema --- dates, stadiums, competitions --- remain unmeasured. An NER-based precision measure would complete the picture.
 
 \paragraph{GPT-4 references introduce evaluation bias.} References in Section~\ref{sec:gpt_targets} were generated by search-enabled GPT-4 (ChatGPT web) from match identifiers, not written from the transcript. Web retrieval grounds their facts in published match reports --- BBC sources were verified per match --- so outright factual errors are less likely than with purely parametric generation --- but the references still describe the match as the written press covered it, not as the radio commentary presented it, and they exhibit a stylistic homogeneity that surface metrics reward. They are also not exactly reproducible, since the underlying search results drift over time. Our reported scores therefore measure agreement with a GPT-4-distilled synthesis of web coverage, not agreement with a human gold standard paired to the input.
 
@@ -492,7 +487,7 @@ The largest single improvement in the project came not from a model change but f
 
 % ============================================================
 \bibliographystyle{plainnat}
-\bibliography{refs}
+{\small\bibliography{refs}}
 
 % Fallback if natbib not desired: uncomment the following and remove \bibliography above.
 % \begin{thebibliography}{20}
