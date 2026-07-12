@@ -123,7 +123,7 @@ s = add_slide()
 title_bar(s, "The task: 2.5 hours of radio → 300-word match report")
 bullets(s, [
     [("Input: ", {"bold": True}),
-     ("Whisper transcript of live BBC Radio 5 commentary — median ~25,000 words, "
+     ("Whisper transcript of live BBC Radio 5 commentary — mean ~25,000 words, "
       "noisy, fragmented, full of irrelevant detail.", {})],
     [("Output: ", {"bold": True}),
      ("a structured match report (~300 words): score line, key events, short tactical note.", {})],
@@ -199,8 +199,8 @@ footer(s, 4)
 s = add_slide()
 title_bar(s, "Results: fine-tuning wins, and the gap is significant",
           "Test ROUGE-L on the clean 9-match test set, bootstrap 95% CIs (10,000 resamples)")
-s.shapes.add_picture("figures/leaderboard.png", Inches(1.35), Inches(1.4), width=Inches(10.6))
-tf = textbox(s, Inches(0.7), Inches(6.62), Inches(12.0), Inches(0.75))
+s.shapes.add_picture("figures/leaderboard.png", Inches(2.07), Inches(1.35), width=Inches(9.2))
+tf = textbox(s, Inches(0.7), Inches(6.55), Inches(12.0), Inches(0.75))
 p = tf.paragraphs[0]
 set_run(p.add_run(),
         "Every prompting condition is significantly below fine-tuned BART (paired bootstrap; 95% CI of the "
@@ -215,10 +215,10 @@ title_bar(s, "Finding 1 — Match the training distribution, not the context win
           "The “chunk-merger” fine-tuning recipe")
 bullets(s, [
     [("Naive fine-tuning ", {"bold": True}),
-     ("on (transcript[:1024] → gold) shows BART only the first ~5 minutes of a 2.5-hour match.", {})],
+     ("on (transcript[:1024] → reference) shows BART only the first ~5 minutes of a 2.5-hour match.", {})],
     [("Chunk-merger recipe: ", {"bold": True, "color": NAVY}),
      ("run pre-trained BART on every chunk → concatenate the ~30 mini-summaries (~960 tokens) → "
-      "fine-tune BART to map that intermediate to the gold report. "
+      "fine-tune BART to map that intermediate to the reference report. "
       "Training input now matches what the model sees at inference.", {})],
     [("Two-phase schedule: ", {"bold": True}),
      ("encoder frozen 3 epochs, then unfrozen; early stopping on val ROUGE-L.", {})],
