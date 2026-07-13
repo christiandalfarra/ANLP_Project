@@ -140,7 +140,7 @@ footer(s, 2)
 
 # ------------------------------------------------------------- 3 · Dataset
 s = add_slide()
-title_bar(s, "A custom dataset: 99 matches, 43 years, 12 competitions",
+title_bar(s, "A custom dataset: 99 matches, 43 years, 12 competition categories",
           "BBC radio audio  →  Whisper transcription  →  GPT-4 reference summaries")
 bullets(s, [
     [("Audio: ", {"bold": True}),
@@ -260,13 +260,14 @@ footer(s, 7)
 # --------------------------------------- 8 · Finding 3: hallucination
 s = add_slide()
 title_bar(s, "Finding 3 — Models learn the format, not the facts",
-          "Test match: 2001 FA Cup Final — true result: Liverpool 2–1 Arsenal, Millennium Stadium")
+          "Real test-set outputs; each quote labelled with the true result")
 quote_box(s, Inches(0.6), Inches(1.6), Inches(6.0), Inches(2.2),
-          "Fine-tuned BART (best model)",
-          "“Liverpool 1–1 Arsenal (Liverpool win 2–3 on penalties) 20 May 2014 — "
-          "Emirates Stadium, London. The match was contested … in the 2014 FA Cup Final…”")
+          "Fine-tuned BART (best model) — 2019 UCL Final (true: Liverpool 2–0 Tottenham, Madrid, no shootout)",
+          "“Liverpool 2–2 Tottenham Hotspur (Liverpool win 4–3 on penalties) … 2023 UEFA "
+          "Champions League Final, Wembley Stadium, London – 31 May 2019 … Liverpool secured "
+          "a dramatic victory…”")
 quote_box(s, Inches(6.85), Inches(1.6), Inches(6.0), Inches(2.2),
-          "Fine-tuned LED",
+          "Fine-tuned LED — 2001 FA Cup Final (true: Liverpool 2–1 Arsenal, Millennium Stadium)",
           "“Liverpool 1–0 Arsenal, Premier League, 20 May 2001 — Anfield, Anfield, "
           "Emirates Stadium, Anfield… Liverpool dominated the first half…”")
 bullets(s, [
