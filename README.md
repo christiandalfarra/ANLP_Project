@@ -223,18 +223,23 @@ Output files:
 
 ## Experimental Conditions Summary
 
-After completing all steps, 8 conditions will be evaluated:
+After completing all steps, 11 conditions will be evaluated:
 
 | Condition | Model | Strategy | Prompt |
 |---|---|---|---|
 | `flan_chunk_zero` | FLAN-T5-Large | Chunk + Aggregate | Zero-shot |
 | `flan_chunk_few` | FLAN-T5-Large | Chunk + Aggregate | Few-shot (2-shot) |
 | `flan_chunk_cot` | FLAN-T5-Large | Chunk + Aggregate | Chain-of-Thought |
+| `bart_chunk_zero` | BART-Large-CNN (pretrained) | Chunk + Aggregate | Zero-shot |
+| `bart_chunk_few` | BART-Large-CNN (pretrained) | Chunk + Aggregate | Few-shot |
+| `bart_chunk_cot` | BART-Large-CNN (pretrained) | Chunk + Aggregate | CoT |
 | `led_long_zero` | LED-Base-16384 | Long-context | Zero-shot |
-| `led_long_few` | LED-Base-16384 | Long-context | Few-shot |
+| `led_long_few` | LED-Base-16384 | Long-context | Few-shot* |
 | `led_long_cot` | LED-Base-16384 | Long-context | CoT |
 | `finetuned_bart` | BART-Large-CNN | Chunk + Aggregate | — |
 | `finetuned_led` | LED-Base-16384 | Long-context | — |
+
+*`led_long_few` falls back to the zero-shot prompt: `run_prompting.py` has no few-shot branch for the long-context strategy, so its predictions are identical to `led_long_zero` (disclosed in the report).
 
 ---
 

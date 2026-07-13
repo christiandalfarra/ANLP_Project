@@ -120,13 +120,13 @@ set_run(p.add_run(), "Applied Natural Language Processing — University of Tren
 
 # ------------------------------------------------- 2 · Problem & questions
 s = add_slide()
-title_bar(s, "The task: 2.5 hours of radio → 300-word match report")
+title_bar(s, "The task: 2.5 hours of radio → 200-word match report")
 bullets(s, [
     [("Input: ", {"bold": True}),
      ("Whisper transcript of live BBC Radio 5 commentary — mean ~25,000 words, "
       "noisy, fragmented, full of irrelevant detail.", {})],
     [("Output: ", {"bold": True}),
-     ("a structured match report (~300 words): score line, key events, short tactical note.", {})],
+     ("a structured match report (~200 words): score line, key events, short tactical note.", {})],
     [("Why it is hard: ", {"bold": True}),
      ("inputs exceed every standard transformer context window (1,024 tokens ≈ 4% of a match); "
       "references for training are scarce.", {})],
@@ -149,7 +149,7 @@ bullets(s, [
      ("Whisper-small; full transcript + time-aligned segments with pitch/energy prosodic features.", {})],
     [("References: ", {"bold": True}),
      ("GPT-4 (ChatGPT web, search enabled) prompted per match identifier; facts grounded in "
-      "web-retrieved match reports, BBC sourcing verified for every match; fixed template, ~300 words. "
+      "web-retrieved match reports, BBC sourcing verified for every match; fixed template, ~190 words. "
       "A pragmatic, disclosed compromise — no human summaries exist for radio commentary.", {})],
     [("Split: ", {"bold": True}),
      ("80 train / 10 val / 9 test, stratified, committed to the repo for reproducibility.", {})],
@@ -226,7 +226,7 @@ bullets(s, [
     [("Same model, same pipeline, same test set:", {"bold": True})],
     [("pre-trained BART 0.147   →   fine-tuned BART 0.248  ( +69% relative )",
       {"size": 22, "bold": True, "color": NAVY, "level": 1})],
-    [("+55% over the strongest prompting condition of any architecture (LED few-shot, 0.160).",
+    [("+55% over the strongest prompting condition of any architecture (LED zero-shot, 0.160).",
       {"level": 1})],
 ], size=18)
 footer(s, 6)
@@ -251,8 +251,9 @@ bullets(s, [
       "too few pairs to learn long-range attention patterns.", {"level": 1})],
     "",
     [("Secondary finding: ", {"bold": True}),
-     ("zero-shot beats few-shot and CoT in every model family — examples eat the input budget in "
-      "chunked pipelines, and LED-base is not instruction-tuned, so prompt style barely matters.", {})],
+     ("zero-shot beats few-shot and CoT in both chunked families — examples eat the input "
+      "budget; LED few-shot fell back to zero-shot (implementation gap, disclosed in the report), "
+      "and LED-base is not instruction-tuned, so prompt style barely matters.", {})],
 ], size=18)
 footer(s, 7)
 

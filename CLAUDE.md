@@ -30,7 +30,7 @@ python scripts/run_evaluation.py --no-bertscore      # ROUGE only, no GPU needed
 
 ## Architecture
 
-The project compares 8 experimental conditions across two axes: **approach** (prompting vs. fine-tuning) and **input strategy** (chunk+aggregate vs. long-context LED). All scripts save outputs to disk before evaluation, so any step can be resumed after interruption.
+The project compares 11 experimental conditions across two axes: **approach** (prompting vs. fine-tuning) and **input strategy** (chunk+aggregate vs. long-context LED). All scripts save outputs to disk before evaluation, so any step can be resumed after interruption.
 
 ### Data flow
 
@@ -65,7 +65,7 @@ Fine-tuning uses `src/models/finetuning/trainer.py` (shared `Seq2SeqTrainer` wra
 
 ### Prediction file naming
 
-`outputs/predictions/{condition}.json` maps `match_id -> generated_summary`. Condition names: `flan_chunk_zero`, `flan_chunk_few`, `flan_chunk_cot`, `led_long_zero`, `led_long_few`, `led_long_cot`, `finetuned_bart`, `finetuned_led`. `run_evaluation.py` auto-discovers all `.json` files in that directory.
+`outputs/predictions/{condition}.json` maps `match_id -> generated_summary`. Condition names: `flan_chunk_zero`, `flan_chunk_few`, `flan_chunk_cot`, `bart_chunk_zero`, `bart_chunk_few`, `bart_chunk_cot`, `led_long_zero`, `led_long_few` (falls back to zero-shot: identical to `led_long_zero`), `led_long_cot`, `finetuned_bart`, `finetuned_led`. `run_evaluation.py` auto-discovers all `.json` files in that directory.
 
 ### Dataset path
 
