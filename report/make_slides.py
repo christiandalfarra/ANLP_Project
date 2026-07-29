@@ -288,9 +288,9 @@ title_bar(s, "Finding 4 — Models optimise the reference, not the source",
 s.shapes.add_picture("figures/inversion.png", Inches(1.5), Inches(1.5), width=Inches(10.3))
 bullets(s, [
     [("The rankings invert: ", {"bold": True, "color": RED}),
-     ("fine-tuned BART — best on every reference-based metric — has 0% of sentences entailed by "
-      "the transcript; prompted long-context LED, worst on ROUGE, is best-grounded (34%) because "
-      "it copies the commentary it reads.", {})],
+     ("fine-tuned LED leads on ROUGE-L and BERTScore yet has only 2% NLI support; fine-tuned BART "
+      "— zero NLI-supported sentences — is even more extreme. Prompted long-context LED, outranked "
+      "on every reference metric, is the best-grounded condition (34%) because it copies the commentary.", {})],
     [("Fine-tuning on GPT-4 references optimises agreement with the references at the expense of "
       "grounding in the input. ", {"bold": True}),
      ("(NLI rates are conservative lower bounds — register gap, ASR noise — so compare across "
@@ -330,9 +330,9 @@ bullets(s, [
     [("2.  Context length is not a substitute for supervision ", {"bold": True}),
      ("— long-context wins only when no fine-tuning is possible.", {})],
     [("3.  Reference similarity and source grounding fully decouple ", {"bold": True}),
-     ("— the ROUGE- and BERTScore-best model never states the correct score (0/9) and has 0% of "
-      "sentences entailed by the transcript. Optimising a faithfulness signal, not just measuring "
-      "one, is the natural next step.", {})],
+     ("— fine-tuned LED tops ROUGE-L and BERTScore yet achieves 2/9 correct scores and 2% NLI; "
+      "BART goes further at 0/9 and 0% NLI. The transcript-copying prompted LED both outrank "
+      "on ROUGE remains the best-grounded (34%). Optimising faithfulness, not just measuring it, is the next step.", {})],
     "",
     [("Limitations we state openly:", {"bold": True, "color": RED})],
     [("Search-grounded GPT-4 references → facts anchored in web reports, but still ungrounded in the "
