@@ -1,4 +1,4 @@
-\begin{thebibliography}{11}
+\begin{thebibliography}{13}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -56,6 +56,15 @@ Alec Radford, Jong~Wook Kim, Tao Xu, Greg Brockman, Christine McLeavey, and
 \newblock In \emph{International Conference on Machine Learning}, pages
   28492--28518, 2023.
 
+\bibitem[Raffel et~al.(2020)Raffel, Shazeer, Roberts, Lee, Narang, Matena,
+  Zhou, Li, and Liu]{raffel2020t5}
+Colin Raffel, Noam Shazeer, Adam Roberts, Katherine Lee, Sharan Narang, Michael
+  Matena, Yanqi Zhou, Wei Li, and Peter~J. Liu.
+\newblock Exploring the limits of transfer learning with a unified text-to-text
+  transformer.
+\newblock \emph{Journal of Machine Learning Research}, 21\penalty0
+  (140):\penalty0 1--67, 2020.
+
 \bibitem[See et~al.(2017)See, Liu, and Manning]{see2017pointer}
 Abigail See, Peter~J. Liu, and Christopher~D. Manning.
 \newblock Get to the point: Summarization with pointer-generator networks.
@@ -70,10 +79,19 @@ Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Brian Ichter, Fei Xia,
   models.
 \newblock In \emph{Advances in Neural Information Processing Systems}, 2022.
 
-\bibitem[Zhang et~al.(2020)Zhang, Kishore, Wu, Weinberger, and
+\bibitem[Zhang et~al.(2020{\natexlab{a}})Zhang, Zhao, Saleh, and
+  Liu]{zhang2020pegasus}
+Jingqing Zhang, Yao Zhao, Mohammad Saleh, and Peter~J. Liu.
+\newblock {PEGASUS}: Pre-training with extracted gap-sentences for abstractive
+  summarization.
+\newblock In \emph{Proceedings of the 37th International Conference on Machine
+  Learning (ICML)}, 2020{\natexlab{a}}.
+
+\bibitem[Zhang et~al.(2020{\natexlab{b}})Zhang, Kishore, Wu, Weinberger, and
   Artzi]{zhang2020bertscore}
 Tianyi Zhang, Varsha Kishore, Felix Wu, Kilian~Q. Weinberger, and Yoav Artzi.
 \newblock {BERTScore}: Evaluating text generation with {BERT}.
-\newblock In \emph{International Conference on Learning Representations}, 2020.
+\newblock In \emph{International Conference on Learning Representations},
+  2020{\natexlab{b}}.
 
 \end{thebibliography}
