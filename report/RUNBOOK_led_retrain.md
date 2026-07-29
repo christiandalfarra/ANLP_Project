@@ -1,5 +1,10 @@
 # Runbook — clean LED retrain (Task A)
 
+> **Training locally on a GPU PC (not Kaggle)? Use `report/HANDOFF_led_retrain.md`
+> instead** — it has the local train→inference→bundle commands. The Kaggle steps
+> below (Phases 0–2) are the browser alternative; **Phases 3–5 (regenerate
+> analysis, update `main.tex`, recompile) are identical for both paths.**
+
 **Goal.** The reported `finetuned_led` result comes from `run3`, which was trained
 on the *poisoned* dataset (33% empty references) and only re-scored on clean
 references. That makes the #1-vs-#2 (BART-vs-LED) comparison unfair on the
