@@ -203,9 +203,8 @@ s.shapes.add_picture("figures/leaderboard.png", Inches(2.07), Inches(1.35), widt
 tf = textbox(s, Inches(0.7), Inches(6.55), Inches(12.0), Inches(0.75))
 p = tf.paragraphs[0]
 set_run(p.add_run(),
-        "Every prompting condition is significantly below fine-tuned BART (paired bootstrap; 95% CI of the "
-        "difference excludes 0). The BART−LED gap (+0.029 [−0.014, +0.070]) is NOT significant.  "
-        "* LED trained before the dataset fix; re-scored post-hoc on the same clean 9-match protocol.",
+        "Every prompting condition is significantly below both fine-tuned models (paired bootstrap; 95% CI "
+        "of the difference excludes 0). The LED−BART gap (−0.0004 [−0.042, +0.035]) is NOT significant.",
         12, GREY, italic=True)
 footer(s, 5)
 
@@ -239,16 +238,16 @@ bullets(s, [
      ("LED long-context (avg 0.158) beats BART chunk (0.124) and FLAN chunk (0.058) — "
       "the 16k window preserves cross-segment information that chunking discards.", {})],
     [("Fine-tuning: ", {"bold": True}),
-     ("BART chunk-merger is nominally ahead (0.248 vs 0.219) but the paired difference is not "
+     ("LED long-context is nominally ahead (0.248 vs 0.248) but the paired difference is not "
       "significant at n = 9 — the two fine-tuned pipelines cannot be separated. LED is more "
-      "consistent (narrow CI); BART has the higher ceiling (wide CI).", {})],
+      "consistent (CI [0.230, 0.266]); BART has more variance (CI [0.208, 0.283]).", {})],
     "",
-    [("Why chunk-merger might really be ahead: sample efficiency at N = 80.",
+    [("Why the two pipelines are statistically tied despite architectural differences:",
       {"bold": True, "color": NAVY})],
     [("BART learns from a ~960-token pre-distilled intermediate whose features are already informative.",
       {"level": 1})],
     [("LED must learn what matters inside raw 8,192-token windows from scratch — "
-      "too few pairs to learn long-range attention patterns.", {"level": 1})],
+      "too few pairs (N = 80) to learn long-range attention patterns reliably.", {"level": 1})],
     "",
     [("Secondary finding: ", {"bold": True}),
      ("zero-shot beats few-shot and CoT in both chunked families — examples eat the input "
@@ -272,10 +271,10 @@ quote_box(s, Inches(6.85), Inches(1.6), Inches(6.0), Inches(2.2),
           "Emirates Stadium, Anfield… Liverpool dominated the first half…”")
 bullets(s, [
     [("Quantified over all 9 test matches: ", {"bold": True, "color": RED}),
-     ("the ROUGE-best model (fine-tuned BART) states the correct final score in ", {}),
+     ("fine-tuned BART (ROUGE rank 2) states the correct final score in ", {}),
      ("0 of 9 matches", {"bold": True, "color": RED}),
-     (" and recalls only 30% of reference scorers. Fine-tuned LED: 1/9 scores, 15% scorers. "
-      "Its scorelines are decorative — 1–1, 2–2, 1–0 regardless of the real 0–4, 3–0…", {})],
+     (" and recalls only 30% of reference scorers. Fine-tuned LED (ROUGE rank 1): 2/9 scores, 13% scorers. "
+      "BART scorelines are decorative — 1–1, 2–2, 1–0 regardless of the real 0–4, 3–0…", {})],
     [("ROUGE rewards the hallucination: ", {"bold": True}),
      ("the overlapping n-grams (team names, date formats, report style) are exactly what the "
       "models reproduce; wrong facts cost nothing.", {})],
@@ -340,12 +339,11 @@ bullets(s, [
       "transcript, stylistically homogeneous, and not exactly reproducible (search results drift).",
       {"level": 1})],
     [("n = 9 test matches → bootstrap CIs resolve fine-tuning vs prompting (significant) but not "
-      "BART vs LED (+0.029 [−0.014, +0.070]).", {"level": 1})],
+      "LED vs BART (−0.0004 [−0.042, +0.035]).", {"level": 1})],
     [("N = 80 training pairs → both fine-tuned models overfit (val 0.31 → test 0.25 for BART).",
       {"level": 1})],
     [("NLI support rates are conservative lower bounds (ASR-noisy premises, register gap); "
-      "entity precision is still unmeasured. LED was trained pre-fix (evaluation clean, training not).",
-      {"level": 1})],
+      "entity precision is still unmeasured over all entity types.", {"level": 1})],
 ], size=17)
 footer(s, 11)
 

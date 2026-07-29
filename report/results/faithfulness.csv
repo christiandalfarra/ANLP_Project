@@ -1,6 +1,6 @@
 condition,teams_pct,score_pct,scorer_recall,ner_precision,avg_people_named
+finetuned_led,0.8889,0.2222,0.1296,0.3116,3.78
 finetuned_bart,0.8889,0.0000,0.2963,0.3732,3.89
-finetuned_led,0.8889,0.1111,0.1481,0.2667,3.78
 led_long_few,0.4444,0.1111,0.0278,0.1800,1.33
 led_long_zero,0.4444,0.1111,0.0278,0.1800,1.33
 led_long_cot,0.5556,0.0000,0.0000,0.2000,0.67

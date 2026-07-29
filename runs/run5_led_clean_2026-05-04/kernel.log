@@ -1,0 +1,126 @@
+[{"stream_name":"stderr","time":7.780614203,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":7.780692782,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":7.780699842,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":7.78070407,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stderr","time":8.40008575,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":8.400132458,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":8.400138917,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":8.40014284,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stdout","time":12.032685457,"data":"/kaggle/working/ANLP_Project\n"}
+,{"stream_name":"stdout","time":15.097596686,"data":"\u001b[?25l   \u001b[90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\u001b[0m \u001b[32m0.0/61.1 kB\u001b[0m \u001b[31m?\u001b[0m eta \u001b[36m-:--:--\u001b[0m\r\u001b[2K   \u001b[90m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\u001b[0m \u001b[32m61.1/61.1 kB\u001b[0m \u001b[31m2.8 MB/s\u001b[0m eta \u001b[36m0:00:00\u001b[0m\r\n"}
+,{"stream_name":"stdout","time":22.435814303,"data":"\u001b[?25hCUDA: True\n"}
+,{"stream_name":"stdout","time":22.435861305,"data":"Device: Tesla T4\n"}
+,{"stream_name":"stdout","time":22.435868103,"data":"VRAM: 15.6 GB\n"}
+,{"stream_name":"stdout","time":47.131119317,"data":"Loading 80 train / 10 val matches...\r\n"}
+,{"stream_name":"stdout","time":47.636721169,"data":"Loading allenai/led-base-16384...\r\n"}
+,{"stream_name":"stdout","time":47.788280638,"data":"Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.\r\n"}
+,{"stream_name":"stdout","time":64.617771674,"data":"/usr/local/lib/python3.12/dist-packages/transformers/data/data_collator.py:600: UserWarning: Creating a tensor from a list of numpy.ndarrays is extremely slow. Please consider converting the list to a single numpy.ndarray with numpy.array() before converting to a tensor. (Triggered internally at /pytorch/torch/csrc/utils/tensor_new.cpp:253.)\r\n"}
+,{"stream_name":"stdout","time":64.617816915,"data":"  batch[\"labels\"] = torch.tensor(batch[\"labels\"], dtype=torch.int64)\r\n"}
+,{"stream_name":"stdout","time":66.995897051,"data":"/usr/local/lib/python3.12/dist-packages/torch/autograd/function.py:583: UserWarning: Was asked to gather along dimension 0, but all input tensors were scalars; will instead unsqueeze and return a vector.\r\n"}
+,{"stream_name":"stdout","time":66.995942611,"data":"  return super().apply(*args, **kwargs)  # type: ignore[misc]\r\n"}
+,{"stream_name":"stdout","time":246.976589331,"data":"{'eval_loss': '4.322', 'eval_rouge1': '0.2442', 'eval_rouge2': '0.03673', 'eval_rougeL': '0.1417', 'eval_runtime': '36.44', 'eval_samples_per_second': '0.274', 'eval_steps_per_second': '0.137', 'epoch': '1'}\r\n"}
+,{"stream_name":"stdout","time":395.759875646,"data":"{'loss': '74.09', 'grad_norm': '298.8', 'learning_rate': '1.8e-06', 'epoch': '2'}\r\n"}
+,{"stream_name":"stdout","time":432.006492151,"data":"{'eval_loss': '4.008', 'eval_rouge1': '0.2616', 'eval_rouge2': '0.03574', 'eval_rougeL': '0.1551', 'eval_runtime': '36.26', 'eval_samples_per_second': '0.276', 'eval_steps_per_second': '0.138', 'epoch': '2'}\r\n"}
+,{"stream_name":"stdout","time":617.150444373,"data":"{'eval_loss': '3.682', 'eval_rouge1': '0.2751', 'eval_rouge2': '0.04789', 'eval_rougeL': '0.1496', 'eval_runtime': '36.29', 'eval_samples_per_second': '0.276', 'eval_steps_per_second': '0.138', 'epoch': '3'}\r\n"}
+,{"stream_name":"stdout","time":765.708472421,"data":"{'loss': '62.97', 'grad_norm': '90.28', 'learning_rate': '3.8e-06', 'epoch': '4'}\r\n"}
+,{"stream_name":"stdout","time":802.08203378,"data":"{'eval_loss': '3.435', 'eval_rouge1': '0.3176', 'eval_rouge2': '0.06773', 'eval_rougeL': '0.1759', 'eval_runtime': '36.33', 'eval_samples_per_second': '0.275', 'eval_steps_per_second': '0.138', 'epoch': '4'}\r\n"}
+,{"stream_name":"stdout","time":987.286144666,"data":"{'eval_loss': '3.215', 'eval_rouge1': '0.3846', 'eval_rouge2': '0.1002', 'eval_rougeL': '0.2074', 'eval_runtime': '36.32', 'eval_samples_per_second': '0.275', 'eval_steps_per_second': '0.138', 'epoch': '5'}\r\n"}
+,{"stream_name":"stdout","time":1135.955048577,"data":"{'loss': '54.07', 'grad_norm': '64.86', 'learning_rate': '5.8e-06', 'epoch': '6'}\r\n"}
+,{"stream_name":"stdout","time":1172.223557026,"data":"{'eval_loss': '3.016', 'eval_rouge1': '0.3106', 'eval_rouge2': '0.07578', 'eval_rougeL': '0.1751', 'eval_runtime': '36.29', 'eval_samples_per_second': '0.276', 'eval_steps_per_second': '0.138', 'epoch': '6'}\r\n"}
+,{"stream_name":"stdout","time":1357.294914481,"data":"{'eval_loss': '2.822', 'eval_rouge1': '0.4074', 'eval_rouge2': '0.1308', 'eval_rougeL': '0.2323', 'eval_runtime': '36.27', 'eval_samples_per_second': '0.276', 'eval_steps_per_second': '0.138', 'epoch': '7'}\r\n"}
+,{"stream_name":"stdout","time":1506.29312888,"data":"{'loss': '46.7', 'grad_norm': '55.25', 'learning_rate': '7.8e-06', 'epoch': '8'}\r\n"}
+,{"stream_name":"stdout","time":1542.447627348,"data":"{'eval_loss': '2.63', 'eval_rouge1': '0.3952', 'eval_rouge2': '0.1302', 'eval_rougeL': '0.2252', 'eval_runtime': '36.19', 'eval_samples_per_second': '0.276', 'eval_steps_per_second': '0.138', 'epoch': '8'}\r\n"}
+,{"stream_name":"stdout","time":1727.198691245,"data":"{'eval_loss': '2.462', 'eval_rouge1': '0.4204', 'eval_rouge2': '0.134', 'eval_rougeL': '0.2333', 'eval_runtime': '36.34', 'eval_samples_per_second': '0.275', 'eval_steps_per_second': '0.138', 'epoch': '9'}\r\n"}
+,{"stream_name":"stdout","time":1876.145500986,"data":"{'loss': '40.29', 'grad_norm': '54.23', 'learning_rate': '9.8e-06', 'epoch': '10'}\r\n"}
+,{"stream_name":"stdout","time":1912.40730418,"data":"{'eval_loss': '2.302', 'eval_rouge1': '0.4371', 'eval_rouge2': '0.15', 'eval_rougeL': '0.2459', 'eval_runtime': '36.29', 'eval_samples_per_second': '0.276', 'eval_steps_per_second': '0.138', 'epoch': '10'}\r\n"}
+,{"stream_name":"stdout","time":2097.435454502,"data":"{'eval_loss': '2.177', 'eval_rouge1': '0.4224', 'eval_rouge2': '0.1381', 'eval_rougeL': '0.2384', 'eval_runtime': '36.3', 'eval_samples_per_second': '0.275', 'eval_steps_per_second': '0.138', 'epoch': '11'}\r\n"}
+,{"stream_name":"stdout","time":2245.956399641,"data":"{'loss': '34.77', 'grad_norm': '44.1', 'learning_rate': '1.18e-05', 'epoch': '12'}\r\n"}
+,{"stream_name":"stdout","time":2281.917269306,"data":"{'eval_loss': '2.072', 'eval_rouge1': '0.4268', 'eval_rouge2': '0.1557', 'eval_rougeL': '0.2703', 'eval_runtime': '35.95', 'eval_samples_per_second': '0.278', 'eval_steps_per_second': '0.139', 'epoch': '12'}\r\n"}
+,{"stream_name":"stdout","time":2467.014260148,"data":"{'eval_loss': '1.996', 'eval_rouge1': '0.4326', 'eval_rouge2': '0.1566', 'eval_rougeL': '0.2549', 'eval_runtime': '36.32', 'eval_samples_per_second': '0.275', 'eval_steps_per_second': '0.138', 'epoch': '13'}\r\n"}
+,{"stream_name":"stdout","time":2615.452143032,"data":"{'loss': '30.68', 'grad_norm': '40.18', 'learning_rate': '1.38e-05', 'epoch': '14'}\r\n"}
+,{"stream_name":"stdout","time":2650.163471869,"data":"{'eval_loss': '1.945', 'eval_rouge1': '0.4134', 'eval_rouge2': '0.1575', 'eval_rougeL': '0.2578', 'eval_runtime': '34.74', 'eval_samples_per_second': '0.288', 'eval_steps_per_second': '0.144', 'epoch': '14'}\r\n"}
+,{"stream_name":"stdout","time":2653.101411136,"data":"{'train_runtime': '2589', 'train_samples_per_second': '0.464', 'train_steps_per_second': '0.029', 'train_loss': '49.08', 'epoch': '14'}\r\n"}
+,{"stream_name":"stdout","time":2655.733057962,"data":"Model saved to checkpoints/led\r\n"}
+,{"stream_name":"stdout","time":2655.78435,"data":"\r\n"}
+,{"stream_name":"stdout","time":2655.784380404,"data":"Done. Checkpoint saved to checkpoints/led\r\n"}
+,{"stream_name":"stdout","time":2666.570593768,"data":"Loading checkpoint from checkpoints/led on cuda...\r\n"}
+,{"stream_name":"stdout","time":2668.045939417,"data":"\r\n"}
+,{"stream_name":"stdout","time":2668.046002404,"data":"Match: 2001_facup_arsenal_liverpool\r\n"}
+,{"stream_name":"stdout","time":2674.396999072,"data":"  Generated: Liverpool 1–0 Arsenal\r\n"}
+,{"stream_name":"stdout","time":2674.397054484,"data":"2023–24 UEFA Cup Final, Millennium Stadium, Cardiff, UK – 24 May 2021\r\n"}
+,{"stream_name":"stdout","time":2674.397060751,"data":"\r\n"}
+,{"stream_name":"stdout","time":2674.39706513,"data":"Liverpool took the lead in ...\r\n"}
+,{"stream_name":"stdout","time":2674.397069735,"data":"\r\n"}
+,{"stream_name":"stdout","time":2674.397074147,"data":"Match: 2021_euro_england_ukraine\r\n"}
+,{"stream_name":"stdout","time":2679.960685108,"data":"  Generated: England 1–0 Ukraine\r\n"}
+,{"stream_name":"stdout","time":2679.960754933,"data":"UEFA Euro 2020 – Group B, Rome – 7 June 2020 – 7 olympic Stadium, Rome, 3 June 2020\r\n"}
+,{"stream_name":"stdout","time":2679.960763551,"data":"\r\n"}
+,{"stream_name":"stdout","time":2679.960768788,"data":"England secured...\r\n"}
+,{"stream_name":"stdout","time":2679.960773506,"data":"\r\n"}
+,{"stream_name":"stdout","time":2679.960778363,"data":"Match: 2019_uclfinal_liverpool_tottenham\r\n"}
+,{"stream_name":"stdout","time":2685.574610347,"data":"  Generated: Liverpool 1–0 Tottenham Hotspur\r\n"}
+,{"stream_name":"stdout","time":2685.574667135,"data":"UEFA Champions League Final, Wembley Stadium, London – 19 May 2019\r\n"}
+,{"stream_name":"stdout","time":2685.575604159,"data":"\r\n"}
+,{"stream_name":"stdout","time":2685.575617418,"data":"Liverpool secured a ...\r\n"}
+,{"stream_name":"stdout","time":2685.575622286,"data":"\r\n"}
+,{"stream_name":"stdout","time":2685.575660279,"data":"Match: 2022_wc_poland_argentina\r\n"}
+,{"stream_name":"stdout","time":2691.150529044,"data":"  Generated: Argentina 2–0 Poland\r\n"}
+,{"stream_name":"stdout","time":2691.150574128,"data":"2026 FIFA World Cup – Group D, Galatasaray – 7 June 2022\r\n"}
+,{"stream_name":"stdout","time":2691.151734823,"data":"Argentine goal came in the 11th minute, wh...\r\n"}
+,{"stream_name":"stdout","time":2691.151755441,"data":"\r\n"}
+,{"stream_name":"stdout","time":2691.151763986,"data":"Match: 1983_facup_final_brighton_manchesterunited\r\n"}
+,{"stream_name":"stdout","time":2694.894091124,"data":"  Generated: Manchester United 2–1 Brighton and Hove Albion\r\n"}
+,{"stream_name":"stdout","time":2694.894133835,"data":"2023–24 Premier League – Wembley Stadium, London – 24 May 2022\r\n"}
+,{"stream_name":"stdout","time":2694.894140157,"data":"\r\n"}
+,{"stream_name":"stdout","time":2694.894156617,"data":"Mancheste...\r\n"}
+,{"stream_name":"stdout","time":2694.894161547,"data":"\r\n"}
+,{"stream_name":"stdout","time":2694.894166308,"data":"Match: 2024_euro_england_slovakia\r\n"}
+,{"stream_name":"stdout","time":2698.890213836,"data":"  Generated: England 1–0 Slovakia\r\n"}
+,{"stream_name":"stdout","time":2698.89027447,"data":"2023–24 UEFA Euro2021 – Group D, Gelsenkirchen, Günterberg – 24 June 2022\r\n"}
+,{"stream_name":"stdout","time":2698.890281234,"data":"\r\n"}
+,{"stream_name":"stdout","time":2698.890285166,"data":"England secured a narrow...\r\n"}
+,{"stream_name":"stdout","time":2698.890289621,"data":"\r\n"}
+,{"stream_name":"stdout","time":2698.890293199,"data":"Match: 2026_ucl_athleticclub_arsenal\r\n"}
+,{"stream_name":"stdout","time":2703.344044695,"data":"  Generated: Arsenal 1–0 UEFA Champions League, San Mames Stadium, Almeda, Spain, 28 May 2019.\r\n"}
+,{"stream_name":"stdout","time":2703.344080107,"data":"\r\n"}
+,{"stream_name":"stdout","time":2703.344085134,"data":"Arsenal took the lead in the 11th min...\r\n"}
+,{"stream_name":"stdout","time":2703.344089147,"data":"\r\n"}
+,{"stream_name":"stdout","time":2703.344092814,"data":"Match: 2022_wc_england_senegal\r\n"}
+,{"stream_name":"stdout","time":2708.007253311,"data":"  Generated: England 2–0 Senegal\r\n"}
+,{"stream_name":"stdout","time":2708.007289182,"data":"2023 FIFA World Cup – Group D, Wembley Stadium, London – 19 June 2022\r\n"}
+,{"stream_name":"stdout","time":2708.007294131,"data":"\r\n"}
+,{"stream_name":"stdout","time":2708.007297356,"data":"England secured a narrow vict...\r\n"}
+,{"stream_name":"stdout","time":2708.007300795,"data":"\r\n"}
+,{"stream_name":"stdout","time":2708.007304012,"data":"Match: 2021_euro_czechrepublic_england\r\n"}
+,{"stream_name":"stdout","time":2712.615760917,"data":"  Generated: England 1–0 Czech Republic\r\n"}
+,{"stream_name":"stdout","time":2712.615801525,"data":"UEFA Euro 2020 – Group D – Wembley Stadium, London – 28 June 2020\r\n"}
+,{"stream_name":"stdout","time":2712.61580837,"data":"\r\n"}
+,{"stream_name":"stdout","time":2712.61581358,"data":"England secured a narrow v...\r\n"}
+,{"stream_name":"stdout","time":2712.615818873,"data":"\r\n"}
+,{"stream_name":"stdout","time":2712.615823734,"data":"Predictions saved to /kaggle/working/ANLP_Project/scripts/../outputs/predictions/finetuned_led.json\r\n"}
+,{"stream_name":"stdout","time":2715.201180579,"data":"Test set: 9 matches\r\n"}
+,{"stream_name":"stdout","time":2715.302263261,"data":"finetuned_led: ROUGE-1=0.4502  ROUGE-2=0.1521  ROUGE-L=0.2480\r\n"}
+,{"stream_name":"stdout","time":2715.302289874,"data":"\r\n"}
+,{"stream_name":"stdout","time":2715.3022954,"data":"Results saved to /kaggle/working/ANLP_Project/scripts/../src/evaluation/../../outputs/results/metrics.csv\r\n"}
+,{"stream_name":"stdout","time":2715.302300274,"data":"LaTeX table saved to /kaggle/working/ANLP_Project/scripts/../src/evaluation/../../outputs/results/metrics_table.tex\r\n"}
+,{"stream_name":"stdout","time":2715.588183498,"data":"=== finetuned_led.json\n"}
+,{"stream_name":"stdout","time":2715.588215316,"data":"[2001_facup_arsenal_liverpool]\n"}
+,{"stream_name":"stdout","time":2715.588227507,"data":"Liverpool 1–0 Arsenal\n"}
+,{"stream_name":"stdout","time":2715.588232168,"data":"2023–24 UEFA Cup Final, Millennium Stadium, Cardiff, UK – 24 May 2021\n"}
+,{"stream_name":"stdout","time":2715.588235463,"data":"\n"}
+,{"stream_name":"stdout","time":2715.588238926,"data":"Liverpool took the lead in the 11th minute when Mohamed Salah curled a low shot into the top corner from close range after a well-worked move in the box, giving Liverpool the lead for good in the 12th minute. Liverpool responded in the 15th minute with a composed finish after a long-range effort from Mohamed Salhah, who finished low into the bottom corner after a quick move. Arsenal responded quickly in the 20th minute, with Mohamed Elneny converting from close-range to level the score at 1–1. Liverpoo\n"}
+,{"stream_name":"stdout","time":2715.588257273,"data":"\n"}
+,{"stream_name":"stdout","time":2715.58825964,"data":"outputs/results/metrics.csv\n"}
+,{"stream_name":"stdout","time":2715.588261878,"data":"condition,rouge1,rouge2,rougeL\n"}
+,{"stream_name":"stdout","time":2715.588264095,"data":"finetuned_led,0.4502187801400248,0.15210335946787695,0.24798744179559373\n"}
+,{"stream_name":"stdout","time":2715.58826643,"data":"\n"}
+,{"stream_name":"stdout","time":2715.588268587,"data":"outputs/results/metrics_table.tex\n"}
+,{"stream_name":"stderr","time":2718.368667407,"data":"/usr/local/lib/python3.12/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":2718.36873904,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":2718.531036522,"data":"/usr/local/lib/python3.12/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":2718.53108591,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":2719.137742892,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to notebook\n"}
+,{"stream_name":"stderr","time":2719.444262622,"data":"[NbConvertApp] Writing 20636 bytes to __notebook__.ipynb\n"}
+,{"stream_name":"stderr","time":2721.805203597,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":2722.611529706,"data":"[NbConvertApp] Writing 297354 bytes to __results__.html\n"}
+]
