@@ -15,12 +15,14 @@ import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 
-# run3 fallback (hardcoded from kernel.log)
-epochs = list(range(1, 12))
-val_rougeL = [0.1066, 0.1105, 0.1135, 0.1113, 0.1251,
-              0.1298, 0.1587, 0.1604, 0.1718, 0.1707, 0.1621]
-eval_loss = [4.829, 4.333, 3.588, 2.707, 2.472,
-             2.320, 2.157, 1.999, 1.851, 1.737, 1.631]
+# run5 fallback (hardcoded from runs/run5_led_clean_2026-05-04/kernel.log)
+epochs = list(range(1, 15))
+val_rougeL = [0.1417, 0.1551, 0.1496, 0.1759, 0.2074,
+              0.1751, 0.2323, 0.2252, 0.2333, 0.2459,
+              0.2384, 0.2703, 0.2549, 0.2578]
+eval_loss = [4.322, 4.008, 3.682, 3.435, 3.215,
+             3.016, 2.822, 2.630, 2.462, 2.302,
+             2.177, 2.072, 1.996, 1.945]
 
 
 def _load_trainer_state(path):
@@ -42,7 +44,7 @@ if _state and os.path.exists(_state):
     epochs, val_rougeL, eval_loss = _load_trainer_state(_state)
     print(f"using clean retrain metrics from {_state}")
 else:
-    print("using hardcoded run3 metrics (no run5 trainer_state.json found)")
+    print("using hardcoded run5 metrics from kernel.log (no trainer_state.json found)")
 
 fig, ax1 = plt.subplots(figsize=(5.6, 3.2))
 

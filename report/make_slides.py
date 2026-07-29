@@ -311,13 +311,13 @@ bullets(s, [
     [("LED also needed 5 bug fixes ", {"bold": True}),
      ("(defeated random-window sampler, collapse-to-EOS, decoder sentinel overflow, "
       "lost checkpoint, CLI truncation).", {})],
-    [("After the fixes: a clean, monotone training curve → the earlier collapses were "
-      "data and code defects, not modelling limits.", {"bold": True, "color": NAVY})],
+    [("After the fixes (run 5, clean data): 14 epochs, val ROUGE-L peaks at 0.270 → test 0.248. "
+      "Earlier collapses were data and code defects, not modelling limits.", {"bold": True, "color": NAVY})],
 ], x=Inches(0.6), y=Inches(1.45), w=Inches(6.3), size=16)
 s.shapes.add_picture("figures/led_training_curve.png", Inches(7.15), Inches(1.9), width=Inches(5.7))
 tf = textbox(s, Inches(7.15), Inches(5.65), Inches(5.7), Inches(0.5))
 p = tf.paragraphs[0]
-set_run(p.add_run(), "LED fine-tuning after the fixes: val ROUGE-L peaks at 0.172 (epoch 9).",
+set_run(p.add_run(), "LED run 5 (clean dataset): val ROUGE-L peaks at 0.270 (epoch 12) → test 0.248.",
         12, GREY, italic=True)
 footer(s, 10)
 
@@ -330,9 +330,9 @@ bullets(s, [
     [("2.  Context length is not a substitute for supervision ", {"bold": True}),
      ("— long-context wins only when no fine-tuning is possible.", {})],
     [("3.  Reference similarity and source grounding fully decouple ", {"bold": True}),
-     ("— fine-tuned LED tops ROUGE-L and BERTScore yet achieves 2/9 correct scores and 2% NLI; "
-      "BART goes further at 0/9 and 0% NLI. The transcript-copying prompted LED both outrank "
-      "on ROUGE remains the best-grounded (34%). Optimising faithfulness, not just measuring it, is the next step.", {})],
+     ("— fine-tuned LED leads every reference metric yet gets 2/9 scores and 2% NLI; BART is worse "
+      "at 0/9 and 0% NLI. The prompted LED both outrank on ROUGE is the best-grounded condition (34%). "
+      "Optimising faithfulness, not just measuring it, is the natural next step.", {})],
     "",
     [("Limitations we state openly:", {"bold": True, "color": RED})],
     [("Search-grounded GPT-4 references → facts anchored in web reports, but still ungrounded in the "

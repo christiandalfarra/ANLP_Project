@@ -1,0 +1,56 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+BERTScore on 99 pairs (cpu) ...
+Loading weights:   0%|          | 0/389 [00:00<?, ?it/s]Loading weights:  17%|#7        | 67/389 [00:00<00:00, 635.34it/s]Loading weights:  37%|###6      | 142/389 [00:00<00:00, 700.80it/s]Loading weights: 100%|##########| 389/389 [00:00<00:00, 1664.93it/s]
+[1mRobertaModel LOAD REPORT[0m from: roberta-large
+Key                             | Status     | 
+--------------------------------+------------+-
+lm_head.layer_norm.bias         | UNEXPECTED | 
+lm_head.dense.weight            | UNEXPECTED | 
+lm_head.bias                    | UNEXPECTED | 
+roberta.embeddings.position_ids | UNEXPECTED | 
+lm_head.dense.bias              | UNEXPECTED | 
+lm_head.layer_norm.weight       | UNEXPECTED | 
+pooler.dense.weight             | MISSING    | 
+pooler.dense.bias               | MISSING    | 
+
+Notes:
+- UNEXPECTED:	can be ignored when loading from different task/architecture; not ok if you expect identical arch.
+- MISSING:	those params were newly initialized because missing from the checkpoint. Consider training on your downstream task.
+Loading weights:   0%|          | 0/200 [00:00<?, ?it/s]Loading weights: 100%|##########| 200/200 [00:00<00:00, 37297.62it/s]
+[1mDebertaForSequenceClassification LOAD REPORT[0m from: microsoft/deberta-base-mnli
+Key    | Status     |  | 
+-------+------------+--+-
+config | UNEXPECTED |  | 
+
+Notes:
+- UNEXPECTED:	can be ignored when loading from different task/architecture; not ok if you expect identical arch.
+Exception in thread Thread-auto_conversion:
+Traceback (most recent call last):
+  File "C:\Users\panci\miniconda3\Lib\threading.py", line 1043, in _bootstrap_inner
+    self.run()
+    ~~~~~~~~^^
+  File "C:\Users\panci\miniconda3\Lib\threading.py", line 994, in run
+    self._target(*self._args, **self._kwargs)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\panci\miniconda3\Lib\site-packages\transformers\safetensors_conversion.py", line 117, in auto_conversion
+    raise e
+  File "C:\Users\panci\miniconda3\Lib\site-packages\transformers\safetensors_conversion.py", line 96, in auto_conversion
+    sha = get_conversion_pr_reference(api, pretrained_model_name_or_path, **cached_file_kwargs)
+  File "C:\Users\panci\miniconda3\Lib\site-packages\transformers\safetensors_conversion.py", line 77, in get_conversion_pr_reference
+    raise OSError(
+    ...<2 lines>...
+    )
+OSError: Could not create safetensors conversion PR. The repo does not appear to have a file named pytorch_model.bin or model.safetensors.If you are loading with variant, use `use_safetensors=False` to load the original model.
+NLI model microsoft/deberta-base-mnli on cpu; entailment index 2
+  bart_chunk_cot         NLI support 0.200  BERTScore-F1 0.8072
+  bart_chunk_few         NLI support 0.000  BERTScore-F1 0.8144
+  bart_chunk_zero        NLI support 0.293  BERTScore-F1 0.8186
+  finetuned_bart         NLI support 0.000  BERTScore-F1 0.8604
+  flan_chunk_cot         NLI support 0.000  BERTScore-F1 0.8008
+  flan_chunk_few         NLI support 0.000  BERTScore-F1 0.7945
+  flan_chunk_zero        NLI support 0.111  BERTScore-F1 0.8069
+  led_long_cot           NLI support 0.295  BERTScore-F1 0.7971
+  led_long_few           NLI support 0.340  BERTScore-F1 0.7924
+  led_long_zero          NLI support 0.340  BERTScore-F1 0.7924
+  finetuned_led          NLI support 0.016  BERTScore-F1 0.8691
+wrote results/semantic.csv
