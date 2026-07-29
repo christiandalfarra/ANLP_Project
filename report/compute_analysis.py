@@ -21,11 +21,35 @@ from difflib import SequenceMatcher
 import numpy as np
 from rouge_score import rouge_scorer
 
+# spaCy is loaded lazily so the rest of the script still runs if it is absent.
+_NLP = None
+
+
+def _nlp():
+    global _NLP
+    if _NLP is None:
+        import spacy
+        _NLP = spacy.load("en_core_web_sm")
+    return _NLP
+
 ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..")
 SUMM = os.path.join(ROOT, "football_commentary_dataset", "data", "summaries")
 RUN4 = os.path.join(ROOT, "runs", "run4_full_clean_2026-05-04", "predictions")
-RUN3_LED = os.path.join(ROOT, "runs", "run3_led_finetuned_2026-05-03",
+
+
+def _resolve_led_pred():
+    """Prefer a clean LED retrain (run5) if present, else fall back to run3.
+    See report/RUNBOOK_led_retrain.md."""
+    import glob
+    hits = sorted(glob.glob(os.path.join(
+        ROOT, "runs", "run5_led_clean_*", "predictions", "finetuned_led.json")))
+    if hits:
+        return hits[-1]
+    return os.path.join(ROOT, "runs", "run3_led_finetuned_2026-05-03",
                         "predictions", "finetuned_led.json")
+
+
+RUN3_LED = _resolve_led_pred()
 OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "results")
 os.makedirs(OUT, exist_ok=True)
 
@@ -151,6 +175,47 @@ def both_teams(aliases, pred_norm):
     return all(any(a in pred_norm for a in side) for side in aliases)
 
 
+# ---- named-entity precision -----------------------------------------------
+# Complements scorer *recall* (Table 5). Recall cannot see over-generation: a
+# prediction that names ten wrong players plus one right one still scores well
+# on recall. Precision = of the distinct PERSONs the model actually names, what
+# fraction appear among the reference's people (its scorers and any person named
+# in the report). Low precision = invented names, the hallucination signature.
+
+def person_surnames(text):
+    """Distinct normalised surnames of PERSON entities in `text` (spaCy)."""
+    out = set()
+    for ent in _nlp()(text).ents:
+        if ent.label_ != "PERSON":
+            continue
+        toks = [t for t in norm(ent.text).split() if len(t) > 1]
+        if toks:
+            out.add(toks[-1])          # surname = last token
+    return out
+
+
+def ref_person_surnames(match_id, gold_scorers, ref_text):
+    """Reference people: gold scorers plus every PERSON in the reference report."""
+    surnames = set(person_surnames(ref_text))
+    for name in gold_scorers:
+        surnames.add(norm(name).split()[-1])
+    return surnames
+
+
+def ner_precision(pred_text, ref_surnames, threshold=0.85):
+    """(precision, n_named). None when the prediction names nobody (undefined)."""
+    pred = person_surnames(pred_text)
+    if not pred:
+        return None, 0
+    hits = 0
+    for s in pred:
+        if s in ref_surnames or any(
+                SequenceMatcher(None, s, r).ratio() >= threshold
+                for r in ref_surnames):
+            hits += 1
+    return hits / len(pred), len(pred)
+
+
 def main():
     splits = json.load(open(os.path.join(ROOT, "outputs", "splits.json")))
     test = splits["test"]
@@ -213,10 +278,13 @@ def main():
         lo, hi = np.percentile(boot, [2.5, 97.5])
         paired[cond] = (diff.mean(), lo, hi, lo > 0)
 
+    # reference people per match (spaCy PERSONs + gold scorers), computed once
+    ref_people = {m: ref_person_surnames(m, gold[m][1], refs[m]) for m in test}
+
     # ---- faithfulness ----------------------------------------------------
     faith = {}
     for cond, p in preds.items():
-        teams_ok, score_ok, recalls = [], [], []
+        teams_ok, score_ok, recalls, precisions, n_named = [], [], [], [], []
         for m in test:
             pn = norm(p[m])
             teams_ok.append(both_teams(ALIASES[m], pn))
@@ -224,7 +292,13 @@ def main():
             r = scorer_recall(gold[m][1], pn)
             if r is not None:
                 recalls.append(r)
-        faith[cond] = (np.mean(teams_ok), np.mean(score_ok), np.mean(recalls))
+            prec, nn = ner_precision(p[m], ref_people[m])
+            n_named.append(nn)
+            if prec is not None:
+                precisions.append(prec)
+        faith[cond] = (np.mean(teams_ok), np.mean(score_ok), np.mean(recalls),
+                       np.mean(precisions) if precisions else float("nan"),
+                       np.mean(n_named))
 
     # ---- write outputs ---------------------------------------------------
     order = sorted(per_match, key=lambda c: -per_match[c][:, 2].mean())
@@ -242,10 +316,11 @@ def main():
                      + f",{p[0]:.4f},{p[1]:.4f},{p[2]:.4f},{p[3]}\n")
 
     with open(os.path.join(OUT, "faithfulness.csv"), "w") as fh:
-        fh.write("condition,teams_pct,score_pct,scorer_recall\n")
+        fh.write("condition,teams_pct,score_pct,scorer_recall,"
+                 "ner_precision,avg_people_named\n")
         for c in order:
-            t, s, r = faith[c]
-            fh.write(f"{c},{t:.4f},{s:.4f},{r:.4f}\n")
+            t, s, r, pr, nn = faith[c]
+            fh.write(f"{c},{t:.4f},{s:.4f},{r:.4f},{pr:.4f},{nn:.2f}\n")
 
     # ---- console tables --------------------------------------------------
     print(f"{'condition':22s} {'RL mean':>8s} {'95% CI':>17s} "
@@ -260,10 +335,12 @@ def main():
                     + ("   *" if pm[3] else "")
         print(line)
 
-    print(f"\n{'condition':22s} {'teams%':>7s} {'score%':>7s} {'scorers%':>9s}")
+    print(f"\n{'condition':22s} {'teams%':>7s} {'score%':>7s} "
+          f"{'scorers%':>9s} {'NERprec%':>9s} {'#named':>7s}")
     for c in order:
-        t, s, r = faith[c]
-        print(f"{c:22s} {t*100:6.0f}% {s*100:6.0f}% {r*100:8.0f}%")
+        t, s, r, pr, nn = faith[c]
+        print(f"{c:22s} {t*100:6.0f}% {s*100:6.0f}% {r*100:8.0f}% "
+              f"{pr*100:8.0f}% {nn:7.1f}")
 
     # per-match detail for the two fine-tuned conditions (manual audit)
     print("\n--- audit: per-match extraction (finetuned_bart) ---")

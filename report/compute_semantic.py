@@ -22,8 +22,19 @@ from transformers import AutoModelForSequenceClassification, AutoTokenizer
 ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..")
 DATA = os.path.join(ROOT, "football_commentary_dataset", "data")
 RUN4 = os.path.join(ROOT, "runs", "run4_full_clean_2026-05-04", "predictions")
-RUN3_LED = os.path.join(ROOT, "runs", "run3_led_finetuned_2026-05-03",
-                        "predictions", "finetuned_led.json")
+
+
+def _resolve_led_pred():
+    """Prefer a clean LED retrain (run5) if present, else fall back to run3."""
+    import glob
+    hits = sorted(glob.glob(os.path.join(
+        ROOT, "runs", "run5_led_clean_*", "predictions", "finetuned_led.json")))
+    return hits[-1] if hits else os.path.join(
+        ROOT, "runs", "run3_led_finetuned_2026-05-03",
+        "predictions", "finetuned_led.json")
+
+
+RUN3_LED = _resolve_led_pred()
 OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "results")
 
 NLI_MODEL = "microsoft/deberta-base-mnli"

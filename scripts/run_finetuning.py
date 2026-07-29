@@ -39,6 +39,18 @@ def main():
     train_ids = splits["train"]
     val_ids = splits["val"]
 
+    # Preflight: never train on empty/missing references again (the 33%-empty
+    # stale-dataset bug poisoned two days of runs). Abort loudly if the data is
+    # not clean. See scripts/check_dataset.py.
+    bad = [mid for mid in train_ids + val_ids
+           if len((load_match(mid).summary or "").strip()) < 200]
+    if bad:
+        raise SystemExit(
+            f"Refusing to train: {len(bad)} train/val references are empty or "
+            f"< 200 chars (e.g. {bad[:5]}). Pull the clean dataset and re-run "
+            f"`python scripts/check_dataset.py` first."
+        )
+
     if args.output_dir is None:
         args.output_dir = os.path.join("checkpoints", args.model)
 

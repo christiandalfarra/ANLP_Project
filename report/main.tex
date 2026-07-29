@@ -213,7 +213,7 @@ A naive fine-tuning recipe --- train BART on $(\text{transcript}[:1024], \text{r
 The chunk-summary generation is cached on disk because it is the dominant one-time cost. Hyperparameters: learning rate $3\!\times\!10^{-5}$, effective batch 8 (batch 1 with gradient accumulation), \texttt{fp16}, max input 1024 tokens, max target 256 tokens.
 
 \paragraph{LED long-context fine-tuning.}
-LED-base is fine-tuned directly on (full transcript $\to$ reference) pairs, with a custom random-window sampler that, each epoch, samples a contiguous 8192-token window starting at a uniformly random offset within transcripts longer than the window. This effectively augments the training set by exposing the model to different portions of each match. Global attention is forced on the BOS token; gradient checkpointing is enabled to fit a single sequence on a T4. Hyperparameters: learning rate $5\!\times\!10^{-5}$, batch 1 + grad-accum 8, \texttt{fp16}, max input 8192 tokens, max target 512 tokens, evaluation generation floor \texttt{min\_length=80} to expose collapse-to-empty failures (see Section~\ref{sec:engineering}).
+LED-base is fine-tuned directly on (full transcript $\to$ reference) pairs, with a custom random-window sampler that, each epoch, samples a contiguous 8192-token window starting at a uniformly random offset within transcripts longer than the window. This effectively augments the training set by exposing the model to different portions of each match. Global attention is forced on the BOS token; gradient checkpointing is enabled to fit a single sequence on a T4. Hyperparameters: learning rate $2\!\times\!10^{-5}$ with a 100-step linear warm-up (earlier runs at $5\!\times\!10^{-5}$ spiked the gradient norm; see Section~\ref{sec:engineering}), batch 1 + grad-accum 8, \texttt{fp16}, max input 8192 tokens, max target 256 tokens, evaluation generation floor \texttt{min\_length=80} to expose collapse-to-empty failures (see Section~\ref{sec:engineering}).
 
 \subsection{Evaluation}
 We report ROUGE-1, ROUGE-2, and ROUGE-L F-measures (stemmed) averaged over the 9 test matches, using the \texttt{rouge\_score} package \citep{lin2004rouge}, complemented by BERTScore against the references and an NLI-based measure of grounding in the transcript (both described below). The reference-based metrics (ROUGE, BERTScore) and the source-based metrics (NLI support, faithfulness probes) deliberately measure different things; Section~\ref{sec:faith} shows they disagree sharply.
@@ -222,7 +222,7 @@ We report ROUGE-1, ROUGE-2, and ROUGE-L F-measures (stemmed) averaged over the 9
 Because $n=9$, we attach uncertainty to every aggregate: for each condition we bootstrap-resample the 9 per-match ROUGE scores (10\,000 resamples, seed 42) and report 95\% percentile intervals. To compare conditions we use a \emph{paired} bootstrap on the per-match ROUGE-L differences against the best condition, resampling matches jointly so that per-match difficulty cancels; a difference is called significant when the 95\% interval of the mean difference excludes zero.
 
 \paragraph{Faithfulness probes.}
-ROUGE cannot detect confidently-stated wrong facts, so we add two rule-based factual checks that exploit the fixed reference format (Section~\ref{sec:gpt_targets}). \emph{Score accuracy}: the reference scoreline is parsed from the reference's first line; a prediction is credited when it states the same scoreline with the correct team orientation (team-adjacent patterns such as ``\emph{Arsenal 1--2 Liverpool}'', winner-verb patterns such as ``\emph{England beat Senegal 3--0}'', and draws, which are orientation-free). \emph{Scorer recall}: scorer names are parsed from the reference's key-events block; we measure the fraction mentioned in the prediction, matching surnames case- and accent-insensitively with a fuzzy threshold (\texttt{SequenceMatcher} ratio $\ge 0.85$) to tolerate Whisper misspellings. We also report a weaker sanity check, whether \emph{both team names} appear at all. Extraction code is \texttt{report/compute\_analysis.py}; per-match extractions were audited manually.
+ROUGE cannot detect confidently-stated wrong facts, so we add two rule-based factual checks that exploit the fixed reference format (Section~\ref{sec:gpt_targets}). \emph{Score accuracy}: the reference scoreline is parsed from the reference's first line; a prediction is credited when it states the same scoreline with the correct team orientation (team-adjacent patterns such as ``\emph{Arsenal 1--2 Liverpool}'', winner-verb patterns such as ``\emph{England beat Senegal 3--0}'', and draws, which are orientation-free). \emph{Scorer recall}: scorer names are parsed from the reference's key-events block; we measure the fraction mentioned in the prediction, matching surnames case- and accent-insensitively with a fuzzy threshold (\texttt{SequenceMatcher} ratio $\ge 0.85$) to tolerate Whisper misspellings. We also report a weaker sanity check, whether \emph{both team names} appear at all. \emph{Named-entity precision}: because scorer recall is blind to over-generation (a summary naming ten players, one correct, still scores well), we extract \texttt{PERSON} entities from each prediction with spaCy and measure the fraction whose surname matches a person in the reference (its scorers plus any \texttt{PERSON} in the report, same fuzzy threshold); we report it alongside the mean number of distinct people named, since precision is only meaningful when that count is not near zero. Extraction code is \texttt{report/compute\_analysis.py}; per-match extractions were audited manually.
 
 \paragraph{Semantic metrics.}
 Two further metrics were computed locally, post-hoc, on the saved predictions (code \texttt{report/compute\_semantic.py}). \emph{BERTScore} \citep{zhang2020bertscore} F1 (RoBERTa-large, raw scores) against the reference measures semantic similarity to the target beyond n-gram overlap. \emph{NLI support rate} measures grounding in the \emph{source}: each prediction is split into sentences (long run-ons chunked at 50 words), the three most similar 60-word transcript windows are retrieved by TF-IDF, and a DeBERTa-base MNLI cross-encoder scores entailment; a sentence counts as supported when max $P(\text{entailment}) \ge 0.5$, and we report the macro-averaged supported fraction.
@@ -314,27 +314,29 @@ Table~\ref{tab:faith} reports the rule-based faithfulness probes of Section~\ref
 
 \begin{table}[h]
 \centering\small
-\begin{tabular}{lccc}
+\begin{tabular}{lcccrc}
 \toprule
-\textbf{Condition} & \textbf{Both teams} & \textbf{Correct score} & \textbf{Scorer recall} \\
+\textbf{Condition} & \textbf{Both teams} & \textbf{Correct score} & \textbf{Scorer recall} & \textbf{\#named} & \textbf{NE prec.} \\
 \midrule
-finetuned\_bart   & 8/9 & \textbf{0/9} & 0.30 \\
-finetuned\_led    & 8/9 & 1/9 & 0.15 \\
-led\_long\_zero/few & 4/9 & 1/9 & 0.03 \\
-led\_long\_cot    & 5/9 & 0/9 & 0.00 \\
-bart\_chunk\_zero & 8/9 & 0/9 & 0.15 \\
-bart\_chunk\_cot  & 6/9 & 1/9 & 0.15 \\
-bart\_chunk\_few  & 0/9 & 0/9 & 0.00 \\
-flan\_chunk\_zero & 5/9 & 0/9 & 0.00 \\
-flan\_chunk\_few  & 0/9 & 0/9 & 0.00 \\
-flan\_chunk\_cot  & 2/9 & 0/9 & 0.09 \\
+finetuned\_bart   & 8/9 & \textbf{0/9} & \textbf{0.30} & 3.9 & 0.37 \\
+finetuned\_led    & 8/9 & 1/9 & 0.15 & 3.8 & 0.27 \\
+led\_long\_zero/few & 4/9 & 1/9 & 0.03 & 1.3 & 0.18 \\
+led\_long\_cot    & 5/9 & 0/9 & 0.00 & 0.7 & 0.20 \\
+bart\_chunk\_zero & 8/9 & 0/9 & 0.15 & 1.1 & 0.32 \\
+bart\_chunk\_cot  & 6/9 & 1/9 & 0.15 & 0.4 & (0.50) \\
+bart\_chunk\_few  & 0/9 & 0/9 & 0.00 & 1.0 & 0.00 \\
+flan\_chunk\_zero & 5/9 & 0/9 & 0.00 & 1.7 & 0.17 \\
+flan\_chunk\_few  & 0/9 & 0/9 & 0.00 & 0.0 & --- \\
+flan\_chunk\_cot  & 2/9 & 0/9 & 0.09 & 1.3 & (0.58) \\
 \bottomrule
 \end{tabular}
-\caption{Faithfulness probes on the 9 test matches. \emph{Both teams}: both team names mentioned. \emph{Correct score}: reference scoreline stated with correct team orientation. \emph{Scorer recall}: mean fraction of reference scorers named (fuzzy surname matching). Bold marks the headline result: the ROUGE-best model never states the correct score.}
+\caption{Faithfulness probes on the 9 test matches. \emph{Both teams}: both team names mentioned. \emph{Correct score}: reference scoreline stated with correct team orientation. \emph{Scorer recall}: mean fraction of reference scorers named (fuzzy surname matching). \emph{\#named}: mean distinct PERSON entities (spaCy) per summary. \emph{NE prec.}: fraction of those named people that appear among the reference's people --- precision complements the recall-only probes. Precisions on fewer than two names per summary (parenthesised) rest on too small a denominator to interpret. Bold marks the headline: the ROUGE-best model never states the correct score, yet has the highest scorer recall.}
 \label{tab:faith}
 \end{table}
 
-The headline is stark: \textbf{fine-tuned BART, the ROUGE-L leaderboard winner, states the correct final score in 0 of 9 test matches}. Auditing its extracted scorelines shows they are essentially decorative --- \emph{1--1}, \emph{2--2}, \emph{1--0} emitted with fluent confidence regardless of the actual result (0--4, 2--0, 3--0, \dots). It does recover 30\% of reference scorers, the best of any condition, indicating that \emph{names} present in the (chunk-summarised) input survive the pipeline while \emph{numbers} do not. Fine-tuned LED shows the mirror profile: one correct scoreline but only half BART's scorer recall. Prompting conditions fail earlier in the pyramid --- FLAN few-shot and BART few-shot do not even mention both teams (they reproduce the in-context example's teams instead).
+The headline is stark: \textbf{fine-tuned BART, the ROUGE-L leaderboard winner, states the correct final score in 0 of 9 test matches}. Auditing its extracted scorelines shows they are essentially decorative --- \emph{1--1}, \emph{2--2}, \emph{1--0} emitted with fluent confidence regardless of the actual result (0--4, 2--0, 3--0, \dots). It does recover 30\% of reference scorers, the best of any condition, indicating that \emph{names} present in the (chunk-summarised) input survive the pipeline while \emph{numbers} do not. Fine-tuned LED shows the mirror profile: one correct scoreline but only half BART's scorer recall.
+
+The named-entity precision column resolves what recall alone cannot: over-generation. Only the two fine-tuned models name enough people ($\sim$3.9 and 3.8 distinct persons per summary) for a precision estimate to be meaningful, and both are majority-invented --- BART grounds only 37\% of the players it names in the reference, LED just 27\%. So BART's field-leading 30\% scorer \emph{recall} is bought by naming many players and being wrong about most of them: it casts a wide net rather than reporting accurately. The prompting conditions that appear to have high precision (\texttt{bart\_chunk\_cot} 0.50, \texttt{flan\_chunk\_cot} 0.58, parenthesised) name fewer than 1.5 people on average and are not comparable. Prompting conditions instead fail earlier in the pyramid --- FLAN few-shot and BART few-shot do not even mention both teams (they reproduce the in-context example's teams instead).
 
 Together with Table~\ref{tab:main}, this quantifies the dissociation that Section~\ref{sec:qualitative} illustrates anecdotally: a model can double its ROUGE-L over the prompting baselines while communicating \emph{zero} correct results. ROUGE and factual accuracy are not merely imperfectly correlated on this task --- at the top of the leaderboard they are fully decoupled.
 
@@ -368,6 +370,22 @@ led\_long\_zero/few & 0.792 & \textbf{0.34} \\
 BERTScore reproduces the ROUGE ranking --- fine-tuned BART first (0.860), fine-tuned LED second (0.848), all prompting conditions 0.79--0.82 --- confirming that the fine-tuning gain is not an n-gram artefact: the outputs really are semantically closer to the references. The NLI support rate \emph{inverts} it: the prompted long-context LED, which loosely paraphrases the commentary it reads, is the best-grounded condition (34\% of sentences entailed by the transcript), while \textbf{fine-tuned BART has zero NLI-supported sentences} and fine-tuned LED just 3\%.
 
 Two forces contribute to the fine-tuned models' zero-grounding, and both are informative. First, genuine hallucination --- the score/scorer probes above are register-insensitive and independently confirm invented facts. Second, register shift: fine-tuning teaches the models to write in the reference's written-report style, whose summary-level assertions (``\emph{Liverpool dominated the first half}'') are rarely entailed by any 60-word window of fragmented spoken commentary even when true. The absolute rates are therefore conservative lower bounds; the cross-condition comparison, which uses identical machinery everywhere, is the meaningful signal. Read jointly, the two columns say precisely what this paper argues: \emph{fine-tuning on GPT-4 references optimises agreement with the references at the direct expense of grounding in the input} --- reference-similarity metrics (ROUGE, BERTScore) cannot see this trade, and source-grounding metrics (NLI, factual probes) cannot be improved by imitating references. Only training signals that reward transcript fidelity can close the gap.
+
+\subsection{Prosody and event salience}
+\label{sec:prosody}
+
+Our dataset carries a feature no summarisation corpus we know of provides: per-segment prosody (mean pitch, RMS energy) from the original Whisper$+$\texttt{librosa} pipeline. If crowd and commentator energy spikes at goals, energy could steer an \emph{event-focused} pipeline toward salient moments. We test the premise directly (code \texttt{report/compute\_prosody.py}). This is a dataset-level analysis independent of any model, so it runs over all matches with a parseable key-events block --- 90 matches, 278 goal events --- for statistical power.
+
+The obstacle is that the audio clock (segment seconds) is not the match clock (goal minutes): every broadcast has a variable pre-match build-up and an untimed $\sim$15-minute half-time gap. We map minutes to seconds with a kick-off offset estimated \emph{goal-independently} (first sustained energy rise) plus a fixed half-time gap, bin energy per audio-minute, convert to within-match percentile ranks, and read off each goal's percentile. Because the alignment never consults the goals, the permutation test (10\,000 draws replacing each match's goals with random minutes) is not circular. As a deliberately optimistic upper bound we also grid-search the offset to \emph{maximise} goal-time energy.
+
+Goals fall at a mean energy percentile of \textbf{0.552} versus a null of 0.500 (permutation $p = 0.0013$; null 95\% band $[0.466, 0.534]$), and land in the top-quintile energy minute 23.7\% of the time versus 20\% by chance. The effect is real but small. The oracle-aligned offset, however, places goals at percentile \textbf{0.815}: when the alignment is correct, goals sit near the very top of a match's energy distribution (Figure~\ref{fig:prosody}). The gap between 0.55 and 0.82 is almost entirely the cost of \emph{not knowing} the audio-to-match clock mapping --- build-up length, half-time, and stoppage-time warping. The prosodic signal genuinely marks events, but exploiting it needs audio$\to$match-clock alignment infrastructure this project does not have; this tempers, rather than endorses, the ``acoustic-guided chunking'' idea --- the feature is informative but not plug-and-play.
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.82\linewidth]{figures/prosody_alignment.pdf}
+\caption{Per-audio-minute RMS energy for the 2021 England--Ukraine match (England won 4--0). Dotted line: goal-independent kick-off estimate; dashed lines: the four goals mapped through that estimate plus a fixed half-time gap. Goals cluster on local energy maxima, but the visible imperfection of the mapping is exactly the alignment bottleneck quantified in Section~\ref{sec:prosody}.}
+\label{fig:prosody}
+\end{figure}
 
 % ============================================================
 \section{Qualitative Analysis}
@@ -463,7 +481,7 @@ The first BART fine-tune trained on \texttt{(transcript[:1024], reference)} pair
 
 \paragraph{Small test set.} With $n = 9$ matches, only large differences are resolvable. The bootstrap analysis (Table~\ref{tab:main}) makes this concrete: fine-tuning vs.\ every prompting condition is significant, but the fine-tuned BART--LED gap ($+0.029$) is not, and BART's own CI spans $[0.208, 0.283]$. Rankings within $\pm 0.03$ ROUGE-L of each other should not be over-read.
 
-\paragraph{Faithfulness is measured only coarsely.} Section~\ref{sec:faith} quantifies hallucination for scorelines and scorer names, but the probes are recall-oriented and rule-based: they do not measure the \emph{precision} of named entities (a prediction that names ten players, one of them correct, scores 1.0 on that scorer), and facts outside the score/scorer schema --- dates, stadiums, competitions --- remain unmeasured. An NER-based precision measure would complete the picture.
+\paragraph{Faithfulness is measured only coarsely.} Section~\ref{sec:faith} quantifies hallucination for scorelines, scorer recall, and named-entity precision, but the probes remain rule-based and schema-bound: named-entity precision is estimated from spaCy \texttt{PERSON} tags against the reference's people --- reliable only for the two fine-tuned models, which name enough entities to escape small-denominator noise --- and facts outside the score/scorer/person schema (dates, stadiums, competitions) remain unmeasured. A full NER-precision measure over all entity types and a human faithfulness rating would complete the picture.
 
 \paragraph{GPT-4 references introduce evaluation bias.} References in Section~\ref{sec:gpt_targets} were generated by search-enabled GPT-4 (ChatGPT web) from match identifiers, not written from the transcript. Web retrieval grounds their facts in published match reports --- BBC sources were verified per match --- so outright factual errors are less likely than with purely parametric generation --- but the references still describe the match as the written press covered it, not as the radio commentary presented it, and they exhibit a stylistic homogeneity that surface metrics reward. They are also not exactly reproducible, since the underlying search results drift over time. Our reported scores therefore measure agreement with a GPT-4-distilled synthesis of web coverage, not agreement with a human gold standard paired to the input.
 
