@@ -14,7 +14,7 @@ Each approach is evaluated with two strategies for handling long inputs:
 
 ## Dataset
 
-The dataset is bundled in `football_commentary_dataset/` inside this repo (transcripts, segments, and summaries; the 19 GB of raw audio is excluded). The loader also falls back to a sibling `../football_commentary_dataset/` directory if the in-repo copy is missing. It contains **99 football matches** (World Cup, Euro, FA Cup, Premier League — 1983–2018), each with:
+The dataset is bundled in `football_commentary_dataset/` inside this repo (transcripts, segments, and summaries; the 19 GB of raw audio is excluded). The loader also falls back to a sibling `../football_commentary_dataset/` directory if the in-repo copy is missing. It contains **99 football matches** (World Cup, UEFA Champions League, Euro, Premier League, FA Cup, and more — 1983–2026), each with:
 
 | File | Description |
 |---|---|

@@ -402,7 +402,7 @@ The faithfulness probes of Section~\ref{sec:faith} quantify \emph{that} models h
 \texttt{flan\_chunk\_zero} & ``Mark Warburton and Jamie Vardy contributed to BBC Radio 5 live coverage of Arsenal drew 1--1 at Anfield on Saturday.'' \\
 \texttt{led\_long\_zero}   & ``\dots ope, and now to his right, the ball is going to the right side of the penalty area, it's going to be difficult to get the ball back to the left side\dots'' \\
 \texttt{finetuned\_bart}   & ``Tour of the World Economic Forum (TEA) aims to showcase the benefits and potential benefits of travelling around the globe in a variety of ways. The event will provide a chance for people to experience\dots'' \\
-\texttt{finetuned\_led}    & ``Liverpool 1--0 Arsenal, Premier League, 20 May 2001 -- Anfield, Anfield, Emirates Stadium, Anfield -- Anfield -- 19 May 2001. Liverpool dominated the first half\dots'' \\
+\texttt{finetuned\_led}    & ``Liverpool 1--0 Arsenal. 2023--24 UEFA Cup Final, Millennium Stadium, Cardiff, UK -- 24 May 2021. Liverpool took the lead in the 11th minute when Mohamed Salah curled a low shot into the top corner from close range after a we\dots'' \\
 \bottomrule
 \end{tabular}
 \caption{Sample outputs on the 2001 FA Cup Final test instance.}
@@ -414,7 +414,7 @@ The faithfulness probes of Section~\ref{sec:faith} quantify \emph{that} models h
 \item \textbf{FLAN-T5} produces short, stylistically wrong (radio-broadcast snippet) and factually wrong content. With few-shot prompting, it copies the example target verbatim rather than summarising, a classic template-completion failure.
 \item \textbf{LED prompting} generates fragments of mid-commentary text that mimic the input style rather than summarising it. The model is not pre-trained for summarisation and out-of-the-box behaves as a continuation language model.
 \item \textbf{Fine-tuned BART} derails off-domain entirely on this instance --- its single both-teams failure in Table~\ref{tab:faith}. On the other eight test matches it produces exactly the structured, fluent match-report register the references teach, while \emph{inventing} the facts: for the 2019 UCL final it reports ``\emph{Liverpool 2--2 Tottenham Hotspur (Liverpool win 4--3 on penalties)}'' at Wembley --- the real final ended 2--0 to Liverpool in Madrid, with no shootout.
-\item \textbf{Fine-tuned LED} similarly produces fluent match-report prose. It \emph{recovers} the correct year (2001) but repeats ``Anfield'' four times, reports the wrong score (1--0 actually 1--2), and switches competitions (Premier League actually FA Cup).
+\item \textbf{Fine-tuned LED} similarly produces fluent match-report prose while inventing the factual frame: it reports the wrong score (1--0 actually 1--2), misdates the match to 2021, mislabels it a ``2023--24 UEFA Cup Final'' (actually the 2001 FA Cup Final), and populates the report with anachronistic scorers (Mohamed Salah, Mohamed Elneny) who took no part in a 2001 fixture. It does land the correct venue --- the Millennium Stadium in Cardiff, where the 2001 final was indeed played --- the lone grounded detail amid an otherwise fabricated report.
 \end{itemize}
 
 In short: both fine-tuned models have learned the \emph{format} of a match report, and neither has learned \emph{factual fidelity} --- the mechanism behind the metric decoupling quantified in Sections~\ref{sec:faith} and~\ref{sec:semantic}.
@@ -494,7 +494,7 @@ The first BART fine-tune trained on \texttt{(transcript[:1024], reference)} pair
 % ============================================================
 \section{Conclusions}
 
-We built an end-to-end pipeline for summarising long football radio commentaries on a custom 99-match dataset, comparing two input strategies (chunk-and-aggregate vs.\ long-context LED) and two learning paradigms (prompting vs.\ fine-tuning) across three model families (FLAN-T5, BART, LED). Three findings stand out:
+We built an end-to-end pipeline for summarising long football radio commentaries on a custom 99-match dataset, comparing two input strategies (chunk-and-aggregate vs.\ long-context LED) and two learning paradigms (prompting vs.\ fine-tuning) across three model families (FLAN-T5, BART, LED). Four findings stand out:
 
 \begin{enumerate}[leftmargin=*,itemsep=2pt,topsep=2pt]
 \item Fine-tuning BART as the merge step of a chunk-aggregate pipeline gives a $+55\%$ relative ROUGE-L improvement over the strongest prompting baseline ($+69\%$ over the same pre-trained model under the same pipeline), and the paired bootstrap confirms the fine-tuning-vs-prompting gap is significant for every prompting condition.
