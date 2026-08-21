@@ -1,0 +1,7 @@
+probe,n_conditions,spearman_rho,p_value
+both teams named,11,0.6251,0.0442
+correct scoreline,11,0.5876,0.0647
+scorer recall,11,0.4404,0.1738
+NER precision,10,0.0,1.0
+NLI support,11,0.4113,0.2059
+BERTScore F1,11,0.2603,0.4357
