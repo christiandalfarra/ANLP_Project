@@ -3,7 +3,7 @@
 
 This is a *dataset-level* analysis (independent of any model prediction), so it
 runs over ALL matches that have a parseable "Key events" block with goal minutes
-(91 of 99, 286 goal events) for maximum statistical power.
+(90 of 99, 278 goal events) for maximum statistical power.
 
 The hard part is that the audio clock (segment start-seconds) is not the match
 clock (goal minutes): every broadcast has a variable pre-match build-up and a
