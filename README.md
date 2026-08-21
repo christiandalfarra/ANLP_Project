@@ -138,7 +138,7 @@ Splits saved to outputs/splits.json
 
 Runs inference on the 9 test matches for each prompting condition. Each condition saves a JSON file to `outputs/predictions/`.
 
-**Run all 6 conditions at once:**
+**Run all 9 conditions at once:**
 ```bash
 python scripts/run_prompting.py --all
 ```
@@ -184,7 +184,7 @@ python scripts/run_finetuning.py --model led --output_dir checkpoints/led
 
 Training takes approximately **4–8 hours**. Use Kaggle (30h/week free) for this step if Colab times out.
 
-**Hyperparameters:** lr=5e-5, batch=1, grad_accum=8, fp16=True, gradient_checkpointing=True, max_input=8192 tokens.
+**Hyperparameters:** lr=2e-5 with 100-step linear warm-up, batch=1, grad_accum=8, fp16=True, gradient_checkpointing=True, max_input=8192 tokens, eval `min_length=80`. (An earlier 5e-5 configuration spiked the gradient norm — see the engineering history in `report/main.pdf`.)
 
 ---
 
@@ -250,7 +250,7 @@ After completing all steps, 11 conditions will be evaluated:
 | ROUGE-1 | `rouge_score` | Unigram overlap between generated and reference summary |
 | ROUGE-2 | `rouge_score` | Bigram overlap |
 | ROUGE-L | `rouge_score` | Longest common subsequence (used for early stopping) |
-| BERTScore F1 | `bert_score` | Semantic similarity using DeBERTa embeddings |
+| BERTScore F1 | `bert_score` | Semantic similarity. `run_evaluation.py` defaults to `deberta-xlarge-mnli`; the values reported in `report/main.pdf` come from `report/compute_semantic.py`, which uses `roberta-large` (raw, not baseline-rescaled) |
 
 ---
 
@@ -273,3 +273,33 @@ To ensure full reproducibility:
 2. All random seeds are fixed to `42`.
 3. Predictions are saved to disk before evaluation — you can re-run metrics without re-running inference.
 4. Each script skips already-computed outputs, making it safe to resume after interruption.
+
+### Delivered predictions and metrics
+
+`outputs/predictions/` and `outputs/results/` are gitignored, so a fresh clone has no predictions and `run_evaluation.py` would find nothing to score. **The predictions behind every number in the report are committed under `runs/`:**
+
+| Artifact | Location |
+|---|---|
+| 10 conditions (all prompting + `finetuned_bart`) | `runs/run4_full_clean_2026-05-04/predictions/` |
+| `finetuned_led` (clean retrain) | `runs/run5_led_clean_2026-05-04/predictions/` |
+| Matching ROUGE tables | `runs/run*/results/metrics.csv` |
+| Bootstrap CIs, BERTScore/NLI, faithfulness probes | `report/results/*.csv` |
+| Null baselines + scorer-recoverability ceiling | `report/results/nullbaselines.csv` (regenerate: `python report/compute_nullbaselines.py`, CPU-only) |
+| Run-by-run narrative | `runs/RESULTS.md` |
+
+To re-compute the metrics on a CPU-only machine, without re-running any inference:
+
+```bash
+mkdir -p outputs/predictions
+cp runs/run4_full_clean_2026-05-04/predictions/*.json outputs/predictions/
+cp runs/run5_led_clean_2026-05-04/predictions/finetuned_led.json outputs/predictions/
+python scripts/run_evaluation.py --no-bertscore
+```
+
+This reproduces the ROUGE columns of Table 3 in `report/main.pdf` (finetuned_led 0.2480, finetuned_bart 0.2476). Add `--device cuda` instead of `--no-bertscore` to also recompute BERTScore. Fine-tuned checkpoints are **not** committed (they exceed GitHub's file limits), so Steps 3–5 must be re-run to regenerate predictions from scratch.
+
+You can also verify the dataset itself at any time:
+
+```bash
+python scripts/check_dataset.py   # asserts all 99 matches have transcript, segments, and a reference >= 200 B
+```

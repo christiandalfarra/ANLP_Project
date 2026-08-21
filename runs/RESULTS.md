@@ -1,8 +1,32 @@
 # Results — All Runs
 
-Three Kaggle sessions on T4 GPU, comparing prompting vs fine-tuning across BART/LED/FLAN-T5 on 99 football match transcripts (80 train / 10 val / 9 test).
+Five Kaggle runs on T4 GPU, comparing prompting vs fine-tuning across BART/LED/FLAN-T5 on 99 football match transcripts (80 train / 10 val / 9 test).
 
-## Headline numbers (test ROUGE-L, averaged over 9 matches)
+> **Status.** Runs 1–3 were executed against a dataset in which 4 of the 9 test references were 0-byte files (see the caveat below). **Runs 4 and 5, on the repaired dataset, supersede them and are the numbers reported in `report/main.pdf`.** Everything below runs 4–5 is kept as an engineering log of how we got there — its numbers are historical, not final.
+
+## Headline numbers — final (runs 4–5, clean dataset)
+
+Test ROUGE-L over all 9 test matches. Sources: `run4_full_clean_2026-05-04/results/metrics.csv` (all conditions except LED fine-tuning) and `run5_led_clean_2026-05-04/results/metrics.csv` (finetuned_led).
+
+| Rank | Condition        | ROUGE-1 | ROUGE-2 | **ROUGE-L** | Run |
+|------|------------------|--------:|--------:|------------:|-----|
+| 🥇   | finetuned_led    | 0.4502  | 0.1521  | **0.2480**  | run5 |
+| 2    | finetuned_bart   | 0.4205  | 0.1330  | **0.2476**  | run4 |
+| 3    | led_long_few     | 0.2712  | 0.0531  | 0.1599      | run4 |
+| 4    | led_long_zero    | 0.2712  | 0.0531  | 0.1599      | run4 |
+| 5    | led_long_cot     | 0.2773  | 0.0559  | 0.1548      | run4 |
+| 6    | bart_chunk_zero  | 0.2249  | 0.0516  | 0.1467      | run4 |
+| 7    | bart_chunk_cot   | 0.1989  | 0.0408  | 0.1230      | run4 |
+| 8    | bart_chunk_few   | 0.1765  | 0.0188  | 0.1030      | run4 |
+| 9    | flan_chunk_zero  | 0.1164  | 0.0212  | 0.0700      | run4 |
+| 10   | flan_chunk_few   | 0.0770  | 0.0086  | 0.0551      | run4 |
+| 11   | flan_chunk_cot   | 0.0733  | 0.0148  | 0.0481      | run4 |
+
+The two fine-tuned pipelines are separated by 0.0004 ROUGE-L; the paired bootstrap difference is `-0.0004`, CI `[-0.042, +0.035]`, so at n=9 they are statistically indistinguishable. Every fine-tuned-vs-prompting gap *is* significant. Per-condition bootstrap CIs: `report/results/percondition_cis.csv`. BERTScore and NLI grounding: `report/results/semantic.csv`. Faithfulness probes: `report/results/faithfulness.csv`.
+
+## Headline numbers — superseded (runs 1–3, poisoned dataset)
+
+Kept for the record. These averages include 4 test matches whose reference was a 0-byte file, so every condition scores ~1.8× lower than it should.
 
 | Rank | Condition                       | ROUGE-1 | ROUGE-2 | **ROUGE-L** | Run |
 |------|---------------------------------|--------:|--------:|------------:|-----|
@@ -16,7 +40,7 @@ Three Kaggle sessions on T4 GPU, comparing prompting vs fine-tuning across BART/
 | 8    | flan_chunk_cot                  | 0.0468  | 0.0093  | 0.0329      | run1 |
 | 9    | flan_chunk_few                  | 0.0377  | 0.0020  | 0.0278      | run1 |
 
-## Important methodological caveat: 4 of 9 test references are empty
+## Important methodological caveat (runs 1–3): 4 of 9 test references were empty — FIXED in run 4
 
 `football_commentary_dataset/data/summaries/` has **0-byte reference files** for:
 
@@ -40,16 +64,32 @@ ROUGE against an empty reference is exactly 0 for any non-empty prediction. The 
 
 **Once you remove the empty-reference penalty, fine-tuned BART hits ROUGE-L ≈ 0.25 on the valid test set** — that's competitive with established long-document summarization benchmarks. The "modest" appearance of the original 0.136 was largely a data quality artifact.
 
+**Resolved.** The four references were re-extracted and the full experiment grid was re-run on the repaired dataset (run 4, plus run 5 for LED). `python scripts/check_dataset.py` now passes on all 99 matches. The ×9/5 extrapolation above predicted the outcome almost exactly: fine-tuned BART landed at 0.2476 measured (0.245 predicted). The final table at the top of this file is measured, not extrapolated.
+
 ## What works
 
 ### 1. Fine-tuning beats prompting by a large margin
 Both architectures benefit substantially:
 
-- **LED**: 0.085 prompt → 0.122 fine-tune (+44%)
-- **BART**: not directly comparable to FLAN-only prompting baselines, but its 0.136 dominates every other condition
+- **LED**: 0.160 prompt (`led_long_few`, best prompting condition) → 0.248 fine-tune (**+55%**)
+- **BART**: 0.147 pre-trained under the identical chunk-aggregate pipeline → 0.248 fine-tune (**+69%**) — a same-model, same-pipeline comparison that isolates the contribution of fine-tuning
+
+(Runs 1–3 figures were LED 0.085 → 0.122 (+44%) and BART 0.136; the ranking of the conclusion did not change, only its magnitude.)
+
+**Read those percentages against the null floor.** The references follow a fixed template, so a large share of ROUGE is available without knowing anything about the match (`report/compute_nullbaselines.py`):
+
+| "Prediction" — contains no correct match facts | R-1 | R-2 | R-L |
+|---|---:|---:|---:|
+| Another test match's reference (avg. over 8) | 0.3793 | 0.0952 | **0.2076** |
+| A random train reference (avg. over 20) | 0.3533 | 0.0864 | 0.1963 |
+| Generic template + real team names | 0.3556 | 0.0680 | 0.1863 |
+| Generic template, no match-specific content | 0.3481 | 0.0656 | 0.1758 |
+| Lead-190 words of the transcript | 0.2624 | 0.0311 | 0.1340 |
+
+The strongest null is **84% of finetuned_led's 0.2480**, and every prompting condition scores *below* a content-free template (best prompting = 0.1599). So "+55% over the best prompting baseline" mostly measures template acquisition. The margin that survives a format-matched control is **+0.040 ROUGE-L, paired bootstrap CI [+0.022, +0.059]** — significant, but a fifth of the headline. ROUGE-2 discriminates better than ROUGE-L here (nulls 0.066–0.095 vs 0.152), which also means early stopping on validation ROUGE-L was the wrong selection criterion.
 
 ### 2. Chunk-merger > naive truncation for BART
-Run 2's redesign — train BART on `(concatenated pretrained-BART chunk-summaries → gold reference)` instead of `(truncated transcript[:1024] → gold reference)` — improved ROUGE-L from 0.127 → 0.136 (+7%). This matches what BART actually does at inference time, so train and test distributions are aligned.
+Run 2's redesign — train BART on `(concatenated pretrained-BART chunk-summaries → gold reference)` instead of `(truncated transcript[:1024] → gold reference)` — improved ROUGE-L from 0.127 → 0.136 (+7%) on the poisoned dataset, and the same recipe reaches **0.2476** on the repaired dataset (run 4). This matches what BART actually does at inference time, so train and test distributions are aligned.
 
 ### 3. LED training works once you fix the bugs
 The LED retrain went through three failed attempts before producing a usable model:
@@ -71,6 +111,8 @@ LED progression once stable:
 | **9** | **0.172**   | 1.85 |
 | 11    | 0.162       | 1.63 |
 
+**Run 5 (clean dataset, retrained from scratch):** the same code trained 14 epochs, validation ROUGE-L peaking at **0.270** at epoch 12 (early stopping, patience 2), evaluation loss decreasing monotonically. Selected checkpoint → test ROUGE-L **0.2480**. The run-3 curve above and the run-5 curve look nearly identical in loss; only ROUGE distinguishes them, which is exactly how the empty-reference bug stayed hidden. Figure: `report/figures/led_training_curve.pdf`.
+
 ## What doesn't work
 
 ### 1. FLAN-T5 + chunk-aggregate is broken
@@ -82,21 +124,27 @@ ROUGE-L of 0.03–0.04 across all three FLAN conditions. Looking at the actual o
 This is a classic FLAN failure mode: the prompt is too structured and the model treats it as a template-completion task instead of a summarization task. A FLAN-tuned prompt or a different model (e.g. Llama-3-8B-Instruct) would likely do better, but FLAN as configured here is non-functional.
 
 ### 2. LED prompting is mediocre even with long context
-LED's 16k context window should help, but zero/few/CoT all land around 0.083 — only ~2× FLAN. The outputs reveal why: LED-base regurgitates the prompt or produces commentary-text that mimics input style instead of summarizing:
+LED's 16k context window should help, but zero/few/CoT all land around 0.083 on the poisoned data (0.155–0.160 after the fix) — only ~2× FLAN, and less than two thirds of either fine-tuned model. The outputs reveal why: LED-base regurgitates the prompt or produces commentary-text that mimics input style instead of summarizing:
 
 > *led_long_few:* `"...the ball is going to the right side of the penalty area, it's going to be difficult to get the ball back to the left side, there's a little bit of time for the ball to go in the right hand side..."`
 
 LED-base wasn't pretrained on this kind of summarization → fine-tuning is needed to teach it the task, not just feed it more context.
 
-### 3. Long-context fine-tuning didn't beat chunk-merger
-LED at 8k-token windows during training (random-window sampling per epoch) ended up at 0.122 vs BART's 0.136. Two likely reasons:
+### 3. Long-context vs chunk-merger fine-tuning: no separable winner (revised in run 5)
+On the poisoned dataset (run 3) LED ended at 0.122 vs BART's 0.136, and we concluded chunk-merger won. **The clean retrain (run 5) overturned that**: LED reaches 0.2480 vs BART's 0.2476 — nominally ahead, and ahead on BERTScore too (0.869 vs 0.860), but the paired bootstrap CI of the difference (`[-0.042, +0.035]`) includes zero. At n=9 the two pipelines cannot be separated, and the honest conclusion is that both work and neither dominates.
 
-- **N=80 is too small for LED.** With effectively 80 (input, output) pairs and 162M parameters, LED can't learn to attend across 8k tokens — it overfits to surface patterns. BART has the same parameter count but is operating on a 960-token compressed input, which is much more learnable.
-- **Pretrained-BART chunk summaries are themselves a strong feature.** The merger has access to information BART already extracted at the sentence level. LED has to learn what's important from raw transcript noise.
+What the run-3 gap actually measured was the dataset bug, not the architecture: LED was disproportionately penalised because it had trained on poisoned targets, while BART's chunk-merger inputs were pre-distilled and more robust to them.
 
-## Sample outputs (test match: 2001 FA Cup Final, Arsenal vs Liverpool)
+The residual uncertainty still most likely comes down to sample efficiency:
 
-Reference: empty file (data quality issue), so qualitative judgment only.
+- **N=80 is small for LED.** With 80 (input, output) pairs and 162M parameters, LED must learn to attend across raw 8k-token windows from scratch.
+- **Pretrained-BART chunk summaries are themselves a strong feature.** The merger operates on a ~960-token pre-distilled intermediate whose features are already informative.
+
+LED's narrower CI (`[0.230, 0.266]` vs BART's `[0.208, 0.283]`) suggests more consistent per-match performance; BART's wider CI reflects higher variance with a higher ceiling.
+
+## Sample outputs — runs 1–3 (test match: 2001 FA Cup Final, Arsenal vs Liverpool)
+
+Reference: empty file at the time (the data quality issue below), so qualitative judgment only. These are the pre-fix models' outputs; for samples from the final run-4/run-5 models against a real reference, see Table 6 of `report/main.pdf`.
 
 | Model | Output (first 250 chars) | Words |
 |-------|--------------------------|------:|
@@ -114,10 +162,10 @@ Reference: empty file (data quality issue), so qualitative judgment only.
 
 Both fine-tuned models have learned the **format** of a match summary but neither has learned **factual fidelity**. They produce confidently-presented hallucinations. ROUGE rewards them anyway because surface n-grams (team names, "in the Xth minute", dates, stadium types) overlap between predicted and actual summaries on the same matches.
 
-## Limitations and what's left to do
+## Limitations — status after runs 4–5
 
-1. **Fix the empty-reference data files.** 4/9 test matches have 0-byte gold summaries. Either re-extract or remove from the test set; current ROUGE-L numbers underestimate true performance by ~1.8×.
-2. **Hallucination is unsolved.** Both fine-tuned models invent years, stadiums, scorers, and entire match outcomes. ROUGE doesn't penalize this. Adding a faithfulness check (BERTScore-precision against the transcript instead of the reference, or NLI-based entailment) would expose the gap.
-3. **N=80 is the binding constraint.** Both models likely overfit; the val→test gap (BART 0.21→0.14, LED 0.17→0.12) supports this. More data is the highest-leverage improvement.
-4. **No BERTScore.** Kaggle's transformers/bert_score combo throws OverflowError; the eval script falls back to ROUGE-only. Would be worth running locally with a pinned bert_score version.
-5. **No statistical comparison.** With n=9 (or n=5 valid), the differences between conditions are within noise. A proper bootstrap CI or paired test would tell us how much of the BART > LED gap is signal.
+1. ~~**Fix the empty-reference data files.**~~ **Done (run 4).** All four 0-byte references were re-extracted; `scripts/check_dataset.py` verifies every one of the 99 matches has a reference ≥ 200 B. The whole grid was re-run on the repaired data, and ROUGE-L roughly doubled as the ×9/5 extrapolation predicted.
+2. **Hallucination is unsolved — and now quantified.** Rule-based faithfulness probes plus NLI entailment against the transcript (`report/results/faithfulness.csv`, `report/results/semantic.csv`) show fine-tuned BART states the correct final score in **0 of 9** matches with **zero** NLI-supported sentences, and fine-tuned LED manages 2/9 scorelines with 2% support — despite leading on both ROUGE-L and BERTScore. The best-grounded conditions (34% NLI support) are the transcript-copying prompted baselines that ROUGE ranks near the bottom. Surface metrics and source faithfulness are fully decoupled on this task. Reducing the hallucination itself remains open. Note this is *not* a transcription-loss problem: all 22 reference scorers across the 9 test matches are present in the transcripts the models read (21 exact, 1 fuzzy), so the ceiling on scorer recall is 100% and the models realise 30% / 13% of it.
+3. **N=80 is still the binding constraint.** Both models overfit; with 9 test matches, the two fine-tuned pipelines cannot be statistically separated. More data remains the highest-leverage improvement.
+4. ~~**No BERTScore.**~~ **Done.** Computed locally with a pinned `bert_score` outside the Kaggle environment (`report/compute_semantic.py` → `report/results/semantic.csv`): fine-tuned LED 0.869, fine-tuned BART 0.860, all prompting conditions 0.79–0.82. BERTScore agrees with the ROUGE ranking.
+5. ~~**No statistical comparison.**~~ **Done.** Paired bootstrap CIs per condition (`report/compute_analysis.py` → `report/results/percondition_cis.csv`). Every fine-tuning-vs-prompting gap excludes zero; the LED-vs-BART gap does not.

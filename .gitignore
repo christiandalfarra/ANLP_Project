@@ -1,7 +1,6 @@
 checkpoints/
 outputs/predictions/
 outputs/results/
-football_commentary_dataset/
 __pycache__/
 *.pyc
 *.pth

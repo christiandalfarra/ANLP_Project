@@ -12,3 +12,5 @@ matplotlib>=3.8.0
 # Analysis only (report/compute_*.py): NER-precision probe.
 # Also run: python -m spacy download en_core_web_sm
 spacy>=3.7.0
+# Slide generation only (report/make_slides.py, make_slides_alt.py).
+python-pptx>=0.6.23

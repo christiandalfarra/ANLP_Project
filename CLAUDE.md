@@ -12,7 +12,7 @@ pip install -r requirements.txt
 python scripts/generate_splits.py
 
 # Run prompting experiments
-python scripts/run_prompting.py --all                                      # all 6 conditions
+python scripts/run_prompting.py --all                                      # all 9 conditions
 python scripts/run_prompting.py --model flan --strategy chunk --prompt zero  # single condition
 
 # Fine-tune models

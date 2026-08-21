@@ -14,7 +14,7 @@ Usage examples:
     # Zero-shot, LED, long-context
     python scripts/run_prompting.py --model led --strategy long --prompt zero
 
-    # Run all 6 prompting conditions
+    # Run all 9 prompting conditions
     python scripts/run_prompting.py --all
 
     # Use fine-tuned checkpoint instead of pretrained
@@ -185,6 +185,14 @@ def run_single_condition(model_name, strategy, prompt_type, checkpoint=None, spl
                     return prompter.generate(build_longcontext_pass2_prompt(events))
                 summary = run_longcontext(match, _cot_long)
             else:
+                # No few-shot branch exists for the long-context strategy: a full
+                # transcript already fills LED's 16k window, leaving no room for
+                # in-context examples. We fall back to the zero-shot prompt, which
+                # makes led_long_few byte-identical to led_long_zero. Disclosed in
+                # the report; warn loudly so nobody reads it as a real condition.
+                print(f"[WARNING] prompt='{prompt_type}' is not implemented for "
+                      f"strategy='long'. Falling back to the zero-shot prompt, so "
+                      f"'{condition}' will be identical to '{model_name}_long_zero'.")
                 from src.prompts.zero_shot import build_longcontext_prompt
                 summary = run_longcontext(match, lambda t: prompter.generate(build_longcontext_prompt(t)))
         else:
@@ -206,7 +214,7 @@ def main():
     parser.add_argument("--checkpoint", type=str, default=None,
                         help="Path to fine-tuned checkpoint directory")
     parser.add_argument("--all", action="store_true",
-                        help="Run all 6 standard prompting conditions")
+                        help="Run all 9 standard prompting conditions")
     parser.add_argument("--limit", type=int, default=None,
                         help="Only process the first N test matches (smoke test)")
     args = parser.parse_args()

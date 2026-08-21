@@ -244,13 +244,14 @@ footer(s, 4)
 
 # ------------------------------------------------------------- 5 · Results
 s = add_slide()
-header(s, 5, "Results", "Fine-tuning wins, and the gap is significant",
+header(s, 5, "Results", "Fine-tuning wins — but only it clears the null floor",
        "Test ROUGE-L on the clean 9-match test set · bootstrap 95% CIs (10,000 resamples)")
 figure_card(s, "figures/leaderboard.png", Inches(2.7), Inches(1.95), Inches(7.6))
 tf = textbox(s, Inches(0.85), Inches(6.55), Inches(11.7), Inches(0.8))
 set_run(tf.paragraphs[0].add_run(),
         "Every prompting condition is significantly below both fine-tuned models (paired bootstrap; 95% CI "
-        "of the difference excludes 0). The LED−BART gap (−0.0004 [−0.042, +0.035]) is NOT significant.",
+        "of the difference excludes 0) — and below the dashed null floor. Only the fine-tuned models clear it, "
+        "by +0.040 [+0.022, +0.059]. The LED−BART gap (−0.0004 [−0.042, +0.035]) is NOT significant.",
         11.5, MUTED, italic=True)
 footer(s, 5)
 
@@ -271,7 +272,8 @@ bullets(s, [
     [("Same model, same pipeline, same test set", {"bold": True, "color": GOLD})],
     [("pre-trained BART 0.147   →   fine-tuned BART 0.248   ( +69% relative )",
       {"size": 23, "bold": True, "color": ACCENT, "level": 1})],
-    [("+55% over the strongest prompting condition of any architecture (LED zero-shot, 0.160).",
+    [("+55% over the strongest prompting condition of any architecture (LED zero-shot, 0.160) — "
+      "but that baseline sits below the null floor; see Finding 3.",
       {"level": 1})],
 ], size=18)
 footer(s, 6)
@@ -307,23 +309,29 @@ s = add_slide()
 header(s, 8, "Finding 3", "Models learn the format, not the facts",
        "Real test-set outputs; each quote labelled with the true result")
 quote_card(s, Inches(0.85), Inches(2.15), Inches(5.75), Inches(2.25),
-           "Fine-tuned BART (best model) — 2019 UCL Final (true: Liverpool 2–0 Tottenham, Madrid, no shootout)",
+           "Fine-tuned BART (ROUGE rank 2) — 2019 UCL Final (true: Liverpool 2–0 Tottenham, Madrid, no shootout)",
            "“Liverpool 2–2 Tottenham Hotspur (Liverpool win 4–3 on penalties) … 2023 UEFA "
            "Champions League Final, Wembley Stadium, London – 31 May 2019 … Liverpool secured "
            "a dramatic victory…”", accent=CORAL)
 quote_card(s, Inches(6.95), Inches(2.15), Inches(5.5), Inches(2.25),
-           "Fine-tuned LED — 2001 FA Cup Final (true: Liverpool 2–1 Arsenal, Millennium Stadium)",
-           "“Liverpool 1–0 Arsenal, Premier League, 20 May 2001 — Anfield, Anfield, "
-           "Emirates Stadium, Anfield… Liverpool dominated the first half…”", accent=CORAL)
+           "Fine-tuned LED (ROUGE rank 1) — 2001 FA Cup Final (true: Arsenal 1–2 Liverpool, Millennium Stadium)",
+           "“Liverpool 1–0 Arsenal · 2023–24 UEFA Cup Final, Millennium Stadium, Cardiff, UK – "
+           "24 May 2021 … Mohamed Salah curled a low shot into the top corner…” — wrong score, "
+           "wrong date, wrong competition, scorers who were toddlers in 2001; the venue is the "
+           "one grounded detail.", accent=CORAL)
 bullets(s, [
     [("Quantified over all 9 test matches:  ", {"bold": True, "color": CORAL}),
      ("fine-tuned BART (ROUGE rank 2) states the correct final score in ", {}),
      ("0 of 9 matches", {"bold": True, "color": CORAL}),
      (" and recalls only 30% of reference scorers. Fine-tuned LED (ROUGE rank 1): 2/9 scores, 13% scorers. "
       "BART scorelines are decorative — 1–1, 2–2, 1–0 regardless of the real 0–4, 3–0…", {})],
-    [("ROUGE rewards the hallucination: ", {"bold": True}),
-     ("the overlapping n-grams (team names, date formats, report style) are exactly what the "
-      "models reproduce; wrong facts cost nothing.", {})],
+    [("ROUGE rewards the format, and we measured how much: ", {"bold": True}),
+     ("a wrong match’s report — right template, every fact wrong — already scores ROUGE-L 0.208, "
+      "84% of our best model. Every prompting condition scores below a template with no match facts at all. "
+      "Only +0.040 [+0.022, +0.059] of the fine-tuned score is real match content.", {})],
+    [("And nothing was lost in transcription: ", {"bold": True}),
+     ("all 22 reference scorers appear in the transcripts the models read — a 100% ceiling on scorer "
+      "recall, of which BART realises 30% and LED 13%. Extraction failure, not ASR noise.", {})],
 ], y=Inches(4.7), size=15)
 footer(s, 8)
 
@@ -371,8 +379,10 @@ footer(s, 10)
 s = add_slide()
 header(s, 11, "Conclusions", "What we learned, and where it breaks")
 bullets(s, [
-    [("1.  Fine-tuning a distribution-matched chunk pipeline is the best recipe at small N ", {"bold": True}),
-     ("— +69% over the same pre-trained model, +55% over the best prompting baseline.", {})],
+    [("1.  Fine-tuning beats prompting at small N; the two fine-tuned pipelines tie ", {"bold": True}),
+     ("— +69% over the same pre-trained model under the same pipeline, +55% over the best prompting "
+      "baseline; against a format-matched null the honest margin is +0.040 ROUGE-L [+0.022, +0.059]. "
+      "LED and BART are statistically indistinguishable at n = 9.", {})],
     [("2.  Context length is not a substitute for supervision ", {"bold": True}),
      ("— long-context wins only when no fine-tuning is possible.", {})],
     [("3.  Reference similarity and source grounding fully decouple ", {"bold": True}),
@@ -388,8 +398,8 @@ bullets(s, [
       "LED vs BART (−0.0004 [−0.042, +0.035]).", {"level": 1})],
     [("N = 80 training pairs → both fine-tuned models overfit (val 0.31 → test 0.25 for BART).",
       {"level": 1})],
-    [("NLI support rates are conservative lower bounds (ASR-noisy premises, register gap); "
-      "entity precision is still unmeasured over all entity types.", {"level": 1})],
+    [("NLI support rates are conservative lower bounds (ASR-noisy premises, register gap).", {"level": 1})],
+    [("Reference metrics are format-saturated — 84% of our ROUGE-L needs no correct facts.", {"level": 1})],
 ], size=16)
 footer(s, 11)
 
